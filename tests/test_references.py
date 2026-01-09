@@ -43,6 +43,10 @@ class TestFileReferences:
             references = extract_file_references(content)
             
             for ref in references:
+                # Skip placeholder references (e.g., [recipe_name].md)
+                if "[" in ref and "]" in ref:
+                    continue  # This is a placeholder, not a real reference
+                
                 # Handle relative paths
                 if "/" in ref:
                     ref_path = BASE_DIR / ref
