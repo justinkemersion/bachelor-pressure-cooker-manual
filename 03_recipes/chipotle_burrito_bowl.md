@@ -26,9 +26,10 @@
 ### Phase 2: The Base (10m NR)
 1.  **Add Rice** directly into the flavored liquid remaining in the pot.
 2.  **Add Beans** on top of the rice. **Do not stir.**
-3.  **Pressure Cook:** **6 mins** High Pressure.
-4.  **Release:** Wait 10 mins (Natural Release). **Do not skip—this sets the starch.**
-5.  **Prep:** While rice cooks, shred/slice your resting chicken.
+3.  **Optional Heat:** Add 1-2 cans chopped green chilis or jalapeños (drained). For serious heat: 1 habanero (diced, **use gloves!**).
+4.  **Pressure Cook:** **6 mins** High Pressure.
+5.  **Release:** Wait 10 mins (Natural Release). **Do not skip—this sets the starch.**
+6.  **Prep:** While rice cooks, shred/slice your resting chicken.
 
 ### Phase 3: The Finish
 1.  **Open & Fluff:** Use a fork to mix the beans and rice.
