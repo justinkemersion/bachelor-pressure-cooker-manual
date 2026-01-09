@@ -22,7 +22,10 @@
 
 ### Rice
 - [ ] **1.5 cups** White Basmati rice, rinsed
-- [ ] **1.5 cups** Chicken broth (or water)
+
+### Liquid (For Sequential Cooking)
+- [ ] **2.5-3 cups** Chicken broth (or water) - see note below
+- [ ] **Note:** Start with extra liquid - some evaporates during chicken cooking. You need ~1.5 cups remaining for rice.
 
 ### Beans (Optional)
 - [ ] **1 can** Black beans, drained and rinsed
@@ -67,61 +70,57 @@
 5. Mix all dry seasonings in small bowl (cumin, chili powder, garlic powder, onion powder, oregano, salt, paprika)
    - **OR use 1 Taco/Fajita spice packet** instead of individual spices
 
-### Phase 2: Sear Chicken
-**Skip this step if using frozen chicken or pre-marinated frozen chicken.**
-
-1. Set Instant Pot to **Sauté (High)**
-2. Add **1 tbsp oil**, wait for "HOT" indicator
-3. Season chicken thighs with spice mix (both sides)
-4. Sear chicken **2-3 minutes per side** (don't move until browned)
-5. Remove chicken, set aside
-6. Deglaze with **1/4 cup water**, scrape bottom (captures flavor)
-
-**Note:** If using frozen chicken, you can't sear first. Add directly to pot in Phase 3.
-
-### Phase 3: Cook Rice (PIP Method - Recommended)
-**Why separate?** Prevents rice from becoming mushy and ensures perfect texture.
+### Phase 2: Cook Chicken First (Sequential Method)
+**Why this method?** Simpler than bowl-based PIP, chicken juices flavor the rice, each element gets proper timing.
 
 **No Trivet?** See `01_fundamentals/bachelor_hacks.md` for foil trivet trick.
 
-1. Add **1 cup water** to bottom of pot
-2. Place trivet, steamer basket, **or foil trivet** (see hacks guide)
-3. In oven-safe bowl or silicone container: combine rinsed rice + **1.5 cups broth**
-4. Place rice container on trivet
-5. **If using thawed/seared chicken:** Place on top of rice container (or in separate container)
-6. **If using frozen chicken:** Place frozen chicken directly in pot (or on trivet), add **2-4 minutes** to cook time
-7. **If using frozen veggies (peppers/onions):** Add to pot now (they'll cook with everything)
-8. Lock lid, set to **High Pressure** for:
-   - **Thawed chicken:** **8 minutes**
-   - **Frozen chicken:** **12 minutes** (adds 4 minutes)
-9. **Natural Release** for **10 minutes**, then quick release remaining
+1. **Mix spices into liquid:** Combine all dry seasonings (or 1 spice packet) with **2.5-3 cups broth** in pot
+   - **OR use 1 Taco/Fajita spice packet** mixed into broth
+2. **Add trivet** (or foil trivet) to pot
+3. **Place chicken on trivet** (elevated above liquid)
+   - **Thawed chicken:** Season with spice mix if not using spice packet in liquid
+   - **Frozen chicken:** Can add directly (no seasoning needed if spices are in liquid)
+   - **Pre-marinated frozen:** Add directly
+4. **If using frozen veggies (peppers/onions):** Add to liquid now (they'll cook with chicken)
+5. Lock lid, set to **High Pressure** for:
+   - **Thawed chicken:** **8-10 minutes**
+   - **Frozen chicken:** **12-15 minutes**
+6. **Natural Release** for **10 minutes**, then quick release remaining
 
-**Alternative (One-Pot - Faster but Lower Quality):**
-- Skip PIP, add rice + broth directly to pot with chicken
-- Cook **8 minutes HP**, **10m NR**
-- *Note: Rice may be slightly softer, chicken may be slightly overcooked*
+### Phase 3: Remove Chicken & Check Liquid
+1. **Remove chicken** - place on cutting board or plate
+2. **Let chicken rest 5 minutes** - critical for juicy chicken! (juices redistribute)
+3. **Check remaining liquid** in pot:
+   - **Should have ~1.5-2 cups** remaining (for 1.5 cups rice)
+   - **If less than 1.5 cups:** Add more broth/water to reach ~1.5 cups
+   - **If more than 2 cups:** That's fine, rice will be slightly softer (or remove some)
+4. **Save any chicken juices** from resting plate - these are flavor gold!
 
-### Phase 4: Heat Beans & Chilis (If Using)
-1. After removing chicken and rice, add beans + **1/4 cup water** to pot
-2. **If using canned chilis:** Add drained chilis now (green chilis or chipotle)
-3. **Sauté (Low)** for **2-3 minutes**, stirring occasionally
-4. Season with pinch of salt and cumin
-5. **If using chipotle in adobo:** Use sparingly (1-2 tsp) - very spicy!
+### Phase 4: Cook Rice in Flavored Liquid
+**The magic:** Rice cooks in liquid flavored by chicken juices and spices!
+
+1. **Add rinsed rice** to remaining liquid in pot
+2. **Add beans** (if using) - drained and rinsed
+3. **Add canned chilis** (if using):
+   - **Green chilis:** Drained, add to pot
+   - **Chipotle in adobo:** Use sparingly (1-2 tsp) - very spicy!
+4. **Stir gently** to combine (rice should be covered by liquid)
+5. Lock lid, set to **High Pressure** for **6 minutes** (Basmati timing)
+6. **Natural Release** for **10 minutes**, then quick release remaining
+
+**Note:** Liquid will be hot from previous cook - that's fine! Rice timing stays the same.
 
 ### Phase 5: Finish & Serve
-1. **Remove chicken** - place on cutting board or plate
-2. **Let rest 5 minutes** - this is critical! Allows juices to redistribute (prevents dry chicken)
-3. **Save any juices** from chicken - these are flavor gold!
+1. **Slice or shred chicken** (should be rested from Phase 3)
+2. **Fluff rice** with fork (beans and chilis will be mixed in)
+3. **Drizzle chicken with 2-3 tbsp fresh lime juice** (essential!)
+4. **Add saved chicken juices** from resting plate:
    - **Drizzle over rice** for extra flavor
-   - **Mix into beans** if using
-   - **Add to bowl** when assembling
-4. **Slice or shred chicken** after resting
-5. Fluff rice with fork
-6. **Drizzle chicken with 2-3 tbsp fresh lime juice** (essential!)
-7. Add fresh cilantro if available
-8. Season with fresh black pepper
-9. Taste and adjust salt if needed
-10. **Add saved chicken juices** to bowl when assembling
+   - **Mix into bowl** when assembling
+5. Add fresh cilantro if available
+6. Season with fresh black pepper
+7. Taste and adjust salt if needed
 
 ### Assembly
 1. Rice in bowl
@@ -151,10 +150,12 @@
 ## Chemistry Notes
 
 ### Why This Works
-- **Cumin + Chili Powder:** Core Tex-Mex flavor base (survives pressure cooking)
+- **Sequential Cooking:** Each element gets proper timing (chicken 8-12 min, rice 6 min) - ensures quality
+- **Chicken Juices Flavor Rice:** Chicken drips into liquid, rice absorbs that flavor - brilliant!
+- **Spices in Liquid:** Infuses throughout, flavors both chicken and rice
+- **Resting Chicken:** 5-minute rest redistributes juices (prevents dry chicken)
 - **Lime Juice (Post-Cook):** Cuts through chicken fat, brightens dish, essential for Tex-Mex
-- **Searing First:** Builds fond (browned bits) = deep flavor, prevents rubbery texture
-- **PIP Method:** Ensures rice stays firm, chicken doesn't overcook
+- **No Bowl Needed:** Simpler than PIP method, easier cleanup
 - **Garlic/Onion Powder:** Universal base that works with Tex-Mex profile
 
 ### Substitutions
@@ -195,6 +196,13 @@
 - **Critical for Tex-Mex** - try to get it or use spice packet
 - If absolutely unavailable: Use extra chili powder + pinch of coriander
 
+**Liquid Amount Concerns?**
+- **Start with 2.5-3 cups** - accounts for evaporation during chicken cook
+- **After chicken:** Check remaining liquid (should be ~1.5-2 cups)
+- **Too little?** Add more broth/water to reach ~1.5 cups for rice
+- **Too much?** That's okay - rice will be slightly softer, or remove some before adding rice
+- **Hot liquid is fine** - rice can go into hot liquid, timing stays the same
+
 ---
 
 ## Version History
@@ -202,16 +210,18 @@
 - **v1.1:** Added one-pot alternative for speed
 - **v1.2:** Clarified lime juice importance in reheating
 - **v1.3:** Added frozen chicken option, trivet alternatives, resting/juices, spice packets, frozen veggies, canned chilis
+- **v2.0:** Switched to sequential cooking method - simpler, chicken juices flavor rice, no bowl needed
 
 ---
 
 ## Quality Checkpoints
 
 ✅ **Chicken:** Should be tender, not rubbery (resting 5 minutes + correct timing)  
-✅ **Rice:** Should be firm, not mushy (PIP method + exact ratio)  
-✅ **Beans:** Should be creamy, not mealy (gentle reheating)  
+✅ **Rice:** Should be firm, not mushy (check liquid amount before adding rice)  
+✅ **Beans:** Should be creamy, not mealy (cooked with rice in flavored liquid)  
 ✅ **Flavor:** Should be bright and balanced (lime juice essential)  
-✅ **Juices:** Save and use chicken juices - they're flavor gold!
+✅ **Juices:** Save and use chicken juices - they're flavor gold!  
+✅ **Liquid Check:** Ensure ~1.5 cups remaining after chicken cook (add more if needed)
 
 ---
 
