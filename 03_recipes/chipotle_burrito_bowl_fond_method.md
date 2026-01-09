@@ -39,9 +39,10 @@
 2.  **Sear chicken** (both sides) **2-3 minutes per side** - build that fond!
 3.  **Remove chicken** to cutting board. **Let rest 5 minutes.**
 4.  **Deglaze:** Add **1/4 cup water/broth** (or saved cooking liquid) + **1 tbsp Worcestershire** (optional).
-5.  **Scrape bottom** - get all those browned bits (the fond).
-6.  **Reduce:** Let simmer **2-3 minutes** until slightly thickened (glaze consistency).
-7.  **Remove from heat.** Add **juice of 1 lime** to glaze.
+5.  **Add spices:** Stir in **1 Taco Packet** (OR: 2tsp Cumin, 1tsp Chili, 1tsp Garlic, 1tsp Salt) - this is where the flavor goes!
+6.  **Scrape bottom** - get all those browned bits (the fond).
+7.  **Reduce:** Let simmer **2-3 minutes** until slightly thickened (glaze consistency).
+8.  **Remove from heat.** Add **juice of 1 lime** to glaze.
 
 ### Phase 4: The Finish
 1.  **Slice/shred chicken** (should be rested).
