@@ -58,6 +58,27 @@
 
 ---
 
+## 🌯 Burrito Wrap Option
+
+**Note:** Bowl contents = burrito filling. Wrap it up when you want the full experience (or meal prep frozen burritos).
+
+### The Wrap Technique
+1.  **Warm tortilla:** Microwave **15-20 seconds** (or heat in dry pan 30 seconds per side).
+2.  **Assembly:** Place tortilla on plate. Add rice, chicken, beans, toppings in center (don't overfill!).
+3.  **Fold:** Bottom up, sides in, roll tightly. **Tuck as you roll** - keeps it together.
+4.  **Optional:** Wrap in foil for easier handling.
+
+### Frozen Burrito Meal Prep
+1.  **Make burritos** using technique above (cool filling first).
+2.  **Wrap each in foil** (label with date).
+3.  **Freeze flat** on baking sheet (prevents sticking).
+4.  **Transfer to freezer bag** once frozen.
+5.  **Reheat:** Remove foil, wrap in paper towel, microwave **2-3 minutes** (flip halfway). Or bake **350°F for 20-25 mins** (foil on).
+
+**Pro Tip:** Freeze individual burritos = grab-and-go meals. Reheats perfectly from frozen.
+
+---
+
 ## 🧪 Chemistry Notes (Bachelor Logic)
 *   **The 1:1 + Splash:** We start with 1.75 cups of liquid because the rice needs 1.5. The extra 0.25 accounts for the tiny bit of steam lost during the first release.
 *   **The Resting Lime:** Squeezing lime on the chicken *while it rests* forces the acid into the meat fibers rather than just sitting on top.
