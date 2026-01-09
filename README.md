@@ -29,7 +29,8 @@ Bachelor-Cookbook/
 │   └── [recipe files]        # Individual recipe markdown files
 │
 ├── 04_reference/             # Quick lookup tables
-│   └── glossary.md           # Abbreviations and terms
+│   ├── glossary.md           # Abbreviations and terms
+│   └── Timing_Dictionary.md  # Cook time quick reference table
 │
 ├── 05_print/                 # Print-ready compiled versions
 │   └── [generated files]     # PDF/HTML versions for printing

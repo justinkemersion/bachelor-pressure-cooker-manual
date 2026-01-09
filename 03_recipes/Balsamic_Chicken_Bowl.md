@@ -9,7 +9,7 @@
 - [ ] **Liquid:** 1.75 cups Chicken Broth (**The 1:1 + Splash Rule**)
 - [ ] **Bulk:** 1 can White Beans or Cannellini (Drained)
 - [ ] **Seasoning:** 1 tsp Thyme, 1 tsp Garlic Powder, 1 tsp Onion Powder, 1 tsp Salt, 1 tbsp Worcestershire Sauce
-- [ ] **The Drizzle:** 2-3 tbsp Balsamic Vinegar + Fresh Cracked Pepper
+- [ ] **The Drizzle:** 2-3 tbsp Balsamic Vinegar + 1 tbsp Extra Virgin Olive Oil (Optional) + Fresh Cracked Pepper
 
 ---
 
@@ -32,15 +32,18 @@
 ### Phase 3: The Finish
 1.  **Open & Fluff:** Use a fork to mix the beans and rice.
 2.  **The Final Drizzle:** Drizzle remaining **1-2 tbsp balsamic** over everything. 
-3.  **High Notes:** Add a heavy hit of **cracked black pepper** and fresh herbs (thyme, parsley, or basil if available).
+3.  **The Fat Balance:** Drizzle **1 tbsp Extra Virgin Olive Oil** (optional but recommended - smooths the balsamic bite).
+4.  **High Notes:** Add a heavy hit of **cracked black pepper** and fresh herbs (thyme, parsley, or basil if available).
 
 ---
 
 ## 🧪 Chemistry Notes (Bachelor Logic)
 *   **The 1:1 + Splash:** We start with 1.75 cups of liquid because the rice needs 1.5. The extra 0.25 accounts for the tiny bit of steam lost during the first release.
 *   **The Resting Balsamic:** Drizzling balsamic on the chicken *while it rests* allows the acid to penetrate the meat fibers, cutting through the fat and adding depth.
+*   **The Fat Balance:** Balsamic is high-acid and can taste "sharp" alone. The **Extra Virgin Olive Oil** balances the acid, making the dish feel "expensive" and smoothing out the vinegar bite.
 *   **Worcestershire in Liquid:** Adds umami depth during cooking - the rice absorbs this savory flavor.
 *   **Jasmine Timing:** 4 mins HP (faster than Basmati) - delicate grain, perfect for Mediterranean dishes.
+*   **Grain/Legume Sync:** Cannellini beans are softer than black beans. With 4-minute Jasmine rice, they won't over-soften. **If you were doing a 20-minute Brown Rice cook, these beans would turn to mush.** This is perfect timing sync.
 *   **Sequential Logic:** We cook chicken first so it has time to rest (making it juicier) while the rice cooks.
 
 ---
