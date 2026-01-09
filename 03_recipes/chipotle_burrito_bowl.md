@@ -18,15 +18,17 @@
 
 ### Phase 1: The Bird (10m NR)
 1.  **Dump** broth and seasonings into the pot. Stir once.
-2.  **Insert Trivet.** Place chicken on top (don't submerge).
-3.  **Pressure Cook:** **8 mins** (Thawed) OR **12-15 mins** (Frozen, **12m minimum**).
-4.  **Release:** Wait 10 mins (Natural Release), then vent.
-5.  **Acid Rest:** Move chicken to a plate. **Squeeze 1 lime** over it immediately. Cover with foil.
+2.  **Optional Habanero:** If using habanero, add **halved, seeds removed** to liquid now (removes before Phase 2).
+3.  **Insert Trivet.** Place chicken on top (don't submerge).
+4.  **Pressure Cook:** **8 mins** (Thawed) OR **12-15 mins** (Frozen, **12m minimum**).
+5.  **Release:** Wait 10 mins (Natural Release), then vent.
+6.  **Remove habanero** (if used) - discard. Heat has infused into liquid.
+7.  **Acid Rest:** Move chicken to a plate. **Squeeze 1 lime** over it immediately. Cover with foil.
 
 ### Phase 2: The Base (10m NR)
 1.  **Add Rice** directly into the flavored liquid remaining in the pot.
 2.  **Add Beans** on top of the rice. **Do not stir.**
-3.  **Optional Heat:** Add 1-2 cans chopped green chilis or jalapeños (drained). For serious heat: 1 habanero (diced, **use gloves!**).
+3.  **Optional Heat:** Add 1-2 cans chopped green chilis or jalapeños (drained). For serious heat: **1 habanero, halved, seeds removed** (add in Phase 1, remove before Phase 2 - perfect heat without overwhelming).
 4.  **Pressure Cook:** **6 mins** High Pressure.
 5.  **Release:** Wait 10 mins (Natural Release). **Do not skip—this sets the starch.**
 6.  **Prep:** While rice cooks, shred/slice your resting chicken.
@@ -42,6 +44,8 @@
 *   **The 1:1 + Splash:** We start with 1.75 cups of liquid because the rice needs 1.5. The extra 0.25 accounts for the tiny bit of steam lost during the first release.
 *   **The Resting Lime:** Squeezing lime on the chicken *while it rests* forces the acid into the meat fibers rather than just sitting on top.
 *   **Sequential Logic:** We cook chicken first so it has time to rest (making it juicier) while the rice cooks.
+*   **The Habanero Technique:** Whole halves in Phase 1, remove before Phase 2 - infuses perfect heat without overwhelming. Seeds removed = controlled heat.
+*   **Socarrat (The "Burn" Bonus):** If you get a BURN error, you've accidentally created socarrat - toasted rice bottom. Scrape and mix in - it's a Spanish technique that adds incredible depth and texture. Frustrating cleanup, but brilliant flavor!
 
 ---
 
@@ -50,6 +54,7 @@
 *   **Rice is mushy?** You used too much liquid. Use exactly 1.75 cups next time.
 *   **Chicken is dry?** You skipped the 5-minute rest. Never skip the rest.
 *   **Frozen chicken not done?** 12m is minimum - larger pieces may need 15m. The 10m NR continues cooking.
+*   **Got "BURN" error?** Don't panic! This can create **Socarrat** (toasted rice bottom) - a Spanish technique that adds amazing flavor. Scrape with wooden spatula and mix in - it's delicious! If you want to avoid it, add splash more liquid before Phase 2.
 *   **No trivet?** See `01_fundamentals/bachelor_hacks.md` for foil trivet trick.
 *   **No individual spices?** Use 1 Taco/Fajita spice packet - works great!
 *   **No lime?** Use lemon juice or apple cider vinegar (different but works).
