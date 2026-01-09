@@ -144,6 +144,31 @@ This repository uses Git to track:
 
 ---
 
+## 🧪 Test Suite
+
+This cookbook includes a pytest-based test suite to ensure consistency and accuracy:
+
+```bash
+# Install dependencies
+pip install -r requirements-dev.txt
+
+# Run tests
+pytest
+
+# Run with verbose output
+pytest -v
+```
+
+**Test Coverage:**
+- Timing consistency across all files
+- Recipe format compliance
+- Cross-reference validation
+- Content completeness checks
+
+See `tests/README.md` for details.
+
+---
+
 ## 🎯 Current Focus
 
 **Next Steps:**
