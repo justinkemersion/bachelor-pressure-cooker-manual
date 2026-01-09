@@ -15,7 +15,10 @@
 | **Basmati Rice** | Rinsed | **6 mins** HP | **10m NR** | 1:1 ratio. Use 1.75 cup liquid start (1:1 + Splash Rule). |
 | **Jasmine Rice** | Rinsed | **4 mins** HP | **10m NR** | 1:1 ratio. Faster than Basmati. Use 1.75 cup liquid start. |
 | **Long Grain White** | Rinsed | **5 mins** HP | **10m NR** | 1:1 ratio. Works great! More budget-friendly than Basmati. |
-| **White Beans** | Canned | N/A | N/A | Add with rice in Phase 2. No extra time needed. |
+| **Canned Beans** | Any type | N/A | N/A | Add with rice in Phase 2. No extra time needed. |
+| **Black/Pinto/White/Navy** | Soaked | **8-10m** HP | **15m NR** | Standard timing for most beans. |
+| **Kidney Beans** | Soaked | **10-12m** HP | **15m NR** | Longer cook time than standard beans. |
+| **Chickpeas (Garbanzo)** | Soaked | **15-20m** HP | **15m NR** | Much longer - different timing entirely. |
 
 ---
 
@@ -47,6 +50,7 @@
 
 **Need rice timing?** → Basmati: 6m | Long Grain: 5m | Jasmine: 4m | Always 10m NR  
 **Need chicken timing?** → Thighs: 8m (thawed) / 12-15m (frozen) | Cutlets: 4-6m / 8-10m | Breast: 6-8m / 10-12m | Drums: 10-12m / 12-15m | Always 10m NR  
+**Need bean timing?** → Canned: No time (add with rice) | Soaked: 8-10m (most beans) / 10-12m (kidney) / 15-20m (chickpeas) | Always 15m NR  
 **Need liquid amount?** → 1.75 cups start (1:1 + Splash Rule)  
 **Need release time?** → Always 10m Natural Release (never skip!)
 

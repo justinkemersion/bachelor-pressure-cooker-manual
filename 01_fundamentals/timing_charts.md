@@ -18,7 +18,12 @@
 | **Brown Rice** | Rinsed | High Pressure | **22m** | **10m NR** | 1:1.25 ratio |
 | **Black Beans** | Soaked | High Pressure | **8-10m** | **15m NR** | |
 | **Pinto Beans** | Soaked | High Pressure | **8-10m** | **15m NR** | |
-| **Kidney Beans** | Soaked | High Pressure | **10-12m** | **15m NR** | |
+| **White Beans (Cannellini)** | Soaked | High Pressure | **8-10m** | **15m NR** | |
+| **Navy Beans** | Soaked | High Pressure | **8-10m** | **15m NR** | |
+| **Kidney Beans** | Soaked | High Pressure | **10-12m** | **15m NR** | Longer cook time |
+| **Garbanzo (Chickpeas)** | Soaked | High Pressure | **15-20m** | **15m NR** | Much longer - different timing |
+| **Lima Beans** | Soaked | High Pressure | **8-10m** | **15m NR** | |
+| **Canned Beans** | Any type | N/A | N/A | N/A | Add with rice in Phase 2, no extra time |
 
 ## Release Types
 

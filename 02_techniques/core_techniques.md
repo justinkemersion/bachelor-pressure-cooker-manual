@@ -53,6 +53,41 @@
 
 ---
 
+## Bean Preparation
+
+### Canned Beans (Easiest - Use These!)
+- **No prep needed** - just drain and rinse
+- **Add with rice in Phase 2** - no extra cook time
+- **Works with any recipe** - black, pinto, white, kidney, etc.
+- **Best for:** Quick meals, no planning required
+
+### Dried Beans (Require Soaking)
+**Standard Timing (8-10 mins HP, 15m NR):**
+- Black beans
+- Pinto beans
+- White beans (Cannellini)
+- Navy beans
+- Lima beans
+
+**Longer Timing (10-12 mins HP, 15m NR):**
+- Kidney beans (slightly longer)
+
+**Much Longer Timing (15-20 mins HP, 15m NR):**
+- Chickpeas/Garbanzo beans (different timing entirely)
+
+### Bean Soaking Methods
+1. **Overnight:** Cover with water, soak 8-12 hours, drain
+2. **Quick Soak:** Cover with water, bring to boil, remove from heat, soak 1 hour, drain
+3. **Always drain** before pressure cooking
+
+### Bean Notes
+- **Canned = convenience** - use when you want no prep
+- **Dried = budget-friendly** - but requires planning (soaking)
+- **All beans need 15m Natural Release** (longer than rice)
+- **Don't mix bean types** with different cook times
+
+---
+
 ## Protein Preparation
 
 ### Chicken Cuts & Timing
