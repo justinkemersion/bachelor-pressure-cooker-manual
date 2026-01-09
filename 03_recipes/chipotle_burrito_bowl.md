@@ -10,7 +10,7 @@
 - [ ] **Bulk:** 1 can Black Beans (Drained)
 - [ ] **Seasoning:** 1 Taco Packet (OR: 2tsp Cumin, 1tsp Chili, 1tsp Garlic, 1tsp Salt)
 - [ ] **The Drizzle:** 2 Fresh Limes + Fresh Cracked Pepper
-- [ ] **Optional:** Frozen Pepper/Onion Mix, Canned Green Chilis
+- [ ] **Optional:** Handful frozen peppers/onions (bagged), Canned Green Chilis
 
 ---
 
@@ -28,15 +28,32 @@
 ### Phase 2: The Base (10m NR)
 1.  **Add Rice** directly into the flavored liquid remaining in the pot.
 2.  **Add Beans** on top of the rice. **Do not stir.**
-3.  **Optional Heat:** Add 1-2 cans chopped green chilis or jalapeños (drained). For serious heat: **1 habanero, halved, seeds removed** (add in Phase 1, remove before Phase 2 - perfect heat without overwhelming).
-4.  **Pressure Cook:** **6 mins** High Pressure.
-5.  **Release:** Wait 10 mins (Natural Release). **Do not skip—this sets the starch.**
-6.  **Prep:** While rice cooks, shred/slice your resting chicken.
+3.  **Add frozen peppers/onions:** Handful of bagged frozen mix (no chopping needed!).
+4.  **Optional Heat:** Add 1-2 cans chopped green chilis or jalapeños (drained). For serious heat: **1 habanero, halved, seeds removed** (add in Phase 1, remove before Phase 2 - perfect heat without overwhelming).
+5.  **Pressure Cook:** **6 mins** High Pressure.
+6.  **Release:** Wait 10 mins (Natural Release). **Do not skip—this sets the starch.**
+7.  **Prep:** While rice cooks, shred/slice your resting chicken.
 
 ### Phase 3: The Finish
 1.  **Open & Fluff:** Use a fork to mix the beans and rice.
 2.  **The Final Drizzle:** Squeeze the **2nd lime** over everything. 
 3.  **High Notes:** Add a heavy hit of **cracked black pepper** and cilantro.
+
+---
+
+## 📦 Meal Prep & Reheating
+
+### Storage
+- Cool quickly, portion into containers
+- Refrigerate up to **3-4 days**
+
+### Reheating (The Bachelor Method)
+1.  **Add splash of orange juice** to container (brightens flavors).
+2.  **Microwave:** **3:30 minutes** on **level 7** (medium-high).
+3.  **Stir in:** Pinch of **oregano** + **cracked black pepper**.
+4.  **Taste and adjust** - add fresh lime if needed.
+
+**Why This Works:** OJ adds acid + sweetness, oregano + pepper restore "high notes" lost in storage.
 
 ---
 
