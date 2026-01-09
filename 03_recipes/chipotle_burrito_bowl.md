@@ -5,7 +5,7 @@
 
 ## 🛒 Hardware & Variables
 - [ ] **Protein:** **4 Chicken Thighs** (approx 1.75 lbs) — *Crucial for meal prep volume.*
-- [ ] **Base:** 1.5 cups Basmati Rice (Rinsed until clear)
+- [ ] **Base:** 1.5 cups Basmati Rice (OR Long Grain White - see timing) (Rinsed until clear)
 - [ ] **Liquid:** **2 cups** Chicken Broth — *The "Burn-Proof" 1:1 + Buffer.*
 - [ ] **Bulk:** 1 can Black Beans (Drained)
 - [ ] **Seasoning:** 1 Taco Packet (OR: 2tsp Cumin, 1tsp Chili, 1tsp Garlic, 1tsp Salt)
@@ -27,7 +27,7 @@
 
 ### Phase 2: The Base (10m NR)
 1.  **Add Rice** to the liquid. Add **Beans** and **Frozen Veg** **and/or a can or two of jalapeños or chilis (drained)** on top. **Do not stir.**
-2.  **Pressure Cook:** **6 mins** High Pressure.
+2.  **Pressure Cook:** **6 mins** High Pressure (Basmati) OR **5 mins** (Long Grain White).
 3.  **Release:** 10 mins Natural Release (NR). **Starch Set Phase—mandatory.**
 4.  **Prep:** Shred your chicken while the rice finishes.
 

@@ -70,6 +70,34 @@
 
 ---
 
+## Rice Flexibility: You're Not Locked In
+
+### The Discovery
+**You don't need Basmati or Jasmine!** Long grain enriched white rice works great too - and it's often more budget-friendly.
+
+### Rice Options That Work
+- **Basmati Rice** - 6 mins HP (aromatic, slightly nutty)
+- **Long Grain White** - 5 mins HP (standard, budget-friendly, works perfectly!)
+- **Jasmine Rice** - 4 mins HP (fragrant, slightly sticky)
+- **All use 1:1 ratio** - same liquid rules apply
+
+### Key Point
+**All white rices work the same way:**
+- Same 1:1 liquid ratio
+- Same 10m Natural Release
+- Same rinse requirement
+- **Only timing changes** (4-6 mins depending on type)
+
+### When to Use Which
+- **Basmati/Jasmine:** When you want specific flavor profiles (aromatic, fragrant)
+- **Long Grain White:** When you want budget-friendly, versatile rice (works in everything!)
+- **All work great** - choose based on what's available or what you prefer
+
+### The Bachelor's Takeaway
+**Don't stress about rice type** - if you have long grain white, use it! The technique is the same, just adjust timing per the charts.
+
+---
+
 ## Frozen Vegetables: The Time Saver
 
 ### Why Frozen?

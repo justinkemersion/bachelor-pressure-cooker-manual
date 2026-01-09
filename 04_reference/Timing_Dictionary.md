@@ -8,6 +8,7 @@
 | **Chicken Thighs** | Frozen | **12-15 mins** HP | **10m NR** | **12m is minimum.** Larger pieces may need 15m. Always 10m NR. |
 | **Basmati Rice** | Rinsed | **6 mins** HP | **10m NR** | 1:1 ratio. Use 1.75 cup liquid start (1:1 + Splash Rule). |
 | **Jasmine Rice** | Rinsed | **4 mins** HP | **10m NR** | 1:1 ratio. Faster than Basmati. Use 1.75 cup liquid start. |
+| **Long Grain White** | Rinsed | **5 mins** HP | **10m NR** | 1:1 ratio. Works great! More budget-friendly than Basmati. |
 | **White Beans** | Canned | N/A | N/A | Add with rice in Phase 2. No extra time needed. |
 
 ---
@@ -38,7 +39,7 @@
 
 ## Quick Lookup
 
-**Need rice timing?** → Basmati: 6m | Jasmine: 4m | Always 10m NR  
+**Need rice timing?** → Basmati: 6m | Long Grain: 5m | Jasmine: 4m | Always 10m NR  
 **Need chicken timing?** → Thawed: 8m | Frozen: 12-15m (12m minimum) | Always 10m NR  
 **Need liquid amount?** → 1.75 cups start (1:1 + Splash Rule)  
 **Need release time?** → Always 10m Natural Release (never skip!)
