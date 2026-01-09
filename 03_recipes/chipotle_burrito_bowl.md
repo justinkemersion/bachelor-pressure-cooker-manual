@@ -45,38 +45,106 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 ---
 
 ## 🛒 Hardware & Variables
-- [ ] **Protein:** **4 Chicken Thighs** (approx 1.75 lbs) — *Crucial for meal prep volume.*
-- [ ] **Base:** 1.5 cups Basmati Rice (OR Long Grain White - see timing) (Rinsed until clear)
-- [ ] **Liquid:** **2 cups** Chicken Broth — *The "Burn-Proof" 1:1 + Buffer.*
-- [ ] **Bulk:** 1 can Black Beans (Drained)
-- [ ] **Seasoning (Phase 1):** 1 Taco Packet (OR: 2tsp Cumin, 1tsp Chili Powder, 1tsp Garlic Powder, 1tsp Salt)
-- [ ] **Acid (Phase 3):** 2 Fresh Limes
-- [ ] **High Notes (Phase 3):** Fresh Cracked Black Pepper + Fresh Cilantro (optional but recommended)
-- [ ] **Heat:** 1 Habanero (Halved, seeds removed) — *Optional, for ambient heat*
-- [ ] **Bulk Fill:** Frozen pepper/onion mix (handful) — *Optional, for volume*
+
+### The Essentials
+- [ ] **Protein:** **4 Chicken Thighs** (approx 1.75 lbs) — *Crucial for meal prep volume. Can be thawed or frozen - see timing below.*
+- [ ] **Base:** 1.5 cups Basmati Rice (OR Long Grain White - see timing) — *Rinse until water runs clear (3-4 rinses). This removes starch so rice doesn't get gummy.*
+- [ ] **Liquid:** **2 cups** Chicken Broth — *The "Burn-Proof" 1:1 + Buffer. Can use water + bouillon cube if no broth.*
+- [ ] **Bulk:** 1 can Black Beans — *Drain and rinse. Canned beans are already cooked, so they just need to heat through.*
+
+### The Seasonings (When & How to Use)
+
+**Phase 1 Seasoning (Goes in the Cooking Liquid):**
+- [ ] **Option A (Easiest):** 1 Taco/Fajita Seasoning Packet — *Just dump it in the broth. Done.*
+- [ ] **Option B (From Scratch):** 
+  - 2 tsp Ground Cumin — *Earthy, Tex-Mex base flavor*
+  - 1 tsp Chili Powder — *Heat + flavor (not just heat)*
+  - 1 tsp Garlic Powder — *Umami depth*
+  - 1 tsp Salt — *Brings out all other flavors*
+
+**Phase 3 Finishing (Added After Cooking):**
+- [ ] **Acid:** 2 Fresh Limes — *Cut in half, squeeze over finished dish. Brightens everything.*
+- [ ] **High Notes:** Fresh Cracked Black Pepper — *Use a pepper grinder or crack whole peppercorns. Adds brightness that pressure cooking kills.*
+- [ ] **Fresh Herb:** Fresh Cilantro (optional but recommended) — *Chop leaves, sprinkle on top. Skip if you hate cilantro.*
+
+### Optional Additions
+- [ ] **Heat:** 1 Habanero (Halved, seeds removed) — *Adds ambient heat throughout. Remove before Phase 2. Use gloves when handling!*
+- [ ] **Bulk Fill:** Frozen pepper/onion mix (handful) — *Adds volume and texture. No chopping needed!*
 
 ---
 
 ## 🛠 Execution (The Script)
 
 ### Phase 1: The Bird (10m NR)
-1.  **Dump** broth, seasonings, and **Habanero halves** into the pot. 
-2.  **Insert Trivet.** Place chicken on top (don't submerge).
-3.  **Pressure Cook:** **8 mins** (Thawed) OR **14 mins** (Frozen, **12m minimum**, up to 15m for larger pieces).
-4.  **Release:** 10 mins Natural Release (NR), then vent.
-5.  **Clean Up:** Remove and **Discard the Habanero.** 
-6.  **Acid Rest:** Move chicken to a plate. **Squeeze 1 lime** over it immediately. Cover.
+
+**What You're Doing:** Cooking the chicken in seasoned liquid. The chicken sits on a trivet (rack) so it steams, not boils. This keeps it tender.
+
+1.  **Add Liquid & Seasonings:** Pour **2 cups broth** into the pot. Add your **seasoning packet** (or individual spices: 2tsp cumin, 1tsp chili powder, 1tsp garlic powder, 1tsp salt). **Stir once** to mix. If using habanero, add **halved, seeds removed** now (use gloves!).
+   
+   *Why now?* Spices go in the liquid so they infuse the chicken as it cooks. The liquid becomes flavored broth for the rice later.
+
+2.  **Insert Trivet:** Place the metal trivet (rack) in the pot. The chicken sits on top, not submerged. *No trivet?* See `01_fundamentals/bachelor_hacks.md` for foil trivet trick.
+
+3.  **Add Chicken:** Place **4 chicken thighs** on the trivet, skin-side up if they have skin. **Don't submerge them** - they should sit above the liquid.
+
+4.  **Pressure Cook:** Lock the lid. Set to **High Pressure** for:
+   - **8 mins** if chicken is **thawed**
+   - **14 mins** if chicken is **frozen** (12m is absolute minimum, up to 15m for larger pieces)
+   
+   *Why different times?* Frozen takes longer to heat through. The 10m Natural Release continues cooking, so 12m is the minimum safe time for frozen.
+
+5.  **Release:** After cooking, **wait 10 minutes** (Natural Release). This is mandatory - it continues cooking and prevents rubbery texture. Then manually vent remaining pressure.
+
+6.  **Clean Up:** Remove and **discard the habanero** (if used). The heat has infused into the liquid.
+
+7.  **Acid Rest:** Move chicken to a plate. **Cut 1 lime in half and squeeze it over the chicken immediately.** Cover with foil or a plate. Let rest 5 minutes.
+   
+   *Why squeeze lime now?* The acid penetrates the meat fibers while it's hot, cutting through fat and adding depth. Resting makes the chicken juicier.
 
 ### Phase 2: The Base (10m NR)
-1.  **Add Rice** to the liquid. Add **Beans** and **Frozen Veg** **and/or a can or two of jalapeños or chilis (drained)** on top. **Do not stir.**
-2.  **Pressure Cook:** **6 mins** High Pressure (Basmati) OR **5 mins** (Long Grain White).
-3.  **Release:** 10 mins Natural Release (NR). **Starch Set Phase—mandatory.**
-4.  **Prep:** Shred your chicken while the rice finishes.
+
+**What You're Doing:** Cooking rice in the flavored broth left from Phase 1. The beans and veg heat through while the rice cooks. Don't stir - layering prevents burning.
+
+1.  **Check Liquid:** You should still have roughly **2 cups of flavored broth** in the pot. If it looks low, add a splash more broth or water. The rice needs liquid to cook.
+
+2.  **Add Rice:** Pour **1.5 cups rinsed Basmati rice** (or Long Grain White) directly into the liquid. **Don't stir yet.**
+
+3.  **Layer on Top (Don't Stir!):** 
+   - Add **drained black beans** on top of the rice
+   - Add **frozen pepper/onion mix** (handful) if using
+   - **Optional:** Add a can or two of drained jalapeños or chilis for extra heat
+   
+   *Why layer, not stir?* Stirring can cause the rice to stick to the bottom and burn. Layering lets everything cook together without burning.
+
+4.  **Pressure Cook:** Lock the lid. Set to **High Pressure** for:
+   - **6 mins** if using **Basmati rice**
+   - **5 mins** if using **Long Grain White rice**
+   
+   *Why different times?* Different rice types cook at different rates. Basmati is slightly longer grain, needs a bit more time.
+
+5.  **Release:** After cooking, **wait 10 minutes** (Natural Release). **This is mandatory** - it's the "Starch Set Phase" that prevents mushy rice. Then manually vent remaining pressure.
+
+6.  **Prep While Waiting:** While the rice finishes (during the 10m NR), **shred or slice your rested chicken**. Use two forks or just pull it apart with your hands.
 
 ### Phase 3: The Finish
-1.  **Open & Fluff:** Mix the beans/veg into the rice with a fork.
-2.  **The Final Drizzle:** Squeeze the **2nd lime** over the pot. 
-3.  **High Notes:** Add **fresh cracked black pepper** and **cilantro** (if available). *Why:* Pepper adds brightness that pressure cooking kills. Cilantro adds fresh, herbal notes.
+
+**What You're Doing:** Combining everything and adding the "high notes" - fresh flavors that pressure cooking kills. This is where the dish comes alive.
+
+1.  **Open & Fluff:** Carefully open the pot (steam will escape). Use a fork to **gently mix** the beans and veg into the rice. Don't mash - just fluff and combine.
+   
+   *Pro tip:* If the bottom is slightly toasted (socarrat), scrape it up and mix it in - it's delicious flavor gold!
+
+2.  **Combine with Chicken:** Add your **shredded chicken** to the rice/bean mix. Mix gently with a fork.
+
+3.  **The Final Drizzle:** Cut your **2nd lime in half** and **squeeze it over everything** in the pot. Give it a good squeeze - you want the juice, not just a few drops.
+   
+   *Why lime now?* Acid brightens the whole dish and cuts through the fat. It's the "wake up" flavor that makes everything pop.
+
+4.  **High Notes:** Add **fresh cracked black pepper** (use a pepper grinder or crack whole peppercorns) and **fresh chopped cilantro** (if available). Sprinkle over the top.
+   
+   *Why these now?* Pressure cooking kills bright, fresh flavors. Adding pepper and cilantro at the end restores that brightness. Pepper adds heat and depth. Cilantro adds fresh, herbal notes that balance the richness.
+
+5.  **Taste & Adjust:** Give it a taste. Need more salt? Add it now. Need more lime? Squeeze more. This is your chance to adjust.
 
 ---
 
