@@ -47,13 +47,14 @@
 - Cool quickly, portion into containers
 - Refrigerate up to **3-4 days**
 
-### Reheating (The Bachelor Method)
-1.  **Add splash of orange juice** to container (brightens flavors).
-2.  **Microwave:** **3:30 minutes** on **level 7** (medium-high).
-3.  **Stir in:** Pinch of **oregano** + **cracked black pepper**.
-4.  **Taste and adjust** - add fresh lime if needed.
+### Reheating (Universal Method)
+1.  **Add splash of OJ** (or water minimum) to container.
+2.  **Cover with lid slightly off** (vents but traps steam).
+3.  **Microwave:** **3:30 minutes** on **level 7** (medium-high).
+4.  **Stir in:** Pinch of **oregano** + **cracked black pepper**.
+5.  **Taste and adjust** - add fresh lime if needed.
 
-**Why This Works:** OJ adds acid + sweetness, oregano + pepper restore "high notes" lost in storage.
+**See `02_techniques/core_techniques.md` for universal reheating method.**
 
 ---
 

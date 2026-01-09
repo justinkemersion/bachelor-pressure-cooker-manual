@@ -125,15 +125,30 @@
 - **Portion immediately:** Divide into meal-prep containers
 - **Label with date:** Use within 3-4 days
 
-### Reheating Methods
-1. **Microwave:** Add 1-2 tbsp water, cover, 2-3 minutes (stir halfway)
-2. **Stovetop:** Add splash of water/broth, heat gently, stir
-3. **Oven:** 350°F, covered, 15-20 minutes (add liquid)
+### Universal Microwave Reheating Method
+**The Bachelor's Go-To:** Works for all pressure cooker meal prep.
+
+1. **Add moisture:** Splash of **water** (minimum) OR **OJ/broth** (adds flavor)
+2. **Cover with lid:** If using original container, **place lid slightly off** (covers but vents - prevents explosion)
+3. **Microwave:** **3:30 minutes** on **level 7** (medium-high)
+4. **Stir halfway** (if possible) for even heating
+5. **Restore "high notes":** Stir in fresh herbs/spices after reheating (oregano, cracked pepper, etc.)
+
+**Why This Works:**
+- **Moisture prevents drying** - water minimum, OJ/broth adds flavor
+- **Vented lid** prevents pressure buildup (safety) while trapping steam
+- **Level 7** prevents rubbery texture (gentler than high)
+- **Fresh herbs/spices** restore brightness lost in storage
+
+### Other Reheating Methods
+1. **Stovetop:** Add splash of water/broth, heat gently, stir
+2. **Oven:** 350°F, covered, 15-20 minutes (add liquid)
 
 ### Reheating Tips
-- **Rice:** Add moisture (water/broth) to prevent drying
+- **Rice:** Always add moisture (water/broth/OJ) to prevent drying
 - **Chicken:** Reheat gently to avoid rubbery texture
 - **Acids:** Add fresh acid after reheating (brightens flavors)
+- **Herbs/Spices:** Add fresh after reheating - restores "high notes"
 
 ---
 
