@@ -13,6 +13,37 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 
 ---
 
+## 📋 QUICK REFERENCE CHEAT SHEET
+
+**Need to remember something fast? Scan this section first.**
+
+### Key Ratios & Numbers
+- **Liquid to Rice:** 2 cups liquid for 1.5 cups rice (1:1 + buffer for beans/veg)
+- **Chicken Timing:** 8 mins (thawed) / 14 mins (frozen, 12m minimum)
+- **Rice Timing:** 6 mins Basmati / 5 mins Long Grain White
+- **Release Time:** Always 10 mins Natural Release (NR) - mandatory for starch set
+- **Rest Time:** 5 mins minimum for chicken (makes it juicy)
+
+### Safety Quick Check
+1. **Smell** → Funky? Throw out
+2. **Color** → Pink meat? Undercooked. Gray/green? Spoiled
+3. **Texture** → Slimy? Spoiled. Rubbery? Overcooked but safe
+4. **Doneness** → White throughout? Good. Pink center? Keep cooking
+
+### Common Fixes
+- **Crunchy rice?** → Add 1/4 cup water, 2 mins HP, QR
+- **Mushy rice?** → Too much liquid. Use exact 2 cups next time
+- **Dry chicken?** → Skipped the rest. Always rest 5 mins
+- **Undercooked?** → Add 2-4 mins HP, 10m NR, check again
+
+### Abbreviations
+- **HP** = High Pressure
+- **NR** = Natural Release (wait 10 mins, then vent)
+- **QR** = Quick Release (vent immediately)
+- **10m NR** = Wait 10 mins natural release, then quick release
+
+---
+
 ## 🛒 Hardware & Variables
 - [ ] **Protein:** **4 Chicken Thighs** (approx 1.75 lbs) — *Crucial for meal prep volume.*
 - [ ] **Base:** 1.5 cups Basmati Rice (OR Long Grain White - see timing) (Rinsed until clear)
@@ -163,12 +194,16 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 
 ---
 
-## 📖 Quick Reference (Abbreviations)
-- **HP** = High Pressure
-- **NR** = Natural Release (let pressure drop naturally - wait 10 mins, then vent)
-- **QR** = Quick Release (manually release pressure immediately)
-- **10m NR** = Wait 10 minutes natural release, then quick release remaining
-- **Sauté** = Sauté mode (browning/searing on stovetop setting)
+### Universal Reheating Method
+1. **Liquid:** Splash of OJ (or water)
+2. **Cover:** Lid slightly ajar
+3. **Time:** 3:30 mins at Power Level 7
+4. **Finish:** Stir in oregano + pepper
+
+### Meal Prep Storage
+- **Fridge:** 3-4 days max
+- **Freeze:** Individual portions in ziplock bags
+- **Burrito Freeze:** Cool first, ziplock, freeze flat, wrap in damp paper towel to reheat
 
 ---
 
