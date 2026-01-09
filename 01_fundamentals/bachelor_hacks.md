@@ -32,6 +32,44 @@
 
 ---
 
+## Bouillon Cubes: Simple Broth Solution
+
+### Why Use Them?
+- **No broth on hand?** Bouillon cubes are your backup
+- **Long shelf life** - keep in pantry for months
+- **Budget-friendly** - much cheaper than boxed broth
+- **Takes 2 minutes** to make broth from scratch
+
+### How to Prepare
+1. **Bring water to boil** (1 cup water per cube, or follow package directions)
+2. **Drop in bouillon cube(s)** - usually 1 cube = 1 cup broth
+3. **Stir until dissolved** - takes 1-2 minutes
+4. **Use immediately** or let cool for recipes
+
+### Quick Method (No Pre-Boiling)
+**For pressure cooker recipes:**
+- **Add cube(s) directly to pot** with other liquid
+- **Add 1 cup water per cube** (or adjust to recipe needs)
+- **Cube will dissolve during pressure cooking** - no pre-boiling needed!
+- **Works perfectly** - one less step
+
+### Types Available
+- **Chicken bouillon** - most versatile, works in most recipes
+- **Beef bouillon** - for beef dishes, richer flavor
+- **Vegetable bouillon** - vegetarian option
+- **Low-sodium versions** - if watching salt intake
+
+### Substitution Guide
+- **1 bouillon cube** = **1 cup broth** (usually)
+- **Check package** - some brands vary (1 cube = 2 cups)
+- **For 1.75 cups liquid:** Use 2 cubes + 1.75 cups water (or 1 cube if it makes 2 cups)
+- **Can use in any recipe** calling for broth
+
+### Pro Tip
+**Keep a box in your pantry** - when you run out of broth, you're never stuck. The direct-to-pot method means zero extra work.
+
+---
+
 ## Frozen Vegetables: The Time Saver
 
 ### Why Frozen?
@@ -199,10 +237,11 @@ You bought **~$10 worth of chicken thighs** (usually 2-3 lbs), used a quarter, n
 
 ### Must-Have (Start Here)
 1. **Spice packets** (Taco, Fajita, Italian) - your foundation
-2. **Frozen pepper/onion mix** - no chopping
-3. **Canned green chilis** - secret weapon
-4. **Lemon/lime juice** (bottled is fine) - essential acid
-5. **Oil** (avocado, canola, or olive)
+2. **Bouillon cubes** (chicken) - instant broth, no pre-boiling needed
+3. **Frozen pepper/onion mix** - no chopping
+4. **Canned green chilis** - secret weapon
+5. **Lemon/lime juice** (bottled is fine) - essential acid
+6. **Oil** (avocado, canola, or olive)
 
 ### Build Up To
 - Individual spices (garlic powder, onion powder, cumin, etc.)
