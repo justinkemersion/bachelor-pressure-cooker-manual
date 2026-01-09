@@ -73,4 +73,13 @@
 
 ---
 
+## 📖 Quick Reference (Abbreviations)
+- **HP** = High Pressure
+- **NR** = Natural Release (let pressure drop naturally - wait 10 mins, then vent)
+- **QR** = Quick Release (manually release pressure immediately)
+- **10m NR** = Wait 10 minutes natural release, then quick release remaining
+- **Sauté** = Sauté mode (browning/searing on stovetop setting)
+
+---
+
 **Version:** 1.0 | **Compiled for:** Spiral Binder | **Print Scale:** 100%
