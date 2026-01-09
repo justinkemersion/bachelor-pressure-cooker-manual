@@ -24,8 +24,8 @@
 - [ ] **1.5 cups** White Basmati rice, rinsed
 
 ### Liquid (For Sequential Cooking)
-- [ ] **2.5-3 cups** Chicken broth (or water) - see note below
-- [ ] **Note:** Start with extra liquid - some evaporates during chicken cooking. You need ~1.5 cups remaining for rice.
+- [ ] **1.75 cups** Chicken broth (or water) - **The "1:1 + Splash" Rule**
+- [ ] **Note:** Pressure cookers are closed systems - minimal evaporation. Chicken adds ~1/4 cup juice. Start with 1.75 cups to end with ~1.5 cups for rice (1:1 ratio).
 
 ### Beans (Optional)
 - [ ] **1 can** Black beans, drained and rinsed
@@ -75,7 +75,7 @@
 
 **No Trivet?** See `01_fundamentals/bachelor_hacks.md` for foil trivet trick.
 
-1. **Mix spices into liquid:** Combine all dry seasonings (or 1 spice packet) with **2.5-3 cups broth** in pot
+1. **Mix spices into liquid:** Combine all dry seasonings (or 1 spice packet) with **1.75 cups broth** in pot
    - **OR use 1 Taco/Fajita spice packet** mixed into broth
 2. **Add trivet** (or foil trivet) to pot
 3. **Place chicken on trivet** (elevated above liquid)
@@ -88,39 +88,39 @@
    - **Frozen chicken:** **12-15 minutes**
 6. **Natural Release** for **10 minutes**, then quick release remaining
 
-### Phase 3: Remove Chicken & Check Liquid
+### Phase 3: Remove Chicken & Drizzle (Rest While Rice Cooks)
 1. **Remove chicken** - place on cutting board or plate
-2. **Let chicken rest 5 minutes** - critical for juicy chicken! (juices redistribute)
-3. **Check remaining liquid** in pot:
-   - **Should have ~1.5-2 cups** remaining (for 1.5 cups rice)
-   - **If less than 1.5 cups:** Add more broth/water to reach ~1.5 cups
-   - **If more than 2 cups:** That's fine, rice will be slightly softer (or remove some)
-4. **Save any chicken juices** from resting plate - these are flavor gold!
+2. **Drizzle immediately with juice of 1 lime** - acid penetrates meat fibers while resting
+3. **Cover with foil** (optional, but helps retain heat)
+4. **Let chicken rest** - it will rest while rice cooks (efficient timing!)
+5. **Check remaining liquid** in pot:
+   - **Should have ~1.5 cups** remaining (chicken adds ~1/4 cup juice, minimal evaporation)
+   - **If looks low:** Add splash more broth to hit ~1.5 cups (eyeball to rice level)
+   - **Pressure cookers are closed systems** - you won't lose much liquid
 
 ### Phase 4: Cook Rice in Flavored Liquid
-**The magic:** Rice cooks in liquid flavored by chicken juices and spices!
+**The magic:** Rice cooks in liquid flavored by chicken juices and spices! **Chicken rests while rice cooks** - efficient timing.
 
-1. **Add rinsed rice** to remaining liquid in pot
-2. **Add beans** (if using) - drained and rinsed
+1. **Add rinsed rice** to remaining liquid in pot (should be ~1.5 cups)
+2. **Add beans** (if using) - drained and rinsed, dump on top of rice
+   - **Don't stir deep** - just light pat down (beans will mix during cooking)
 3. **Add canned chilis** (if using):
    - **Green chilis:** Drained, add to pot
    - **Chipotle in adobo:** Use sparingly (1-2 tsp) - very spicy!
-4. **Stir gently** to combine (rice should be covered by liquid)
-5. Lock lid, set to **High Pressure** for **6 minutes** (Basmati timing)
-6. **Natural Release** for **10 minutes**, then quick release remaining
-
-**Note:** Liquid will be hot from previous cook - that's fine! Rice timing stays the same.
+4. Lock lid, set to **High Pressure** for **6 minutes** (Basmati timing)
+5. **Natural Release** for **10 minutes** - this is the "Starch Set" phase. **Do not skip.**
+6. **While rice cooks:** Shred or slice your rested chicken (it's been resting this whole time!)
 
 ### Phase 5: Finish & Serve
-1. **Slice or shred chicken** (should be rested from Phase 3)
-2. **Fluff rice** with fork (beans and chilis will be mixed in)
-3. **Drizzle chicken with 2-3 tbsp fresh lime juice** (essential!)
-4. **Add saved chicken juices** from resting plate:
-   - **Drizzle over rice** for extra flavor
-   - **Mix into bowl** when assembling
-5. Add fresh cilantro if available
-6. Season with fresh black pepper
+1. **Open pot** - rice should be done (chicken has been resting this whole time!)
+2. **Fluff rice/bean mix** with fork
+3. **Combine:** Add sliced/shredded chicken back in or serve on top
+4. **The Final Drizzle:** Hit the whole bowl with **second lime** (juice of remaining lime)
+5. **Add fresh cracked black pepper** - adds "high notes" that pressure cooking kills
+6. Add fresh cilantro if available
 7. Taste and adjust salt if needed
+
+**Chemistry Note:** The lime cuts the chicken fat; the pepper adds brightness that pressure cooking usually kills.
 
 ### Assembly
 1. Rice in bowl
@@ -153,8 +153,10 @@
 - **Sequential Cooking:** Each element gets proper timing (chicken 8-12 min, rice 6 min) - ensures quality
 - **Chicken Juices Flavor Rice:** Chicken drips into liquid, rice absorbs that flavor - brilliant!
 - **Spices in Liquid:** Infuses throughout, flavors both chicken and rice
-- **Resting Chicken:** 5-minute rest redistributes juices (prevents dry chicken)
-- **Lime Juice (Post-Cook):** Cuts through chicken fat, brightens dish, essential for Tex-Mex
+- **Efficient Resting:** Chicken rests while rice cooks (no wasted time!)
+- **Lime on Resting Chicken:** Acid penetrates meat fibers during rest (better than post-cook only)
+- **Liquid Precision:** 1.75 cups start = 1.5 cups for rice (1:1 ratio) - prevents mushy rice
+- **Closed System Logic:** Pressure cookers don't lose much liquid - chicken actually adds juice
 - **No Bowl Needed:** Simpler than PIP method, easier cleanup
 - **Garlic/Onion Powder:** Universal base that works with Tex-Mex profile
 
@@ -197,11 +199,12 @@
 - If absolutely unavailable: Use extra chili powder + pinch of coriander
 
 **Liquid Amount Concerns?**
-- **Start with 2.5-3 cups** - accounts for evaporation during chicken cook
-- **After chicken:** Check remaining liquid (should be ~1.5-2 cups)
-- **Too little?** Add more broth/water to reach ~1.5 cups for rice
-- **Too much?** That's okay - rice will be slightly softer, or remove some before adding rice
-- **Hot liquid is fine** - rice can go into hot liquid, timing stays the same
+- **Start with 1.75 cups** - "The 1:1 + Splash Rule" (1.5 for rice + 0.25 buffer)
+- **Pressure cookers are closed systems** - minimal evaporation during pressurized phase
+- **Chicken adds ~1/4 cup juice** as it cooks
+- **After chicken:** Should have ~1.5 cups remaining (perfect for 1.5 cups rice = 1:1 ratio)
+- **If looks low:** Add splash more broth to hit ~1.5 cups (eyeball to rice level)
+- **Too much liquid = mushy rice** - stick to the 1.75 cup start!
 
 ---
 
@@ -211,17 +214,18 @@
 - **v1.2:** Clarified lime juice importance in reheating
 - **v1.3:** Added frozen chicken option, trivet alternatives, resting/juices, spice packets, frozen veggies, canned chilis
 - **v2.0:** Switched to sequential cooking method - simpler, chicken juices flavor rice, no bowl needed
+- **v2.1:** Fixed liquid logic - 1.75 cups start (1:1 + splash), lime on resting chicken, efficient timing (rest while rice cooks)
 
 ---
 
 ## Quality Checkpoints
 
-✅ **Chicken:** Should be tender, not rubbery (resting 5 minutes + correct timing)  
-✅ **Rice:** Should be firm, not mushy (check liquid amount before adding rice)  
+✅ **Chicken:** Should be tender, not rubbery (rests while rice cooks + lime during rest)  
+✅ **Rice:** Should be firm, not mushy (1.75 cup start = 1.5 cups for rice, 1:1 ratio)  
 ✅ **Beans:** Should be creamy, not mealy (cooked with rice in flavored liquid)  
-✅ **Flavor:** Should be bright and balanced (lime juice essential)  
-✅ **Juices:** Save and use chicken juices - they're flavor gold!  
-✅ **Liquid Check:** Ensure ~1.5 cups remaining after chicken cook (add more if needed)
+✅ **Flavor:** Should be bright and balanced (lime on chicken + final drizzle)  
+✅ **Liquid Logic:** Pressure cooker is closed system - minimal loss, chicken adds juice  
+✅ **Timing Efficiency:** Chicken rests while rice cooks - no wasted time!
 
 ---
 

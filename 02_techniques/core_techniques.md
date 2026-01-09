@@ -36,6 +36,15 @@
 - **Brown rice:** 1:1.25 (1 cup rice : 1.25 cups liquid)
 - **Liquid options:** Water, broth, or mix (broth adds flavor)
 
+### Critical: Pressure Cooker Liquid Logic
+**Pressure cookers are closed systems** - unlike stovetop cooking, almost zero liquid evaporates during the pressurized phase.
+
+**Key Principles:**
+- **Minimal evaporation:** You lose maybe 2 tablespoons during release, not cups
+- **Proteins add liquid:** Chicken thighs release ~1/4 cup juice as they cook
+- **The "1:1 + Splash" Rule:** For sequential cooking (protein then rice), start with 1.75 cups liquid to end with 1.5 cups for rice (1:1 ratio)
+- **Too much liquid = mushy rice:** Stick to exact ratios, don't overcompensate for "evaporation"
+
 ### Preventing Mushy Rice
 - Use exact ratios
 - Natural release only (never quick release)
