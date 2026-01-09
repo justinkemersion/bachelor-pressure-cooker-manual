@@ -5,10 +5,13 @@
 | Ingredient | State | Mode | Time | Release | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Chicken Thighs** | Thawed | High Pressure | **8-10m** | **10m NR** | Bone-in or boneless |
-| **Chicken Thighs** | Frozen | High Pressure | **12-15m** | **10m NR** | Add 2-3 minutes |
-| **Chicken Drums** | Thawed | High Pressure | **10-12m** | **10m NR** | |
-| **Chicken Drums** | Frozen | High Pressure | **12-15m** | **10m NR** | |
+| **Chicken Thighs** | Frozen | High Pressure | **12-15m** | **10m NR** | Add 4 minutes |
+| **Chicken Cutlets** | Thawed | High Pressure | **4-6m** | **10m NR** | Thin pieces, cook fast |
+| **Chicken Cutlets** | Frozen | High Pressure | **8-10m** | **10m NR** | Add 4 minutes |
 | **Chicken Breast** | Thawed | High Pressure | **6-8m** | **10m NR** | Can dry out easily |
+| **Chicken Breast** | Frozen | High Pressure | **10-12m** | **10m NR** | Add 4 minutes |
+| **Chicken Drums** | Thawed | High Pressure | **10-12m** | **10m NR** | |
+| **Chicken Drums** | Frozen | High Pressure | **12-15m** | **10m NR** | Add 2-4 minutes |
 | **White Basmati Rice** | Rinsed | High Pressure | **6m** | **10m NR** | 1:1 ratio |
 | **Jasmine Rice** | Rinsed | High Pressure | **4m** | **10m NR** | 1:1 ratio |
 | **Long Grain White** | Rinsed | High Pressure | **5m** | **10m NR** | 1:1 ratio |

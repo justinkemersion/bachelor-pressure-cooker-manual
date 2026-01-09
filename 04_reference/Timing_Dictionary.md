@@ -6,6 +6,12 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **Chicken Thighs** | Thawed | **8 mins** HP | **10m NR** | Always 10m Natural Release. Rest 5 mins after removal. |
 | **Chicken Thighs** | Frozen | **12-15 mins** HP | **10m NR** | **12m is minimum.** Larger pieces may need 15m. Always 10m NR. |
+| **Chicken Cutlets** | Thawed | **4-6 mins** HP | **10m NR** | Thin pieces - cook fast! Watch for dryness. |
+| **Chicken Cutlets** | Frozen | **8-10 mins** HP | **10m NR** | Add 4 mins to thawed time. Can dry out - check doneness. |
+| **Chicken Breast** | Thawed | **6-8 mins** HP | **10m NR** | Can dry out easily. Rest 5 mins after removal. |
+| **Chicken Breast** | Frozen | **10-12 mins** HP | **10m NR** | Add 4 mins to thawed time. Watch for dryness. |
+| **Chicken Drums** | Thawed | **10-12 mins** HP | **10m NR** | Bone-in adds flavor. Rest 5 mins after removal. |
+| **Chicken Drums** | Frozen | **12-15 mins** HP | **10m NR** | Add 2-4 mins to thawed time. Always 10m NR. |
 | **Basmati Rice** | Rinsed | **6 mins** HP | **10m NR** | 1:1 ratio. Use 1.75 cup liquid start (1:1 + Splash Rule). |
 | **Jasmine Rice** | Rinsed | **4 mins** HP | **10m NR** | 1:1 ratio. Faster than Basmati. Use 1.75 cup liquid start. |
 | **Long Grain White** | Rinsed | **5 mins** HP | **10m NR** | 1:1 ratio. Works great! More budget-friendly than Basmati. |
@@ -40,7 +46,7 @@
 ## Quick Lookup
 
 **Need rice timing?** → Basmati: 6m | Long Grain: 5m | Jasmine: 4m | Always 10m NR  
-**Need chicken timing?** → Thawed: 8m | Frozen: 12-15m (12m minimum) | Always 10m NR  
+**Need chicken timing?** → Thighs: 8m (thawed) / 12-15m (frozen) | Cutlets: 4-6m / 8-10m | Breast: 6-8m / 10-12m | Drums: 10-12m / 12-15m | Always 10m NR  
 **Need liquid amount?** → 1.75 cups start (1:1 + Splash Rule)  
 **Need release time?** → Always 10m Natural Release (never skip!)
 

@@ -55,15 +55,38 @@
 
 ## Protein Preparation
 
-### Chicken Thighs
+### Chicken Cuts & Timing
+
+**Chicken Thighs** (Best for bowls - juiciest)
+- **Thawed:** 8-10 mins HP
+- **Frozen:** 12-15 mins HP (12m minimum)
+- **Why:** Most forgiving, stays juicy, perfect for meal prep
 - **Trim excess fat** (optional, but reduces greasiness)
-- **Pat dry** before searing (helps browning)
 - **Bone-in vs. boneless:** Bone-in adds flavor, boneless is faster
+
+**Chicken Cutlets** (Thin pieces - cook fast!)
+- **Thawed:** 4-6 mins HP
+- **Frozen:** 8-10 mins HP
+- **Why:** Thin pieces cook quickly, but can dry out - watch carefully
+- **Best for:** Quick meals, not ideal for meal prep (dries out on reheat)
+
+**Chicken Breast** (Lean but can dry out)
+- **Thawed:** 6-8 mins HP
+- **Frozen:** 10-12 mins HP
+- **Why:** Lean protein, but can become rubbery if overcooked
+- **Best for:** When you want leaner option, but thighs are more forgiving
+
+**Chicken Drums** (Bone-in flavor)
+- **Thawed:** 10-12 mins HP
+- **Frozen:** 12-15 mins HP
+- **Why:** Bone-in adds flavor, but takes longer
+- **Best for:** When you want bone-in flavor, less ideal for bowls
 
 ### Frozen vs. Thawed
 - **Thawed:** Faster cook time, better texture
-- **Frozen:** Add 2-4 minutes to cook time
+- **Frozen:** Add 4 minutes to thawed time (cutlets/breast/thighs), 2-4 mins for drums
 - **Best practice:** Thaw in fridge overnight
+- **Always check state** before setting timer
 
 ---
 
