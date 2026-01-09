@@ -205,4 +205,32 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 
 ---
 
+## 📦 The "Wrapped Up" Version (How Normal Recipes Look)
+
+**This is how this recipe would appear as a normal, streamlined recipe** - like you'd find in a regular cookbook. Compare this to the detailed version above to see what the Initiation Recipe teaches you that gets "assumed" in normal recipes.
+
+### Ingredients
+- 4 chicken thighs (1.75 lbs)
+- 1.5 cups Basmati rice, rinsed
+- 2 cups chicken broth
+- 1 can black beans, drained
+- 1 taco seasoning packet (or: 2tsp cumin, 1tsp chili powder, 1tsp garlic powder, 1tsp salt)
+- 2 limes
+- Fresh cracked black pepper
+- Fresh cilantro (optional)
+- 1 habanero, halved, seeds removed (optional)
+- Frozen pepper/onion mix (optional)
+
+### Instructions
+
+**Phase 1:** Add broth, seasoning, and habanero to pot. Place trivet, add chicken on top. Pressure cook 8 mins (thawed) or 14 mins (frozen). 10m NR. Remove habanero. Squeeze 1 lime over chicken, rest 5 mins.
+
+**Phase 2:** Add rice to liquid. Layer beans and frozen veg on top (don't stir). Pressure cook 6 mins (Basmati) or 5 mins (Long Grain White). 10m NR.
+
+**Phase 3:** Fluff rice, mix in chicken. Squeeze 2nd lime over everything. Add cracked pepper and cilantro.
+
+**See?** That's it. No explanations, no "why" notes, no training wheels. The Initiation Recipe above teaches you all the fundamentals so you can follow recipes like this confidently.
+
+---
+
 **Version:** 3.2 | **Compiled for:** Spiral Binder | **Print Scale:** 100%
