@@ -49,10 +49,11 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 - [ ] **Base:** 1.5 cups Basmati Rice (OR Long Grain White - see timing) (Rinsed until clear)
 - [ ] **Liquid:** **2 cups** Chicken Broth — *The "Burn-Proof" 1:1 + Buffer.*
 - [ ] **Bulk:** 1 can Black Beans (Drained)
-- [ ] **Seasoning:** 1 Taco Packet (OR: 2tsp Cumin, 1tsp Chili, 1tsp Garlic, 1tsp Salt)
-- [ ] **The Drizzle:** 2 Fresh Limes + Fresh Cracked Pepper
-- [ ] **Heat:** 1 Habanero (Halved, seeds removed)
-- [ ] **Bulk Fill:** Frozen pepper/onion mix (handful)
+- [ ] **Seasoning (Phase 1):** 1 Taco Packet (OR: 2tsp Cumin, 1tsp Chili Powder, 1tsp Garlic Powder, 1tsp Salt)
+- [ ] **Acid (Phase 3):** 2 Fresh Limes
+- [ ] **High Notes (Phase 3):** Fresh Cracked Black Pepper + Fresh Cilantro (optional but recommended)
+- [ ] **Heat:** 1 Habanero (Halved, seeds removed) — *Optional, for ambient heat*
+- [ ] **Bulk Fill:** Frozen pepper/onion mix (handful) — *Optional, for volume*
 
 ---
 
@@ -75,7 +76,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 ### Phase 3: The Finish
 1.  **Open & Fluff:** Mix the beans/veg into the rice with a fork.
 2.  **The Final Drizzle:** Squeeze the **2nd lime** over the pot. 
-3.  **High Notes:** Add cracked black pepper and cilantro.
+3.  **High Notes:** Add **fresh cracked black pepper** and **cilantro** (if available). *Why:* Pepper adds brightness that pressure cooking kills. Cilantro adds fresh, herbal notes.
 
 ---
 
@@ -89,7 +90,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 1.  **Liquid:** Add a **splash of Orange Juice** (or water minimum) to the container. 
 2.  **Steam:** Cover with lid slightly ajar. 
 3.  **Power:** **3:30 mins** at **Power Level 7** (prevents rubbery chicken).
-4.  **Finish:** Stir in a pinch of oregano and fresh pepper.
+4.  **Finish:** Stir in a pinch of **dried oregano** and **fresh cracked black pepper**. *Why:* Restores high notes lost during reheating. OJ adds brightness, oregano adds herbal depth.
 
 **See `02_techniques/core_techniques.md` for universal reheating method.**
 
@@ -118,6 +119,8 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 *   **No trivet?** See `01_fundamentals/bachelor_hacks.md` for foil trivet trick.
 *   **No individual spices?** Use 1 Taco/Fajita spice packet - works great!
 *   **No lime?** Use lemon juice or apple cider vinegar (different but works).
+*   **No cilantro?** Skip it - the recipe works fine without it. Or use parsley for a different herbal note.
+*   **No fresh pepper?** Use ground black pepper (less bright, but works).
 
 ---
 
@@ -125,7 +128,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 1. **Liquid:** Splash of OJ (or water)
 2. **Cover:** Lid slightly ajar
 3. **Time:** 3:30 mins at Power Level 7
-4. **Finish:** Stir in oregano + pepper
+4. **Finish:** Stir in dried oregano + fresh cracked black pepper
 
 ### Meal Prep Storage
 - **Fridge:** 3-4 days max
