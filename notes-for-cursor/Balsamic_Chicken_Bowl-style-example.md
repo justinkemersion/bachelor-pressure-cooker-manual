@@ -10,7 +10,6 @@
 - [ ] **Bulk:** 1 can Black Beans (Drained)
 - [ ] **Seasoning:** 1 Taco Packet (OR: 2tsp Cumin, 1tsp Chili, 1tsp Garlic, 1tsp Salt)
 - [ ] **The Drizzle:** 2 Fresh Limes + Fresh Cracked Pepper
-- [ ] **Optional:** Frozen Pepper/Onion Mix, Canned Green Chilis
 
 ---
 
@@ -48,10 +47,6 @@
 *   **Rice is crunchy?** Add 1/4 cup water, 2 mins HP, Quick Release.
 *   **Rice is mushy?** You used too much liquid. Use exactly 1.75 cups next time.
 *   **Chicken is dry?** You skipped the 5-minute rest. Never skip the rest.
-*   **No trivet?** See `01_fundamentals/bachelor_hacks.md` for foil trivet trick.
-*   **No individual spices?** Use 1 Taco/Fajita spice packet - works great!
-*   **No lime?** Use lemon juice or apple cider vinegar (different but works).
 
 ---
-
 **Version:** 3.0 | **Compiled for:** Spiral Binder | **Print Scale:** 100%
