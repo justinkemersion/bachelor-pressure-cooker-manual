@@ -26,7 +26,8 @@ Bachelor-Cookbook/
 │   └── core_techniques.md     # Searing, rice prep, PIP method, etc.
 │
 ├── 03_recipes/               # Actual recipes
-│   └── [recipe files]        # Individual recipe markdown files
+│   ├── chipotle_burrito_bowl.md  # 🎓 INITIATION RECIPE (most thorough - learn here!)
+│   └── [recipe files]        # Other recipes (more concise after you learn basics)
 │
 ├── 04_reference/             # Quick lookup tables
 │   ├── glossary.md           # Abbreviations and terms
@@ -118,10 +119,13 @@ When creating recipes, follow these markdown standards for print-readiness:
 
 ### For Beginners
 
-1. Read `01_fundamentals/spices_and_flavor.md` - Understand the chemistry
-2. Read `02_techniques/core_techniques.md` - Learn the methods
-3. Start with simple recipes in `03_recipes/`
-4. Reference `04_reference/glossary.md` for terms
+1. **Start with the Initiation Recipe:** `03_recipes/chipotle_burrito_bowl.md` - This is your first recipe, most thorough, teaches you everything
+2. Read `01_fundamentals/spices_and_flavor.md` - Understand the chemistry
+3. Read `02_techniques/core_techniques.md` - Learn the methods
+4. Master the Initiation Recipe - once you understand it, other recipes will be easier
+5. Reference `04_reference/glossary.md` for terms
+
+**Note:** The Initiation Recipe (Chipotle) includes comprehensive "What to Worry About" safety checks, detailed troubleshooting, and full explanations. After you master it, other recipes are more concise since you'll know the basics.
 
 ### For Recipe Development
 

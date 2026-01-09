@@ -1,6 +1,8 @@
 # 03_Recipes: Chipotle Burrito Bowl (v3.2)
 **Profile:** Tex-Mex | **Method:** Sequential One-Pot | **Total Time:** 35m
 
+**🎓 INITIATION RECIPE** - This is your first recipe. It's more thorough to teach you the basics. Once you master this, other recipes will be more concise.
+
 ---
 
 ## 🛒 Hardware & Variables

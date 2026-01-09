@@ -91,6 +91,16 @@ Add fresh acid drizzle after reheating to brighten flavors.
 ---
 
 ## 🚨 What to Worry About (Safety & Quality Check)
+**Note:** This section is included in the Initiation Recipe (Chipotle Burrito Bowl). For subsequent recipes, refer to that recipe or use the Quick Diagnosis Flow below.
+
+### Quick Diagnosis Flow
+1. **Check smell first** - if funky, throw out immediately
+2. **Check color** - pink meat = undercooked, gray/green = spoiled
+3. **Check texture** - slimy = spoiled, rubbery = overcooked (but safe)
+4. **Check doneness** - meat should be white throughout, no pink
+5. **Taste test** - if it tastes off, throw it out
+
+**The Golden Rule:** When in doubt, throw it out. Food poisoning isn't worth the risk.
 
 ### Meat: Fully Cooked vs. Funky
 
