@@ -18,7 +18,7 @@
 ### Phase 1: The Bird (10m NR)
 1.  **Dump** broth, Worcestershire, and seasonings into the pot. Stir once.
 2.  **Insert Trivet.** Place chicken on top (don't submerge).
-3.  **Pressure Cook:** **8 mins** (Thawed) OR **12 mins** (Frozen).
+3.  **Pressure Cook:** **8 mins** (Thawed) OR **12-15 mins** (Frozen, **12m minimum**).
 4.  **Release:** Wait 10 mins (Natural Release), then vent.
 5.  **Acid Rest:** Move chicken to a plate. **Drizzle 1-2 tbsp balsamic** over it immediately. Cover with foil.
 
@@ -52,6 +52,7 @@
 *   **Rice is crunchy?** Add 1/4 cup water, 2 mins HP, Quick Release.
 *   **Rice is mushy?** You used too much liquid. Use exactly 1.75 cups next time.
 *   **Chicken is dry?** You skipped the rest. Never skip the rest.
+*   **Frozen chicken not done?** 12m is minimum - larger pieces may need 15m. The 10m NR continues cooking.
 *   **Too sweet?** Balsamic can be sweet - add a splash of red wine vinegar to balance.
 *   **No Worcestershire?** Use 1 tbsp soy sauce + pinch of sugar (adds umami).
 

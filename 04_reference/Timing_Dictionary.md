@@ -5,7 +5,7 @@
 | Ingredient | State | Pressure Time | Release | Bachelor Note |
 | :--- | :--- | :--- | :--- | :--- |
 | **Chicken Thighs** | Thawed | **8 mins** HP | **10m NR** | Always 10m Natural Release. Rest 5 mins after removal. |
-| **Chicken Thighs** | Frozen | **12 mins** HP | **10m NR** | Add 4 mins to thawed time. Always 10m NR. |
+| **Chicken Thighs** | Frozen | **12-15 mins** HP | **10m NR** | **12m is minimum.** Larger pieces may need 15m. Always 10m NR. |
 | **Basmati Rice** | Rinsed | **6 mins** HP | **10m NR** | 1:1 ratio. Use 1.75 cup liquid start (1:1 + Splash Rule). |
 | **Jasmine Rice** | Rinsed | **4 mins** HP | **10m NR** | 1:1 ratio. Faster than Basmati. Use 1.75 cup liquid start. |
 | **White Beans** | Canned | N/A | N/A | Add with rice in Phase 2. No extra time needed. |
@@ -29,16 +29,17 @@
 - **Too much liquid = mushy rice** - stick to 1.75!
 
 ### Frozen vs. Thawed
-- **Frozen protein:** Add 4 minutes to thawed time
+- **Frozen protein:** Add 4 minutes to thawed time (12m minimum, up to 15m for larger pieces)
 - **Frozen veggies:** Can add directly, no time change
 - **Always check state** before setting timer
+- **With 10m NR:** The natural release continues cooking, so 12m HP + 10m NR = safe minimum
 
 ---
 
 ## Quick Lookup
 
 **Need rice timing?** → Basmati: 6m | Jasmine: 4m | Always 10m NR  
-**Need chicken timing?** → Thawed: 8m | Frozen: 12m | Always 10m NR  
+**Need chicken timing?** → Thawed: 8m | Frozen: 12-15m (12m minimum) | Always 10m NR  
 **Need liquid amount?** → 1.75 cups start (1:1 + Splash Rule)  
 **Need release time?** → Always 10m Natural Release (never skip!)
 
