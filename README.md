@@ -141,15 +141,25 @@ When creating recipes, follow these markdown standards for print-readiness:
 
 ## 🎓 Learning Path
 
-### For Beginners
+### For Beginners (Start Here!)
 
-1. **Start with the Initiation Recipe:** `03_recipes/chipotle_burrito_bowl.md` - This is your first recipe, most thorough, teaches you everything
-2. Read `01_fundamentals/spices_and_flavor.md` - Understand the chemistry
-3. Read `02_techniques/core_techniques.md` - Learn the methods
-4. Master the Initiation Recipe - once you understand it, other recipes will be easier
-5. Reference `04_reference/glossary.md` for terms
+1. **🎯 Master the Initiation Recipe:** `03_recipes/chipotle_burrito_bowl.md`
+   - This is your **first recipe** - most thorough, teaches you everything
+   - Familiar flavor (Chipotle-style) - you know what it should taste like
+   - Includes all safety checks, troubleshooting, and explanations
+   - Once you master this, you've learned the fundamentals!
 
-**Note:** The Initiation Recipe (Chipotle) includes comprehensive "What to Worry About" safety checks, detailed troubleshooting, and full explanations. After you master it, other recipes are more concise since you'll know the basics.
+2. **📖 Read the Fundamentals** (while your first meal cooks):
+   - `01_fundamentals/spices_and_flavor.md` - Understand the chemistry
+   - `02_techniques/core_techniques.md` - Learn the methods
+   - `04_reference/glossary.md` - Quick reference for terms
+
+3. **🚀 Apply to Other Recipes:**
+   - Now that you know the basics, other recipes are streamlined
+   - They reference back to the Initiation Recipe for detailed explanations
+   - Focus on flavor profile differences, not re-learning basics
+
+**The Philosophy:** Learn once, apply everywhere. The Initiation Recipe is your training ground. 🎓
 
 ### For Recipe Development
 
