@@ -146,26 +146,46 @@ This repository uses Git to track:
 
 ## 🧪 Test Suite
 
-This cookbook includes a pytest-based test suite to ensure consistency and accuracy:
+This cookbook includes a pytest-based test suite to ensure consistency and accuracy.
+
+### Quick Setup
 
 ```bash
-# Install dependencies
-pip install -r requirements-dev.txt
+# Option 1: Use setup script (recommended)
+./setup.sh
 
-# Run tests
+# Option 2: Manual setup
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements-dev.txt
+pytest tests/ -v
+```
+
+### Running Tests
+
+```bash
+# Activate virtual environment
+source venv/bin/activate
+
+# Run all tests
 pytest
 
 # Run with verbose output
 pytest -v
+
+# Run specific test file
+pytest tests/test_timing_consistency.py
 ```
 
 **Test Coverage:**
-- Timing consistency across all files
-- Recipe format compliance
-- Cross-reference validation
-- Content completeness checks
+- ✅ Timing consistency across all files
+- ✅ Recipe format compliance
+- ✅ Cross-reference validation
+- ✅ Content completeness checks
 
-See `tests/README.md` for details.
+**Current Status:** All 22 tests passing ✅
+
+See `tests/README.md` for detailed documentation.
 
 ---
 
