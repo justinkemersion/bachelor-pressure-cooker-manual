@@ -3,7 +3,17 @@
 ## Flavor Profile
 [Mediterranean / Tex-Mex / Italian / Asian / etc.]
 
-**📚 Building on the Foundation** - If this is your first recipe, start with the **Initiation Recipe** (`chipotle_burrito_bowl.md`) to learn the basics. This recipe assumes you know the fundamentals!
+**🧱 New Lego Block: [What new technique/flavor profile this recipe introduces]**
+
+**📚 Building on the Foundation** - Reference the **Initiation Recipe** (`chipotle_burrito_bowl.md`) for fundamentals (liquid ratios, safety checks, troubleshooting). This recipe focuses on what's new: **[specific new technique/flavor/chemistry]**.
+
+**What You're Learning Here:**
+- [New technique 1]
+- [New technique 2]
+- [New flavor chemistry]
+- [How to use this in other recipes]
+
+**Use This Technique In:** [Where else this technique applies]
 
 ---
 

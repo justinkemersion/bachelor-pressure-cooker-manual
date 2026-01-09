@@ -1,7 +1,15 @@
 # 03_Recipes: Chipotle Burrito Bowl (v3.2)
 **Profile:** Tex-Mex | **Method:** Sequential One-Pot | **Total Time:** 35m
 
-**🎓 INITIATION RECIPE** - This is your first recipe. It's more thorough to teach you the basics. Once you master this, other recipes will be more concise.
+**🎓 INITIATION RECIPE - YOUR MASTER REFERENCE** 
+
+This is your **foundational recipe** - the one you'll come back to again and again. Whether you're a beginner or a seasoned pro, this recipe contains all the fundamentals:
+- Complete safety checks ("What to Worry About")
+- Full troubleshooting guide
+- Detailed chemistry explanations
+- All the basics you need to remember
+
+**Think of it as:** Your reference manual. When you forget the liquid ratio, the timing, or how to check if something's safe to eat - come back here. Other recipes are streamlined because they assume you know (or can reference) these fundamentals.
 
 ---
 

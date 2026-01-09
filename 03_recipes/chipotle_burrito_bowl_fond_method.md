@@ -1,9 +1,17 @@
 # 03_Recipes: Chipotle Burrito Bowl - Fond Method (v1.1)
 **Profile:** Tex-Mex | **Method:** Fond-Building Reduction | **Total Time:** 45m
 
-**📚 Building on the Foundation** - This is an advanced variation of the Initiation Recipe. Master the standard method first (`chipotle_burrito_bowl.md`), then try this fond-building technique for maximum flavor depth.
+**🧱 New Lego Block: Fond-Building & Reduction Glaze Technique**
 
-**Note:** This is the "fond-building" alternative. More steps, but builds deep flavor through searing and reduction glaze.
+**📚 Building on the Foundation** - Reference the **Initiation Recipe** (`chipotle_burrito_bowl.md`) for fundamentals. This recipe adds a new technique: **searing to build fond, then deglazing and reducing to create a glaze**.
+
+**What You're Learning Here:**
+- Searing chicken to build fond (Maillard reaction)
+- Deglazing with liquid + spices (flavor extraction)
+- Reducing to create a glaze (concentrated flavor)
+- Spice integration in the glaze (not just in the liquid)
+
+**Use This Technique In:** Any recipe where you want deep, concentrated flavor. Combine with other recipes' techniques (like the balsamic drizzle) for maximum complexity.
 
 ---
 

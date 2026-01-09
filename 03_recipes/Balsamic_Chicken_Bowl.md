@@ -1,7 +1,18 @@
 # 03_Recipes: Balsamic Chicken Bowl (v1.0)
 **Profile:** Italian/Mediterranean | **Method:** Sequential One-Pot | **Total Time:** 30m
 
-**📚 Building on the Foundation** - If this is your first recipe, start with the **Initiation Recipe** (`chipotle_burrito_bowl.md`) to learn the basics. This recipe assumes you know the fundamentals!
+**🧱 New Lego Block: Italian/Mediterranean Flavor Profile**
+
+**📚 Building on the Foundation** - Reference the **Initiation Recipe** (`chipotle_burrito_bowl.md`) for fundamentals (liquid ratios, safety checks, troubleshooting). This recipe focuses on what's new: **Balsamic + Olive Oil drizzle technique** and **Italian flavor chemistry**.
+
+**What You're Learning Here:**
+- Balsamic vinegar as a post-cook acid drizzle
+- Extra Virgin Olive Oil for fat balance
+- Worcestershire in the cooking liquid (umami depth)
+- Jasmine rice timing (4 mins vs Basmati's 6 mins)
+- Cannellini beans with delicate grains
+
+**Use This Technique In:** Any recipe where you want a bright, acidic finish with smooth fat balance.
 
 ---
 
