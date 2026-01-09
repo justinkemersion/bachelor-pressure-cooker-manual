@@ -68,14 +68,20 @@
 3.  **Fold:** Bottom up, sides in, roll tightly. **Tuck as you roll** - keeps it together.
 4.  **Optional:** Wrap in foil for easier handling.
 
-### Frozen Burrito Meal Prep
+### Frozen Burrito Meal Prep (Quick Method)
+1.  **Make burritos** using technique above (cool filling first).
+2.  **Place each in individual zip lock bag** (label with date).
+3.  **Freeze flat** on baking sheet (prevents sticking).
+4.  **Reheat:** Remove from bag, **wrap in paper towel** (absorbs excess moisture), microwave **2-3 minutes** (flip halfway).
+
+**Pro Tip:** Freeze individual burritos = grab-and-go meals. Paper towel method is key - prevents soggy tortilla.
+
+### Frozen Burrito Meal Prep (Advanced - When You Have Time)
 1.  **Make burritos** using technique above (cool filling first).
 2.  **Wrap each in foil** (label with date).
 3.  **Freeze flat** on baking sheet (prevents sticking).
 4.  **Transfer to freezer bag** once frozen.
 5.  **Reheat:** Remove foil, wrap in paper towel, microwave **2-3 minutes** (flip halfway). Or bake **350°F for 20-25 mins** (foil on).
-
-**Pro Tip:** Freeze individual burritos = grab-and-go meals. Reheats perfectly from frozen.
 
 ---
 
