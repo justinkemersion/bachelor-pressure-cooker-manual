@@ -1,6 +1,8 @@
 # 03_Recipes: Chipotle Burrito Bowl - Fond Method (v1.1)
 **Profile:** Tex-Mex | **Method:** Fond-Building Reduction | **Total Time:** 45m
 
+**📚 Building on the Foundation** - This is an advanced variation of the Initiation Recipe. Master the standard method first (`chipotle_burrito_bowl.md`), then try this fond-building technique for maximum flavor depth.
+
 **Note:** This is the "fond-building" alternative. More steps, but builds deep flavor through searing and reduction glaze.
 
 ---

@@ -4,6 +4,30 @@
 
 A high-utility, printable cookbook designed for the everyday bachelor using a pressure cooker (Instant Pot Rio or similar). This is a **Technical Manual for Flavor** - focusing on quality, repeatability, and understanding the chemistry behind great food.
 
+---
+
+## 🎓 The Initiation Recipe Philosophy
+
+**Start Here:** `03_recipes/chipotle_burrito_bowl.md` is your **Initiation Recipe** - your first, most thorough recipe that teaches you everything.
+
+**Why Chipotle?** It's familiar (you've had it), it's forgiving (hard to mess up), and it teaches all the fundamentals:
+- Sequential cooking method
+- Timing and liquid ratios
+- Safety checks ("What to Worry About")
+- Meal prep and reheating
+- Flavor chemistry basics
+
+**The Learning Path:**
+1. **Master the Initiation Recipe** - Learn all the basics here
+2. **Apply to Other Recipes** - Once you know the fundamentals, other recipes are streamlined
+3. **Build Confidence** - Each recipe builds on what you learned
+
+**Think of it like:** The Initiation Recipe is your training wheels. Once you've got it, the training wheels come off and you can ride anywhere! 🚴
+
+**All other recipes** reference back to the Initiation Recipe for detailed explanations, so you're not re-reading the same safety checks and troubleshooting over and over.
+
+---
+
 ### Core Principles
 
 1. **Quality Over Convenience** - Separate cooking when needed to avoid rubbery chicken, mushy rice, or weird bean consistency

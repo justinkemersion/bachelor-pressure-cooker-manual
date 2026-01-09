@@ -1,6 +1,8 @@
 # 03_Recipes: Balsamic Chicken Bowl (v1.0)
 **Profile:** Italian/Mediterranean | **Method:** Sequential One-Pot | **Total Time:** 30m
 
+**📚 Building on the Foundation** - If this is your first recipe, start with the **Initiation Recipe** (`chipotle_burrito_bowl.md`) to learn the basics. This recipe assumes you know the fundamentals!
+
 ---
 
 ## 🛒 Hardware & Variables
