@@ -18,6 +18,7 @@
 - **Natural Release:** Letting pressure drop naturally (10-15 minutes)
 - **Quick Release:** Manually releasing pressure immediately
 - **Sear:** Browning the surface of protein before pressure cooking
+- **Soaked (Beans):** Dried beans that have been rehydrated in water before cooking. **Overnight:** Cover with water, soak 8-12 hours, drain. **Quick Soak:** Cover with water, bring to boil, remove from heat, soak 1 hour, drain. Always drain and rinse before cooking.
 
 ## Flavor Terms
 

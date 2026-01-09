@@ -16,9 +16,9 @@
 | **Jasmine Rice** | Rinsed | **4 mins** HP | **10m NR** | 1:1 ratio. Faster than Basmati. Use 1.75 cup liquid start. |
 | **Long Grain White** | Rinsed | **5 mins** HP | **10m NR** | 1:1 ratio. Works great! More budget-friendly than Basmati. |
 | **Canned Beans** | Any type | N/A | N/A | Add with rice in Phase 2. No extra time needed. |
-| **Black/Pinto/White/Navy** | Soaked | **8-10m** HP | **15m NR** | Standard timing for most beans. |
-| **Kidney Beans** | Soaked | **10-12m** HP | **15m NR** | Longer cook time than standard beans. |
-| **Chickpeas (Garbanzo)** | Soaked | **15-20m** HP | **15m NR** | Much longer - different timing entirely. |
+| **Black/Pinto/White/Navy** | Soaked | **8-10m** HP | **15m NR** | Standard timing. "Soaked" = rehydrated in water 8-12hrs (or 1hr quick soak). |
+| **Kidney Beans** | Soaked | **10-12m** HP | **15m NR** | Longer cook time. Must be soaked first. |
+| **Chickpeas (Garbanzo)** | Soaked | **15-20m** HP | **15m NR** | Much longer - different timing. Must be soaked first. |
 
 ---
 

@@ -75,10 +75,29 @@
 **Much Longer Timing (15-20 mins HP, 15m NR):**
 - Chickpeas/Garbanzo beans (different timing entirely)
 
-### Bean Soaking Methods
-1. **Overnight:** Cover with water, soak 8-12 hours, drain
-2. **Quick Soak:** Cover with water, bring to boil, remove from heat, soak 1 hour, drain
-3. **Always drain** before pressure cooking
+### What Does "Soaked" Mean?
+**"Soaked" = beans have been rehydrated in water before cooking**
+
+**Why soak?** Dried beans are hard and need water to soften before pressure cooking. Soaking makes them cook faster and more evenly.
+
+**Two Methods:**
+
+**1. Overnight Soak (Easiest - No Work)**
+- Put dried beans in large bowl
+- Cover with **3-4 inches of water** (beans will expand)
+- Let sit **8-12 hours** (overnight is perfect)
+- **Drain and rinse** before cooking
+- **Best for:** Planning ahead, set it and forget it
+
+**2. Quick Soak (1 Hour - When You Forgot)**
+- Put dried beans in pot
+- Cover with **3-4 inches of water**
+- **Bring to boil**, then **remove from heat**
+- **Cover and let sit 1 hour**
+- **Drain and rinse** before cooking
+- **Best for:** When you forgot to soak overnight
+
+**Important:** Always drain and rinse soaked beans before pressure cooking. Don't use the soaking water - it contains stuff that causes gas.
 
 ### Bean Notes
 - **Canned = convenience** - use when you want no prep

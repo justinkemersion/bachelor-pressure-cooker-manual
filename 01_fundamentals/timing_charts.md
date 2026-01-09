@@ -36,4 +36,4 @@
 1. **Never quick release rice** - Always natural release for proper texture
 2. **Frozen proteins** - Add 2-4 minutes to thawed times
 3. **Rice ratios** - White rice: 1:1, Brown rice: 1:1.25 (rice:water)
-4. **Bean soaking** - Soak overnight OR use 1-hour quick soak method
+4. **Bean soaking** - "Soaked" means beans have been rehydrated in water. **Overnight:** Cover with water, soak 8-12 hours, drain. **Quick Soak:** Cover with water, bring to boil, remove from heat, soak 1 hour, drain. **Always drain and rinse** before cooking.
