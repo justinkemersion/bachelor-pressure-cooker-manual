@@ -12,10 +12,97 @@ These work in almost any savory dish:
 - **Black Pepper** - Add post-cook for brightness (grounds during pressure cooking)
 - **Salt** - Always layer: some during cooking, some at finish
 
-### Heat Spices
+### Heat Spices (Dried)
 - **Cayenne** - Pure heat, use sparingly (1/4-1/2 tsp)
 - **Chili Powder** - Heat + flavor (cumin, garlic, oregano blend)
 - **Red Pepper Flakes** - Texture + heat, add post-cook
+
+### Fresh Peppers: The Heat Element
+Fresh peppers add **identifiable heat** and **flavor complexity** that dried spices can't match. They're the difference between "spicy" and "that habanero heat I recognize."
+
+#### Heat Levels (Practical Guide)
+
+| Pepper | Heat Level | Flavor Profile | Best For | Bachelor Note |
+| :--- | :--- | :--- | :--- | :--- |
+| **Jalapeño** | Mild-Medium | Fresh, grassy | Tex-Mex, salsas | Remove seeds = milder |
+| **Serrano** | Medium | Sharp, bright | Mexican, Thai | Slightly hotter than jalapeño |
+| **Habanero** | Very Hot | Fruity, tropical | Caribbean, Tex-Mex | **Distinct flavor** - you'll know it |
+| **Poblano** | Mild | Earthy, rich | Mexican, roasted dishes | Very mild, mostly flavor |
+
+**Heat Scale (Practical):**
+- **Mild (Poblano):** Adds flavor, minimal heat
+- **Medium (Jalapeño, Serrano):** Noticeable heat, manageable
+- **Hot (Habanero):** **Respect the heat** - use sparingly, always remove seeds
+
+#### 🚨 Safety First: Handling Hot Peppers
+
+**The Golden Rule:** **Always wear gloves** when handling habaneros or any hot pepper. The oils can burn your skin and **will burn your eyes** if you touch them.
+
+**What to Do:**
+1. **Wear disposable gloves** (or use a plastic bag as a glove)
+2. **Wash hands thoroughly** after handling (even with gloves)
+3. **Don't touch your face** until hands are clean
+4. **Remove seeds and membranes** - this is where most heat lives
+
+**What NOT to Do:**
+- ❌ Touch peppers bare-handed then rub your eyes
+- ❌ Skip gloves with habaneros (you'll regret it)
+- ❌ Use the same cutting board for peppers and other food without washing
+
+#### How to Prepare Peppers
+
+**For Infusion (Phase 1 - Adds Heat Throughout):**
+1. **Slice in half lengthwise**
+2. **Remove seeds and white membranes** (scrape with a spoon)
+3. **Add to cooking liquid** during Phase 1
+4. **Remove before Phase 2** (heat has infused into liquid)
+
+**For Fresh Heat (Phase 3 - Bright, Sharp Heat):**
+1. **Dice finely** (seeds removed)
+2. **Add after cooking** as garnish/topping
+3. **Stir in at the end** for immediate heat
+
+**The Bachelor's Method (Habanero Infusion):**
+- Slice 1 habanero in half
+- Remove seeds (use gloves!)
+- Place both halves in Phase 1 cooking liquid
+- Remove before Phase 2
+- **Result:** Beautiful, identifiable habanero heat throughout the dish without overwhelming spice
+
+#### When to Use Fresh Peppers
+
+**Phase 1 (Infusion Method):**
+- ✅ Want heat **throughout the dish**
+- ✅ Want **subtle, ambient heat** (not sharp)
+- ✅ Cooking liquid will absorb the heat
+- ✅ **Best for:** Habanero, serrano (hot peppers)
+
+**Phase 3 (Fresh Method):**
+- ✅ Want **bright, sharp heat**
+- ✅ Want heat that **hits immediately**
+- ✅ Want to **control heat per serving**
+- ✅ **Best for:** Jalapeño, serrano (medium peppers)
+
+**Both Methods:**
+- ✅ Want **maximum heat and flavor**
+- ✅ Add in Phase 1 for infusion, add fresh in Phase 3 for brightness
+
+#### Substitution Guide
+
+**No fresh peppers?**
+- **Habanero heat:** 1/4-1/2 tsp cayenne (lacks the fruity flavor)
+- **Jalapeño heat:** 1-2 tsp red pepper flakes (lacks freshness)
+- **Canned chilis:** Green chilis, jalapeños in cans work great (see `bachelor_hacks.md`)
+
+**Too hot?**
+- Remove seeds and membranes (90% of heat lives here)
+- Use less pepper (half instead of whole)
+- Add dairy (sour cream, cheese) to cool down
+
+**Not hot enough?**
+- Add more peppers (but start small!)
+- Keep seeds in (careful - this is a big jump)
+- Add fresh diced pepper in Phase 3 for immediate heat
 
 ### Earthy/Warm Spices
 - **Cumin** - Survives pressure cooking, essential for Tex-Mex/Middle Eastern
