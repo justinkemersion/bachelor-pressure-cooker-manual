@@ -39,8 +39,14 @@ Fresh peppers add **identifiable heat** and **flavor complexity** that dried spi
 **The Golden Rule:** **Always wear gloves** when handling habaneros or any hot pepper. The oils can burn your skin and **will burn your eyes** if you touch them.
 
 **What to Do:**
-1. **Wear disposable gloves** (or use a plastic bag as a glove)
-2. **Wash hands thoroughly** after handling (even with gloves)
+1. **Wear disposable gloves** - OR use the **Bachelor Hack: Ziplock Bag Glove**
+   - **No gloves?** Grab a ziplock bag (sandwich or quart size)
+   - **Put your hand inside** like a glove
+   - **Hold the pepper** through the bag
+   - **Slice and remove seeds** - the bag protects your hands
+   - **Toss the bag** when done (or wash and reuse if you're thrifty)
+   - **Pro tip:** Use the bag to hold the pepper while you scrape out seeds with a spoon
+2. **Wash hands thoroughly** after handling (even with gloves/bag)
 3. **Don't touch your face** until hands are clean
 4. **Remove seeds and membranes** - this is where most heat lives
 
