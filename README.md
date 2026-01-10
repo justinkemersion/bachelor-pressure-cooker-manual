@@ -90,6 +90,8 @@ Bachelor-Cookbook/
 │   └── [future recipes]                # All other recipes (concise, build on Initiation Recipe)
 │
 ├── 04_reference/                       # Quick lookup tables - keep these handy
+│   ├── bachelors_essentials.md         # Pocket shopping list (Tier 1/2/3 priorities)
+│   │                                   # → Must-have essentials, build-up items, nice-to-have upgrades
 │   ├── glossary.md                     # Abbreviations (HP, NR, QR) and cooking terms
 │   │                                   # → "Soaked" beans explained, pressure cooker terminology
 │   ├── safety_check.md                 # Safety & chemistry logic (extracted from Initiation Recipe)
@@ -141,6 +143,7 @@ Bachelor-Cookbook/
 - Reference `01_fundamentals/` for timing and flavor guidance
 
 **Meal prep & shortcuts?**
+- `04_reference/bachelors_essentials.md` ← Pocket shopping list (print this!)
 - `01_fundamentals/bachelor_hacks.md` ← Substitutions and smart shortcuts
 - `02_techniques/bulk_prep_and_freezing.md` ← The $10 chicken strategy
 
