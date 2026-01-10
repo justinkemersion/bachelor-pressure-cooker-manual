@@ -181,7 +181,35 @@ Bachelor-Cookbook/
 
 When creating recipes, follow these markdown standards for print-readiness:
 
-1. **Page Breaks:** Use `---` to indicate where pages should end
+### Front/Back Page Layout (Spiral-Bound Strategy)
+
+**Consistent Organization:** All recipes follow a front/back layout for easy navigation:
+
+**📄 FRONT SIDE (Main Recipe - While Cooking):**
+- Recipe title, profile, and method
+- Quick Reference Cheat Sheet (condensed key info)
+- Ingredients list (with checkboxes)
+- Execution steps (Phase 1, 2, 3, etc.)
+- Minimal abbreviations (HP, NR, QR)
+
+**📄 BACK SIDE (Reference Info - After Cooking):**
+- Storage & Reheating instructions
+- Chemistry Notes (why it works)
+- Troubleshooting / What to Worry About
+- Full Abbreviations glossary
+- Version History
+
+**Page Break Marker:** Use `<!-- PAGE_BREAK -->` or a clear `---` separator to indicate where the front side ends and back side begins.
+
+**Why This Works:**
+- **While cooking:** Follow the front side - everything you need is there
+- **After cooking:** Flip to the back for storage, troubleshooting, and understanding
+- **Consistent:** Same layout across all recipes = muscle memory
+- **Laminated:** Front side gets most use, back side stays clean for reference
+
+### Markdown Formatting Rules
+
+1. **Page Breaks:** Use `<!-- PAGE_BREAK -->` to mark front/back separation
 2. **Typography:** 
    - `#` for Recipe Titles
    - `##` for Phases (Prep/Cook/Drizzle)

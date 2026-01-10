@@ -71,6 +71,12 @@
 4. Season with fresh black pepper
 5. Taste and adjust salt if needed
 
+<!-- PAGE_BREAK -->
+<!-- 
+  FRONT SIDE ENDS HERE - Everything above is what you need while cooking
+  BACK SIDE STARTS BELOW - Reference info for after cooking
+-->
+
 ---
 
 ## Storage & Reheating
