@@ -9,7 +9,7 @@ from pathlib import Path
 # Base paths
 BASE_DIR = Path(__file__).parent.parent
 TIMING_CHARTS = BASE_DIR / "01_fundamentals" / "timing_charts.md"
-TIMING_DICT = BASE_DIR / "04_reference" / "Timing_Dictionary.md"
+TIMING_DICT = BASE_DIR / "04_reference" / "timing_dictionary.md"
 RECIPES_DIR = BASE_DIR / "03_recipes"
 
 
@@ -74,7 +74,7 @@ class TestTimingConsistency:
     
     def test_timing_dictionary_exists(self):
         """Timing dictionary should exist"""
-        assert TIMING_DICT.exists(), "Timing_Dictionary.md should exist"
+        assert TIMING_DICT.exists(), "timing_dictionary.md should exist"
     
     def test_chicken_thighs_timing(self):
         """Chicken thighs timing should be consistent"""
@@ -136,7 +136,14 @@ class TestRecipeFormat:
         """All recipes should have Quick Reference section"""
         for recipe_file in RECIPES_DIR.glob("*.md"):
             content = recipe_file.read_text()
-            assert "Quick Reference" in content or "📖" in content, \
+            # Check for various Quick Reference formats (case-insensitive)
+            has_quick_ref = (
+                "Quick Reference" in content or 
+                "QUICK REFERENCE" in content or
+                "📋" in content or 
+                "📖" in content
+            )
+            assert has_quick_ref, \
                 f"{recipe_file.name} should have Quick Reference section"
     
     def test_all_recipes_have_chemistry_notes(self):

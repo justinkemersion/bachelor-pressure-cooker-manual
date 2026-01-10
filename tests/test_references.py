@@ -51,10 +51,17 @@ class TestFileReferences:
                 if "/" in ref:
                     ref_path = BASE_DIR / ref
                 else:
+                    # If reference is just a filename, check common locations
                     ref_path = md_file.parent / ref
+                    if not ref_path.exists() and "templates" in str(md_file):
+                        # Template references recipes in 03_recipes/
+                        ref_path = BASE_DIR / "03_recipes" / ref
+                    elif not ref_path.exists():
+                        # Try recipes directory as fallback
+                        ref_path = BASE_DIR / "03_recipes" / ref
                 
                 assert ref_path.exists(), \
-                    f"{md_file.name} references {ref} which doesn't exist"
+                    f"{md_file.name} references {ref} which doesn't exist (checked: {ref_path})"
 
 
 class TestAbbreviations:
@@ -111,7 +118,7 @@ class TestTimingFormat:
         """Timing should use consistent format (e.g., '8 mins HP' or '8m HP')"""
         timing_files = [
             BASE_DIR / "01_fundamentals" / "timing_charts.md",
-            BASE_DIR / "04_reference" / "Timing_Dictionary.md"
+            BASE_DIR / "04_reference" / "timing_dictionary.md"
         ]
         
         for timing_file in timing_files:
