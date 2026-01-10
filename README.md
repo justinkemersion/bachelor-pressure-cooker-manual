@@ -61,31 +61,88 @@ Each recipe in this cookbook is designed as a **modular component** - like Lego 
 
 ## 📁 Repository Structure
 
+**Complete directory map with file descriptions:**
+
 ```
 Bachelor-Cookbook/
-├── 01_fundamentals/          # Core knowledge base
-│   ├── timing_charts.md      # Pressure cooker timing reference
-│   └── spices_and_flavor.md  # Spice, acid, and umami guide
 │
-├── 02_techniques/            # Cooking methods
-│   └── core_techniques.md     # Searing, rice prep, PIP method, etc.
+├── 01_fundamentals/                    # Core knowledge base - learn these first
+│   ├── bachelor_hacks.md               # Smart shortcuts, substitutions, pantry flexibility
+│   │                                   # → Bouillon cubes, rice types, frozen veg shortcuts
+│   ├── spices_and_flavor.md            # Flavor chemistry: spices, acids, umami, fresh peppers
+│   │                                   # → Heat levels, safety (gloves/ziplock hack), infusion methods
+│   └── timing_charts.md                # Complete pressure cooker timing reference
+│                                       # → Chicken cuts, rice types, beans (canned/dried/soaked)
 │
-├── 03_recipes/               # Actual recipes
-│   ├── chipotle_burrito_bowl.md  # 🎓 INITIATION RECIPE (most thorough - learn here!)
-│   └── [recipe files]        # Other recipes (more concise after you learn basics)
+├── 02_techniques/                      # Cooking methods and meal prep systems
+│   ├── bulk_prep_and_freezing.md       # The $10 chicken strategy, marinade & freeze system
+│   │                                   # → Individual portions, freezer bags, thawing methods
+│   └── core_techniques.md              # Core pressure cooker techniques
+│                                       # → Sequential cooking, PIP method, liquid logic, reheating
 │
-├── 04_reference/             # Quick lookup tables
-│   ├── glossary.md           # Abbreviations and terms
-│   └── Timing_Dictionary.md  # Cook time quick reference table
+├── 03_recipes/                         # Actual recipes - your cookbook
+│   ├── chipotle_burrito_bowl.md        # 🎓 INITIATION RECIPE - Master reference & cheat sheet
+│   │                                   # → Most thorough, teaches all fundamentals, visit again & again
+│   ├── chipotle_burrito_bowl_fond_method.md  # Alternative: searing + reduction glaze technique
+│   │                                           # → Builds fond, creates drizzle, different flavor depth
+│   ├── Balsamic_Chicken_Bowl.md        # Italian/Mediterranean flavor profile
+│   │                                   # → Introduces balsamic drizzle, fat balance, Cannellini beans
+│   └── [future recipes]                # All other recipes (concise, build on Initiation Recipe)
 │
-├── 05_print/                 # Print-ready compiled versions
-│   └── [generated files]     # PDF/HTML versions for printing
+├── 04_reference/                       # Quick lookup tables - keep these handy
+│   ├── glossary.md                     # Abbreviations (HP, NR, QR) and cooking terms
+│   │                                   # → "Soaked" beans explained, pressure cooker terminology
+│   ├── safety_check.md                 # Safety & chemistry logic (extracted from Initiation Recipe)
+│   │                                   # → Doneness checks, what's safe vs. throw out, troubleshooting
+│   └── timing_dictionary.md            # High-contrast quick reference table
+│                                       # → Fast lookup for cook times, release methods, bachelor notes
 │
-├── templates/                # Recipe templates
-│   └── recipe_template.md    # Standard recipe format
+├── 05_print/                           # Print-ready compiled versions
+│   └── [generated files]               # PDF/HTML versions for lamination and spiral binding
 │
-└── README.md                 # This file
+├── templates/                         # Recipe templates for consistency
+│   └── recipe_template.md              # Standard recipe format - use for new recipes
+│                                       # → Includes "Building on Foundation" and "New Lego Block" sections
+│
+├── tests/                              # Pytest test suite for cookbook validation
+│   ├── test_content_validation.py      # Checks recipe format, completeness, required sections
+│   ├── test_references.py              # Validates all cross-references exist
+│   ├── test_timing_consistency.py      # Ensures timing accuracy across all files
+│   └── README.md                       # Test suite documentation
+│
+├── notes-for-cursor/                   # Development notes and style examples (not for print)
+│   ├── Balsamic_Chicken_Bowl-style-example.md  # Print-ready formatting example
+│   └── recipe-style-check-and-more.md           # Style guidelines and development notes
+│
+├── venv/                               # Python virtual environment (gitignored)
+│                                       # → Run `./setup.sh` to create and install dependencies
+│
+├── setup.sh                            # Automated setup script
+│                                       # → Creates venv, installs requirements, runs tests
+├── requirements-dev.txt                # Python dependencies (pytest, pytest-cov)
+├── pytest.ini                          # Pytest configuration
+└── README.md                           # This file - project overview and guide
 ```
+
+### 📍 Quick Navigation Guide
+
+**New to pressure cooking?** Start here:
+1. `03_recipes/chipotle_burrito_bowl.md` ← **Initiation Recipe** (master this first!)
+2. `01_fundamentals/spices_and_flavor.md` ← Learn flavor chemistry
+3. `02_techniques/core_techniques.md` ← Understand the methods
+
+**Need a quick lookup?**
+- `04_reference/timing_dictionary.md` ← Cook times at a glance
+- `04_reference/safety_check.md` ← Is it safe? Troubleshooting
+- `04_reference/glossary.md` ← What does "NR" mean?
+
+**Creating a new recipe?**
+- `templates/recipe_template.md` ← Start here
+- Reference `01_fundamentals/` for timing and flavor guidance
+
+**Meal prep & shortcuts?**
+- `01_fundamentals/bachelor_hacks.md` ← Substitutions and smart shortcuts
+- `02_techniques/bulk_prep_and_freezing.md` ← The $10 chicken strategy
 
 ---
 
