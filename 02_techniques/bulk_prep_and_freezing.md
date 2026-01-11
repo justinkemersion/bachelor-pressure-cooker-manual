@@ -26,7 +26,7 @@ You bought **~$10 worth of chicken thighs** (usually 2-3 lbs), used a quarter fo
 ### Step 2: Prepare Marinades
 Choose 2-3 different flavor profiles for variety:
 
-**See `01_fundamentals/bachelor_hacks.md` for marinade recipes**
+**See Marinade Recipes section below** (includes the 🏆 Pantry Hero - the all-purpose winner!)
 
 ### Step 3: Add to Bags
 1. **Place chicken** in freezer bag
@@ -92,6 +92,50 @@ Choose 2-3 different flavor profiles for variety:
 - 1 tsp garlic powder
 - 1/2 tsp salt
 - 1/4 cup lemon juice
+
+### 🏆 Pantry Hero Marinade (The All-Purpose Winner)
+**Makes enough for 2-3 lbs chicken (8-10 thighs) - scale down for individual portions**
+
+**The Liquid Base:**
+- 1/2 cup olive oil
+- 1/4 cup balsamic vinegar
+- 2 tbsp lemon juice
+- 1 tbsp Worcestershire sauce
+
+**The Spices:**
+- 1 tsp garlic powder
+- 1 tsp onion powder
+- 1 tsp dried oregano
+- 1/2 tsp paprika (smoked if you have it!)
+- 1/2 tsp cumin (adds earthy, warm depth)
+- 1/4 tsp red pepper flakes (adjust for heat)
+- **1 tsp salt** ← Don't forget this!
+- **1/2 tsp black pepper** ← Don't forget this!
+
+**Chemistry Notes:**
+- **Oil (1/2 cup):** Fat base - carries flavors, keeps chicken moist
+- **Balsamic (1/4 cup):** High-acid + sweetness - balances richness, adds depth
+- **Lemon (2 tbsp):** Bright acid - cuts through fat, adds freshness
+- **Worcestershire (1 tbsp):** Umami bomb - depth and savory complexity
+- **Salt + Pepper:** **Critical** - salt brings out all other flavors, pepper adds brightness
+- **Spice blend:** Universal profile - works with Italian, Mediterranean, Tex-Mex dishes
+
+**Why This Works:**
+- **All pantry staples** - no special ingredients needed
+- **Balanced chemistry** - fat, acid, umami, heat all present
+- **Versatile** - works with rice bowls, pasta, wraps, salads
+- **Scales easily** - divide by 4 for 2-3 thighs (see below)
+
+**For Individual Portions (2-3 thighs):**
+- 2 tbsp olive oil
+- 1 tbsp balsamic vinegar
+- 1.5 tsp lemon juice
+- 3/4 tsp Worcestershire sauce
+- 1/4 tsp each: garlic powder, onion powder, oregano
+- 1/8 tsp each: paprika, cumin
+- Pinch red pepper flakes
+- 1/4 tsp salt
+- 1/8 tsp black pepper
 
 ---
 
