@@ -20,7 +20,8 @@
 - 1 tsp garlic powder
 - 1 tsp onion powder
 - 1 tsp dried oregano
-- 1/2 tsp paprika (smoked if you have it!)
+- 1 tsp dried thyme (the quiet, sophisticated hero - best herb for chicken and lemon)
+- 1/2 tsp smoked paprika (essential - regular paprika adds little)
 - 1/2 tsp cumin (adds earthy, warm depth)
 - 1/4 tsp red pepper flakes (adjust for heat)
 - **1 tsp salt** ← Don't forget this!
@@ -31,6 +32,8 @@
 - **Balsamic (1/4 cup):** High-acid + sweetness - balances richness, adds depth
 - **Lemon (2 tbsp):** Bright acid - cuts through fat, adds freshness
 - **Worcestershire (1 tbsp):** Umami bomb - depth and savory complexity
+- **Thyme (1 tsp):** The quiet, sophisticated hero - best herb for chicken and lemon. Heat-stable, infuses deep into chicken skin. Makes the dish taste "expensive."
+- **Smoked Paprika (1/2 tsp):** Flavor powerhouse - not just color. Essential upgrade over regular paprika.
 - **Salt + Pepper:** **Critical** - salt brings out all other flavors, pepper adds brightness
 - **Spice blend:** Universal profile - works with Italian, Mediterranean, Tex-Mex dishes
 
@@ -45,8 +48,8 @@
 - 1 tbsp balsamic vinegar
 - 1.5 tsp lemon juice
 - 3/4 tsp Worcestershire sauce
-- 1/4 tsp each: garlic powder, onion powder, oregano
-- 1/8 tsp each: paprika, cumin
+- 1/4 tsp each: garlic powder, onion powder, oregano, thyme
+- 1/8 tsp each: smoked paprika, cumin
 - Pinch red pepper flakes
 - 1/4 tsp salt
 - 1/8 tsp black pepper
@@ -81,15 +84,17 @@
 **Per 2-3 chicken thighs:**
 - 2 tbsp oil
 - 1 tsp oregano
+- 1 tsp thyme (the missing link - makes it taste expensive)
 - 1 tsp garlic powder
 - 1 tsp onion powder
 - 1/2 tsp salt
 - 1/4 cup red wine vinegar
 
-**Or use:** 1 Italian dressing packet + 2 tbsp oil + 2 tbsp vinegar
+**Or use:** 1 Italian dressing packet + 2 tbsp oil + 2 tbsp vinegar + 1 tsp thyme
 
 **Chemistry Notes:**
 - **Oregano:** Mediterranean base - signature Italian flavor
+- **Thyme:** The quiet, sophisticated hero - best herb for chicken. Makes dishes taste expensive.
 - **Red wine vinegar:** Complex acid - adds depth and brightness
 - **Garlic + Onion:** Umami base - savory foundation
 
@@ -123,12 +128,14 @@
 **Per 2-3 chicken thighs:**
 - 2 tbsp oil
 - 1 tsp oregano
+- 1 tsp thyme (essential for chicken and lemon - the missing link)
 - 1 tsp garlic powder
 - 1/2 tsp salt
 - 1/4 cup lemon juice
 
 **Chemistry Notes:**
 - **Oregano:** Mediterranean base - works with Greek, Italian, Middle Eastern
+- **Thyme:** Best herb for chicken and lemon. Makes the dish taste expensive.
 - **Lemon juice:** Bright acid - fresh, clean flavor
 - **Simple is better** - lets the chicken and other ingredients shine
 
@@ -163,9 +170,9 @@ Every good marinade needs:
 
 **Profile spices** (choose based on cuisine):
 - **Tex-Mex:** Cumin, chili powder
-- **Italian/Mediterranean:** Oregano
+- **Italian/Mediterranean:** Oregano, **thyme** (the missing link)
 - **Asian:** Ginger, soy sauce
-- **Universal:** Paprika (color), red pepper flakes (heat)
+- **Universal:** **Smoked paprika** (flavor powerhouse, not just color), red pepper flakes (heat)
 
 ### Scaling Tips
 

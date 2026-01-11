@@ -34,10 +34,11 @@
 ### Individual Spices (Replace Packets Gradually)
 - [ ] **Garlic powder** - most versatile spice
 - [ ] **Onion powder** - base flavor, works everywhere
-- [ ] **Oregano** - Mediterranean/Italian profiles
+- [ ] **Oregano** - Mediterranean/Italian profiles (the loud, bold relative)
+- [ ] **Thyme** - **The quiet, sophisticated hero.** Best herb for chicken and lemon. Makes dishes taste "expensive." The missing link.
+- [ ] **Smoked Paprika** - **Essential upgrade.** Regular paprika adds little - smoked paprika is a flavor powerhouse.
 - [ ] **Cumin** - Tex-Mex/Mexican, warm earthy flavor
 - [ ] **Chili powder** - heat and color
-- [ ] **Paprika** - color and mild flavor
 - [ ] **Black pepper** (whole peppercorns) - upgrade your grinder
 - [ ] **Salt** (kosher + table) - kosher for cooking, table for finishing
 

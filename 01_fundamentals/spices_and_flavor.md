@@ -7,14 +7,45 @@ These work in almost any savory dish:
 
 - **Garlic Powder** - Umami base, use 1-2 tsp per pound of protein
 - **Onion Powder** - Sweetness and depth, pairs with garlic
-- **Oregano** - Mediterranean base, works in Italian, Mexican, Greek
-- **Paprika** - Color and mild heat, use for visual appeal
+- **Oregano** - Mediterranean base, works in Italian, Mexican, Greek (the loud, bold relative who shows up at every pizza party)
+- **Thyme** - Earthy, minty with lemon and pine undertones. **The quiet, sophisticated hero.** Best herb for chicken and lemon. Heat-stable (tastes better the longer it cooks). Makes dishes taste "expensive."
+- **Smoked Paprika** - **Essential upgrade over regular paprika** (which adds little). Adds smoky depth, color, and complexity. Not just for color - it's a flavor powerhouse.
 - **Black Pepper** - Add post-cook for brightness (grounds during pressure cooking)
 - **Salt** - Always layer: some during cooking, some at finish
 
+### 🌿 Thyme: The Quiet, Sophisticated Hero
+
+**If Oregano is the loud, bold relative who shows up at every pizza party, Thyme is the quiet, sophisticated hero.**
+
+**Taste Profile:**
+- Earthy and minty with distinct lemon and pine undertones
+- Subtle but essential - the "missing link" in many dishes
+
+**Why It Works:**
+- **Famous for being the best herb for chicken and lemon**
+- Since you already have lemon juice and garlic in your marinades, thyme makes the whole dish taste "expensive"
+- Heat-stable: Won't lose flavor in the freezer or during pressure cooking
+- **Tastes better the longer it cooks** - one of the few herbs that improves with time
+
+**When and Where to Add:**
+- **In Marinades:** Add it now! It infuses into the olive oil and gets deep into the chicken skin
+- **How much:** Use about 1 teaspoon for a batch of 8-10 thighs
+- **During Pressure Cooking:** Add with other dried herbs - it will develop flavor throughout the cook
+
+**What Else to Do With It:**
+Once you have a jar of thyme, you'll find it's the "missing link" in many dishes:
+
+- **Roasted Potatoes:** Toss potatoes in olive oil, salt, and thyme before roasting. Better than any other herb for this.
+- **Soups & Stews:** The backbone of almost every chicken noodle soup or beef stew
+- **Mushrooms:** Thyme and mushrooms are a legendary pairing. Sauté them together in butter.
+- **Roasted Vegetables:** If that big tomato becomes part of a roasted vegetable tray, sprinkle some thyme on it.
+
+**The Bachelor's Wisdom:**
+Thyme is one of those spices that seems "optional" until you try it. Then you realize it was the missing piece that makes everything taste more sophisticated and complete.
+
 ### Heat Spices (Dried)
 - **Cayenne** - Pure heat, use sparingly (1/4-1/2 tsp)
-- **Chili Powder** - Heat + flavor (cumin, garlic, oregano blend)
+- **Chili Powder** - Heat + flavor (cumin, smoked paprika, garlic, oregano blend)
 - **Red Pepper Flakes** - Texture + heat, add post-cook
 
 ### Fresh Peppers: The Heat Element
@@ -113,10 +144,11 @@ Fresh peppers add **identifiable heat** and **flavor complexity** that dried spi
 ### Earthy/Warm Spices
 - **Cumin** - Survives pressure cooking, essential for Tex-Mex/Middle Eastern
 - **Coriander** - Citrusy, pairs with cumin
-- **Chili Powder** - Blend of cumin, paprika, garlic, oregano
+- **Chili Powder** - Blend of cumin, smoked paprika, garlic, oregano
 
 ### Fresh vs. Dried
 - **Dried herbs** (oregano, thyme, rosemary) - Add before pressure cooking
+  - **Thyme is special:** One of the few herbs that tastes better the longer it cooks. Add to marinades - it's heat-stable and infuses deep into chicken skin.
 - **Fresh herbs** (cilantro, parsley, basil) - Add post-cook as garnish/drizzle
 
 ---
@@ -181,9 +213,9 @@ The "savory" taste that adds depth and richness. Think: meaty, brothy, satisfyin
 2. **After pressure:** Fresh herbs, black pepper, acids, finishing salt
 
 ### Rule 3: Flavor Profile Consistency
-- **Mediterranean:** Oregano, garlic, lemon, red wine vinegar
+- **Mediterranean:** Oregano, **thyme**, garlic, lemon, red wine vinegar
 - **Tex-Mex:** Cumin, chili powder, lime, cilantro
-- **Italian:** Oregano, basil, garlic, balsamic/tomato
+- **Italian:** Oregano, **thyme**, basil, garlic, balsamic/tomato
 - **Asian:** Soy sauce, ginger, garlic, rice vinegar
 
 **Don't mix profiles** - If making Italian, don't add cumin. If making Tex-Mex, don't add balsamic.
@@ -203,11 +235,12 @@ Always finish with:
 1. Garlic powder
 2. Onion powder
 3. Oregano
-4. Paprika
-5. Cumin
-6. Chili powder
-7. Black pepper
-8. Salt (kosher + table)
+4. **Thyme** - The missing link. Best herb for chicken and lemon. Makes dishes taste expensive.
+5. **Smoked Paprika** - Essential upgrade. Regular paprika adds little - smoked paprika is a flavor powerhouse.
+6. Cumin
+7. Chili powder
+8. Black pepper
+9. Salt (kosher + table)
 
 ### Must-Have Acids
 1. Lemon juice (bottled is fine)
