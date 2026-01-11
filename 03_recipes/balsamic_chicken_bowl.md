@@ -71,12 +71,7 @@
 
 ---
 
-## 📖 Quick Reference (Abbreviations)
-- **HP** = High Pressure
-- **NR** = Natural Release (let pressure drop naturally - wait 10 mins, then vent)
-- **QR** = Quick Release (manually release pressure immediately)
-- **10m NR** = Wait 10 minutes natural release, then quick release remaining
-- **Sauté** = Sauté mode (browning/searing on stovetop setting)
+**Note:** For abbreviations (HP, NR, QR, etc.), see the **Initiation Recipe** (`chipotle_burrito_bowl.md`) Quick Reference section.
 
 ---
 
