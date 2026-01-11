@@ -87,7 +87,7 @@ Bachelor-Cookbook/
 │   │                                   # → Most thorough, teaches all fundamentals, visit again & again
 │   ├── chipotle_burrito_bowl_fond_method.md  # Alternative: searing + reduction glaze technique
 │   │                                           # → Builds fond, creates drizzle, different flavor depth
-│   ├── Balsamic_Chicken_Bowl.md        # Italian/Mediterranean flavor profile
+│   ├── balsamic_chicken_bowl.md        # Italian/Mediterranean flavor profile
 │   │                                   # → Introduces balsamic drizzle, fat balance, Cannellini beans
 │   └── [future recipes]                # All other recipes (concise, build on Initiation Recipe)
 │
@@ -115,7 +115,7 @@ Bachelor-Cookbook/
 │   └── README.md                       # Test suite documentation
 │
 ├── notes-for-cursor/                   # Development notes and style examples (not for print)
-│   ├── Balsamic_Chicken_Bowl-style-example.md  # Print-ready formatting example
+│   ├── balsamic_chicken_bowl-style-example.md  # Print-ready formatting example
 │   └── recipe-style-check-and-more.md           # Style guidelines and development notes
 │
 ├── venv/                               # Python virtual environment (gitignored)
