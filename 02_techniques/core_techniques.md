@@ -9,15 +9,136 @@
 
 ### How to Sear
 1. Set Instant Pot to **Sauté mode** (High)
-2. Add 1-2 tbsp oil (avocado, canola, or olive)
-3. Wait for "HOT" indicator
-4. Add protein (don't crowd - do in batches if needed)
-5. **Don't move it** - Let it brown 2-3 minutes per side
-6. Remove protein, deglaze pan with liquid (water, broth, wine)
+2. **Wait for "HOT" indicator** (critical step!)
+3. **Then** add 1-2 tbsp oil (see "Oils for Sautéing" below)
+4. Let oil heat 10-15 seconds (should shimmer slightly)
+5. Add protein (don't crowd - do in batches if needed)
+6. **Don't move it** - Let it brown 2-3 minutes per side
+7. Remove protein, deglaze pan with liquid (water, broth, wine)
 
 ### When to Skip Searing
 - If you're in a rush (but flavor will suffer)
 - For delicate proteins (fish, some vegetables)
+
+---
+
+## Oils for Sautéing: The Bachelor's Guide
+
+### The Golden Rule: Heat First, Oil Second
+**Always wait for the pan to be HOT before adding oil.** This prevents the oil from breaking down and creates better browning.
+
+**Why?** When you add oil to a cold pan, it heats slowly and can start to break down before you even add your food. Adding oil to a hot pan means it heats quickly and evenly, giving you better searing and flavor.
+
+**The Process:**
+1. Set Instant Pot to **Sauté (High)**
+2. Wait for **"HOT" indicator** (the display will show "HOT")
+3. **Then** add your oil
+4. Let oil heat **10-15 seconds** (you'll see it shimmer slightly)
+5. Add your protein
+
+### Oil Options (Ranked by Ease & Performance)
+
+#### 🏆 Country Crock Avocado Oil (Recommended)
+**Why it's great:**
+- **High smoke point** - won't burn easily, perfect for high-heat searing
+- **Neutral flavor** - doesn't overpower your food
+- **Easy to find** - available at most grocery stores
+- **Good value** - often cheaper than pure avocado oil
+- **Works for everything** - searing, sautéing, drizzling
+
+**Best for:** All-purpose searing, especially when you want neutral flavor
+
+**How to use:** 1-2 tbsp for searing 4 chicken thighs
+
+---
+
+#### Avocado Oil (Pure)
+**Why it's great:**
+- **Highest smoke point** - can handle very high heat
+- **Neutral flavor** - clean taste
+- **Healthy fats** - monounsaturated
+
+**Best for:** High-heat searing, when you want the best performance
+
+**Note:** More expensive than Country Crock version, but pure avocado oil
+
+---
+
+#### Canola Oil
+**Why it's great:**
+- **High smoke point** - handles heat well
+- **Neutral flavor** - doesn't interfere with spices
+- **Budget-friendly** - usually the cheapest option
+- **Versatile** - works for searing, baking, everything
+
+**Best for:** Budget-conscious cooking, all-purpose use
+
+**How to use:** 1-2 tbsp for searing
+
+---
+
+#### Olive Oil (Regular, Not Extra Virgin)
+**Why it's good:**
+- **Medium-high smoke point** - works for searing
+- **Adds flavor** - slight olive taste (can be good or bad depending on dish)
+- **Common** - most people have this on hand
+
+**Best for:** When you want a hint of olive flavor, Mediterranean dishes
+
+**⚠️ Important:** Use **regular olive oil** (not extra virgin) for searing. Extra virgin olive oil has a lower smoke point and can burn.
+
+**How to use:** 1-2 tbsp for searing
+
+---
+
+#### Extra Virgin Olive Oil (EVOO)
+**Why it's limited:**
+- **Lower smoke point** - can burn at high heat
+- **Expensive** - you're wasting money if you burn it
+- **Strong flavor** - can overpower delicate dishes
+
+**Best for:** **Drizzling after cooking** (finishing), not for high-heat searing
+
+**When to use:** Add a drizzle of EVOO after cooking for flavor and fat balance (especially with high-acid drizzles like balsamic)
+
+---
+
+### Quick Reference: Which Oil When?
+
+| Oil Type | Smoke Point | Best For | Price |
+| :--- | :--- | :--- | :--- |
+| **Country Crock Avocado** | High | All-purpose searing (recommended) | $ |
+| **Pure Avocado Oil** | Very High | High-heat searing | $$ |
+| **Canola Oil** | High | Budget-friendly, all-purpose | $ |
+| **Regular Olive Oil** | Medium-High | Mediterranean dishes, flavor | $ |
+| **Extra Virgin Olive Oil** | Low-Medium | **Drizzling after cooking** (not searing) | $$ |
+
+### Bachelor's Tips
+
+**Start with Country Crock Avocado Oil:**
+- It's the sweet spot of price, performance, and availability
+- Works for everything you'll need
+- No need to overthink it
+
+**The "HOT" Indicator Rule:**
+- Always wait for "HOT" before adding oil
+- This is the #1 mistake beginners make
+- Hot pan + hot oil = better browning
+
+**How Much Oil?**
+- **1-2 tbsp** is usually enough for 4 chicken thighs
+- Too much oil = greasy food
+- Too little oil = sticking and burning
+
+**Can You Reuse Oil?**
+- For searing, you usually deglaze with liquid anyway
+- If you have leftover oil in the pan, you can use it for the deglazing step
+- Don't save and reuse oil multiple times (it breaks down)
+
+**What If You Don't Have Oil?**
+- You can sear without oil, but it's harder and can stick
+- If desperate, use a tiny bit of butter (but it burns easily)
+- Better to skip searing than to burn butter
 
 ---
 

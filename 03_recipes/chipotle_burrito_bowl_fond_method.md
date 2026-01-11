@@ -50,8 +50,9 @@
 8.  **Clean pot completely** - remove all rice grains (important for next step).
 
 ### Phase 3: The Fond Build & Glaze
-1.  **Set pot to Sauté (High).** Add **1-2 tbsp oil**, wait for "HOT".
-2.  **Sear chicken** (both sides) **2-3 minutes per side** - build that fond!
+1.  **Set pot to Sauté (High).** Wait for **"HOT" indicator** (critical - see `02_techniques/core_techniques.md` for oil guidance).
+2.  **Then** add **1-2 tbsp oil** (Country Crock Avocado Oil recommended), let heat 10-15 seconds.
+3.  **Sear chicken** (both sides) **2-3 minutes per side** - build that fond!
 3.  **Remove chicken** to cutting board. **Let rest 5 minutes.**
 4.  **Deglaze:** Add **1/4 cup water/broth** (or saved cooking liquid) + **1 tbsp Worcestershire** (optional).
 5.  **Add spices:** Stir in **1 Taco Packet** (OR: 2tsp Cumin, 1tsp Chili, 1tsp Garlic, 1tsp Salt) - this is where the flavor goes!
