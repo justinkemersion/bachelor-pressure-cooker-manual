@@ -79,8 +79,10 @@ Bachelor-Cookbook/
 │   │                                   # → Individual portions, freezer bags, thawing methods
 │   ├── core_techniques.md             # Core pressure cooker techniques
 │   │                                   # → Sequential cooking, PIP method, liquid logic, reheating
-│   └── marinades.md                    # Complete marinade recipe collection
-│                                       # → Pantry Hero, Tex-Mex, Italian, Asian, Mediterranean
+│   ├── marinades.md                    # Complete marinade recipe collection
+│   │                                   # → Pantry Hero, Tex-Mex, Italian, Asian, Mediterranean
+│   └── meal_prep_storage.md            # Container strategy: glass vs plastic, vented lids
+│                                       # → Rubbermaid Brilliance recommendations, "OJ Hack" compatibility
 │
 ├── 03_recipes/                         # Actual recipes - your cookbook
 │   ├── chipotle_burrito_bowl.md        # 🎓 INITIATION RECIPE - Master reference & cheat sheet
