@@ -77,8 +77,10 @@ Bachelor-Cookbook/
 ├── 02_techniques/                      # Cooking methods and meal prep systems
 │   ├── bulk_prep_and_freezing.md       # The $10 chicken strategy, marinade & freeze system
 │   │                                   # → Individual portions, freezer bags, thawing methods
-│   └── core_techniques.md              # Core pressure cooker techniques
-│                                       # → Sequential cooking, PIP method, liquid logic, reheating
+│   ├── core_techniques.md             # Core pressure cooker techniques
+│   │                                   # → Sequential cooking, PIP method, liquid logic, reheating
+│   └── marinades.md                    # Complete marinade recipe collection
+│                                       # → Pantry Hero, Tex-Mex, Italian, Asian, Mediterranean
 │
 ├── 03_recipes/                         # Actual recipes - your cookbook
 │   ├── chipotle_burrito_bowl.md        # 🎓 INITIATION RECIPE - Master reference & cheat sheet

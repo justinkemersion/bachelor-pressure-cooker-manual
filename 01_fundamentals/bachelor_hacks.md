@@ -205,26 +205,13 @@ You bought **~$10 worth of chicken thighs** (usually 2-3 lbs), used a quarter, n
 
 #### Marinade Options
 
-**Tex-Mex:**
-- 2 tbsp oil
-- 1 tsp each: cumin, chili powder, garlic powder, onion powder
-- 1/2 tsp salt
-- 1/4 cup lime juice (or use packet + add lime later)
+**See `02_techniques/marinades.md` for complete marinade recipes**, including:
+- 🏆 Pantry Hero (all-purpose winner)
+- Tex-Mex, Italian, Asian, Mediterranean
+- Chemistry notes and scaling tips
+- Quick reference guide
 
-**Italian:**
-- 2 tbsp oil
-- 1 tsp each: oregano, garlic powder, onion powder
-- 1/2 tsp salt
-- 1/4 cup red wine vinegar (or Italian dressing packet)
-
-**Asian:**
-- 2 tbsp oil
-- 2 tbsp soy sauce
-- 1 tsp garlic powder
-- 1 tsp ginger (powder or fresh)
-- 1/2 tsp salt
-
-**Using Spice Packets:**
+**Quick Spice Packet Method:**
 - **1 packet** + **2 tbsp oil** + **2 tbsp acid** (lemon/lime/vinegar)
 - Mix, add to bag with chicken
 - **Still add fresh acid post-cook** for brightness
