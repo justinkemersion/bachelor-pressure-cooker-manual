@@ -21,7 +21,7 @@
 - [ ] **Liquid:** Water only (no broth needed - we build flavor later)
 - [ ] **Bulk:** 1 can Black Beans (Drained)
 - [ ] **Seasoning:** 1 Taco Packet (OR: 2tsp Cumin, 1tsp Chili, 1tsp Garlic, 1tsp Salt)
-- [ ] **The Glaze:** 1/4 cup Water/Broth + 1 tbsp Worcestershire (optional) + 2 Fresh Limes
+- [ ] **The Glaze:** 1/4 cup Water/Broth + 1 tbsp Worcestershire (optional) + 2 Fresh Limes (OR 2-3 tbsp prepackaged lemon juice - see substitutions)
 - [ ] **Heat:** 1 Habanero (Halved, seeds removed)
 - [ ] **Bulk Fill:** Frozen pepper/onion mix (handful)
 
@@ -58,13 +58,13 @@
 5.  **Add spices:** Stir in **1 Taco Packet** (OR: 2tsp Cumin, 1tsp Chili, 1tsp Garlic, 1tsp Salt) - this is where the flavor goes!
 6.  **Scrape bottom** - get all those browned bits (the fond).
 7.  **Reduce:** Let simmer **2-3 minutes** until slightly thickened (glaze consistency).
-8.  **Remove from heat.** Add **juice of 1 lime** to glaze.
+8.  **Remove from heat.** Add **juice of 1 lime** (OR 1-1.5 tbsp prepackaged lemon juice) to glaze.
 
 ### Phase 4: The Finish
 1.  **Slice/shred chicken** (should be rested).
 2.  **Combine:** Rice + chicken + beans in bowl/containers.
 3.  **The Glaze Drizzle:** Pour reduction glaze over everything.
-4.  **Final Drizzle:** Squeeze **2nd lime** over bowl.
+4.  **Final Drizzle:** Squeeze **2nd lime** (OR 1-1.5 tbsp prepackaged lemon juice) over bowl.
 5.  **High Notes:** Add **cracked black pepper** and cilantro.
 
 ---
@@ -113,6 +113,7 @@
 *   **Glaze too thin?** Reduce longer (3-4 minutes) until it coats the back of a spoon.
 *   **Glaze too thick?** Add splash of water/broth to thin it.
 *   **No Worcestershire?** Skip it - the fond alone makes great flavor.
+*   **No fresh limes?** Use **2-3 tbsp prepackaged lemon juice** total (1-1.5 tbsp in glaze, 1-1.5 tbsp final drizzle). Lemon works great - slightly sweeter than lime, but same bright acid effect. Lime is more authentic for Tex-Mex, but lemon is a perfect substitute.
 *   **Chicken Shrinkage:** 4 thighs may look like a lot, but after the render, they perfectly balance 1.5 cups of rice.
 *   **No trivet?** See `01_fundamentals/bachelor_hacks.md` for foil trivet trick.
 
