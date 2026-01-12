@@ -41,7 +41,7 @@
 4.  **Sear chicken** (both sides) **2-3 minutes per side** - build that fond!
 5.  **Remove chicken** to plate (temporarily).
 6.  **Deglaze:** Add **1 cup water** to pot, scrape all browned bits (the fond).
-7.  **Save this deglazing liquid** in a bowl - we'll use it for the glaze later!
+7.  **Bank It:** **Pour this deglazing liquid into a bowl immediately** - we'll use it for the glaze later! *Why?* See "Bank & Burn" technique in Chemistry Notes - keeps the fond flavor pure.
 8.  **Clean pot** - wipe out any remaining bits (we need clean pot for rice).
 
 #### Phase 2A: Plain Protein Cook (Thawed - After Sear)
@@ -51,7 +51,7 @@
 4.  **Pressure Cook:** **8 mins** High Pressure.
 5.  **Release:** Wait 10 mins (Natural Release), then vent.
 6.  **Remove habanero** (if used) - discard. Heat has infused into liquid.
-7.  **Remove chicken** to plate. **Discard this cooking liquid** (we're using the saved deglazing liquid instead).
+7.  **Remove chicken** to plate. **Discard this cooking liquid** - it's just utility water, now dirty with chicken scum. We're using the banked deglazing liquid instead (see "Bank & Burn" technique).
 
 #### Phase 3A: Plain Rice Cook (Thawed Path)
 1.  **Add 1.5 cups water** to pot (plain water - no flavor yet).
@@ -64,9 +64,9 @@
 7.  **Fluff rice** and remove to serving bowl/containers.
 8.  **Clean pot completely** - remove all rice grains (important for next step).
 
-#### Phase 4A: The Glaze (Thawed Path - Using Saved Deglazing Liquid)
+#### Phase 4A: The Glaze (Thawed Path - The "Burn" Step)
 1.  **Set pot to Sauté (High).** Wait for **"HOT" indicator**.
-2.  **Add saved deglazing liquid** (from Phase 1A) to pot.
+2.  **Pour your banked deglazing liquid** (from Phase 1A) back into the pot - this is the "Burn" step!
 3.  **Add 1 tbsp Worcestershire** (optional).
 4.  **Add spices:** Stir in **1 Taco Packet** (OR: 2tsp Cumin, 1tsp Chili, 1tsp Garlic, 1tsp Salt) - this is where the flavor goes!
 5.  **Reduce:** Let simmer **2-3 minutes** until slightly thickened (glaze consistency).
@@ -145,10 +145,22 @@
 ---
 
 ## 🧪 Chemistry Notes (Bachelor Logic)
-*   **Why Two Paths?** Thawed chicken can be seared first to build fond, then deglazed and saved. Frozen chicken needs to cook first (can't sear frozen effectively), then sear after cooking.
-*   **The Fond (Thawed Path):** Sear first → deglaze with 1 cup water → save that liquid. This captures all the Maillard reaction flavors before they're lost in the pressure cooker.
-*   **The Fond (Frozen Path):** Cook first → sear after → deglaze immediately. The searing after cooking still builds fond, just in a different order.
-*   **Why Save Deglazing Liquid (Thawed)?** That liquid contains all the fond flavor. Using it in the reduction glaze maximizes flavor extraction.
+
+### 🧱 The "Bank & Burn" Technique (Why we use two liquids)
+
+*   **The Problem:** If you pressure cook the chicken *in* the deglazing liquid, the amazing "roasted" smell disappears.
+*   **The Science:** Pressure cookers are sealed environments. Zero evaporation = Zero concentration. If you cook in your fond, it gets diluted by chicken juices and mixed with gray protein "scum" (albumin). It turns your liquid gold into cloudy soup.
+*   **The Fix:** We treat them as separate operations:
+    1.  **Bank It:** Create the fond, deglaze it, and **pour it into a bowl immediately.** This keeps the flavor pure and concentrated.
+    2.  **The Utility Water:** Add fresh water to cook the chicken. This water's only job is steam. It will get dirty/scummy. **Discard it.**
+    3.  **The Burn:** Once the pot is empty, pour your "Banked" liquid back in and reduce it.
+*   **The Result:** A clear, dark, intense glaze that smells like roasted meat, not boiled chicken.
+
+### Why Two Paths?
+
+*   **Thawed Path:** Sear first → deglaze with 1 cup water → **bank that liquid** → cook chicken in fresh water → discard cooking water → use banked liquid for glaze. This is the "Bank & Burn" technique in action.
+*   **Frozen Path:** Cook first → sear after → deglaze immediately. The searing after cooking still builds fond, but we can't bank it first (chicken was frozen). Still works great, just different order.
+*   **Why Save Deglazing Liquid (Thawed)?** That liquid contains all the fond flavor. Using it in the reduction glaze maximizes flavor extraction. The "Bank & Burn" keeps it pure.
 *   **Two-Stage Flavor:** Plain cook preserves texture, searing builds flavor - best of both worlds.
 *   **The Glaze:** Reduction concentrates the fond flavor into a drizzle-able sauce.
 *   **The Habanero Infusion:** Adding habanero in the cooking phase (if using) infuses "Ambient Heat" - it's everywhere, but not a "landmine." Seeds removed = controlled heat.
