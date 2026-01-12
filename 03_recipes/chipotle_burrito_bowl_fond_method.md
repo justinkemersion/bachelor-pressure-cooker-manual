@@ -58,7 +58,7 @@
 3.  **Add frozen peppers/onions:** Handful of bagged frozen mix (no chopping needed!).
 4.  **Add beans** on top of rice (do not stir).
 5.  **Add drained chilis** on top of beans (do not stir).
-5.  **Pressure Cook:** **6 mins** High Pressure (Basmati) OR **5 mins** (Long Grain White).
+6.  **Pressure Cook:** **6 mins** High Pressure (Basmati) OR **5 mins** (Long Grain White).
 6.  **Release:** Wait 10 mins (Natural Release). **Do not skip—this sets the starch.**
 7.  **Fluff rice** and remove to serving bowl/containers.
 8.  **Clean pot completely** - remove all rice grains (important for next step).
@@ -92,7 +92,7 @@
 3.  **Add frozen peppers/onions:** Handful of bagged frozen mix (no chopping needed!).
 4.  **Add beans** on top of rice (do not stir).
 5.  **Add drained chilis** on top of beans (do not stir).
-5.  **Pressure Cook:** **6 mins** High Pressure (Basmati) OR **5 mins** (Long Grain White).
+6.  **Pressure Cook:** **6 mins** High Pressure (Basmati) OR **5 mins** (Long Grain White).
 6.  **Release:** Wait 10 mins (Natural Release). **Do not skip—this sets the starch.**
 7.  **Fluff rice** and remove to serving bowl/containers.
 8.  **Clean pot completely** - remove all rice grains (important for next step).

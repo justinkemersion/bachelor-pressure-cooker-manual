@@ -33,7 +33,7 @@
 2.  **Insert Trivet.** Place chicken on top (don't submerge).
 3.  **Pressure Cook:** **8 mins** (Thawed) OR **12-15 mins** (Frozen, **12m minimum**).
 4.  **Release:** Wait 10 mins (Natural Release), then vent.
-5.  **Acid Rest:** Move chicken to a plate. **Drizzle 1-2 tbsp balsamic** over it immediately. Cover with foil.
+5.  **Acid Rest:** Move chicken to a plate. **Drizzle 1-2 tbsp balsamic** over it immediately. Cover with foil. **Let rest 5 minutes** (while rice cooks).
 
 ### Phase 2: The Base (10m NR)
 1.  **Add Rice** directly into the flavored liquid remaining in the pot.
@@ -47,6 +47,22 @@
 2.  **The Final Drizzle:** Drizzle remaining **1-2 tbsp balsamic** over everything. 
 3.  **The Fat Balance:** Drizzle **1 tbsp Extra Virgin Olive Oil** (optional but recommended - smooths the balsamic bite).
 4.  **High Notes:** Add a heavy hit of **cracked black pepper** and fresh herbs (thyme, parsley, or basil if available).
+
+---
+
+## 📦 Meal Prep & Storage
+
+### Storage
+- Cool quickly, portion into containers
+- Refrigerate up to **3-4 days**
+
+### Universal Reheating (The "OJ Hack")
+1.  **Liquid:** Add a **splash of Orange Juice** (or water minimum) to the container. 
+2.  **Steam:** Cover with lid slightly ajar. 
+3.  **Power:** **3:30 mins** at **Power Level 7** (prevents rubbery chicken).
+4.  **Finish:** Stir in a pinch of **dried oregano** and **fresh cracked black pepper**. *Why:* Restores high notes lost during reheating. OJ adds brightness, oregano adds herbal depth.
+
+**See `02_techniques/core_techniques.md` for universal reheating method.**
 
 ---
 
