@@ -29,17 +29,30 @@
 
 ## 🛠 Execution (The Script)
 
-### Phase 1: Plain Protein Cook (10m NR)
-1.  **If thawed:** Season chicken with spice mix (both sides). **If frozen:** Use pre-marinated frozen chicken.
-2.  **Add 1 cup water** to pot (just for steam - no flavor needed here).
-3.  **Optional Habanero:** If using habanero, add **halved, seeds removed** to water now (removes before Phase 2).
-4.  **Insert Trivet.** Place chicken on top (don't submerge).
-5.  **Pressure Cook:** **8 mins** (Thawed) OR **14 mins** (Frozen, **12m minimum**, up to 15m for larger pieces).
-6.  **Release:** Wait 10 mins (Natural Release), then vent.
-7.  **Remove habanero** (if used) - discard. Heat has infused into liquid.
-8.  **Remove chicken** to plate. **Save cooking liquid** - we'll use it for glaze.
+**⚠️ IMPORTANT: Two Different Paths Based on Chicken State**
 
-### Phase 2: Plain Rice Cook (10m NR)
+### Path A: Thawed Chicken (Sear First, Then Cook)
+
+#### Phase 1A: Initial Sear & Deglaze (Thawed Only)
+1.  **Season chicken** with spice mix (both sides).
+2.  **Set pot to Sauté (High).** Wait for **"HOT" indicator** (critical - see `02_techniques/core_techniques.md` for oil guidance).
+3.  **Then** add **1-2 tbsp oil** (Country Crock Avocado Oil recommended), let heat 10-15 seconds.
+4.  **Sear chicken** (both sides) **2-3 minutes per side** - build that fond!
+5.  **Remove chicken** to plate (temporarily).
+6.  **Deglaze:** Add **1 cup water** to pot, scrape all browned bits (the fond).
+7.  **Save this deglazing liquid** in a bowl - we'll use it for the glaze later!
+8.  **Clean pot** - wipe out any remaining bits (we need clean pot for rice).
+
+#### Phase 2A: Plain Protein Cook (Thawed - After Sear)
+1.  **Add 1 cup water** to pot (just for steam - no flavor needed here).
+2.  **Optional Habanero:** If using habanero, add **halved, seeds removed** to water now (removes before Phase 3).
+3.  **Insert Trivet.** Place **seared chicken** on top (don't submerge).
+4.  **Pressure Cook:** **8 mins** High Pressure.
+5.  **Release:** Wait 10 mins (Natural Release), then vent.
+6.  **Remove habanero** (if used) - discard. Heat has infused into liquid.
+7.  **Remove chicken** to plate. **Discard this cooking liquid** (we're using the saved deglazing liquid instead).
+
+#### Phase 3A: Plain Rice Cook (Thawed Path)
 1.  **Add 1.5 cups water** to pot (plain water - no flavor yet).
 2.  **Add rinsed rice** directly to water.
 3.  **Add frozen peppers/onions:** Handful of bagged frozen mix (no chopping needed!).
@@ -49,19 +62,53 @@
 7.  **Fluff rice** and remove to serving bowl/containers.
 8.  **Clean pot completely** - remove all rice grains (important for next step).
 
-### Phase 3: The Fond Build & Glaze
+#### Phase 4A: The Glaze (Thawed Path - Using Saved Deglazing Liquid)
+1.  **Set pot to Sauté (High).** Wait for **"HOT" indicator**.
+2.  **Add saved deglazing liquid** (from Phase 1A) to pot.
+3.  **Add 1 tbsp Worcestershire** (optional).
+4.  **Add spices:** Stir in **1 Taco Packet** (OR: 2tsp Cumin, 1tsp Chili, 1tsp Garlic, 1tsp Salt) - this is where the flavor goes!
+5.  **Reduce:** Let simmer **2-3 minutes** until slightly thickened (glaze consistency).
+6.  **Remove from heat.** Add **juice of 1 lime** (OR 1-1.5 tbsp prepackaged lemon juice) to glaze.
+
+---
+
+### Path B: Frozen Chicken (Cook First, Then Sear)
+
+#### Phase 1B: Plain Protein Cook (Frozen Only)
+1.  **Use pre-marinated frozen chicken** (or season if not pre-marinated).
+2.  **Add 1 cup water** to pot (just for steam - no flavor needed here).
+3.  **Optional Habanero:** If using habanero, add **halved, seeds removed** to water now (removes before Phase 2).
+4.  **Insert Trivet.** Place chicken on top (don't submerge).
+5.  **Pressure Cook:** **14 mins** (Frozen, **12m minimum**, up to 15m for larger pieces).
+6.  **Release:** Wait 10 mins (Natural Release), then vent.
+7.  **Remove habanero** (if used) - discard. Heat has infused into liquid.
+8.  **Remove chicken** to plate. **Save cooking liquid** - we'll use it for glaze.
+
+#### Phase 2B: Plain Rice Cook (Frozen Path)
+1.  **Add 1.5 cups water** to pot (plain water - no flavor yet).
+2.  **Add rinsed rice** directly to water.
+3.  **Add frozen peppers/onions:** Handful of bagged frozen mix (no chopping needed!).
+4.  **Add beans** on top of rice (do not stir).
+5.  **Pressure Cook:** **6 mins** High Pressure (Basmati) OR **5 mins** (Long Grain White).
+6.  **Release:** Wait 10 mins (Natural Release). **Do not skip—this sets the starch.**
+7.  **Fluff rice** and remove to serving bowl/containers.
+8.  **Clean pot completely** - remove all rice grains (important for next step).
+
+#### Phase 3B: The Fond Build & Glaze (Frozen Path)
 1.  **Set pot to Sauté (High).** Wait for **"HOT" indicator** (critical - see `02_techniques/core_techniques.md` for oil guidance).
 2.  **Then** add **1-2 tbsp oil** (Country Crock Avocado Oil recommended), let heat 10-15 seconds.
 3.  **Sear chicken** (both sides) **2-3 minutes per side** - build that fond!
-3.  **Remove chicken** to cutting board. **Let rest 5 minutes.**
-4.  **Deglaze:** Add **1/4 cup water/broth** (or saved cooking liquid) + **1 tbsp Worcestershire** (optional).
-5.  **Add spices:** Stir in **1 Taco Packet** (OR: 2tsp Cumin, 1tsp Chili, 1tsp Garlic, 1tsp Salt) - this is where the flavor goes!
-6.  **Scrape bottom** - get all those browned bits (the fond).
-7.  **Reduce:** Let simmer **2-3 minutes** until slightly thickened (glaze consistency).
-8.  **Remove from heat.** Add **juice of 1 lime** (OR 1-1.5 tbsp prepackaged lemon juice) to glaze.
+4.  **Remove chicken** to cutting board. **Let rest 5 minutes.**
+5.  **Deglaze:** Add **1/4 cup water/broth** (or saved cooking liquid from Phase 1B) + **1 tbsp Worcestershire** (optional).
+6.  **Add spices:** Stir in **1 Taco Packet** (OR: 2tsp Cumin, 1tsp Chili, 1tsp Garlic, 1tsp Salt) - this is where the flavor goes!
+7.  **Scrape bottom** - get all those browned bits (the fond).
+8.  **Reduce:** Let simmer **2-3 minutes** until slightly thickened (glaze consistency).
+9.  **Remove from heat.** Add **juice of 1 lime** (OR 1-1.5 tbsp prepackaged lemon juice) to glaze.
 
-### Phase 4: The Finish
-1.  **Slice/shred chicken** (should be rested).
+---
+
+### Phase 4: The Finish (Both Paths)
+1.  **Slice/shred chicken** (should be rested - if frozen path, it already rested during searing).
 2.  **Combine:** Rice + chicken + beans in bowl/containers.
 3.  **The Glaze Drizzle:** Pour reduction glaze over everything.
 4.  **Final Drizzle:** Squeeze **2nd lime** (OR 1-1.5 tbsp prepackaged lemon juice) over bowl.
@@ -95,21 +142,25 @@
 ---
 
 ## 🧪 Chemistry Notes (Bachelor Logic)
-*   **Why Plain First?** We cook plain to preserve the chicken's natural juices, then build flavor through searing.
-*   **The Fond:** Those browned bits = deep, complex flavor. The reduction glaze captures it all.
+*   **Why Two Paths?** Thawed chicken can be seared first to build fond, then deglazed and saved. Frozen chicken needs to cook first (can't sear frozen effectively), then sear after cooking.
+*   **The Fond (Thawed Path):** Sear first → deglaze with 1 cup water → save that liquid. This captures all the Maillard reaction flavors before they're lost in the pressure cooker.
+*   **The Fond (Frozen Path):** Cook first → sear after → deglaze immediately. The searing after cooking still builds fond, just in a different order.
+*   **Why Save Deglazing Liquid (Thawed)?** That liquid contains all the fond flavor. Using it in the reduction glaze maximizes flavor extraction.
 *   **Two-Stage Flavor:** Plain cook preserves texture, searing builds flavor - best of both worlds.
 *   **The Glaze:** Reduction concentrates the fond flavor into a drizzle-able sauce.
-*   **The Habanero Infusion:** Adding habanero in Phase 1 (if using) infuses "Ambient Heat" - it's everywhere, but not a "landmine." Seeds removed = controlled heat.
+*   **The Habanero Infusion:** Adding habanero in the cooking phase (if using) infuses "Ambient Heat" - it's everywhere, but not a "landmine." Seeds removed = controlled heat.
 *   **More Steps, More Flavor:** This method takes longer but creates restaurant-quality depth.
 
 ---
 
 ## ⚠️ Troubleshooting
+*   **Which path do I use?** Thawed chicken = Path A (sear first). Frozen chicken = Path B (cook first, then sear).
+*   **Forgot to save deglazing liquid (Thawed Path)?** Use 1/4 cup water/broth instead - you'll still get good flavor from the spices.
 *   **Rice is crunchy?** Add 1/4 cup water, 2 mins HP, Quick Release.
 *   **Rice is mushy?** You used too much water. Use exactly 1.5 cups.
-*   **Chicken is dry?** You skipped the 5-minute rest. Never skip the rest.
+*   **Chicken is dry?** (Frozen Path) You skipped the 5-minute rest after searing. Never skip the rest. (Thawed Path) The chicken should be fine after pressure cooking - make sure you used the trivet.
 *   **Frozen chicken not done?** 14m is recommended, but 12m is minimum - larger pieces may need 15m. The 10m NR continues cooking.
-*   **Fond burned?** Heat was too high. Medium-high is better for searing.
+*   **Fond burned?** Heat was too high. Medium-high is better for searing. Wait for "HOT" indicator before adding oil.
 *   **Glaze too thin?** Reduce longer (3-4 minutes) until it coats the back of a spoon.
 *   **Glaze too thick?** Add splash of water/broth to thin it.
 *   **No Worcestershire?** Skip it - the fond alone makes great flavor.
