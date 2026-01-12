@@ -51,6 +51,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 - [ ] **Base:** 1.5 cups Basmati Rice (OR Long Grain White - see timing) — *Rinse until water runs clear (3-4 rinses). This removes starch so rice doesn't get gummy.*
 - [ ] **Liquid:** **2 cups** Chicken Broth — *The "Burn-Proof" 1:1 + Buffer. Can use water + bouillon cube if no broth.*
 - [ ] **Bulk:** 1 can Black Beans — *Drain and rinse. Canned beans are already cooked, so they just need to heat through.*
+- [ ] **Heat Boost:** 1 can Drained Chilis (Jalapeños, Green Chilis, or similar) — *Adds heat and flavor. Drain well before adding.*
 
 ### The Seasonings (When & How to Use)
 
@@ -111,8 +112,8 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 
 3.  **Layer on Top (Don't Stir!):** 
    - Add **drained black beans** on top of the rice
+   - Add **1 can drained chilis** (jalapeños, green chilis, or similar) on top of the beans
    - Add **frozen pepper/onion mix** (handful) if using
-   - **Optional:** Add a can or two of drained jalapeños or chilis for extra heat
    
    *Why layer, not stir?* Stirring can cause the rice to stick to the bottom and burn. Layering lets everything cook together without burning.
 
@@ -214,6 +215,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 - 1.5 cups Basmati rice, rinsed
 - 2 cups chicken broth
 - 1 can black beans, drained
+- 1 can chilis, drained (jalapeños, green chilis, or similar)
 - 1 taco seasoning packet (or: 2tsp cumin, 1tsp chili powder, 1tsp garlic powder, 1tsp salt)
 - 2 limes
 - Fresh cracked black pepper
@@ -225,7 +227,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 
 **Phase 1:** Add broth, seasoning, and habanero to pot. Place trivet, add chicken on top. Pressure cook 8 mins (thawed) or 14 mins (frozen). 10m NR. Remove habanero. Squeeze 1 lime over chicken, rest 5 mins.
 
-**Phase 2:** Add rice to liquid. Layer beans and frozen veg on top (don't stir). Pressure cook 6 mins (Basmati) or 5 mins (Long Grain White). 10m NR.
+**Phase 2:** Add rice to liquid. Layer beans, chilis, and frozen veg on top (don't stir). Pressure cook 6 mins (Basmati) or 5 mins (Long Grain White). 10m NR.
 
 **Phase 3:** Fluff rice, mix in chicken. Squeeze 2nd lime over everything. Add cracked pepper and cilantro.
 

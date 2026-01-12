@@ -20,6 +20,7 @@
 - [ ] **Base:** 1.5 cups Basmati Rice (OR Long Grain White - see timing) (Rinsed until clear)
 - [ ] **Liquid:** Water only (no broth needed - we build flavor later)
 - [ ] **Bulk:** 1 can Black Beans (Drained)
+- [ ] **Heat Boost:** 1 can Drained Chilis (Jalapeños, Green Chilis, or similar) — *Adds heat and flavor. Drain well before adding.*
 - [ ] **Seasoning:** 1 Taco Packet (OR: 2tsp Cumin, 1tsp Chili, 1tsp Garlic, 1tsp Salt)
 - [ ] **The Glaze:** 1/4 cup Water/Broth + 1 tbsp Worcestershire (optional) + 2 Fresh Limes (OR 2-3 tbsp prepackaged lemon juice - see substitutions)
 - [ ] **Heat:** 1 Habanero (Halved, seeds removed)
@@ -57,6 +58,7 @@
 2.  **Add rinsed rice** directly to water.
 3.  **Add frozen peppers/onions:** Handful of bagged frozen mix (no chopping needed!).
 4.  **Add beans** on top of rice (do not stir).
+5.  **Add drained chilis** on top of beans (do not stir).
 5.  **Pressure Cook:** **6 mins** High Pressure (Basmati) OR **5 mins** (Long Grain White).
 6.  **Release:** Wait 10 mins (Natural Release). **Do not skip—this sets the starch.**
 7.  **Fluff rice** and remove to serving bowl/containers.
@@ -89,6 +91,7 @@
 2.  **Add rinsed rice** directly to water.
 3.  **Add frozen peppers/onions:** Handful of bagged frozen mix (no chopping needed!).
 4.  **Add beans** on top of rice (do not stir).
+5.  **Add drained chilis** on top of beans (do not stir).
 5.  **Pressure Cook:** **6 mins** High Pressure (Basmati) OR **5 mins** (Long Grain White).
 6.  **Release:** Wait 10 mins (Natural Release). **Do not skip—this sets the starch.**
 7.  **Fluff rice** and remove to serving bowl/containers.
