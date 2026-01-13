@@ -146,6 +146,202 @@ Fresh peppers add **identifiable heat** and **flavor complexity** that dried spi
 - **Coriander** - Citrusy, pairs with cumin
 - **Chili Powder** - Blend of cumin, smoked paprika, garlic, oregano
 
+### 🌿 Refined Bachelor's Spices (The Upgrade Path)
+
+**These spices take your cooking from "good" to "restaurant-quality" without being overwhelming. They're the difference between "this tastes like chicken" and "this tastes expensive."**
+
+#### Rosemary: The Mediterranean Powerhouse
+**Taste Profile:** Piney, woody, slightly minty - bold and assertive
+**Why It Works:**
+- **Heat-stable:** Survives pressure cooking beautifully, actually improves with long cooking
+- **Versatile:** Works with chicken, beef, potatoes, roasted vegetables
+- **Classic pairing:** Rosemary + Thyme = Mediterranean foundation
+- **Makes simple dishes impressive:** A few sprigs make roasted chicken taste like a restaurant
+
+**When and Where to Add:**
+- **In marinades:** Add whole sprigs or crushed dried leaves (1 tsp per pound of protein)
+- **During pressure cooking:** Add with other dried herbs - it infuses into the liquid
+- **Best for:** Italian, Mediterranean, French profiles
+- **How much:** 1 tsp dried rosemary (or 2-3 sprigs fresh) per pound of protein
+
+**What Else to Do With It:**
+- **Roasted potatoes:** Toss with olive oil, salt, and rosemary - classic and delicious
+- **Chicken thighs:** Rub with rosemary, thyme, garlic powder, salt - simple but impressive
+- **Beef stews:** Adds depth and complexity to long-cooked dishes
+
+**The Bachelor's Wisdom:**
+Rosemary is bold - use it confidently. It won't disappear in the background like some herbs. It's the "I know what I'm doing" spice.
+
+---
+
+#### Bay Leaves: The Silent Depth Builder
+**Taste Profile:** Subtle, slightly floral, earthy - you won't taste it directly, but you'll miss it if it's gone
+**Why It Works:**
+- **Adds background depth:** Doesn't dominate, but rounds out flavors
+- **Essential for soups/stews:** The difference between "good" and "complete"
+- **Heat-stable:** Survives long cooking, releases flavor slowly
+- **Cheap and lasts forever:** One jar lasts months
+
+**When and Where to Add:**
+- **During pressure cooking:** Add 1-2 whole leaves to the cooking liquid
+- **Remove before serving:** They're not meant to be eaten (tough and bitter)
+- **Best for:** Soups, stews, rice dishes, braised meats
+- **How much:** 1-2 leaves per pot (they're potent)
+
+**What Else to Do With It:**
+- **Rice dishes:** Add a bay leaf to the cooking liquid - subtle but noticeable improvement
+- **Chicken broth:** Makes store-bought broth taste homemade
+- **Bean dishes:** Adds depth to black beans, white beans, chickpeas
+
+**The Bachelor's Wisdom:**
+Bay leaves are the "secret ingredient" you didn't know you needed. You won't taste them directly, but your dish will taste more complete.
+
+---
+
+#### Sage: The Poultry Specialist
+**Taste Profile:** Earthy, slightly bitter, savory - the "Thanksgiving turkey" herb
+**Why It Works:**
+- **Perfect for chicken:** Sage + chicken is a legendary pairing
+- **Heat-stable:** Survives pressure cooking, develops flavor over time
+- **Adds sophistication:** Makes simple chicken taste like a holiday meal
+- **Works with butter:** Sage + butter = classic French technique
+
+**When and Where to Add:**
+- **In marinades:** Add 1 tsp dried sage per pound of chicken
+- **During pressure cooking:** Add with other dried herbs
+- **Best for:** Italian, Mediterranean, American (Thanksgiving-style) profiles
+- **How much:** 1 tsp dried sage (or 4-5 fresh leaves) per pound of protein
+
+**What Else to Do With It:**
+- **Chicken thighs:** Rub with sage, thyme, garlic powder - simple but impressive
+- **Butter sauce:** Melt butter, add sage, drizzle over finished chicken
+- **Stuffing/dressing:** Classic pairing (if you make sides)
+
+**The Bachelor's Wisdom:**
+Sage is the "holiday dinner" spice. It makes everyday chicken feel special. If you like Thanksgiving flavors, you'll love sage.
+
+---
+
+#### Turmeric: The Golden Warmth
+**Taste Profile:** Earthy, slightly bitter, warm - adds golden color and subtle depth
+**Why It Works:**
+- **Adds color:** Turns rice golden, makes dishes look more appetizing
+- **Warmth without heat:** Adds complexity without spiciness
+- **Versatile:** Works in many profiles (Mediterranean, Middle Eastern, Asian)
+- **Health benefits:** Anti-inflammatory properties (bonus!)
+
+**When and Where to Add:**
+- **During pressure cooking:** Add 1/2-1 tsp to rice cooking liquid for golden rice
+- **In marinades:** Pairs well with cumin, coriander, garlic
+- **Best for:** Rice dishes, chicken, vegetables, Middle Eastern profiles
+- **How much:** 1/2-1 tsp per pot (a little goes a long way)
+
+**What Else to Do With It:**
+- **Golden rice:** Add to rice cooking liquid - beautiful color and subtle flavor
+- **Chicken marinades:** Pairs with cumin, coriander, garlic powder
+- **Roasted vegetables:** Toss with olive oil, salt, turmeric
+
+**The Bachelor's Wisdom:**
+Turmeric is the "make it look expensive" spice. Golden rice looks more appetizing than plain white rice. Plus, it adds subtle warmth without heat.
+
+---
+
+#### Ginger Powder: The Asian Warmth
+**Taste Profile:** Warm, slightly spicy, slightly sweet - the "Asian restaurant" flavor
+**Why It Works:**
+- **Essential for Asian profiles:** Soy sauce + ginger + garlic = Asian foundation
+- **Adds warmth:** Not heat, but warmth - like a gentle hug
+- **Versatile:** Works in marinades, rice dishes, stir-fries (if you expand beyond pressure cooking)
+- **Pairs with garlic:** Ginger + garlic = Asian flavor base
+
+**When and Where to Add:**
+- **In marinades:** Add 1 tsp per pound of protein
+- **During pressure cooking:** Add with other spices to cooking liquid
+- **Best for:** Asian profiles, chicken, rice dishes
+- **How much:** 1 tsp per pound of protein (or 1/2 tsp for subtle warmth)
+
+**What Else to Do With It:**
+- **Asian marinades:** Soy sauce + ginger + garlic powder + sesame oil
+- **Rice dishes:** Add to rice cooking liquid for Asian-style rice
+- **Chicken thighs:** Rub with ginger, garlic powder, soy sauce
+
+**The Bachelor's Wisdom:**
+Ginger powder is the "I can make Asian food" spice. It's the difference between "chicken with soy sauce" and "Asian-style chicken."
+
+---
+
+#### Coriander: The Citrusy Depth (Expanded)
+**Taste Profile:** Citrusy, slightly sweet, floral - the "bright earthiness" spice
+**Why It Works:**
+- **Pairs with cumin:** Cumin + coriander = Middle Eastern/Tex-Mex foundation
+- **Adds brightness:** Unlike other earthy spices, coriander has a citrusy note
+- **Versatile:** Works in Tex-Mex, Middle Eastern, Indian profiles
+- **Heat-stable:** Survives pressure cooking beautifully
+
+**When and Where to Add:**
+- **In spice blends:** Always pair with cumin (2:1 ratio: 2 parts cumin, 1 part coriander)
+- **During pressure cooking:** Add with other spices to cooking liquid
+- **Best for:** Tex-Mex, Middle Eastern, Indian profiles
+- **How much:** 1 tsp per pound of protein (or 1/2 tsp if using with cumin)
+
+**What Else to Do With It:**
+- **Tex-Mex blends:** Cumin + coriander + chili powder + garlic powder
+- **Middle Eastern profiles:** Cumin + coriander + turmeric + garlic powder
+- **Chicken marinades:** Adds brightness to earthy spice blends
+
+**The Bachelor's Wisdom:**
+Coriander is the "secret brightness" in spice blends. It's what makes your Tex-Mex taste authentic, not just "spicy."
+
+---
+
+#### Fennel Seeds: The Italian Licorice
+**Taste Profile:** Licorice-like, slightly sweet, aromatic - the "Italian sausage" flavor
+**Why It Works:**
+- **Essential for Italian profiles:** Fennel + oregano + thyme = Italian foundation
+- **Adds complexity:** The licorice note is subtle but distinctive
+- **Heat-stable:** Survives pressure cooking, releases flavor slowly
+- **Pairs with pork:** If you expand to pork, fennel is essential
+
+**When and Where to Add:**
+- **During pressure cooking:** Add 1/2-1 tsp whole seeds to cooking liquid
+- **In spice blends:** Crush slightly to release more flavor
+- **Best for:** Italian, Mediterranean profiles
+- **How much:** 1/2-1 tsp per pot (whole seeds)
+
+**What Else to Do With It:**
+- **Italian marinades:** Fennel + oregano + thyme + garlic powder
+- **Rice dishes:** Add to rice cooking liquid for Italian-style rice
+- **If you cook pork:** Fennel + pork = classic pairing
+
+**The Bachelor's Wisdom:**
+Fennel seeds are the "Italian restaurant" spice. If you like Italian food, you'll recognize this flavor. It's what makes Italian sausage taste like Italian sausage.
+
+---
+
+#### Mustard Powder: The Tangy Depth
+**Taste Profile:** Tangy, slightly bitter, sharp - the "honey mustard" base (without the honey)
+**Why It Works:**
+- **Adds tanginess:** Unlike acids (which are added post-cook), mustard powder adds tang during cooking
+- **Works in marinades:** Pairs with honey, brown sugar, vinegar
+- **Versatile:** Works in many profiles (American, European, Asian)
+- **Heat-stable:** Survives pressure cooking
+
+**When and Where to Add:**
+- **In marinades:** Add 1 tsp per pound of protein
+- **During pressure cooking:** Add with other spices to cooking liquid
+- **Best for:** Chicken, pork (if you expand), marinades
+- **How much:** 1 tsp per pound of protein
+
+**What Else to Do With It:**
+- **Honey mustard marinades:** Mustard powder + honey + apple cider vinegar
+- **Chicken thighs:** Rub with mustard powder, garlic powder, salt, pepper
+- **Tangy sauces:** Mustard powder + vinegar + honey = quick sauce
+
+**The Bachelor's Wisdom:**
+Mustard powder is the "tangy depth" spice. It's what makes honey mustard taste like honey mustard. It adds complexity without being overwhelming.
+
+---
+
 ### Fresh vs. Dried
 - **Dried herbs** (oregano, thyme, rosemary) - Add before pressure cooking
   - **Thyme is special:** One of the few herbs that tastes better the longer it cooks. Add to marinades - it's heat-stable and infuses deep into chicken skin.
@@ -213,10 +409,11 @@ The "savory" taste that adds depth and richness. Think: meaty, brothy, satisfyin
 2. **After pressure:** Fresh herbs, black pepper, acids, finishing salt
 
 ### Rule 3: Flavor Profile Consistency
-- **Mediterranean:** Oregano, **thyme**, garlic, lemon, red wine vinegar
-- **Tex-Mex:** Cumin, chili powder, lime, cilantro
-- **Italian:** Oregano, **thyme**, basil, garlic, balsamic/tomato
-- **Asian:** Soy sauce, ginger, garlic, rice vinegar
+- **Mediterranean:** Oregano, **thyme**, **rosemary**, garlic, lemon, red wine vinegar, **bay leaves**
+- **Tex-Mex:** Cumin, **coriander**, chili powder, lime, cilantro
+- **Italian:** Oregano, **thyme**, **rosemary**, **fennel seeds**, basil, garlic, balsamic/tomato, **bay leaves**
+- **Asian:** Soy sauce, **ginger**, garlic, rice vinegar
+- **Middle Eastern:** Cumin, **coriander**, **turmeric**, garlic, lemon
 
 **Don't mix profiles** - If making Italian, don't add cumin. If making Tex-Mex, don't add balsamic.
 
@@ -251,9 +448,28 @@ Always finish with:
 1. Worcestershire sauce
 2. Soy sauce
 
-### Nice-to-Have
-- Red wine vinegar
-- Balsamic vinegar
-- Fish sauce
-- Tomato paste
-- Fresh herbs (when available)
+### Nice-to-Have (Refined Bachelor's Upgrade)
+**These spices elevate your cooking from "good" to "restaurant-quality." Add them as you build your collection.**
+
+**The Sophisticated Herbs:**
+- **Rosemary** - Mediterranean powerhouse, heat-stable, makes simple dishes impressive
+- **Bay Leaves** - Silent depth builder, essential for soups/stews, cheap and lasts forever
+- **Sage** - Poultry specialist, the "Thanksgiving turkey" herb, makes chicken taste special
+- **Basil (dried)** - Italian staple, though fresh is better (add fresh post-cook)
+
+**The Warmth Spices:**
+- **Turmeric** - Golden warmth, adds color and subtle depth, versatile
+- **Ginger Powder** - Asian warmth, essential for Asian profiles, adds gentle heat
+- **Coriander** - Citrusy depth, pairs with cumin, the "bright earthiness" spice
+- **Fennel Seeds** - Italian licorice, the "Italian sausage" flavor, adds complexity
+
+**The Depth Builders:**
+- **Mustard Powder** - Tangy depth, works in marinades, adds complexity
+- **Red Wine Vinegar** - Mediterranean acid, pairs with Italian/Mediterranean dishes
+- **Balsamic Vinegar** - Sweet complexity, Italian/Mediterranean, adds richness
+- **Fish Sauce** - Umami depth, Southeast Asian profiles, use sparingly
+- **Tomato Paste** - Richness and depth, Italian/Mediterranean, sear it for best flavor
+
+**The Fresh Upgrades:**
+- **Fresh herbs** (cilantro, parsley, basil, rosemary, thyme) - when available, brightens dishes
+- **Fresh peppers** (jalapeño, serrano, habanero) - for heat control and fresh flavor

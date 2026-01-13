@@ -57,13 +57,26 @@
 
 ---
 
-## 🎯 Tier 3: Nice-to-Have (Upgrade When Ready)
+## 🎯 Tier 3: Nice-to-Have (Upgrade When Ready - The Refined Bachelor's Collection)
+
+### Sophisticated Herbs (The Restaurant-Quality Upgrade)
+- [ ] **Rosemary** - Mediterranean powerhouse, heat-stable, makes simple dishes impressive
+- [ ] **Bay Leaves** - Silent depth builder, essential for soups/stews, cheap and lasts forever
+- [ ] **Sage** - Poultry specialist, the "Thanksgiving turkey" herb, makes chicken taste special
+- [ ] **Basil (dried)** - Italian staple, though fresh is better (add fresh post-cook)
+
+### Warmth Spices (The Depth Builders)
+- [ ] **Turmeric** - Golden warmth, adds color and subtle depth, versatile
+- [ ] **Ginger Powder** - Asian warmth, essential for Asian profiles, adds gentle heat
+- [ ] **Coriander** - Citrusy depth, pairs with cumin, the "bright earthiness" spice (if not already in Tier 2)
+- [ ] **Fennel Seeds** - Italian licorice, the "Italian sausage" flavor, adds complexity
 
 ### Advanced Ingredients
-- [ ] **Fresh herbs** (cilantro, parsley, basil) - when available, brightens dishes
+- [ ] **Fresh herbs** (cilantro, parsley, basil, rosemary, thyme) - when available, brightens dishes
 - [ ] **Fresh peppers** (jalapeño, serrano, habanero) - for heat control and fresh flavor
 - [ ] **Fish sauce** - umami depth, Southeast Asian profiles
 - [ ] **Tomato paste** - richness and depth, Italian/Mediterranean
+- [ ] **Mustard Powder** - Tangy depth, works in marinades, adds complexity
 - [ ] **Various vinegars** (white wine, rice wine) - profile-specific acids
 
 ### Kitchen Upgrades
