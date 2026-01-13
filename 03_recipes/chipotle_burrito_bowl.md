@@ -70,7 +70,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 - [ ] **1-2 Bay Leaves** — *Adds background depth. Remove before Phase 2 (they're not meant to be eaten).*
 
 **Phase 3 Finishing (Added After Cooking):**
-- [ ] **Acid:** 2 Fresh Limes — *Cut in half, squeeze over finished dish. Brightens everything.*
+- [ ] **Acid:** 2 Fresh Limes (OR 3-4 tbsp lemon/lime juice concentrate) — *Fresh: Cut in half, squeeze over finished dish. Concentrate: Drizzle over finished dish. Brightens everything.*
 - [ ] **High Notes:** Fresh Cracked Black Pepper — *Use a pepper grinder or crack whole peppercorns. Adds brightness that pressure cooking kills.*
 - [ ] **Fresh Herb:** Fresh Cilantro (optional but recommended) — *Chop leaves, sprinkle on top. Skip if you hate cilantro.*
 
@@ -104,7 +104,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 
 6.  **Clean Up:** Remove and **discard the habanero** (if used) and **bay leaves** (if used). The heat/flavor has infused into the liquid.
 
-7.  **Acid Rest:** Move chicken to a plate. **Cut 1 lime in half and squeeze it over the chicken immediately.** Cover with foil or a plate. Let rest 5 minutes.
+7.  **Acid Rest:** Move chicken to a plate. **Cut 1 lime in half and squeeze it over the chicken immediately** (OR drizzle 1.5-2 tbsp lemon/lime juice concentrate). Cover with foil or a plate. Let rest 5 minutes.
    
    *Why squeeze lime now?* The acid penetrates the meat fibers while it's hot, cutting through fat and adding depth. Resting makes the chicken juicier.
 
@@ -143,7 +143,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 
 2.  **Combine with Chicken:** Add your **shredded chicken** to the rice/bean mix. Mix gently with a fork.
 
-3.  **The Final Drizzle:** Cut your **2nd lime in half** and **squeeze it over everything** in the pot. Give it a good squeeze - you want the juice, not just a few drops.
+3.  **The Final Drizzle:** Cut your **2nd lime in half** and **squeeze it over everything** in the pot (OR drizzle 1.5-2 tbsp lemon/lime juice concentrate). Give it a good squeeze - you want the juice, not just a few drops.
    
    *Why lime now?* Acid brightens the whole dish and cuts through the fat. It's the "wake up" flavor that makes everything pop.
 
@@ -151,7 +151,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
    
    *Why these now?* Pressure cooking kills bright, fresh flavors. Adding pepper and cilantro at the end restores that brightness. Pepper adds heat and depth. Cilantro adds fresh, herbal notes that balance the richness.
 
-5.  **Taste & Adjust:** Give it a taste. Need more salt? Add it now. Need more lime? Squeeze more. This is your chance to adjust.
+5.  **Taste & Adjust:** Give it a taste. Need more salt? Add it now. Need more lime? Squeeze more (or add more concentrate). This is your chance to adjust.
 
 ---
 
@@ -224,7 +224,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 - 1 can chilis, drained (jalapeños, green chilis, or similar)
 - 1 taco seasoning packet (or: 2tsp cumin, 1tsp chili powder, 1tsp garlic powder, 1tsp salt)
 - Optional upgrades: 1 tsp thyme, 1 tsp coriander, 1/2 tsp smoked paprika, 1-2 bay leaves
-- 2 limes
+- 2 limes (OR 3-4 tbsp lemon/lime juice concentrate)
 - Fresh cracked black pepper
 - Fresh cilantro (optional)
 - 1 habanero, halved, seeds removed (optional)
@@ -232,11 +232,11 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 
 ### Instructions
 
-**Phase 1:** Add broth, seasoning, optional spices (thyme, coriander, smoked paprika, bay leaves), and habanero to pot. Place trivet, add chicken on top. Pressure cook 8 mins (thawed) or 14 mins (frozen). 10m NR. Remove habanero and bay leaves. Squeeze 1 lime over chicken, rest 5 mins.
+**Phase 1:** Add broth, seasoning, optional spices (thyme, coriander, smoked paprika, bay leaves), and habanero to pot. Place trivet, add chicken on top. Pressure cook 8 mins (thawed) or 14 mins (frozen). 10m NR. Remove habanero and bay leaves. Squeeze 1 lime (OR drizzle 1.5-2 tbsp concentrate) over chicken, rest 5 mins.
 
 **Phase 2:** Add rice to liquid. Layer beans, chilis, and frozen veg on top (don't stir). Pressure cook 6 mins (Basmati) or 5 mins (Long Grain White). 10m NR.
 
-**Phase 3:** Fluff rice, mix in chicken. Squeeze 2nd lime over everything. Add cracked pepper and cilantro.
+**Phase 3:** Fluff rice, mix in chicken. Squeeze 2nd lime (OR drizzle 1.5-2 tbsp concentrate) over everything. Add cracked pepper and cilantro.
 
 **See?** That's it. No explanations, no "why" notes, no training wheels. The Initiation Recipe above teaches you all the fundamentals so you can follow recipes like this confidently.
 
