@@ -63,6 +63,11 @@ This is your **foundational recipe** - the one you'll come back to again and aga
   - 1 tsp Garlic Powder — *Umami depth*
   - 1 tsp Salt — *Brings out all other flavors*
 
+**Optional Flavor Upgrades (Add to Phase 1):**
+- [ ] **1 tsp Coriander** — *Adds citrusy brightness, pairs with cumin. Highest flavor boost for Tex-Mex.*
+- [ ] **1/2 tsp Smoked Paprika** — *Adds smoky depth (essential upgrade over regular paprika).*
+- [ ] **1-2 Bay Leaves** — *Adds background depth. Remove before Phase 2 (they're not meant to be eaten).*
+
 **Phase 3 Finishing (Added After Cooking):**
 - [ ] **Acid:** 2 Fresh Limes — *Cut in half, squeeze over finished dish. Brightens everything.*
 - [ ] **High Notes:** Fresh Cracked Black Pepper — *Use a pepper grinder or crack whole peppercorns. Adds brightness that pressure cooking kills.*
@@ -80,7 +85,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 
 **What You're Doing:** Cooking the chicken in seasoned liquid. The chicken sits on a trivet (rack) so it steams, not boils. This keeps it tender.
 
-1.  **Add Liquid & Seasonings:** Pour **2 cups broth** into the pot. Add your **seasoning packet** (or individual spices: 2tsp cumin, 1tsp chili powder, 1tsp garlic powder, 1tsp salt). **Stir once** to mix. If using habanero, add **halved, seeds removed** now (use gloves!).
+1.  **Add Liquid & Seasonings:** Pour **2 cups broth** into the pot. Add your **seasoning packet** (or individual spices: 2tsp cumin, 1tsp chili powder, 1tsp garlic powder, 1tsp salt). **Optional upgrades:** Add 1 tsp coriander, 1/2 tsp smoked paprika, and/or 1-2 bay leaves for extra depth. **Stir once** to mix. If using habanero, add **halved, seeds removed** now (use gloves!).
    
    *Why now?* Spices go in the liquid so they infuse the chicken as it cooks. The liquid becomes flavored broth for the rice later.
 
@@ -96,7 +101,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 
 5.  **Release:** After cooking, **wait 10 minutes** (Natural Release). This is mandatory - it continues cooking and prevents rubbery texture. Then manually vent remaining pressure.
 
-6.  **Clean Up:** Remove and **discard the habanero** (if used). The heat has infused into the liquid.
+6.  **Clean Up:** Remove and **discard the habanero** (if used) and **bay leaves** (if used). The heat/flavor has infused into the liquid.
 
 7.  **Acid Rest:** Move chicken to a plate. **Cut 1 lime in half and squeeze it over the chicken immediately.** Cover with foil or a plate. Let rest 5 minutes.
    
@@ -217,6 +222,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 - 1 can black beans, drained
 - 1 can chilis, drained (jalapeños, green chilis, or similar)
 - 1 taco seasoning packet (or: 2tsp cumin, 1tsp chili powder, 1tsp garlic powder, 1tsp salt)
+- Optional upgrades: 1 tsp coriander, 1/2 tsp smoked paprika, 1-2 bay leaves
 - 2 limes
 - Fresh cracked black pepper
 - Fresh cilantro (optional)
@@ -225,7 +231,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 
 ### Instructions
 
-**Phase 1:** Add broth, seasoning, and habanero to pot. Place trivet, add chicken on top. Pressure cook 8 mins (thawed) or 14 mins (frozen). 10m NR. Remove habanero. Squeeze 1 lime over chicken, rest 5 mins.
+**Phase 1:** Add broth, seasoning, optional spices (coriander, smoked paprika, bay leaves), and habanero to pot. Place trivet, add chicken on top. Pressure cook 8 mins (thawed) or 14 mins (frozen). 10m NR. Remove habanero and bay leaves. Squeeze 1 lime over chicken, rest 5 mins.
 
 **Phase 2:** Add rice to liquid. Layer beans, chilis, and frozen veg on top (don't stir). Pressure cook 6 mins (Basmati) or 5 mins (Long Grain White). 10m NR.
 
