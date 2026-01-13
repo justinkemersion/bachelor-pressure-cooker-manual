@@ -37,7 +37,7 @@
 
 **Phase 3 Finishing (Added After Cooking):**
 - [ ] **The Heat:** 1/3 cup **Hot Sauce** (Frank's, Crystal, etc.) — *Use less if you hate spice, more if you love it.*
-- [ ] **The Richness:** 2 tbsp **Butter** (Cold) — *This is the only dairy needed. If you don't have butter, Olive Oil works, but butter is better.*
+- [ ] **The Richness:** 2 tbsp **Butter** (Cold) OR **Country Crock Avocado Oil** (2 tbsp) — *Butter creates the best "Butter Mount" emulsion, but Country Crock Avocado Oil works great too (see `02_techniques/core_techniques.md`). If you don't have either, regular olive oil works, but butter/Country Crock is better.*
 
 ---
 
@@ -103,9 +103,9 @@
    
    *Why now?* If we added the hot sauce earlier, the vinegar would toughen the rice grains. Adding it at the end solves this.
 
-4.  **The Butter Mount:** Drop in **2 tbsp cold butter**.
+4.  **The Butter Mount:** Drop in **2 tbsp cold butter** (OR **2 tbsp Country Crock Avocado Oil**).
    
-   *Why cold?* Cold butter melts slowly, allowing it to emulsify properly with the hot sauce and broth.
+   *Why cold butter?* Cold butter melts slowly, allowing it to emulsify properly with the hot sauce and broth. *Country Crock Avocado Oil?* Works great too - it's already liquid, so just drizzle it in and stir. See `02_techniques/core_techniques.md` for details.
 
 5.  **Stir Vigorously:** Stir the rice/chicken/sauce mix rapidly for **30 seconds**.
    
@@ -139,7 +139,7 @@
 ## 🧪 Chemistry Notes (Bachelor Logic)
 
 *   **Acid vs. Starch:** Rice cooks by absorbing water. Acid (vinegar in hot sauce) strengthens the pectin in plant cells, making it harder for the rice to absorb water. If you cooked the rice *in* the hot sauce, you'd get crunchy, undercooked rice centers. Adding it at the end solves this.
-*   **The "Butter Mount" (Monter au Beurre):** Fat molecules in butter are suspended in milk solids. When you stir cold butter into a hot liquid, it thickens the liquid slightly and adds a glossy, velvet mouthfeel that oil cannot replicate. This is why butter is better than olive oil for this technique.
+*   **The "Butter Mount" (Monter au Beurre):** Fat molecules in butter are suspended in milk solids. When you stir cold butter into a hot liquid, it thickens the liquid slightly and adds a glossy, velvet mouthfeel. **Country Crock Avocado Oil** works great too - it's an oil-based spread that emulsifies well with hot sauce. Regular olive oil works but doesn't create the same creamy texture. Butter = best texture, Country Crock = great texture + bachelor-friendly (no dairy), olive oil = works but less creamy.
 *   **The 2-Cup Liquid Buffer:** We use 2 cups of liquid (same as chipotle recipe) to prevent the "BURN" error caused by the starches in the rice and frozen veg. Rice still gets proper 1:1 ratio after chicken adds juice.
 *   **Sequential Logic:** We cook chicken first so it has time to rest (making it juicier) while the rice cooks.
 
@@ -152,7 +152,7 @@
 *   **Frozen chicken not done?** 14m is recommended, but 12m is minimum - larger pieces may need 15m. The 10m NR continues cooking.
 *   **Too Spicy?** You added too much hot sauce. Fix it by stirring in a little more butter or a splash of water.
 *   **Not Spicy Enough?** Add more hot sauce to your individual bowl.
-*   **No butter?** Use olive oil (works, but butter is better for the "Butter Mount" technique).
+*   **No butter?** Use **Country Crock Avocado Oil** (works great - see `02_techniques/core_techniques.md`) or regular olive oil (works, but butter/Country Crock is better for the "Butter Mount" technique).
 *   **No trivet?** See `01_fundamentals/bachelor_hacks.md` for foil trivet trick.
 
 ---
