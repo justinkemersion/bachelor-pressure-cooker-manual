@@ -14,7 +14,7 @@
 
 **Use This Technique In:** Any recipe where you want a bright, acidic finish with smooth fat balance.
 
-**💡 Universal Tip:** Any bowl can become a burrito or taco! Warm a tortilla (20s in microwave), add your bowl contents, wrap it up. Works for ALL recipes in this cookbook.
+**💡 Wrap It Up:** This bowl makes a great **panini**! Add your bowl contents to sliced bread or a roll, press/grill it (or just toast the bread). The balsamic and olive oil work perfectly in a pressed sandwich. *Note: Other bowls in this cookbook can become burritos/tacos - see those recipes for details.*
 
 ---
 
