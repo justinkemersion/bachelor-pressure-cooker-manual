@@ -14,6 +14,8 @@
 
 **Use This Technique In:** Any recipe where you want a bright, acidic finish with smooth fat balance.
 
+**💡 Universal Tip:** Any bowl can become a burrito or taco! Warm a tortilla (20s in microwave), add your bowl contents, wrap it up. Works for ALL recipes in this cookbook.
+
 ---
 
 ## 🛒 Hardware & Variables

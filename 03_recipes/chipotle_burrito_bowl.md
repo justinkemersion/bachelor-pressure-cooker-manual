@@ -11,6 +11,8 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 
 **Think of it as:** Your reference manual. When you forget the liquid ratio, the timing, or how to check if something's safe to eat - come back here. Other recipes are streamlined because they assume you know (or can reference) these fundamentals.
 
+**💡 Universal Tip:** Any bowl can become a burrito or taco! Warm a tortilla (20s in microwave), add your bowl contents, wrap it up. Works for ALL recipes in this cookbook.
+
 ---
 
 ## 📋 QUICK REFERENCE CHEAT SHEET

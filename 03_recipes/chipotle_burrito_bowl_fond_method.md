@@ -13,6 +13,8 @@
 
 **Use This Technique In:** Any recipe where you want deep, concentrated flavor. Combine with other recipes' techniques (like the balsamic drizzle) for maximum complexity.
 
+**💡 Universal Tip:** Any bowl can become a burrito or taco! Warm a tortilla (20s in microwave), add your bowl contents, wrap it up. Works for ALL recipes in this cookbook.
+
 ---
 
 ## 🛒 Hardware & Variables
