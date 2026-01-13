@@ -52,6 +52,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 - [ ] **Protein:** **4 Chicken Thighs** (approx 1.75 lbs) — *Crucial for meal prep volume. Can be thawed or frozen - see timing below.*
 - [ ] **Base:** 1.5 cups Basmati Rice (OR Long Grain White - see timing) — *Rinse until water runs clear (3-4 rinses). This removes starch so rice doesn't get gummy.*
 - [ ] **Liquid:** **2 cups** Chicken Broth — *The "Burn-Proof" 1:1 + Buffer. Can use water + bouillon cube if no broth.*
+- [ ] **Optional Beer Upgrade:** **1/2-1 cup Beer** (replace equal amount of broth) — *Adds malty, hoppy depth. Works great with Tex-Mex flavors. See Chemistry Notes below for how to use in future recipes.*
 - [ ] **Bulk:** 1 can Black Beans — *Drain and rinse. Canned beans are already cooked, so they just need to heat through.*
 - [ ] **Heat Boost:** 1 can Drained Chilis (Jalapeños, Green Chilis, or similar) — *Adds heat and flavor. Drain well before adding.*
 
@@ -88,7 +89,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 
 **What You're Doing:** Cooking the chicken in seasoned liquid. The chicken sits on a trivet (rack) so it steams, not boils. This keeps it tender.
 
-1.  **Add Liquid & Seasonings:** Pour **2 cups broth** into the pot. Add your **seasoning packet** (or individual spices: 2tsp cumin, 1tsp chili powder, 1tsp garlic powder, 1tsp salt). **Optional upgrades:** Add 1 tsp thyme (the "Secret Weapon"), 1 tsp coriander, 1/2 tsp smoked paprika, and/or 1-2 bay leaves for extra depth. **Stir once** to mix. If using habanero, add **halved, seeds removed** now (use gloves!).
+1.  **Add Liquid & Seasonings:** Pour **2 cups broth** (OR **1-1.5 cups broth + 1/2-1 cup beer** - replace equal amount of broth) into the pot. Add your **seasoning packet** (or individual spices: 2tsp cumin, 1tsp chili powder, 1tsp garlic powder, 1tsp salt). **Optional upgrades:** Add 1 tsp thyme (the "Secret Weapon"), 1 tsp coriander, 1/2 tsp smoked paprika, and/or 1-2 bay leaves for extra depth. **Stir once** to mix. If using habanero, add **halved, seeds removed** now (use gloves!).
    
    *Why now?* Spices go in the liquid so they infuse the chicken as it cooks. The liquid becomes flavored broth for the rice later.
 
@@ -186,6 +187,44 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 
 ---
 
+## 🍺 Beer Chemistry (For Future Recipes)
+
+**The Bachelor's Beer Upgrade:** Beer isn't just for drinking - it's a flavor powerhouse in pressure cooking.
+
+### How Beer Works in Pressure Cooking
+
+*   **Alcohol Cooks Off:** The pressure and heat remove most alcohol, leaving behind the flavor compounds (malt, hops, yeast).
+*   **Carbonation Adds Complexity:** The bubbles help distribute flavors, though most fizz is gone after pressure cooking.
+*   **Malt Adds Sweetness:** Beer's malted grains add subtle sweetness that balances spicy/acidic flavors.
+*   **Hops Add Bitterness:** The hop bitterness cuts through fat and adds depth (like how acid brightens dishes).
+
+### How to Use Beer in Any Recipe
+
+1.  **Replace Liquid:** Substitute **1/2-1 cup beer** for equal amount of broth/water (keep total liquid the same).
+2.  **Best Beer Types:**
+    - **Lager/Pilsner** - Clean, neutral, works everywhere (safest choice)
+    - **IPA** - Hoppy, bitter, great for spicy dishes (Tex-Mex, Buffalo)
+    - **Amber Ale** - Malty, slightly sweet, great for Italian/Mediterranean
+    - **Avoid:** Stouts/Porters (too heavy, can overpower), Sours (too acidic)
+3.  **When to Add:** Add beer in **Phase 1** (with the cooking liquid) so it infuses the protein and flavors the rice.
+4.  **The Ratio:** Start with **1/2 cup beer** (replace 1/2 cup broth). If you like it, try up to **1 cup** next time. Don't go over 1 cup - beer is more concentrated than broth.
+
+### Why It Works
+
+*   **Pressure cooking extracts flavors** from the beer's malt and hops
+*   **The alcohol cooks off** (safe for all ages after cooking)
+*   **Adds complexity** without being overwhelming
+*   **Works with many flavor profiles** - especially Tex-Mex, American, and Mediterranean
+
+### Pro Tips
+
+*   **Use what you have** - Any beer works, but lighter beers are safer bets
+*   **Don't overdo it** - 1/2-1 cup is plenty. Too much beer = bitter/overpowering
+*   **Save the rest** - Open a beer, use 1/2-1 cup for cooking, drink the rest while you cook!
+*   **Future recipes:** Any recipe that uses broth can use beer. Just replace 1/2-1 cup of the liquid.
+
+---
+
 ## ⚠️ Troubleshooting
 *   **Rice is crunchy?** Add 1/4 cup water, 2 mins HP, Quick Release.
 *   **Rice is mushy?** You used too much liquid. Check that you started with 2 cups (not more).
@@ -198,6 +237,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 *   **No lime?** Use lemon juice or apple cider vinegar (different but works).
 *   **No cilantro?** Skip it - the recipe works fine without it. Or use parsley for a different herbal note.
 *   **No fresh pepper?** Use ground black pepper (less bright, but works).
+*   **Want to try beer?** Replace 1/2-1 cup broth with equal amount of beer (lager/IPA work great). See Beer Chemistry section above for details.
 
 ---
 
