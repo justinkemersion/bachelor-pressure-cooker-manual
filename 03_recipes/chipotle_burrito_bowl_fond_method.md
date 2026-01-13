@@ -41,7 +41,7 @@
 ### Path A: Thawed Chicken (Sear First, Then Cook)
 
 #### Phase 1A: Initial Sear & Deglaze (Thawed Only)
-1.  **Season chicken** with spice mix (both sides). *Optional upgrades: Add 1 tsp thyme, 1 tsp coriander, 1/2 tsp smoked paprika to spice mix for extra depth.*
+1.  **Season chicken** (both sides) with **1 Taco Packet** (OR: 2tsp cumin, 1tsp chili powder, 1tsp garlic powder, 1tsp salt). *Optional upgrades: Add 1 tsp thyme, 1 tsp coriander, 1/2 tsp smoked paprika to the seasoning mix for extra depth.*
 2.  **Set pot to Sauté (High).** Wait for **"HOT" indicator** (critical - see `02_techniques/core_techniques.md` for oil guidance).
 3.  **Then** add **1-2 tbsp oil** (Country Crock Avocado Oil recommended), let heat 10-15 seconds.
 4.  **Sear chicken** (both sides) **2-3 minutes per side** - build that fond!
@@ -83,7 +83,7 @@
 ### Path B: Frozen Chicken (Cook First, Then Sear)
 
 #### Phase 1B: Plain Protein Cook (Frozen Only)
-1.  **Use pre-marinated frozen chicken** (or season if not pre-marinated).
+1.  **Use pre-marinated frozen chicken** (OR season with **1 Taco Packet** or: 2tsp cumin, 1tsp chili powder, 1tsp garlic powder, 1tsp salt if not pre-marinated).
 2.  **Add 1 cup water** to pot (just for steam - no flavor needed here). *Optional: Add 1-2 bay leaves now - remove before Phase 2. Adds background depth.*
 3.  **Optional Habanero:** If using habanero, add **halved, seeds removed** to water now (removes before Phase 2).
 4.  **Insert Trivet.** Place chicken on top (don't submerge).
