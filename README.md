@@ -82,7 +82,7 @@ Bachelor-Cookbook/
 │   ├── marinades.md                    # Complete marinade recipe collection
 │   │                                   # → Pantry Hero, Tex-Mex, Italian, Asian, Mediterranean
 │   └── meal_prep_storage.md            # Container strategy: glass vs plastic, vented lids
-│                                       # → Rubbermaid Brilliance recommendations, "OJ Hack" compatibility
+│                                       # → Rubbermaid Brilliance recommendations, microwave reheating compatibility
 │
 ├── 03_recipes/                         # Actual recipes - your cookbook
 │   ├── chipotle_burrito_bowl.md        # 🎓 INITIATION RECIPE - Master reference & cheat sheet

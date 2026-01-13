@@ -43,7 +43,7 @@
 6.  **Acid Rest:** Move chicken to a plate. **Drizzle 1-2 tbsp balsamic** (OR 1-2 tbsp red wine vinegar + pinch of sugar) over it immediately. Cover with foil. **Let rest 5 minutes** (while rice cooks).
 
 ### Phase 2: The Base (10m NR)
-1.  **Add Rice** directly into the flavored liquid remaining in the pot.
+1.  **Add Rice:** Pour **1.5 cups rinsed Jasmine rice** directly into the flavored liquid remaining in the pot. **Check the level:** The liquid should barely cover the rice. If it looks dry (because the chicken absorbed too much), add a splash of water (**1/4 cup**) now.
 2.  **Add Beans** on top of the rice. **Do not stir.**
 3.  **Pressure Cook:** **4 mins** High Pressure.
 4.  **Release:** Wait 10 mins (Natural Release). **Do not skip—this sets the starch.**
@@ -63,11 +63,11 @@
 - Cool quickly, portion into containers
 - Refrigerate up to **3-4 days**
 
-### Universal Reheating (The "OJ Hack")
-1.  **Liquid:** Add a **splash of Orange Juice** (or water minimum) to the container. 
+### Universal Reheating
+1.  **Liquid:** Add a **splash of water** to the container. 
 2.  **Steam:** Cover with lid slightly ajar. 
 3.  **Power:** **3:30 mins** at **Power Level 7** (prevents rubbery chicken).
-4.  **Finish:** Stir in a pinch of **dried oregano** OR **dried thyme** and fresh **cracked black pepper**. *Why:* Restores high notes lost during reheating. OJ adds brightness. **Oregano** gives a punchy Italian scent; **Thyme** gives a savory, roasted scent.
+4.  **Finish:** Stir in a pinch of **dried oregano** OR **dried thyme** and fresh **cracked black pepper**. *Why:* Restores high notes lost during reheating. Water prevents drying. **Oregano** gives a punchy Italian scent; **Thyme** gives a savory, roasted scent.
 
 **See `02_techniques/core_techniques.md` for universal reheating method.**
 

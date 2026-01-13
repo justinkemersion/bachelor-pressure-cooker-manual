@@ -8,7 +8,7 @@
 
 **Recommendation:** **Rubbermaid Brilliance (Glass) - 3.2 Cup Medium**
 
-Since you are eating these at home and using the **"OJ Hack" (Microwave Steaming)** (see `02_techniques/core_techniques.md` for universal reheating method), this is the superior choice.
+Since you are eating these at home and using the **microwave reheating method** (see `02_techniques/core_techniques.md` for universal reheating method), this is the superior choice.
 
 ### Why Glass?
 
@@ -47,7 +47,7 @@ If you are taking this to the office, gym, or traveling, glass is too heavy and 
 *   **The trap:** They look like a good deal, but you'll replace them constantly.
 
 ### Stainless Steel Tins
-*   **Why avoid:** Great for camping, but **useless for this cookbook**. You cannot use the "OJ Hack" (microwave) with metal. You would have to dump the food onto a plate, creating extra dishes.
+*   **Why avoid:** Great for camping, but **useless for this cookbook**. You cannot use the microwave reheating method with metal. You would have to dump the food onto a plate, creating extra dishes.
 *   **The problem:** Defeats the purpose of meal prep convenience.
 
 ### Bamboo Lids
@@ -88,13 +88,13 @@ If you are taking this to the office, gym, or traveling, glass is too heavy and 
 **The vented latch trick:**
 - This is the secret weapon for microwave reheating
 - No more exploded sauce or soggy food
-- Works with the "OJ Hack" perfectly
+- Works with the microwave reheating method perfectly
 
 ---
 
 ## 🔗 Related Techniques
 
-*   **Universal Reheating Method:** See `02_techniques/core_techniques.md` for the complete "OJ Hack" and microwave reheating guide.
+*   **Universal Reheating Method:** See `02_techniques/core_techniques.md` for the complete microwave reheating guide.
 *   **Bulk Prep & Freezing:** See `02_techniques/bulk_prep_and_freezing.md` for the complete meal prep system.
 *   **Bachelor's Essentials:** See `04_reference/bachelors_essentials.md` for the complete shopping list.
 

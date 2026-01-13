@@ -131,11 +131,11 @@
 - Cool quickly, portion into containers
 - Refrigerate up to **3-4 days**
 
-### Universal Reheating (The "OJ Hack")
-1.  **Liquid:** Add a **splash of Orange Juice** (or water minimum) to the container. 
+### Universal Reheating
+1.  **Liquid:** Add a **splash of water** to the container. 
 2.  **Steam:** Cover with lid slightly ajar. 
 3.  **Power:** **3:30 mins** at **Power Level 7** (prevents rubbery chicken).
-4.  **Finish:** Stir in a pinch of **dried oregano** OR **dried thyme** and fresh **cracked black pepper**. *Why:* Restores high notes lost during reheating. OJ adds brightness. **Oregano** gives a punchy Tex-Mex scent; **Thyme** gives a savory, roasted scent.
+4.  **Finish:** Stir in a pinch of **dried oregano** OR **dried thyme** and fresh **cracked black pepper**. *Why:* Restores high notes lost during reheating. Water prevents drying. **Oregano** gives a punchy Tex-Mex scent; **Thyme** gives a savory, roasted scent.
 
 **See `02_techniques/core_techniques.md` for universal reheating method.**
 
