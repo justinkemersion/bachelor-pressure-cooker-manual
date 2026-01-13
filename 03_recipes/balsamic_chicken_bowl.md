@@ -86,6 +86,10 @@
 
 ---
 
+**Refer to `04_reference/safety_check.md` for Doneness & Chemistry Logic**
+
+---
+
 ## ⚠️ Troubleshooting
 *   **Rice is crunchy?** Add 1/4 cup water, 2 mins HP, Quick Release.
 *   **Rice is mushy?** You used too much liquid. Use exactly 1.75 cups next time.

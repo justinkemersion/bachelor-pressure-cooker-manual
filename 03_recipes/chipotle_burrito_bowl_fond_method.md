@@ -179,6 +179,10 @@
 
 ---
 
+**Refer to `04_reference/safety_check.md` for Doneness & Chemistry Logic**
+
+---
+
 ## ⚠️ Troubleshooting
 *   **Which path do I use?** Thawed chicken = Path A (sear first). Frozen chicken = Path B (cook first, then sear).
 *   **Forgot to save deglazing liquid (Thawed Path)?** Use 1/4 cup water/broth instead - you'll still get good flavor from the spices.
