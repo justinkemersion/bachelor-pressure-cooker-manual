@@ -22,7 +22,13 @@
 - [ ] **Bulk:** 1 can Black Beans (Drained)
 - [ ] **Heat Boost:** 1 can Drained Chilis (Jalapeños, Green Chilis, or similar) — *Adds heat and flavor. Drain well before adding.*
 - [ ] **Seasoning:** 1 Taco Packet (OR: 2tsp Cumin, 1tsp Chili, 1tsp Garlic, 1tsp Salt)
-- [ ] **The Glaze:** 1/4 cup Water/Broth + 1 tbsp Worcestershire (optional) + 2 Fresh Limes (OR 2-3 tbsp prepackaged lemon juice - see substitutions)
+- [ ] **The Glaze:** 1/4 cup Water/Broth + 1 tbsp Worcestershire (optional) + 2 Fresh Limes (OR 3-4 tbsp lemon/lime juice concentrate)
+
+**Optional Flavor Upgrades (Add to Glaze Phase):**
+- [ ] **1 tsp Dried Thyme** — *The "Secret Weapon." Adds a savory, floral backbone that makes beans and chicken taste richer. Bridges the gap between heavy cumin and bright lime.*
+- [ ] **1 tsp Coriander** — *Adds citrusy brightness, pairs with cumin. Highest flavor boost for Tex-Mex.*
+- [ ] **1/2 tsp Smoked Paprika** — *Adds smoky depth (essential upgrade over regular paprika).*
+- [ ] **1-2 Bay Leaves** — *Add to Phase 1B cooking liquid (frozen path only). Remove before Phase 2. Adds background depth.*
 - [ ] **Heat:** 1 Habanero (Halved, seeds removed)
 - [ ] **Bulk Fill:** Frozen pepper/onion mix (handful)
 
@@ -35,7 +41,7 @@
 ### Path A: Thawed Chicken (Sear First, Then Cook)
 
 #### Phase 1A: Initial Sear & Deglaze (Thawed Only)
-1.  **Season chicken** with spice mix (both sides).
+1.  **Season chicken** with spice mix (both sides). *Optional upgrades: Add 1 tsp thyme, 1 tsp coriander, 1/2 tsp smoked paprika to spice mix for extra depth.*
 2.  **Set pot to Sauté (High).** Wait for **"HOT" indicator** (critical - see `02_techniques/core_techniques.md` for oil guidance).
 3.  **Then** add **1-2 tbsp oil** (Country Crock Avocado Oil recommended), let heat 10-15 seconds.
 4.  **Sear chicken** (both sides) **2-3 minutes per side** - build that fond!
@@ -59,18 +65,18 @@
 4.  **Add beans** on top of rice (do not stir).
 5.  **Add drained chilis** on top of beans (do not stir).
 6.  **Pressure Cook:** **6 mins** High Pressure (Basmati) OR **5 mins** (Long Grain White).
-6.  **Release:** Wait 10 mins (Natural Release). **Do not skip—this sets the starch.**
-7.  **Fluff rice** and remove to serving bowl/containers.
-8.  **Clean pot completely** - remove all rice grains (important for next step).
+7.  **Release:** Wait 10 mins (Natural Release). **Do not skip—this sets the starch.**
+8.  **Fluff rice** and remove to serving bowl/containers.
+9.  **Clean pot completely** - remove all rice grains (important for next step).
 
 #### Phase 4A: The Glaze (Thawed Path - The "Burn" Step)
 1.  **Set pot to Sauté (High).** Wait for **"HOT" indicator**.
 2.  **Pour your banked deglazing liquid** (from Phase 1A, with habanero if using) back into the pot - this is the "Burn" step!
 3.  **Remove habanero** (if used) - discard. Heat has infused into the liquid during banking and will be concentrated in the reduction.
 4.  **Add 1 tbsp Worcestershire** (optional).
-5.  **Add spices:** Stir in **1 Taco Packet** (OR: 2tsp Cumin, 1tsp Chili, 1tsp Garlic, 1tsp Salt) - this is where the flavor goes!
+5.  **Add spices:** Stir in **1 Taco Packet** (OR: 2tsp Cumin, 1tsp Chili, 1tsp Garlic, 1tsp Salt). *Optional upgrades: Add 1 tsp thyme, 1 tsp coriander, 1/2 tsp smoked paprika here for extra depth.*
 6.  **Reduce:** Let simmer **2-3 minutes** until slightly thickened (glaze consistency).
-7.  **Remove from heat.** Add **juice of 1 lime** (OR 1-1.5 tbsp prepackaged lemon juice) to glaze.
+7.  **Remove from heat.** Add **juice of 1 lime** (OR drizzle 1.5-2 tbsp lemon/lime juice concentrate) to glaze. *Optional upgrades: Add 1 tsp thyme, 1 tsp coriander, 1/2 tsp smoked paprika with the spices in step 5 for extra depth.*
 
 ---
 
@@ -78,12 +84,12 @@
 
 #### Phase 1B: Plain Protein Cook (Frozen Only)
 1.  **Use pre-marinated frozen chicken** (or season if not pre-marinated).
-2.  **Add 1 cup water** to pot (just for steam - no flavor needed here).
+2.  **Add 1 cup water** to pot (just for steam - no flavor needed here). *Optional: Add 1-2 bay leaves now - remove before Phase 2. Adds background depth.*
 3.  **Optional Habanero:** If using habanero, add **halved, seeds removed** to water now (removes before Phase 2).
 4.  **Insert Trivet.** Place chicken on top (don't submerge).
 5.  **Pressure Cook:** **14 mins** (Frozen, **12m minimum**, up to 15m for larger pieces).
 6.  **Release:** Wait 10 mins (Natural Release), then vent.
-7.  **Remove habanero** (if used) - discard. Heat has infused into liquid.
+7.  **Remove habanero** (if used) and **bay leaves** (if used) - discard. Heat/flavor has infused into liquid.
 8.  **Remove chicken** to plate. **Save cooking liquid** - we'll use it for glaze.
 
 #### Phase 2B: Plain Rice Cook (Frozen Path)
@@ -93,9 +99,9 @@
 4.  **Add beans** on top of rice (do not stir).
 5.  **Add drained chilis** on top of beans (do not stir).
 6.  **Pressure Cook:** **6 mins** High Pressure (Basmati) OR **5 mins** (Long Grain White).
-6.  **Release:** Wait 10 mins (Natural Release). **Do not skip—this sets the starch.**
-7.  **Fluff rice** and remove to serving bowl/containers.
-8.  **Clean pot completely** - remove all rice grains (important for next step).
+7.  **Release:** Wait 10 mins (Natural Release). **Do not skip—this sets the starch.**
+8.  **Fluff rice** and remove to serving bowl/containers.
+9.  **Clean pot completely** - remove all rice grains (important for next step).
 
 #### Phase 3B: The Fond Build & Glaze (Frozen Path)
 1.  **Set pot to Sauté (High).** Wait for **"HOT" indicator** (critical - see `02_techniques/core_techniques.md` for oil guidance).
@@ -103,10 +109,10 @@
 3.  **Sear chicken** (both sides) **2-3 minutes per side** - build that fond!
 4.  **Remove chicken** to cutting board. **Let rest 5 minutes.**
 5.  **Deglaze:** Add **1/4 cup water/broth** (or saved cooking liquid from Phase 1B) + **1 tbsp Worcestershire** (optional).
-6.  **Add spices:** Stir in **1 Taco Packet** (OR: 2tsp Cumin, 1tsp Chili, 1tsp Garlic, 1tsp Salt) - this is where the flavor goes!
+6.  **Add spices:** Stir in **1 Taco Packet** (OR: 2tsp Cumin, 1tsp Chili, 1tsp Garlic, 1tsp Salt). *Optional upgrades: Add 1 tsp thyme, 1 tsp coriander, 1/2 tsp smoked paprika here for extra depth.*
 7.  **Scrape bottom** - get all those browned bits (the fond).
 8.  **Reduce:** Let simmer **2-3 minutes** until slightly thickened (glaze consistency).
-9.  **Remove from heat.** Add **juice of 1 lime** (OR 1-1.5 tbsp prepackaged lemon juice) to glaze.
+9.  **Remove from heat.** Add **juice of 1 lime** (OR drizzle 1.5-2 tbsp lemon/lime juice concentrate) to glaze.
 
 ---
 
@@ -114,7 +120,7 @@
 1.  **Slice/shred chicken** (should be rested - if frozen path, it already rested during searing).
 2.  **Combine:** Rice + chicken + beans in bowl/containers.
 3.  **The Glaze Drizzle:** Pour reduction glaze over everything.
-4.  **Final Drizzle:** Squeeze **2nd lime** (OR 1-1.5 tbsp prepackaged lemon juice) over bowl.
+4.  **Final Drizzle:** Squeeze **2nd lime** (OR drizzle 1.5-2 tbsp lemon/lime juice concentrate) over bowl.
 5.  **High Notes:** Add **cracked black pepper** and cilantro.
 
 ---
@@ -129,7 +135,7 @@
 1.  **Liquid:** Add a **splash of Orange Juice** (or water minimum) to the container. 
 2.  **Steam:** Cover with lid slightly ajar. 
 3.  **Power:** **3:30 mins** at **Power Level 7** (prevents rubbery chicken).
-4.  **Finish:** Stir in a pinch of oregano and fresh pepper.
+4.  **Finish:** Stir in a pinch of **dried oregano** OR **dried thyme** and fresh **cracked black pepper**. *Why:* Restores high notes lost during reheating. OJ adds brightness. **Oregano** gives a punchy Tex-Mex scent; **Thyme** gives a savory, roasted scent.
 
 **See `02_techniques/core_techniques.md` for universal reheating method.**
 
@@ -182,7 +188,7 @@
 *   **Glaze too thin?** Reduce longer (3-4 minutes) until it coats the back of a spoon.
 *   **Glaze too thick?** Add splash of water/broth to thin it.
 *   **No Worcestershire?** Skip it - the fond alone makes great flavor.
-*   **No fresh limes?** Use **2-3 tbsp prepackaged lemon juice** total (1-1.5 tbsp in glaze, 1-1.5 tbsp final drizzle). Lemon works great - slightly sweeter than lime, but same bright acid effect. Lime is more authentic for Tex-Mex, but lemon is a perfect substitute.
+*   **No fresh limes?** Use **3-4 tbsp lemon/lime juice concentrate** total (1.5-2 tbsp in glaze, 1.5-2 tbsp final drizzle). Concentrate works great - same bright acid effect as fresh.
 *   **Chicken Shrinkage:** 4 thighs may look like a lot, but after the render, they perfectly balance 1.5 cups of rice.
 *   **No trivet?** See `01_fundamentals/bachelor_hacks.md` for foil trivet trick.
 
