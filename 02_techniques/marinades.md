@@ -43,6 +43,9 @@
 - **Versatile** - works with rice bowls, pasta, wraps, salads
 - **Scales easily** - divide by 4 for 2-3 thighs (see below)
 
+**⚠️ Important Note: Balsamic Vinegar Steam Smell**
+When pressure cooking chicken marinated with Pantry Hero (which contains balsamic vinegar), you may notice a **strong, concentrated acidic smell** as the pressure cooker warms up. **This is completely normal!** The balsamic vinegar creates an intense steam during the pressure build-up phase. Don't panic - this is just the effect of the pressure cooker concentrating the acidic vapors. The end result is delicious, and the smell dissipates once cooking begins. Your food will taste great - this is just a temporary effect during the warm-up phase.
+
 **For Individual Portions (2-3 thighs):**
 - 2 tbsp olive oil
 - 1 tbsp balsamic vinegar
