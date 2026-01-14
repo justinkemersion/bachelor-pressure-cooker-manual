@@ -456,9 +456,8 @@ def _render_html(md_text: str) -> str | None:
   @bottom-center { content: element(continue); font-size: 9pt; color: #333; }
 }
 @page main:first {
-  /* TOC is the first 'main' page: make it p. 1 (and preserve physical parity). */
+  /* First MAIN page should be p. 1 (e.g., Field Notes). */
   counter-reset: page 0;
-  @bottom-right { content: ""; }
 }
 @page :blank {
   /* Label forced blank pages so they feel intentional (duplex spacing + spread alignment) */
@@ -506,6 +505,8 @@ a.xref { color: #000; text-decoration: none; }
 .phase > h3 { break-after: avoid; }
 /* Ingredient sub-sections: prevent header orphans like 'Oil' on the last line of a page */
 .ingredients-block { break-inside: avoid; }
+.ingredients-block > h3 { break-after: avoid; }
+.ingredients-block ul, .ingredients-block ol { break-inside: avoid; }
 
 /* Tables: make markdown tables readable in PDF */
 table { width: 100%; border-collapse: collapse; margin: 6pt 0; }
@@ -582,30 +583,30 @@ def main() -> int:
 
     parts: list[str] = []
 
-    # Cover page (no page number) — then start TOC on a right page.
+    # Cover page (no page number) — then insert a blank inside-cover spacer so main content parity is stable in duplex.
     cover_path = BASE_DIR / "00_front_matter" / "cover.md"
     if cover_path.exists():
         cover_raw = _read_text(cover_path)
         parts.append('<div class="cover" markdown="1">\n')
         parts.append(cover_raw if cover_raw.endswith("\n") else cover_raw + "\n")
         parts.append("</div>\n")
-        # Insert ONE blank page immediately after the cover (spread/parity alignment + intentional feel).
+        # Blank page immediately after cover (inside front cover).
         parts.append("\n<div class=\"page-break\"></div>\n\n")
-        parts.append('<div class="cover field-notes blank-cover"></div>\n')
+        parts.append('<div class="cover blank-cover"></div>\n')
         parts.append("\n<div class=\"page-break\"></div>\n\n")
 
-        # Inside cover becomes intentional "Field Notes".
-        inside_cover = BASE_DIR / "00_front_matter" / "inside_cover_field_notes.md"
-        if inside_cover.exists():
-            inside_raw = _read_text(inside_cover)
-            parts.append('<div class="cover field-notes" markdown="1">\n')
-            parts.append(inside_raw if inside_raw.endswith("\n") else inside_raw + "\n")
-            parts.append("</div>\n")
-        # Start TOC on a right page after inside cover.
-        parts.append("\n<div class=\"section-start\"></div>\n\n")
-
-    # Main content wrapper: ensures TOC numbering starts at p. 1 on a physical right page.
+    # Main content wrapper: page numbering starts here (Field Notes = p. 1).
     parts.append('<div class="main" markdown="1">\n')
+
+    # Field Notes (first numbered page)
+    inside_cover = BASE_DIR / "00_front_matter" / "inside_cover_field_notes.md"
+    if inside_cover.exists():
+        inside_raw = _read_text(inside_cover)
+        parts.append('<div class="doc-title">Field Notes</div>\n')
+        parts.append('<div class="field-notes" markdown="1">\n')
+        parts.append(inside_raw if inside_raw.endswith("\n") else inside_raw + "\n")
+        parts.append("</div>\n")
+        parts.append("\n<div class=\"page-break\"></div>\n\n")
 
     # TOC (nested by chapter)
     toc_lines: list[str] = []
