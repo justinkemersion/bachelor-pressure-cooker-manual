@@ -4,6 +4,26 @@
 
 ---
 
+## ✅ First-Time Grocery Run (10-Minute Plan)
+
+**Goal:** Get cooking today without buying a bunch of “future ingredients” that sit around.
+
+1. **Buy Tier 1 first** (below). This is your “starter kit.”
+2. **Pick ONE recipe to make this week** (don’t pick 3).
+3. **Only buy the recipe’s NEW items** (anything not already covered by Tier 1/2).
+4. **Stop.** Cook. Take notes. Upgrade later.
+
+**Good first picks:**
+- `03_recipes/chipotle_burrito_bowl.md` (the initiation recipe)
+- `03_recipes/buffalo_chicken_wing_bowl.md` (no new specialty pantry)
+- `03_recipes/balsamic_chicken_bowl.md` (balsamic is a versatile upgrade)
+
+**How to avoid waste:**
+- If an ingredient is “single-use” (e.g., **salsa verde**), only buy it when you’re making that recipe.
+- If an ingredient is “versatile” (e.g., **honey**, **rice vinegar**), it’s a safe pantry investment.
+
+---
+
 ## 🎯 Tier 1: Must-Have (Start Here - No Exceptions)
 
 ### Food Essentials

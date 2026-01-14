@@ -182,6 +182,8 @@ Bachelor-Cookbook/
 - `01_fundamentals/bachelor_hacks.md` ← Substitutions and smart shortcuts
 - `02_techniques/bulk_prep_and_freezing.md` ← The $10 chicken strategy
 
+**Brand new? Do the first grocery run:** `04_reference/bachelors_essentials.md` ← “First-Time Grocery Run (10-Minute Plan)”
+
 ---
 
 ## 🧪 The Flavor Chemistry Framework
