@@ -171,6 +171,73 @@ def _wrap_recipe_phases(md: str) -> str:
     return "".join(out)
 
 
+def _wrap_ingredients_blocks(md: str) -> str:
+    """
+    Wrap ingredient sub-sections so subheaders don't orphan at the bottom of a page.
+
+    Specifically targets recipe markdown:
+      ## Ingredients
+      ### Protein
+      - ...
+      ### Liquids
+      - ...
+    and wraps each '### ...' block in a non-breaking container.
+    """
+    lines = md.splitlines(keepends=True)
+    out: list[str] = []
+
+    in_fence = False
+    in_ingredients = False
+    in_block = False
+
+    def _close_block() -> None:
+        nonlocal in_block
+        if in_block:
+            out.append("</div>\n")
+            in_block = False
+
+    for line in lines:
+        if line.lstrip().startswith("```"):
+            in_fence = not in_fence
+            out.append(line)
+            continue
+
+        if in_fence:
+            out.append(line)
+            continue
+
+        if line.startswith("## "):
+            # Leaving ingredients section (or entering it).
+            if in_ingredients:
+                _close_block()
+            in_ingredients = line.startswith("## Ingredients")
+            out.append(line)
+            continue
+
+        if not in_ingredients:
+            out.append(line)
+            continue
+
+        # Stop at the recipe's front/back boundary.
+        if "<!-- PAGE_BREAK -->" in line:
+            _close_block()
+            out.append(line)
+            continue
+
+        if line.startswith("### "):
+            _close_block()
+            out.append('<div class="ingredients-block" markdown="1">\n')
+            in_block = True
+            out.append(line)
+            continue
+
+        out.append(line)
+
+    if in_ingredients:
+        _close_block()
+
+    return "".join(out)
+
 def _normalize_task_list_checkboxes(md: str) -> str:
     """
     Normalize task list lines so they render as print-friendly checkboxes and always break into list items.
@@ -418,6 +485,18 @@ a.xref { color: #000; text-decoration: none; }
 /* Page-type assignment */
 .cover { page: cover; }
 .main { page: main; }
+/* Field Notes pages: subtle dot-grid + light border so they look intentional */
+.field-notes {
+  box-sizing: border-box;
+  height: 10.0in;
+  padding: 0.65in;
+  border: 1px solid #d8d8d8;
+  background-image: radial-gradient(#e9e9e9 0.65px, transparent 0.65px);
+  background-size: 12px 12px;
+  background-position: 0 0;
+}
+.blank-cover { height: 10.0in; }
+.field-notes p:first-of-type { font-style: italic; color: #444; }
 /* Ensure major docs start on a front/right (odd) page */
 .section-start { break-before: right; }
 /* Recipe "spread" starts: force to LEFT (verso/even) when we want a 2-page command center */
@@ -425,6 +504,8 @@ a.xref { color: #000; text-decoration: none; }
 /* Phase pagination: keep phases together when possible */
 .phase { break-inside: avoid; }
 .phase > h3 { break-after: avoid; }
+/* Ingredient sub-sections: prevent header orphans like 'Oil' on the last line of a page */
+.ingredients-block { break-inside: avoid; }
 
 /* Tables: make markdown tables readable in PDF */
 table { width: 100%; border-collapse: collapse; margin: 6pt 0; }
@@ -432,6 +513,8 @@ th, td { border: 1px solid #000; padding: 4pt 6pt; vertical-align: top; }
 th { background: #f2f2f2; font-weight: 700; }
 tr { break-inside: avoid; }
 table { break-inside: avoid; }
+thead { display: table-header-group; }
+tfoot { display: table-footer-group; }
 
 /* Horizontal rules: treat as spacing, not heavy lines (avoids accidental "double line" artifacts) */
 hr { border: none; height: 0; margin: 8pt 0; }
@@ -506,12 +589,16 @@ def main() -> int:
         parts.append('<div class="cover" markdown="1">\n')
         parts.append(cover_raw if cover_raw.endswith("\n") else cover_raw + "\n")
         parts.append("</div>\n")
-        # Inside cover (left page) becomes intentional "Field Notes" rather than a mysterious blank.
+        # Insert ONE blank page immediately after the cover (spread/parity alignment + intentional feel).
         parts.append("\n<div class=\"page-break\"></div>\n\n")
+        parts.append('<div class="cover field-notes blank-cover"></div>\n')
+        parts.append("\n<div class=\"page-break\"></div>\n\n")
+
+        # Inside cover becomes intentional "Field Notes".
         inside_cover = BASE_DIR / "00_front_matter" / "inside_cover_field_notes.md"
         if inside_cover.exists():
             inside_raw = _read_text(inside_cover)
-            parts.append('<div class="cover" markdown="1">\n')
+            parts.append('<div class="cover field-notes" markdown="1">\n')
             parts.append(inside_raw if inside_raw.endswith("\n") else inside_raw + "\n")
             parts.append("</div>\n")
         # Start TOC on a right page after inside cover.
@@ -555,10 +642,9 @@ def main() -> int:
 
             # Start alignment:
             # - Chapters always start on RIGHT (handled above).
-            # - Recipes (except the long "manual" ones) start on LEFT to create 2-page spreads.
+            # - Recipes start on LEFT to create 2-page cooking spreads (title/ingredients LEFT, execution RIGHT).
             is_recipe = d.rel_path.startswith("03_recipes/")
-            is_manual_recipe = Path(d.rel_path).name in {"chipotle_burrito_bowl.md", "chipotle_burrito_bowl_fond_method.md"}
-            if is_recipe and not is_manual_recipe:
+            if is_recipe:
                 parts.append("\n<div class=\"recipe-start-left\"></div>\n\n")
             else:
                 parts.append("\n<div class=\"section-start\"></div>\n\n")
@@ -570,6 +656,7 @@ def main() -> int:
             if d.rel_path.startswith("03_recipes/"):
                 rewritten = _inject_front_end_anchor(rewritten, f"front-end-{d.anchor}")
                 rewritten = _wrap_recipe_phases(rewritten)
+                rewritten = _wrap_ingredients_blocks(rewritten)
                 parts.append('<div class="continue-note">Recipe continues on next page</div>\n')
 
             parts.append(f'<a id="{d.anchor}"></a>\n\n')

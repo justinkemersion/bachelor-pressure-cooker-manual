@@ -27,12 +27,13 @@ def _side(page_num: int) -> str:
     return "RIGHT" if page_num % 2 == 1 else "LEFT"
 
 
-def _display_page_number(physical_page: int, cover_pages: int = 2) -> int | None:
+def _display_page_number(physical_page: int, cover_pages: int = 4) -> int | None:
     """
     In our print bundle:
     - Physical p.1 = cover (no number)
-    - Physical p.2 = inside cover (no number)
-    - Physical p.3 = TOC and displayed as p.1 (main page sequence starts here)
+    - Physical p.2 = blank spacer (no number)
+    - Physical p.3-4 = Field Notes (no number)
+    - Physical p.5 = TOC and displayed as p.1 (main page sequence starts here)
 
     Therefore displayed_page = physical_page - cover_pages for all main-content pages.
 
@@ -56,7 +57,7 @@ def main() -> int:
 
     # Page-number sanity table (physical vs displayed numbering)
     print("\nSanity check: physical page vs displayed page number")
-    print("(Assuming 2 unnumbered cover pages: cover + inside cover)")
+    print("(Assuming 4 unnumbered front-matter pages: cover + blank + 2x field notes)")
     print("| Physical | Side  | Displayed |")
     print("|:--:|:--:|:--:|")
     max_show = min(total_pages, 20)
@@ -85,7 +86,7 @@ def main() -> int:
     # Parity check: in main content, displayed odd should be RIGHT and displayed even should be LEFT.
     # (If this fails, spreads/recto logic gets inverted.)
     parity_mismatches: list[str] = []
-    for physical in range(3, total_pages + 1):  # main content starts at physical 3
+    for physical in range(5, total_pages + 1):  # main content starts at physical 5
         disp = _display_page_number(physical)
         assert disp is not None
         expected_side = "RIGHT" if disp % 2 == 1 else "LEFT"
