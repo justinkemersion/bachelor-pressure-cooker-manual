@@ -217,6 +217,47 @@ def _normalize_task_list_checkboxes(md: str) -> str:
     return "".join(out)
 
 
+def _normalize_markdown_lists(md: str) -> str:
+    """
+    Ensure markdown lists render as lists (not as a run-on paragraph) by inserting a blank
+    line before list blocks when the previous line is non-blank and not already list-ish.
+
+    This is especially important for patterns like:
+      **Label:**
+      - ✅ item
+      - ❌ item
+    which Python-Markdown otherwise may treat as a single paragraph.
+    """
+    lines = md.splitlines(keepends=True)
+    out: list[str] = []
+    in_fence = False
+
+    list_item_re = re.compile(r"^\s*(?:-\s+|\d+\.\s+).+")
+    listish_prev_re = re.compile(r"^\s*(?:-\s+|\d+\.\s+)")
+
+    for line in lines:
+        if line.lstrip().startswith("```"):
+            in_fence = not in_fence
+            out.append(line)
+            continue
+
+        if in_fence:
+            out.append(line)
+            continue
+
+        if list_item_re.match(line.rstrip("\n")):
+            if out:
+                prev = out[-1]
+                if prev.strip() != "" and not listish_prev_re.match(prev):
+                    out.append("\n")
+            out.append(line)
+            continue
+
+        out.append(line)
+
+    return "".join(out)
+
+
 def _bundle_order() -> list[str]:
     """
     Print-first ordering: quick start → recipes → techniques → fundamentals → references.
@@ -525,6 +566,7 @@ def main() -> int:
 
     # Convert PAGE_BREAK markers into HTML page breaks when rendering (kept for in-recipe front/back).
     compiled_md = "".join(parts)
+    compiled_md = _normalize_markdown_lists(compiled_md)
     compiled_md = _normalize_task_list_checkboxes(compiled_md)
     compiled_md = compiled_md.replace("<!-- PAGE_BREAK -->", '<div class="page-break"></div>')
 
