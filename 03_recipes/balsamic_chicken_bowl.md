@@ -61,17 +61,12 @@
 
 ## 📦 Meal Prep & Storage
 
-### Storage
-- Cool quickly, portion into containers
-- Refrigerate up to **3-4 days**
+**For universal storage and reheating guidelines:** See `02_techniques/meal_prep_storage.md`
 
-### Universal Reheating
-1.  **Liquid:** Add a **splash of water** to the container. 
-2.  **Steam:** Cover with lid slightly ajar. 
-3.  **Power:** **3:30 mins** at **Power Level 7** (prevents rubbery chicken).
-4.  **Finish:** Stir in a pinch of **dried oregano** OR **dried thyme** and fresh **cracked black pepper**. *Why:* Restores high notes lost during reheating. Water prevents drying. **Oregano** gives a punchy Italian scent; **Thyme** gives a savory, roasted scent.
+### Recipe-Specific Notes
 
-**See `02_techniques/core_techniques.md` for universal reheating method.**
+**Balsamic Bowl Reheating:**
+- **Reheating tip:** Stir in a pinch of **dried oregano** OR **dried thyme** and fresh **cracked black pepper** after reheating. *Why:* Restores high notes lost during reheating. **Oregano** gives a punchy Italian scent; **Thyme** gives a savory, roasted scent.
 
 ---
 
@@ -86,15 +81,23 @@
 
 ---
 
-**Refer to `04_reference/safety_check.md` for Doneness & Chemistry Logic**
+---
+
+## 📚 Universal References
+
+**For universal troubleshooting:** See `04_reference/universal_troubleshooting.md`  
+**For meal prep & storage:** See `02_techniques/meal_prep_storage.md`  
+**For safety checks:** See `04_reference/safety_check.md`  
+**For reheating method:** See `02_techniques/core_techniques.md` (Universal Microwave Reheating Method)
 
 ---
 
 ## ⚠️ Troubleshooting
-*   **Rice is crunchy?** Add 1/4 cup water, 2 mins HP, Quick Release.
-*   **Rice is mushy?** You used too much liquid. Use exactly 1.75 cups next time.
-*   **Chicken is dry?** You skipped the rest. Never skip the rest.
-*   **Frozen chicken not done?** 12m is minimum - larger pieces may need 15m. The 10m NR continues cooking.
+
+**For universal troubleshooting (rice, chicken, pressure cooker issues):** See `04_reference/universal_troubleshooting.md`
+
+### Recipe-Specific Issues (Balsamic & Italian Profile)
+
 *   **Too sweet?** Balsamic can be sweet - add a splash of red wine vinegar to balance.
 *   **No balsamic?** Use **2-3 tbsp red wine vinegar + pinch of sugar** (adds sweetness). Works great - slightly different but same bright acid effect.
 *   **No Worcestershire?** Use 1 tbsp soy sauce + pinch of sugar (adds umami).

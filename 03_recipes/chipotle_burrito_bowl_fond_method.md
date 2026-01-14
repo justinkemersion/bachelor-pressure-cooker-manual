@@ -179,24 +179,30 @@
 
 ---
 
-**Refer to `04_reference/safety_check.md` for Doneness & Chemistry Logic**
+---
+
+## 📚 Universal References
+
+**For universal troubleshooting:** See `04_reference/universal_troubleshooting.md`  
+**For meal prep & storage:** See `02_techniques/meal_prep_storage.md`  
+**For safety checks:** See `04_reference/safety_check.md`  
+**For reheating method:** See `02_techniques/core_techniques.md` (Universal Microwave Reheating Method)
 
 ---
 
 ## ⚠️ Troubleshooting
+
+**For universal troubleshooting (rice, chicken, pressure cooker issues):** See `04_reference/universal_troubleshooting.md`
+
+### Recipe-Specific Issues (Fond Method & Glaze Reduction)
+
 *   **Which path do I use?** Thawed chicken = Path A (sear first). Frozen chicken = Path B (cook first, then sear).
 *   **Forgot to save deglazing liquid (Thawed Path)?** Use 1/4 cup water/broth instead - you'll still get good flavor from the spices.
-*   **Rice is crunchy?** Add 1/4 cup water, 2 mins HP, Quick Release.
-*   **Rice is mushy?** You used too much water. Use exactly 1.5 cups.
-*   **Chicken is dry?** (Frozen Path) You skipped the 5-minute rest after searing. Never skip the rest. (Thawed Path) The chicken should be fine after pressure cooking - make sure you used the trivet.
-*   **Frozen chicken not done?** 14m is recommended, but 12m is minimum - larger pieces may need 15m. The 10m NR continues cooking.
 *   **Fond burned?** Heat was too high. Medium-high is better for searing. Wait for "HOT" indicator before adding oil.
 *   **Glaze too thin?** Reduce longer (3-4 minutes) until it coats the back of a spoon.
 *   **Glaze too thick?** Add splash of water/broth to thin it.
 *   **No Worcestershire?** Skip it - the fond alone makes great flavor.
 *   **No fresh limes?** Use **3-4 tbsp lemon/lime juice concentrate** total (1.5-2 tbsp in glaze, 1.5-2 tbsp final drizzle). Concentrate works great - same bright acid effect as fresh.
-*   **Chicken Shrinkage:** 4 thighs may look like a lot, but after the render, they perfectly balance 1.5 cups of rice.
-*   **No trivet?** See `01_fundamentals/bachelor_hacks.md` for foil trivet trick.
 
 ---
 

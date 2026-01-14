@@ -119,22 +119,24 @@
 
 ## 📦 Meal Prep & Storage
 
-### Storage
-- Cool quickly, portion into containers
-- Refrigerate up to **3-4 days**
+**For universal storage and reheating guidelines:** See `02_techniques/meal_prep_storage.md`
+
+### Recipe-Specific Notes
+
+**Buffalo Bowl Storage:**
 - This recipe stores incredibly well because the butter fat protects the rice from drying out.
-
-### Universal Reheating
-1.  **Liquid:** Add a **splash of water** to the container. 
-2.  **Steam:** Cover with lid slightly ajar. 
-3.  **Power:** **3:30 mins** at **Power Level 7** (prevents rubbery chicken).
-4.  **Finish:** Stir in a fresh splash of **hot sauce** to wake up the vinegar kick. *Why:* Restores high notes lost during reheating. Water prevents drying, fresh hot sauce restores the vinegar brightness.
-
-**See `02_techniques/core_techniques.md` for universal reheating method.**
+- **Reheating tip:** Stir in a fresh splash of **hot sauce** after reheating to wake up the vinegar kick (restores brightness lost during storage).
 
 ---
 
-**Refer to `04_reference/safety_check.md` for Doneness & Chemistry Logic**
+---
+
+## 📚 Universal References
+
+**For universal troubleshooting:** See `04_reference/universal_troubleshooting.md`  
+**For meal prep & storage:** See `02_techniques/meal_prep_storage.md`  
+**For safety checks:** See `04_reference/safety_check.md`  
+**For reheating method:** See `02_techniques/core_techniques.md` (Universal Microwave Reheating Method)
 
 ---
 
@@ -148,14 +150,15 @@
 ---
 
 ## ⚠️ Troubleshooting
+
+**For universal troubleshooting (rice, chicken, pressure cooker issues):** See `04_reference/universal_troubleshooting.md`
+
+### Recipe-Specific Issues (Butter Mount Technique)
+
 *   **Rice is crunchy?** You might have had some hot sauce residue in the pot or not enough liquid. Add 1/4 cup water, stir, and let sit on "Keep Warm" with the lid on for 5 mins.
-*   **Rice is mushy?** You used too much liquid. Check that you started with 2 cups (not more).
-*   **Chicken is dry?** You skipped the 5-minute rest. Never skip the rest.
-*   **Frozen chicken not done?** 14m is recommended, but 12m is minimum - larger pieces may need 15m. The 10m NR continues cooking.
 *   **Too Spicy?** You added too much hot sauce. Fix it by stirring in a little more butter or a splash of water.
 *   **Not Spicy Enough?** Add more hot sauce to your individual bowl.
 *   **No butter?** Use **Country Crock Butter** (the spread in a tub - works great for the "Butter Mount" technique) or regular olive oil (works, but butter/Country Crock Butter is better).
-*   **No trivet?** See `01_fundamentals/bachelor_hacks.md` for foil trivet trick.
 
 ---
 

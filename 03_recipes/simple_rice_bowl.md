@@ -89,17 +89,14 @@
 
 ## Storage & Reheating
 
-### Storage
+**For universal storage and reheating guidelines:** See `02_techniques/meal_prep_storage.md`
+
+### Recipe-Specific Notes
+
+**Single-Serving Rice Bowl:**
 - **Best eaten fresh** - rice bowls are best right after cooking
-- If storing: Cool quickly, refrigerate in airtight container up to **2-3 days**
-- **Note:** Rice can dry out in the fridge - add a splash of water when reheating
-
-### Reheating
-- **Microwave:** Add **1-2 tbsp water**, cover with damp paper towel, **1-2 minutes** (stir halfway)
-- **Stovetop:** Add splash of water, heat gently in a small pan, stirring occasionally
-
-### Reheating Tip
-Add a fresh drizzle of soy sauce after reheating to brighten flavors.
+- **If storing:** Rice can dry out in the fridge - add a splash of water when reheating
+- **Reheating tip:** Add a fresh drizzle of soy sauce after reheating to brighten flavors
 
 ---
 
@@ -193,10 +190,11 @@ Add a fresh drizzle of soy sauce after reheating to brighten flavors.
 
 ## ⚠️ Troubleshooting
 
-*   **Rice is crunchy?** Add 1 tbsp water to the bowl, 2 mins HP, Quick Release.
-*   **Rice is mushy?** You used too much water. Check that you used exactly 1/2 cup water (not more).
+**For universal troubleshooting (rice, chicken, pressure cooker issues):** See `04_reference/universal_troubleshooting.md`
+
+### Recipe-Specific Issues (Bowl-on-Trivet Method)
+
 *   **Bowl overflowed?** Bowl was too full or cooker water touched the bowl. Use a taller bowl or less water in cooker (3/4 cup instead of 1 cup).
-*   **No trivet?** See `01_fundamentals/bachelor_hacks.md` for foil trivet trick.
 *   **Rice stuck to bowl?** Let it cool slightly, then use a fork to gently scrape. Add a tiny bit of water if needed.
 *   **Too salty?** You added too much soy sauce. Start with 1 tsp next time, taste, then add more if needed.
 *   **Want more flavor?** Add 1/4 tsp ginger powder to the bowl (Asian), or try a different flavor profile (see Flavor Profile Variations section above).
@@ -204,34 +202,14 @@ Add a fresh drizzle of soy sauce after reheating to brighten flavors.
 
 ---
 
-## 🚨 What to Worry About (Safety & Quality Check)
+---
 
-**Refer to `04_reference/safety_check.md` for Doneness & Chemistry Logic**
+## 📚 Universal References
 
-### Quick Diagnosis Flow
-1. **Check smell first** - if funky, throw out immediately
-2. **Check color** - rice should be white/translucent, not gray/green
-3. **Check texture** - slimy = spoiled, throw out
-4. **Taste test** - if it tastes off, throw it out
-
-**The Golden Rule:** When in doubt, throw it out. Food poisoning isn't worth the risk.
-
-### Rice: Edible vs. Weird
-
-**✅ Safe to Eat (Even If Not Perfect):**
-- **Slightly crunchy** - undercooked but edible. Add 1 tbsp water, 2 mins HP, QR.
-- **Slightly mushy** - overcooked but edible. Still good, just softer texture.
-- **Stuck to bowl** - edible, just scrape gently with a fork.
-
-**❌ Throw It Out:**
-- **Burned/black** - inedible, throw out
-- **Moldy** - spoiled, throw out immediately
-- **Sour smell** - spoiled, throw out immediately
-
-**🔧 Fix It:**
-- **Crunchy?** Undercooked. Add 1 tbsp water to the bowl, 2 mins HP, Quick Release.
-- **Mushy?** Overcooked or too much liquid. Next time: use exact 1/2 cup water, check timing.
-- **Tracing back:** Check your water amount (exactly 1/2 cup), rice timing, and that you did 10m NR.
+**For universal troubleshooting:** See `04_reference/universal_troubleshooting.md`  
+**For meal prep & storage:** See `02_techniques/meal_prep_storage.md`  
+**For safety checks:** See `04_reference/safety_check.md`  
+**For reheating method:** See `02_techniques/core_techniques.md` (Universal Microwave Reheating Method)
 
 ---
 
