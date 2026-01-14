@@ -31,12 +31,14 @@ Shrink recipes to 1 page (front) by extracting universal content to reference fi
 - Butter mount issues (buffalo)
 - Fond building issues (fond method)
 
-#### 2. `04_reference/universal_meal_prep.md` (NEW - or expand existing)
-**Universal meal prep content:**
+#### 2. Expand `02_techniques/meal_prep_storage.md` (EXISTING - expand it)
+**Already covers:** Container strategy (glass vs. plastic, recommendations)
+**Add to it:**
 - Storage guidelines (cool quickly, 3-4 days, label with date)
 - Universal reheating method (splash of water, 3:30 mins, level 7)
 - Freezing guidelines (individual portions, ziplock bags)
 - Burrito/taco conversion (universal tip)
+- Reheating tips by component (rice, chicken, acids, herbs)
 
 **Recipe-specific items stay in recipe:**
 - Glaze storage tips (honey garlic)
@@ -72,9 +74,9 @@ Shrink recipes to 1 page (front) by extracting universal content to reference fi
 ## 📚 Universal References
 
 **For universal troubleshooting:** See `04_reference/universal_troubleshooting.md`
-**For meal prep & storage:** See `04_reference/universal_meal_prep.md`
+**For meal prep & storage:** See `02_techniques/meal_prep_storage.md`
 **For safety checks:** See `04_reference/safety_check.md`
-**For reheating method:** See `02_techniques/core_techniques.md` (Universal Microwave Reheating Method)
+**For reheating method:** See `02_techniques/core_techniques.md` (Universal Microwave Reheating Method) OR `02_techniques/meal_prep_storage.md` (includes reheating)
 
 ---
 
@@ -89,10 +91,10 @@ Shrink recipes to 1 page (front) by extracting universal content to reference fi
 
 ## Implementation Plan
 
-### Phase 1: Create Reference Files
-1. Create `04_reference/universal_troubleshooting.md`
-2. Create `04_reference/universal_meal_prep.md` (or expand existing)
-3. Verify `04_reference/safety_check.md` is complete
+### Phase 1: Create/Expand Reference Files
+1. ✅ Create `04_reference/universal_troubleshooting.md` (DONE)
+2. ✅ Expand `02_techniques/meal_prep_storage.md` (DONE - added storage/reheating guidelines)
+3. ✅ Verify `04_reference/safety_check.md` is complete (DONE - already exists)
 
 ### Phase 2: Update Recipes
 1. Remove universal content from recipes
@@ -136,8 +138,10 @@ Shrink recipes to 1 page (front) by extracting universal content to reference fi
 ## Files to Update
 
 ### New Files
-- `04_reference/universal_troubleshooting.md`
-- `04_reference/universal_meal_prep.md`
+- `04_reference/universal_troubleshooting.md` ✅
+
+### Expanded Files
+- `02_techniques/meal_prep_storage.md` ✅ (added storage/reheating guidelines)
 
 ### Files to Refactor
 - `03_recipes/chipotle_burrito_bowl.md` (keep as Initiation Recipe - most complete)
