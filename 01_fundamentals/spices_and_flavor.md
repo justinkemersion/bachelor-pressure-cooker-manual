@@ -109,18 +109,21 @@ Fresh peppers add **identifiable heat** and **flavor complexity** that dried spi
 #### When to Use Fresh Peppers
 
 **Phase 1 (Infusion Method):**
+
 - ✅ Want heat **throughout the dish**
 - ✅ Want **subtle, ambient heat** (not sharp)
 - ✅ Cooking liquid will absorb the heat
 - ✅ **Best for:** Habanero, serrano (hot peppers)
 
 **Phase 3 (Fresh Method):**
+
 - ✅ Want **bright, sharp heat**
 - ✅ Want heat that **hits immediately**
 - ✅ Want to **control heat per serving**
 - ✅ **Best for:** Jalapeño, serrano (medium peppers)
 
 **Both Methods:**
+
 - ✅ Want **maximum heat and flavor**
 - ✅ Add in Phase 1 for infusion, add fresh in Phase 3 for brightness
 
