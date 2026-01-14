@@ -81,16 +81,11 @@
 
 ## Storage & Reheating
 
-### Storage
-- Cool quickly, portion into containers
-- Refrigerate up to **3-4 days**
+**For universal storage and reheating guidelines:** See `02_techniques/meal_prep_storage.md`
 
-### Reheating
-- **Microwave:** Add 1-2 tbsp water, cover, **2-3 minutes** (stir halfway)
-- **Stovetop:** Add splash of broth, heat gently
+### Recipe-Specific Notes
 
-### Reheating Tip
-Add fresh acid drizzle after reheating to brighten flavors.
+[Add any recipe-specific storage/reheating notes here - e.g., glaze storage, special reheating for unique techniques, etc.]
 
 ---
 
@@ -108,81 +103,13 @@ Add fresh acid drizzle after reheating to brighten flavors.
 
 ---
 
-## 🚨 What to Worry About (Safety & Quality Check)
-**Note:** This section is included in the Initiation Recipe (Chipotle Burrito Bowl). For subsequent recipes, refer to that recipe or use the Quick Diagnosis Flow below.
+## ⚠️ Troubleshooting
 
-### Quick Diagnosis Flow
-1. **Check smell first** - if funky, throw out immediately
-2. **Check color** - pink meat = undercooked, gray/green = spoiled
-3. **Check texture** - slimy = spoiled, rubbery = overcooked (but safe)
-4. **Check doneness** - meat should be white throughout, no pink
-5. **Taste test** - if it tastes off, throw it out
+**For universal troubleshooting (rice, chicken, pressure cooker issues):** See `04_reference/universal_troubleshooting.md`
 
-**The Golden Rule:** When in doubt, throw it out. Food poisoning isn't worth the risk.
+### Recipe-Specific Issues
 
-### Meat: Fully Cooked vs. Funky
-
-**✅ Safe to Eat:**
-- **Chicken is white throughout** (no pink) - fully cooked
-- **Internal temp 165°F+** (if you have a thermometer)
-- **Juices run clear** (not pink/red)
-- **Texture is firm** (not rubbery or mushy)
-- **Smells normal** (chicken-y, not sour/off)
-
-**❌ Throw It Out:**
-- **Pink/red in center** - undercooked, unsafe
-- **Slimy texture** - spoiled, throw out immediately
-- **Sour/rotten smell** - spoiled, throw out immediately
-- **Gray/green color** - spoiled, throw out immediately
-
-**🔧 Fix It:**
-- **Undercooked?** Add 2-4 mins HP, 10m NR. Check doneness - if still pink, add more time.
-- **Rubbery?** You overcooked or quick-released. Next time: use correct timing, always 10m NR, rest 5 mins.
-- **Funky smell?** Don't risk it - throw it out. Check your timing next time.
-
-### Rice: Edible vs. Weird
-
-**✅ Safe to Eat (Even If Not Perfect):**
-- **Slightly crunchy** - undercooked but edible. Add 1/4 cup water, 2 mins HP, QR.
-- **Slightly mushy** - overcooked but edible. Still good for bowls, just softer texture.
-- **Socarrat (toasted bottom)** - edible and delicious! Scrape and mix in.
-
-**❌ Throw It Out:**
-- **Burned/black** - inedible, throw out
-- **Moldy** - spoiled, throw out immediately
-- **Sour smell** - spoiled, throw out immediately
-
-**🔧 Fix It:**
-- **Crunchy?** Undercooked. Add 1/4 cup water, 2 mins HP, Quick Release.
-- **Mushy?** Overcooked or too much liquid. Next time: use exact liquid amount, check timing.
-- **Tracing back:** Check your liquid amount, rice timing, and that you did 10m NR.
-
-### Beans: Edible vs. Weird
-
-**✅ Safe to Eat:**
-- **Slightly firm** - undercooked but edible. Add 2-3 mins HP, 15m NR.
-- **Slightly mushy** - overcooked but edible. Still good, just softer.
-- **Creamy texture** - perfect!
-
-**❌ Throw It Out:**
-- **Hard as rocks** - severely undercooked, inedible
-- **Moldy** - spoiled, throw out immediately
-- **Sour smell** - spoiled, throw out immediately
-
-**🔧 Fix It:**
-- **Too firm?** Undercooked. If canned: they're fine, just add more time next time. If dried: didn't soak properly or need more cook time.
-- **Too mushy?** Overcooked. Next time: reduce cook time or use canned (no extra time needed).
-- **Tracing back:** Canned beans = no extra time. Dried beans = must be soaked first, then 8-10m HP, 15m NR.
-
-### The Golden Rule
-**When in doubt, throw it out.** Food poisoning isn't worth the risk. Better to remake than get sick.
-
-### Quick Diagnosis Flow
-1. **Check smell first** - if funky, throw out immediately
-2. **Check color** - pink meat = undercooked, gray/green = spoiled
-3. **Check texture** - slimy = spoiled, rubbery = overcooked (but safe)
-4. **Check doneness** - meat should be white throughout, no pink
-5. **Taste test** - if it tastes off, throw it out
+[Add only recipe-specific troubleshooting here - e.g., glaze issues, butter mount issues, fond method issues, etc.]
 
 ---
 
