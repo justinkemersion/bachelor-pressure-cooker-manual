@@ -46,7 +46,7 @@ brew install pandoc
 pip install markdown weasyprint
 
 # Convert single file
-python print_markdown.py 03_recipes/chipotle_burrito_bowl.md
+python tools/print/print_markdown.py 03_recipes/chipotle_burrito_bowl.md
 
 # Or convert all recipes
 ./print_all.sh
@@ -128,7 +128,7 @@ Both work the same way - they tell the printer to start a new page.
 | :--- | :--- | :--- | :--- |
 | **Browser Print** | ⭐⭐⭐⭐⭐ | None | Quick single-file prints |
 | **print_simple.sh** | ⭐⭐⭐⭐ | Pandoc (optional) | Automated conversion |
-| **print_markdown.py** | ⭐⭐⭐ | Python + weasyprint | Batch processing |
+| **tools/print/print_markdown.py** | ⭐⭐⭐ | Python + weasyprint | Batch processing |
 
 ---
 

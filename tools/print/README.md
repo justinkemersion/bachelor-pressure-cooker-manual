@@ -20,6 +20,6 @@ Creates files in `05_print/`:
 - `05_print/compiled_manual.pdf` (if `weasyprint` is installed)
 
 ## Notes
-- This does **not** replace `print_markdown.py` (which is still useful for printing a single recipe).
+- This does **not** replace `tools/print/print_markdown.py` (which is still useful for printing a single recipe).
 - This is intended for compiling the whole cookbook into a binder-ready bundle.
 

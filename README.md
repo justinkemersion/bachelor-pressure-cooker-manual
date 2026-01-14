@@ -134,6 +134,9 @@ Bachelor-Cookbook/
 │   └── timing_dictionary.md            # High-contrast quick reference table
 │                                       # → Fast lookup for cook times, release methods, bachelor notes
 │
+├── 00_front_matter/                    # Print front matter (cover, etc.)
+│   └── cover.md                        # Cover page for compiled print bundle
+│
 ├── 05_print/                           # Print-ready compiled versions
 │   └── [generated files]               # PDF/HTML versions for lamination and spiral binding
 │
@@ -148,6 +151,11 @@ Bachelor-Cookbook/
 │   └── README.md                       # Test suite documentation
 │
 ├── notes-for-cursor/                   # Development notes and style examples (not for print)
+├── tools/                              # Developer tooling (printing, compilation, etc.)
+│   └── print/                          # Print tools (single-file + whole-book bundle)
+│       ├── compile_print_bundle.py
+│       └── print_markdown.py
+│
 │   ├── balsamic_chicken_bowl-style-example.md  # Print-ready formatting example
 │   └── recipe-style-check-and-more.md           # Style guidelines and development notes
 │

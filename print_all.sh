@@ -12,7 +12,7 @@ RECIPES_DIR="$SCRIPT_DIR/03_recipes"
 mkdir -p "$PRINT_DIR"
 
 # Check if Python script exists
-if [ ! -f "$SCRIPT_DIR/print_markdown.py" ]; then
+if [ ! -f "$SCRIPT_DIR/tools/print/print_markdown.py" ]; then
     echo "ERROR: print_markdown.py not found"
     exit 1
 fi
@@ -38,7 +38,7 @@ for recipe in "$RECIPES_DIR"/*.md; do
         filename=$(basename "$recipe" .md)
         output="$PRINT_DIR/${filename}.pdf"
         echo "Processing: $filename"
-        python3 "$SCRIPT_DIR/print_markdown.py" "$recipe" "$output"
+        python3 "$SCRIPT_DIR/tools/print/print_markdown.py" "$recipe" "$output"
     fi
 done
 

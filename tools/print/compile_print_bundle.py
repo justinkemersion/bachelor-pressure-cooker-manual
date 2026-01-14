@@ -90,6 +90,8 @@ def _bundle_order() -> list[str]:
     Print-first ordering: quick start → recipes → techniques → fundamentals → references.
     """
     return [
+        # Front matter / cover
+        "00_front_matter/cover.md",
         # Quick start
         "04_reference/bachelors_essentials.md",
         # Core recipes (learning path)
