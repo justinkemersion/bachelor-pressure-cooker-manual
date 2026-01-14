@@ -120,6 +120,8 @@ Bachelor-Cookbook/
 │   │                                   # → Introduces teriyaki glaze, rice wine/mirin applications
 │   ├── sofritas_protocol.md           # Dump-and-go spicy tofu “sofritas” component
 │   │                                   # → Tofu crumble texture hack + chipotle-in-adobo sauce logic
+│   ├── pulled_chicken_taco_bowl.md    # Tex-Mex pulled chicken + salsa verde finish
+│   │                                   # → Shredding technique + jarred salsa verde integration
 │   └── [future recipes]                # All other recipes (concise, build on Initiation Recipe)
 │
 ├── 04_reference/                       # Quick lookup tables - keep these handy
