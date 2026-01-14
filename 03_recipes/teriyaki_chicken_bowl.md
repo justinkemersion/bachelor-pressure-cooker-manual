@@ -15,7 +15,7 @@
 
 **💡 Universal Tip:** Any bowl can become a burrito or taco! Warm a tortilla (20s in microwave), add your bowl contents, wrap it up. Works for ALL recipes in this cookbook.
 
-**📦 Pantry Impact:** MEDIUM - **Rice vinegar** is new (versatile for Asian cooking, $3-5, lasts 1+ year). **Mirin** can be substituted (see below). Honey, soy sauce, and ginger powder are already in your pantry (Tier 2/3).
+**📦 Pantry Impact:** MEDIUM - **Rice vinegar** is new (versatile for Asian cooking, $3-5, lasts 1+ year). **Honey** can be substituted with brown sugar (see below). **Mirin** can be substituted (see below). **Soy sauce** is already in your pantry (Tier 2). **Ginger powder** is optional (Tier 3) - recipe works without it.
 
 ---
 
@@ -36,11 +36,11 @@
 - [ ] **1.5 cups Basmati Rice** (OR Long Grain White - see timing) — *Rinse until water runs clear (3-4 rinses).*
 
 ### Seasonings (Before Pressure)
-- [ ] **2 tbsp Honey** (OR 2 tbsp brown sugar) — *The sweet component. Honey creates better glaze, but brown sugar works.*
-- [ ] **2 tbsp Soy Sauce** — *The savory/umami component. Low sodium works great.*
-- [ ] **1 tbsp Rice Vinegar** — *Adds Asian brightness. Versatile ingredient - worth buying for Asian cooking.*
-- [ ] **1 tsp Ginger Powder** — *Asian warmth. Already in Tier 3 if you have it.*
-- [ ] **1 tsp Garlic Powder** — *Umami depth. Already in your pantry (Tier 2).*
+- [ ] **2 tbsp Honey** (OR 2 tbsp brown sugar) — *The sweet component. **NEW ingredient** (if you made Honey Garlic recipe, you already have it). Brown sugar works perfectly as a substitute - no need to buy honey just for this recipe.*
+- [ ] **2 tbsp Soy Sauce** — *The savory/umami component. Low sodium works great. **Already in your pantry (Tier 2).***
+- [ ] **1 tbsp Rice Vinegar** — *Adds Asian brightness. **NEW ingredient** - versatile for Asian cooking, worth buying ($3-5, lasts 1+ year).*
+- [ ] **1 tsp Ginger Powder** — *Asian warmth. **Optional** - recipe works without it. If you have it (Tier 3), use it. If not, skip it.*
+- [ ] **1 tsp Garlic Powder** — *Umami depth. **Already in your pantry (Tier 2).***
 - [ ] **1 tsp Salt** — *Brings out all other flavors.*
 
 ### Optional Flavor Upgrades (Add to Phase 1)
@@ -198,10 +198,12 @@
 
 ### Substitutions
 
-- **No honey?** → Use **brown sugar** (2 tbsp) - dissolves in liquid, creates similar sweetness
-- **No rice vinegar?** → Use **apple cider vinegar** (1 tbsp) - different flavor but adds brightness
+**Recipe Independence Note:** This recipe can be made without having made previous recipes. All ingredients have substitution options.
+
+- **No honey?** → Use **brown sugar** (2 tbsp) - dissolves in liquid, creates similar sweetness. *Honey is introduced in the Honey Garlic recipe, but you don't need it for this recipe - brown sugar works perfectly.*
+- **No rice vinegar?** → Use **apple cider vinegar** (1 tbsp) - different flavor but adds brightness. *Rice vinegar is NEW to this recipe - if you don't want to buy it, apple cider vinegar works.*
 - **No mirin?** → **Option 1:** Use **1 tbsp white wine + 1/2 tsp sugar** - approximates mirin's sweetness and depth. **Option 2:** Skip it - recipe works fine without it (just slightly less depth)
-- **No ginger powder?** → Skip it - recipe works fine without it, but ginger adds authentic Asian warmth
+- **No ginger powder?** → Skip it - recipe works fine without it, but ginger adds authentic Asian warmth. *Ginger powder is optional (Tier 3) - not required.*
 - **No sesame oil?** → Skip it - the glaze is delicious without it, but sesame oil adds authentic finishing flavor
 - **Want more heat?** → Add **1/4 tsp red pepper flakes** to Phase 1, or drizzle **sriracha** over finished bowl
 - **Different protein?** → Adjust timing per `01_fundamentals/timing_charts.md` (thighs = 8m, breast = 6-8m, etc.)

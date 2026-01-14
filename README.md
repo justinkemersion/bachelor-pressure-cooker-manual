@@ -47,6 +47,25 @@ Each recipe in this cookbook is designed as a **modular component** - like Lego 
 
 **Example:** Master the sequential cooking method from Chipotle, learn the balsamic drizzle technique, combine them with the fond-building method - now you can create your own variations!
 
+### Recipe Independence
+
+**Every recipe can be made independently** - you don't need to make recipes in order or have made previous recipes first.
+
+**How It Works:**
+- **Tier 1/2 Ingredients** (from `bachelors_essentials.md`) = Always available - these are your foundation
+- **NEW Ingredients** = Clearly marked - you'll need to buy these for this recipe
+- **Ingredients from Other Recipes** = Always have substitution options - you can skip to any recipe without buying ingredients from previous ones
+
+**Example:** Want to make Teriyaki but haven't made Honey Garlic? No problem! The recipe clearly shows honey can be substituted with brown sugar - you can make Teriyaki independently.
+
+**Pantry Impact Sections:**
+Each recipe includes a "Pantry Impact" section that clearly distinguishes:
+- What's from Tier 1/2 (always available)
+- What's NEW (need to buy)
+- What's from other recipes (with substitution options)
+
+This ensures you can **skip to any recipe** without assuming you've made previous ones.
+
 ---
 
 ### Core Principles

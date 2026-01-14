@@ -190,9 +190,11 @@
 
 ### Substitutions
 
-- **No honey?** → Use **brown sugar** (2 tbsp) - dissolves in liquid, creates similar sweetness
-- **No soy sauce?** → Use **Worcestershire sauce** (2 tbsp) - different flavor but adds umami
-- **No ginger powder?** → Skip it - recipe works fine without it
+**Recipe Independence Note:** This recipe can be made independently - you don't need to have made any other recipes first. All ingredients have substitution options.
+
+- **No honey?** → Use **brown sugar** (2 tbsp) - dissolves in liquid, creates similar sweetness. *Honey is NEW to this recipe - if you don't want to buy it, brown sugar works perfectly.*
+- **No soy sauce?** → Use **Worcestershire sauce** (2 tbsp) - different flavor but adds umami. *Soy sauce is already in your pantry (Tier 2) from the initiation recipe.*
+- **No ginger powder?** → Skip it - recipe works fine without it. *Ginger powder is optional (Tier 3) - not required.*
 - **Want more heat?** → Add **1/4 tsp red pepper flakes** to Phase 1, or drizzle **sriracha** over finished bowl
 - **Different protein?** → Adjust timing per `01_fundamentals/timing_charts.md` (thighs = 8m, breast = 6-8m, etc.)
 
