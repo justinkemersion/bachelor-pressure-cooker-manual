@@ -13,6 +13,12 @@ Generate a **single print-friendly bundle** (plus optional HTML/PDF) into `05_pr
 python3 tools/print/compile_print_bundle.py
 ```
 
+## Analyze layout (no printer needed)
+
+```bash
+python3 tools/print/analyze_print_bundle.py
+```
+
 ### Output
 Creates files in `05_print/`:
 - `05_print/compiled_manual.md`

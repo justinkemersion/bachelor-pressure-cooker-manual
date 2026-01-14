@@ -74,6 +74,18 @@ python3 tools/print/compile_print_bundle.py
 - `05_print/compiled_manual.html` (if `markdown` is installed)
 - `05_print/compiled_manual.pdf` (if `weasyprint` is installed)
 
+### Layout Analysis (No Printer Needed)
+
+If you don’t have a printer, you can still catch “bad page breaks”:
+
+```bash
+python3 tools/print/analyze_print_bundle.py
+```
+
+**What it reports:**
+- Which sections start on **front/right pages** (duplex-friendly)
+- Which recipes have “front side” content spilling past one page (so you can trim text or tweak CSS)
+
 ---
 
 ## Print Settings for Spiral Binding

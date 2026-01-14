@@ -85,6 +85,18 @@ def _rewrite_backtick_md_refs(md: str, docs_by_rel: dict[str, Doc], docs_by_name
     return "\n".join(out_lines) + ("\n" if md.endswith("\n") else "")
 
 
+def _inject_front_end_anchor(md: str, anchor_id: str) -> str:
+    """
+    Inject an anchor right before the first PAGE_BREAK marker.
+    Intended for recipes: it marks the boundary between the "front side" and the back-side notes.
+    """
+    marker = "<!-- PAGE_BREAK -->"
+    idx = md.find(marker)
+    if idx == -1:
+        return md
+    return md.replace(marker, f'<a id="{anchor_id}"></a>\n{marker}', 1)
+
+
 def _bundle_order() -> list[str]:
     """
     Print-first ordering: quick start → recipes → techniques → fundamentals → references.
@@ -154,8 +166,8 @@ a.xref { color: #000; text-decoration: none; }
 .page-break { page-break-after: always; }
 /* Reset visible page numbering after cover so TOC starts at p. 1 */
 .page-reset { counter-reset: page 0; }
-/* Ensure recipes always start on a front/right (odd) page */
-.recipe-start { break-before: right; }
+/* Ensure major docs start on a front/right (odd) page */
+.section-start { break-before: right; }
 """
 
     return f"""<!doctype html>
@@ -203,12 +215,12 @@ def main() -> int:
 
     parts: list[str] = []
 
-    # Cover page (no page number) — then reset numbering so TOC starts at p. 1.
+    # Cover page (no page number) — then start TOC on a right page and reset numbering so TOC shows p. 1.
     cover_path = BASE_DIR / "00_front_matter" / "cover.md"
     if cover_path.exists():
         cover_raw = _read_text(cover_path)
         parts.append(cover_raw if cover_raw.endswith("\n") else cover_raw + "\n")
-        parts.append("\n<div class=\"page-break page-reset\"></div>\n\n")
+        parts.append("\n<div class=\"section-start page-reset\"></div>\n\n")
 
     # TOC (starts at p. 1 after reset)
     toc_lines: list[str] = []
@@ -223,13 +235,12 @@ def main() -> int:
         raw = _read_text(src)
         rewritten = _rewrite_backtick_md_refs(raw, docs_by_rel, docs_by_name)
 
-        # Ensure each doc starts on a new page (after TOC and after previous docs).
-        if i > 0:
-            parts.append("\n<div class=\"page-break\"></div>\n\n")
+        # Ensure each major doc starts on a front/right page (odd page).
+        parts.append("\n<div class=\"section-start\"></div>\n\n")
 
-        # Ensure each recipe starts on a front/right page (odd page).
+        # For recipes, inject an anchor at the front/back boundary so we can analyze front-side overflow.
         if d.rel_path.startswith("03_recipes/"):
-            parts.append("\n<div class=\"recipe-start\"></div>\n\n")
+            rewritten = _inject_front_end_anchor(rewritten, f"front-end-{d.anchor}")
 
         # Add a stable anchor for cross-references.
         parts.append(f'<a id="{d.anchor}"></a>\n\n')
