@@ -90,8 +90,6 @@ def _bundle_order() -> list[str]:
     Print-first ordering: quick start → recipes → techniques → fundamentals → references.
     """
     return [
-        # Front matter / cover
-        "00_front_matter/cover.md",
         # Quick start
         "04_reference/bachelors_essentials.md",
         # Core recipes (learning path)
@@ -135,10 +133,16 @@ def _render_html(md_text: str) -> str | None:
   margin: 0.75in;
   @bottom-right { content: "p. " counter(page); font-size: 10pt; }
 }
+@page:first {
+  @bottom-right { content: ""; }
+}
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.35; color: #000; }
-h1 { font-size: 22pt; page-break-after: avoid; }
-h2 { font-size: 16pt; page-break-after: avoid; }
-h3 { font-size: 13pt; page-break-after: avoid; }
+body { font-size: 10.5pt; }
+h1 { font-size: 18pt; page-break-after: avoid; margin: 0 0 8pt 0; }
+h2 { font-size: 13pt; page-break-after: avoid; margin: 12pt 0 6pt 0; }
+h3 { font-size: 11pt; page-break-after: avoid; margin: 10pt 0 4pt 0; }
+ul, ol { margin-top: 4pt; margin-bottom: 6pt; }
+li { margin: 2pt 0; }
 /* Keep checkboxes visible */
 input[type="checkbox"] { width: 14px; height: 14px; }
 /* Make xrefs print like a book reference (no URL), with automatic page number */
@@ -148,6 +152,10 @@ a.xref { color: #000; text-decoration: none; }
 }
 /* Hard page break marker */
 .page-break { page-break-after: always; }
+/* Reset visible page numbering after cover so TOC starts at p. 1 */
+.page-reset { counter-reset: page 0; }
+/* Ensure recipes always start on a front/right (odd) page */
+.recipe-start { break-before: right; }
 """
 
     return f"""<!doctype html>
@@ -193,15 +201,22 @@ def main() -> int:
     docs_by_rel = {d.rel_path: d for d in docs}
     docs_by_name = {Path(d.rel_path).name: d for d in docs}
 
-    # Build a simple TOC up front with xref links that will auto-page-number in PDF.
+    parts: list[str] = []
+
+    # Cover page (no page number) — then reset numbering so TOC starts at p. 1.
+    cover_path = BASE_DIR / "00_front_matter" / "cover.md"
+    if cover_path.exists():
+        cover_raw = _read_text(cover_path)
+        parts.append(cover_raw if cover_raw.endswith("\n") else cover_raw + "\n")
+        parts.append("\n<div class=\"page-break page-reset\"></div>\n\n")
+
+    # TOC (starts at p. 1 after reset)
     toc_lines: list[str] = []
-    toc_lines.append("# Bachelor Cookbook: Print Bundle\n")
-    toc_lines.append("## Table of Contents\n")
+    toc_lines.append("# Table of Contents\n\n")
     for d in docs:
         toc_lines.append(f"- [{d.title}](#{d.anchor}){{.xref}}\n")
-    toc_lines.append("\n<!-- PAGE_BREAK -->\n")
-
-    parts: list[str] = ["".join(toc_lines)]
+    parts.append("".join(toc_lines))
+    parts.append("\n<div class=\"page-break\"></div>\n\n")
 
     for i, d in enumerate(docs):
         src = BASE_DIR / d.rel_path
@@ -210,13 +225,17 @@ def main() -> int:
 
         # Ensure each doc starts on a new page (after TOC and after previous docs).
         if i > 0:
-            parts.append("\n<!-- PAGE_BREAK -->\n\n")
+            parts.append("\n<div class=\"page-break\"></div>\n\n")
+
+        # Ensure each recipe starts on a front/right page (odd page).
+        if d.rel_path.startswith("03_recipes/"):
+            parts.append("\n<div class=\"recipe-start\"></div>\n\n")
 
         # Add a stable anchor for cross-references.
         parts.append(f'<a id="{d.anchor}"></a>\n\n')
         parts.append(rewritten)
 
-    # Convert PAGE_BREAK markers into HTML page breaks when rendering.
+    # Convert PAGE_BREAK markers into HTML page breaks when rendering (kept for in-recipe front/back).
     compiled_md = "".join(parts)
     compiled_md = compiled_md.replace("<!-- PAGE_BREAK -->", '<div class="page-break"></div>')
 
