@@ -1,5 +1,15 @@
 # Core Pressure Cooker Techniques
 
+**Quick Navigation:**
+- For specific cook times → `01_fundamentals/timing_charts.md`
+- For flavor chemistry → `01_fundamentals/spices_and_flavor.md`
+- For meal prep containers → `02_techniques/meal_prep_storage.md`
+- For shortcuts & substitutions → `01_fundamentals/bachelor_hacks.md`
+
+**This document teaches:** The core methods used across all recipes.
+
+---
+
 ## Searing (The Maillard Reaction)
 
 ### Why Sear?
@@ -16,6 +26,13 @@
 6. **Don't move it** - Let it brown 2-3 minutes per side
 7. Remove protein, deglaze pan with liquid (water, broth, wine)
 
+### Common Searing Mistakes
+- ❌ **Moving protein too soon** - wait for crust to form naturally
+- ❌ **Crowding the pan** - do in batches if needed for proper browning
+- ❌ **Adding oil before "HOT"** - oil breaks down and smokes
+- ❌ **Skipping deglazing** - wastes flavor and risks burn error
+- ❌ **Using butter for searing** - burns easily, use oil instead
+
 ### When to Skip Searing
 - If you're in a rush (but flavor will suffer)
 - For delicate proteins (fish, some vegetables)
@@ -25,7 +42,7 @@
 ## Oils for Sautéing: The Bachelor's Guide
 
 ### The Golden Rule: Heat First, Oil Second
-**Always wait for the pan to be HOT before adding oil.** This prevents the oil from breaking down and creates better browning.
+⚠️ **CRITICAL:** Always wait for the pan to be HOT before adding oil. This prevents the oil from breaking down and creates better browning.
 
 **Why?** When you add oil to a cold pan, it heats slowly and can start to break down before you even add your food. Adding oil to a hot pan means it heats quickly and evenly, giving you better searing and flavor.
 
@@ -140,6 +157,8 @@
 - If desperate, use a tiny bit of butter (but it burns easily)
 - Better to skip searing than to burn butter
 
+<!-- PAGE_BREAK -->
+
 ---
 
 ## Rice Preparation
@@ -147,10 +166,13 @@
 ### The Rinse Rule
 **Always rinse rice** - Removes excess starch that causes mushiness
 
-### How to Rinse
+### How to Rinse (With Visual Cue)
 1. Place rice in fine-mesh strainer
-2. Run cold water until water runs clear (30-60 seconds)
-3. Shake to drain excess water
+2. Run cold water - you'll see **milky/cloudy water** at first
+3. Keep rinsing until water is **clear like tap water** (30-60 seconds)
+4. Shake to drain excess water
+
+**Why?** The cloudiness is excess starch. Clear water = properly rinsed rice.
 
 ### Rice Ratios
 - **White rice:** 1:1 (1 cup rice : 1 cup liquid)
@@ -230,7 +252,19 @@
 
 ## Protein Preparation
 
-### Chicken Cuts & Timing
+### Quick Reference: Chicken Timing
+
+| Cut | Thawed | Frozen | Best For |
+|:---|:---|:---|:---|
+| **Thighs** | 8-10m HP | 12-15m HP | Bowls, meal prep (most forgiving) ⭐ |
+| **Breast** | 6-8m HP | 10-12m HP | Lean option (can dry out) |
+| **Cutlets** | 4-6m HP | 8-10m HP | Quick meals (not ideal for prep) |
+| **Drums** | 10-12m HP | 12-15m HP | Bone-in flavor (less practical) |
+
+**All times assume:** High Pressure + 10m Natural Release  
+**⭐ Recommended for beginners** - most forgiving
+
+### Chicken Cuts & Timing (Detailed)
 
 **Chicken Thighs** (Best for bowls - juiciest)
 - **Thawed:** 8-10 mins HP
@@ -263,6 +297,8 @@
 - **Best practice:** Thaw in fridge overnight
 - **Always check state** before setting timer
 
+<!-- PAGE_BREAK -->
+
 ---
 
 ## Pot-in-Pot (PIP) Method
@@ -271,6 +307,7 @@
 - Cooking rice and protein separately in same pot
 - Preventing flavors from mixing during cooking
 - Ensuring perfect texture for each component
+- **Single-serving rice bowls** - cooking rice in a bowl on trivet with steam (see `03_recipes/simple_rice_bowl.md`)
 
 ### How It Works
 1. Add 1 cup water to bottom of pot
@@ -285,15 +322,23 @@
 ## Deglazing
 
 ### Why Deglaze?
-- Captures browned bits (fond) = flavor
-- Prevents "BURN" error
-- Creates base for sauce
+- Captures browned bits (fond) = concentrated flavor
+- Prevents "BURN" error by releasing stuck bits
+- Creates flavorful base for cooking liquid
+- **The fond is where the flavor lives** - don't waste it!
 
 ### How to Deglaze
-1. After searing, remove protein
-2. Add 1/4-1/2 cup liquid (water, broth, wine)
-3. Scrape bottom with wooden spoon
-4. Continue with recipe
+1. After searing, remove protein and set aside
+2. **Keep pot on Sauté mode** (you want heat)
+3. Add **1/4-1/2 cup liquid** (water, broth, wine, beer)
+4. **Scrape bottom vigorously** with wooden spoon - you should see brown bits dissolving
+5. Continue with recipe (liquid is now flavored)
+
+**Liquids ranked by flavor impact:**
+- **Water** - neutral, just releases fond
+- **Broth** - adds depth
+- **Wine/Beer** - adds complexity and acidity
+- **Vinegar** - too acidic for deglazing (save for drizzle)
 
 ---
 
@@ -314,6 +359,21 @@
 - Then quick release remaining pressure
 - Best of both worlds for many dishes
 
+### What Happens If You Get It Wrong?
+
+**Used QR when you should've used NR:**
+- **Rice** → Mushy, blown-out texture
+- **Beans** → Skin splits, mushy interior
+- **Chicken** → Rubbery texture, juices spray everywhere
+- **Safety:** Hot liquid can spray from valve
+
+**Used NR when you should've used QR:**
+- **Vegetables** → Overcooked, mushy
+- **Delicate proteins** → Dried out
+- **Not dangerous, just quality suffers**
+
+**When in doubt:** Use NR - it's safer and prevents texture issues
+
 ---
 
 ## Storage & Reheating
@@ -322,9 +382,15 @@
 - **Cool quickly:** Don't leave at room temp > 2 hours
 - **Portion immediately:** Divide into meal-prep containers
 - **Label with date:** Use within 3-4 days
+- **Container choice:** Glass (Rubbermaid Brilliance) preferred - microwave-safe, no staining
+- **Vented lids:** Essential for safe reheating
+
+**See `02_techniques/meal_prep_storage.md` for complete container guide**
 
 ### Universal Microwave Reheating Method
 **The Bachelor's Go-To:** Works for all pressure cooker meal prep.
+
+**This method is detailed in the Initiation Recipe** (`03_recipes/chipotle_burrito_bowl.md`).
 
 1. **Add moisture:** Splash of **water** (prevents drying)
 2. **Cover with lid:** If using original container, **place lid slightly off** (covers but vents - prevents explosion)
