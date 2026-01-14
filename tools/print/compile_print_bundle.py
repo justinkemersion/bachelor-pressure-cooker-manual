@@ -33,6 +33,16 @@ class Doc:
     rel_path: str
     title: str
     anchor: str
+    chapter_id: str | None = None
+    chapter_title: str | None = None
+
+
+@dataclass(frozen=True)
+class Chapter:
+    id: str          # e.g. "04"
+    title: str       # e.g. "Reference"
+    subtitle: str    # one-line setup for the reader
+    rel_paths: list[str]
 
 
 def _slugify(s: str) -> str:
@@ -51,6 +61,20 @@ def _extract_title(md: str, fallback: str) -> str:
         if line.startswith("# "):
             return line[2:].strip()
     return fallback
+
+
+def _normalize_title_for_print(title: str) -> str:
+    """
+    Normalize titles for print consistency.
+
+    Some recipe files use titles like:
+      "03_Recipes: Balsamic Chicken Bowl (v1.0)"
+    In the print bundle, we keep numbering at the CHAPTER level, not inconsistently inside doc titles.
+    """
+    t = title.strip()
+    t = re.sub(r"^0\d[_\s-]*recipes\s*[:\-]\s*", "", t, flags=re.IGNORECASE)
+    t = re.sub(r"^recipes\s*[:\-]\s*", "", t, flags=re.IGNORECASE)
+    return t.strip()
 
 
 def _rewrite_backtick_md_refs(md: str, docs_by_rel: dict[str, Doc], docs_by_name: dict[str, Doc]) -> str:
@@ -180,6 +204,62 @@ def _bundle_order() -> list[str]:
     ]
 
 
+def _chapters() -> list[Chapter]:
+    """
+    Chapterized structure that mirrors the repository numbering scheme.
+    """
+    return [
+        Chapter(
+            id="01",
+            title="Fundamentals",
+            subtitle="Core knowledge: timing, flavor chemistry, and bachelor shortcuts.",
+            rel_paths=[
+                "01_fundamentals/spices_and_flavor.md",
+                "01_fundamentals/bachelor_hacks.md",
+                "01_fundamentals/timing_charts.md",
+            ],
+        ),
+        Chapter(
+            id="02",
+            title="Techniques",
+            subtitle="Methods and systems: pressure cooker technique, meal prep, marinades.",
+            rel_paths=[
+                "02_techniques/core_techniques.md",
+                "02_techniques/meal_prep_storage.md",
+                "02_techniques/marinades.md",
+            ],
+        ),
+        Chapter(
+            id="03",
+            title="Recipes",
+            subtitle="The bowl system. Each recipe teaches one new Lego block.",
+            rel_paths=[
+                "03_recipes/chipotle_burrito_bowl.md",
+                "03_recipes/chipotle_burrito_bowl_fond_method.md",
+                "03_recipes/balsamic_chicken_bowl.md",
+                "03_recipes/buffalo_chicken_wing_bowl.md",
+                "03_recipes/honey_garlic_chicken_bowl.md",
+                "03_recipes/teriyaki_chicken_bowl.md",
+                "03_recipes/pulled_chicken_taco_bowl.md",
+                "03_recipes/sofritas_protocol.md",
+                "03_recipes/simple_rice_bowl.md",
+            ],
+        ),
+        Chapter(
+            id="04",
+            title="Reference",
+            subtitle="Quick lookup: shopping list, timing dictionary, troubleshooting, safety, glossary.",
+            rel_paths=[
+                "04_reference/bachelors_essentials.md",
+                "04_reference/timing_dictionary.md",
+                "04_reference/universal_troubleshooting.md",
+                "04_reference/safety_check.md",
+                "04_reference/glossary.md",
+            ],
+        ),
+    ]
+
+
 def _render_html(md_text: str) -> str | None:
     try:
         import markdown  # type: ignore
@@ -269,18 +349,28 @@ def _write_pdf(html: str, out_pdf: Path) -> bool:
 def main() -> int:
     PRINT_DIR.mkdir(parents=True, exist_ok=True)
 
-    ordered = _bundle_order()
+    chapters = _chapters()
     docs: list[Doc] = []
 
-    for rel in ordered:
-        path = BASE_DIR / rel
-        if not path.exists():
-            print(f"ERROR: Missing file in bundle order: {rel}", file=sys.stderr)
-            return 2
-        raw = _read_text(path)
-        title = _extract_title(raw, fallback=Path(rel).stem)
-        anchor = f"doc-{_slugify(rel.replace('.md', ''))}"
-        docs.append(Doc(rel_path=rel, title=title, anchor=anchor))
+    for ch in chapters:
+        for rel in ch.rel_paths:
+            path = BASE_DIR / rel
+            if not path.exists():
+                print(f"ERROR: Missing file in bundle order: {rel}", file=sys.stderr)
+                return 2
+            raw = _read_text(path)
+            title_raw = _extract_title(raw, fallback=Path(rel).stem)
+            title = _normalize_title_for_print(title_raw)
+            anchor = f"doc-{_slugify(rel.replace('.md', ''))}"
+            docs.append(
+                Doc(
+                    rel_path=rel,
+                    title=title,
+                    anchor=anchor,
+                    chapter_id=ch.id,
+                    chapter_title=ch.title,
+                )
+            )
 
     docs_by_rel = {d.rel_path: d for d in docs}
     docs_by_name = {Path(d.rel_path).name: d for d in docs}
@@ -294,42 +384,52 @@ def main() -> int:
         parts.append(cover_raw if cover_raw.endswith("\n") else cover_raw + "\n")
         parts.append("\n<div class=\"section-start\"></div>\n\n")
 
-    # TOC (starts at p. 1 after reset)
+    # TOC (nested by chapter)
     toc_lines: list[str] = []
     toc_lines.append("# Table of Contents\n\n")
-    for d in docs:
-        toc_lines.append(f"- [{d.title}](#{d.anchor}){{.xref}}\n")
+    for ch in chapters:
+        toc_lines.append(f"## {ch.id} — {ch.title}\n")
+        toc_lines.append(f"*{ch.subtitle}*\n\n")
+        for rel in ch.rel_paths:
+            d = docs_by_rel[rel]
+            toc_lines.append(f"- [{d.title}](#{d.anchor}){{.xref}}\n")
+        toc_lines.append("\n")
+
     parts.append('<div class="doc-title">Table of Contents</div>\n')
     parts.append("".join(toc_lines))
     parts.append("\n<div class=\"page-break\"></div>\n\n")
 
-    for i, d in enumerate(docs):
-        src = BASE_DIR / d.rel_path
-        raw = _read_text(src)
-        rewritten = _rewrite_backtick_md_refs(raw, docs_by_rel, docs_by_name)
-
-        # Ensure each major doc starts on a front/right page (odd page).
+    # Chapters + docs (each chapter gets a title page)
+    for ch in chapters:
+        # Chapter title page
         parts.append("\n<div class=\"section-start\"></div>\n\n")
+        parts.append(f'<a id="chapter-{ch.id}"></a>\n\n')
+        parts.append(f"# {ch.id} — {ch.title}\n\n")
+        parts.append(f"**{ch.subtitle}**\n\n")
+        parts.append("\n<div class=\"page-break\"></div>\n\n")
 
-        # Reset the running footer element at the start of each doc to avoid bleed between sections.
-        parts.append('<div class="continue-note end"></div>\n')
-        parts.append(f'<div class="doc-title">{d.title}</div>\n')
+        for rel in ch.rel_paths:
+            d = docs_by_rel[rel]
+            src = BASE_DIR / d.rel_path
+            raw = _read_text(src)
+            rewritten = _rewrite_backtick_md_refs(raw, docs_by_rel, docs_by_name)
 
-        # For recipes, inject an anchor at the front/back boundary so we can analyze front-side overflow,
-        # and wrap phases to reduce mid-phase page breaks.
-        if d.rel_path.startswith("03_recipes/"):
-            rewritten = _inject_front_end_anchor(rewritten, f"front-end-{d.anchor}")
-            rewritten = _wrap_recipe_phases(rewritten)
-            # Enable the "continues" footer for recipe pages; we'll disable at the end of the recipe.
-            parts.append('<div class="continue-note">Recipe continues on next page</div>\n')
+            parts.append("\n<div class=\"section-start\"></div>\n\n")
 
-        # Add a stable anchor for cross-references.
-        parts.append(f'<a id="{d.anchor}"></a>\n\n')
-        parts.append(rewritten)
+            # Reset the running footer element at the start of each doc to avoid bleed between sections.
+            parts.append('<div class="continue-note end"></div>\n')
+            parts.append(f'<div class="doc-title">{ch.id} — {ch.title}: {d.title}</div>\n')
 
-        # Disable the "continues" footer at the end of each recipe so the last page doesn't show it.
-        if d.rel_path.startswith("03_recipes/"):
-            parts.append('\n<div class="continue-note end"></div>\n')
+            if d.rel_path.startswith("03_recipes/"):
+                rewritten = _inject_front_end_anchor(rewritten, f"front-end-{d.anchor}")
+                rewritten = _wrap_recipe_phases(rewritten)
+                parts.append('<div class="continue-note">Recipe continues on next page</div>\n')
+
+            parts.append(f'<a id="{d.anchor}"></a>\n\n')
+            parts.append(rewritten)
+
+            if d.rel_path.startswith("03_recipes/"):
+                parts.append('\n<div class="continue-note end"></div>\n')
 
     # Convert PAGE_BREAK markers into HTML page breaks when rendering (kept for in-recipe front/back).
     compiled_md = "".join(parts)
