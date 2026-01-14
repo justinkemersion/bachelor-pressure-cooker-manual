@@ -210,26 +210,6 @@ def _chapters() -> list[Chapter]:
     """
     return [
         Chapter(
-            id="01",
-            title="Fundamentals",
-            subtitle="Core knowledge: timing, flavor chemistry, and bachelor shortcuts.",
-            rel_paths=[
-                "01_fundamentals/spices_and_flavor.md",
-                "01_fundamentals/bachelor_hacks.md",
-                "01_fundamentals/timing_charts.md",
-            ],
-        ),
-        Chapter(
-            id="02",
-            title="Techniques",
-            subtitle="Methods and systems: pressure cooker technique, meal prep, marinades.",
-            rel_paths=[
-                "02_techniques/core_techniques.md",
-                "02_techniques/meal_prep_storage.md",
-                "02_techniques/marinades.md",
-            ],
-        ),
-        Chapter(
             id="03",
             title="Recipes",
             subtitle="The bowl system. Each recipe teaches one new Lego block.",
@@ -243,6 +223,26 @@ def _chapters() -> list[Chapter]:
                 "03_recipes/pulled_chicken_taco_bowl.md",
                 "03_recipes/sofritas_protocol.md",
                 "03_recipes/simple_rice_bowl.md",
+            ],
+        ),
+        Chapter(
+            id="02",
+            title="Techniques",
+            subtitle="Methods and systems: pressure cooker technique, meal prep, marinades.",
+            rel_paths=[
+                "02_techniques/core_techniques.md",
+                "02_techniques/meal_prep_storage.md",
+                "02_techniques/marinades.md",
+            ],
+        ),
+        Chapter(
+            id="01",
+            title="Fundamentals",
+            subtitle="Core knowledge: timing, flavor chemistry, and bachelor shortcuts.",
+            rel_paths=[
+                "01_fundamentals/spices_and_flavor.md",
+                "01_fundamentals/bachelor_hacks.md",
+                "01_fundamentals/timing_charts.md",
             ],
         ),
         Chapter(
@@ -285,6 +285,11 @@ def _render_html(md_text: str) -> str | None:
   @bottom-right { content: ""; }
   @top-left { content: ""; }
 }
+@page :blank {
+  /* Label forced blank pages so they feel intentional (duplex spacing + spread alignment) */
+  @top-left { content: "Field Notes"; font-size: 9pt; color: #777; }
+  @bottom-center { content: ""; }
+}
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.28; color: #000; }
 body { font-size: 10pt; }
 h1 { font-size: 17pt; page-break-after: avoid; margin: 0 0 6pt 0; }
@@ -303,6 +308,8 @@ a.xref { color: #000; text-decoration: none; }
 .page-break { page-break-after: always; }
 /* Ensure major docs start on a front/right (odd) page */
 .section-start { break-before: right; }
+/* Recipe "spread" starts: force to LEFT (verso/even) when we want a 2-page command center */
+.recipe-start-left { break-before: left; }
 /* Phase pagination: keep phases together when possible */
 .phase { break-inside: avoid; }
 .phase > h3 { break-after: avoid; }
@@ -414,7 +421,15 @@ def main() -> int:
             raw = _read_text(src)
             rewritten = _rewrite_backtick_md_refs(raw, docs_by_rel, docs_by_name)
 
-            parts.append("\n<div class=\"section-start\"></div>\n\n")
+            # Start alignment:
+            # - Chapters always start on RIGHT (handled above).
+            # - Recipes (except the long "manual" ones) start on LEFT to create 2-page spreads.
+            is_recipe = d.rel_path.startswith("03_recipes/")
+            is_manual_recipe = Path(d.rel_path).name in {"chipotle_burrito_bowl.md", "chipotle_burrito_bowl_fond_method.md"}
+            if is_recipe and not is_manual_recipe:
+                parts.append("\n<div class=\"recipe-start-left\"></div>\n\n")
+            else:
+                parts.append("\n<div class=\"section-start\"></div>\n\n")
 
             # Reset the running footer element at the start of each doc to avoid bleed between sections.
             parts.append('<div class="continue-note end"></div>\n')
