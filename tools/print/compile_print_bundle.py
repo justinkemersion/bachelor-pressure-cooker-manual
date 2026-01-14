@@ -112,6 +112,14 @@ def _wrap_recipe_phases(md: str) -> str:
 
     in_phase = False
     for line in lines:
+        # If we hit a major section header, end the current phase block.
+        # This avoids accidentally wrapping Phase N + everything after it (common in older recipes without PAGE_BREAK).
+        if in_phase and (line.startswith("## ") or line.startswith("# ")):
+            out.append("</div>\n")
+            in_phase = False
+            out.append(line)
+            continue
+
         # Stop phase wrapping at the recipe's front/back boundary.
         if "<!-- PAGE_BREAK -->" in line:
             if in_phase:
@@ -187,19 +195,21 @@ def _render_html(md_text: str) -> str | None:
 @page {
   size: letter;
   margin: 0.75in;
+  @top-left { content: element(docTitle); font-size: 9pt; color: #333; }
   @bottom-right { content: "p. " counter(page); font-size: 10pt; }
   @bottom-center { content: element(continue); font-size: 9pt; color: #333; }
 }
 @page:first {
   @bottom-right { content: ""; }
+  @top-left { content: ""; }
 }
-body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.35; color: #000; }
-body { font-size: 10.5pt; }
-h1 { font-size: 18pt; page-break-after: avoid; margin: 0 0 8pt 0; }
-h2 { font-size: 13pt; page-break-after: avoid; margin: 12pt 0 6pt 0; }
-h3 { font-size: 11pt; page-break-after: avoid; margin: 10pt 0 4pt 0; }
-ul, ol { margin-top: 4pt; margin-bottom: 6pt; }
-li { margin: 2pt 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.28; color: #000; }
+body { font-size: 10pt; }
+h1 { font-size: 17pt; page-break-after: avoid; margin: 0 0 6pt 0; }
+h2 { font-size: 12.5pt; page-break-after: avoid; margin: 10pt 0 5pt 0; }
+h3 { font-size: 10.5pt; page-break-after: avoid; margin: 8pt 0 3pt 0; }
+ul, ol { margin-top: 3pt; margin-bottom: 5pt; }
+li { margin: 1pt 0; }
 /* Keep checkboxes visible */
 input[type="checkbox"] { width: 14px; height: 14px; }
 /* Make xrefs print like a book reference (no URL), with automatic page number */
@@ -220,6 +230,9 @@ a.xref { color: #000; text-decoration: none; }
 /* "Continues" footer control (WeasyPrint running elements) */
 .continue-note { position: running(continue); }
 .continue-note.end { position: running(continue); }
+
+/* Running document title in header */
+.doc-title { position: running(docTitle); font-weight: 600; }
 """
 
     return f"""<!doctype html>
@@ -279,6 +292,7 @@ def main() -> int:
     toc_lines.append("# Table of Contents\n\n")
     for d in docs:
         toc_lines.append(f"- [{d.title}](#{d.anchor}){{.xref}}\n")
+    parts.append('<div class="doc-title">Table of Contents</div>\n')
     parts.append("".join(toc_lines))
     parts.append("\n<div class=\"page-break\"></div>\n\n")
 
@@ -292,6 +306,7 @@ def main() -> int:
 
         # Reset the running footer element at the start of each doc to avoid bleed between sections.
         parts.append('<div class="continue-note end"></div>\n')
+        parts.append(f'<div class="doc-title">{d.title}</div>\n')
 
         # For recipes, inject an anchor at the front/back boundary so we can analyze front-side overflow,
         # and wrap phases to reduce mid-phase page breaks.
