@@ -151,21 +151,14 @@
 
 ## Storage & Reheating
 
-### Storage
-- **Cool quickly:** Don't leave at room temp > 2 hours
-- **Portion immediately:** Divide into meal-prep containers
-- **Label with date:** Use within **3-4 days**
-- **Store glaze separately:** The glaze will thicken in the fridge. Store in a small container.
+**For universal storage and reheating guidelines:** See `02_techniques/meal_prep_storage.md`
 
-### Reheating
-- **Microwave:** Add **splash of water**, cover with lid (slightly off for venting), **3:30 minutes** on **level 7** (stir halfway)
-- **Stovetop:** Add splash of water/broth, heat gently, stir
-- **Restore the glaze:** After reheating, drizzle a bit of the stored glaze over the top (it will warm up and become sticky again)
+### Recipe-Specific Notes
 
-### Reheating Tip
-The glaze will thicken in the fridge. When reheating, you can:
-- **Warm the glaze separately** (microwave 10-15 seconds) and drizzle over reheated bowl
-- **Or** add a tiny bit of water to thin it, then drizzle
+**Glaze Storage:**
+- **Store glaze separately:** The glaze will thicken in the fridge. Store in a small container (lasts 1-2 weeks).
+- **Reheating with glaze:** After reheating the bowl, drizzle a bit of the stored glaze over the top (it will warm up and become sticky again).
+- **If glaze is too thick:** Warm the glaze separately (microwave 10-15 seconds) OR add a tiny bit of water to thin it, then drizzle.
 
 ---
 
@@ -219,30 +212,23 @@ The glaze will thicken in the fridge. When reheating, you can:
 
 ## ⚠️ Troubleshooting
 
+**For universal troubleshooting (rice, chicken, pressure cooker issues):** See `04_reference/universal_troubleshooting.md`
+
+### Recipe-Specific Issues (Glaze Reduction)
+
 *   **Glaze is too thin?** Keep reducing! Simmer longer until it thickens. It should coat the back of a spoon.
 *   **Glaze is too thick?** Add a tiny bit of water (1 tsp at a time) and stir until desired consistency.
 *   **Glaze burned?** You had the heat too high. Next time, use medium heat and stir more often. Start over with fresh liquid if needed.
 *   **Not enough glaze?** This is normal - reduction concentrates flavors. A little goes a long way. If you need more, see "Scaling the Glaze" above.
-*   **Rice is crunchy?** Add 1/4 cup water, 2 mins HP, Quick Release.
-*   **Rice is mushy?** You used too much liquid. Check that you started with 1.75 cups (not more).
-*   **Chicken is dry?** You skipped the 5-minute rest. Never skip the rest.
-*   **Frozen chicken not done?** 14m is recommended, but 12m is minimum - larger pieces may need 15m. The 10m NR continues cooking.
-*   **No trivet?** See `01_fundamentals/bachelor_hacks.md` for foil trivet trick.
 
 ---
 
-## 🚨 What to Worry About (Safety & Quality Check)
+## 📚 Universal References
 
-**Refer to `04_reference/safety_check.md` for Doneness & Chemistry Logic**
-
-### Quick Diagnosis Flow
-1. **Check smell first** - if funky, throw out immediately
-2. **Check color** - pink meat? Undercooked. Gray/green? Spoiled
-3. **Check texture** - slimy? Spoiled. Rubbery? Overcooked but safe
-4. **Check doneness** - meat should be white throughout, no pink
-5. **Taste test** - if it tastes off, throw it out
-
-**The Golden Rule:** When in doubt, throw it out. Food poisoning isn't worth the risk.
+**For universal troubleshooting:** See `04_reference/universal_troubleshooting.md`  
+**For meal prep & storage:** See `02_techniques/meal_prep_storage.md`  
+**For safety checks:** See `04_reference/safety_check.md`  
+**For reheating method:** See `02_techniques/core_techniques.md` (Universal Microwave Reheating Method)
 
 ---
 
