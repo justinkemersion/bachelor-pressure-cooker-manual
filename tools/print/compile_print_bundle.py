@@ -210,19 +210,13 @@ def _chapters() -> list[Chapter]:
     """
     return [
         Chapter(
-            id="03",
-            title="Recipes",
-            subtitle="The bowl system. Each recipe teaches one new Lego block.",
+            id="01",
+            title="Fundamentals",
+            subtitle="Core knowledge: timing, flavor chemistry, and bachelor shortcuts.",
             rel_paths=[
-                "03_recipes/chipotle_burrito_bowl.md",
-                "03_recipes/chipotle_burrito_bowl_fond_method.md",
-                "03_recipes/balsamic_chicken_bowl.md",
-                "03_recipes/buffalo_chicken_wing_bowl.md",
-                "03_recipes/honey_garlic_chicken_bowl.md",
-                "03_recipes/teriyaki_chicken_bowl.md",
-                "03_recipes/pulled_chicken_taco_bowl.md",
-                "03_recipes/sofritas_protocol.md",
-                "03_recipes/simple_rice_bowl.md",
+                "01_fundamentals/spices_and_flavor.md",
+                "01_fundamentals/bachelor_hacks.md",
+                "01_fundamentals/timing_charts.md",
             ],
         ),
         Chapter(
@@ -236,13 +230,19 @@ def _chapters() -> list[Chapter]:
             ],
         ),
         Chapter(
-            id="01",
-            title="Fundamentals",
-            subtitle="Core knowledge: timing, flavor chemistry, and bachelor shortcuts.",
+            id="03",
+            title="Recipes",
+            subtitle="The bowl system. Each recipe teaches one new Lego block.",
             rel_paths=[
-                "01_fundamentals/spices_and_flavor.md",
-                "01_fundamentals/bachelor_hacks.md",
-                "01_fundamentals/timing_charts.md",
+                "03_recipes/chipotle_burrito_bowl.md",
+                "03_recipes/chipotle_burrito_bowl_fond_method.md",
+                "03_recipes/balsamic_chicken_bowl.md",
+                "03_recipes/buffalo_chicken_wing_bowl.md",
+                "03_recipes/honey_garlic_chicken_bowl.md",
+                "03_recipes/teriyaki_chicken_bowl.md",
+                "03_recipes/pulled_chicken_taco_bowl.md",
+                "03_recipes/sofritas_protocol.md",
+                "03_recipes/simple_rice_bowl.md",
             ],
         ),
         Chapter(
@@ -275,15 +275,21 @@ def _render_html(md_text: str) -> str | None:
 @page {
   size: letter;
   margin: 0.75in;
+}
+@page cover {
+  @top-left { content: ""; }
+  @bottom-right { content: ""; }
+  @bottom-center { content: ""; }
+}
+@page main {
   @top-left { content: element(docTitle); font-size: 9pt; color: #333; }
   @bottom-right { content: "p. " counter(page); font-size: 10pt; }
   @bottom-center { content: element(continue); font-size: 9pt; color: #333; }
 }
-@page:first {
-  /* Start page numbering at 0 on the cover so the next page (TOC) becomes p. 1 */
+@page main:first {
+  /* TOC is the first 'main' page: make it p. 1 (and preserve physical parity). */
   counter-reset: page 0;
   @bottom-right { content: ""; }
-  @top-left { content: ""; }
 }
 @page :blank {
   /* Label forced blank pages so they feel intentional (duplex spacing + spread alignment) */
@@ -306,6 +312,9 @@ a.xref { color: #000; text-decoration: none; }
 }
 /* Hard page break marker */
 .page-break { page-break-after: always; }
+/* Page-type assignment */
+.cover { page: cover; }
+.main { page: main; }
 /* Ensure major docs start on a front/right (odd) page */
 .section-start { break-before: right; }
 /* Recipe "spread" starts: force to LEFT (verso/even) when we want a 2-page command center */
@@ -391,15 +400,22 @@ def main() -> int:
     cover_path = BASE_DIR / "00_front_matter" / "cover.md"
     if cover_path.exists():
         cover_raw = _read_text(cover_path)
+        parts.append('<div class="cover" markdown="1">\n')
         parts.append(cover_raw if cover_raw.endswith("\n") else cover_raw + "\n")
+        parts.append("</div>\n")
         # Inside cover (left page) becomes intentional "Field Notes" rather than a mysterious blank.
         parts.append("\n<div class=\"page-break\"></div>\n\n")
         inside_cover = BASE_DIR / "00_front_matter" / "inside_cover_field_notes.md"
         if inside_cover.exists():
             inside_raw = _read_text(inside_cover)
+            parts.append('<div class="cover" markdown="1">\n')
             parts.append(inside_raw if inside_raw.endswith("\n") else inside_raw + "\n")
+            parts.append("</div>\n")
         # Start TOC on a right page after inside cover.
         parts.append("\n<div class=\"section-start\"></div>\n\n")
+
+    # Main content wrapper: ensures TOC numbering starts at p. 1 on a physical right page.
+    parts.append('<div class="main" markdown="1">\n')
 
     # TOC (nested by chapter)
     toc_lines: list[str] = []
@@ -455,6 +471,8 @@ def main() -> int:
 
             if d.rel_path.startswith("03_recipes/"):
                 parts.append('\n<div class="continue-note end"></div>\n')
+
+    parts.append("\n</div>\n")
 
     # Convert PAGE_BREAK markers into HTML page breaks when rendering (kept for in-recipe front/back).
     compiled_md = "".join(parts)

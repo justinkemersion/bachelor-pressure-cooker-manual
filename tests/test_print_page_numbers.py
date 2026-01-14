@@ -28,7 +28,7 @@ class TestPrintPageNumbers:
         # The page counter should only be controlled in @page rules, not on normal elements.
         compiler = (BASE_DIR / "tools" / "print" / "compile_print_bundle.py").read_text(encoding="utf-8")
         assert ".page-reset" not in compiler, "Do not use in-flow .page-reset; it breaks target-counter page refs"
-        assert "counter-reset: page 0;" in compiler, "Expected cover page reset via @page:first counter-reset"
+        assert "counter-reset: page 0;" in compiler, "Expected page reset via @page main:first counter-reset"
 
     def test_generated_pdf_has_nonzero_xref_targets(self):
         if not _has_print_deps():
