@@ -173,22 +173,30 @@ def _wrap_recipe_phases(md: str) -> str:
 
 def _normalize_task_list_checkboxes(md: str) -> str:
     """
-    Normalize task list lines so they render as real checkboxes and always break into list items.
+    Normalize task list lines so they render as print-friendly checkboxes and always break into list items.
 
     Python-Markdown can be picky about lists immediately following paragraphs; this:
     - Inserts a blank line before any '- [ ]' / '- [x]' block when needed
-    - Rewrites '- [ ] text' into '- <input type="checkbox" disabled> text'
-      (and checked for [x])
+    - Wraps contiguous task-list blocks in a container so we can style them (remove bullets)
+    - Rewrites '- [ ] text' into '- ☐ text' (and '☑' for [x]) to avoid WeasyPrint form-control rendering
     """
     lines = md.splitlines(keepends=True)
     out: list[str] = []
     in_fence = False
+    in_task_block = False
 
     task_re = re.compile(r"^(\s*)-\s*\[([ xX])\]\s+(.*)$")
     listish_prev_re = re.compile(r"^\s*(?:-\s+|\d+\.\s+)")
 
-    for i, line in enumerate(lines):
+    def _close_task_block() -> None:
+        nonlocal in_task_block
+        if in_task_block:
+            out.append("</div>\n")
+            in_task_block = False
+
+    for line in lines:
         if line.lstrip().startswith("```"):
+            _close_task_block()
             in_fence = not in_fence
             out.append(line)
             continue
@@ -199,6 +207,7 @@ def _normalize_task_list_checkboxes(md: str) -> str:
 
         m = task_re.match(line.rstrip("\n"))
         if not m:
+            _close_task_block()
             out.append(line)
             continue
 
@@ -210,10 +219,16 @@ def _normalize_task_list_checkboxes(md: str) -> str:
             if prev.strip() != "" and not listish_prev_re.match(prev):
                 out.append("\n")
 
-        checked = (mark.lower() == "x")
-        checkbox = '<input type="checkbox" disabled{}>'.format(" checked" if checked else "")
-        out.append(f"{indent}- {checkbox} {rest}\n")
+        if not in_task_block:
+            # markdown="1" ensures the list inside parses correctly (paired with md_in_html extension).
+            out.append('<div class="task-list" markdown="1">\n')
+            in_task_block = True
 
+        checked = (mark.lower() == "x")
+        box = "☑" if checked else "☐"
+        out.append(f"{indent}- {box} {rest}\n")
+
+    _close_task_block()
     return "".join(out)
 
 
@@ -390,8 +405,9 @@ h2 { font-size: 12.5pt; page-break-after: avoid; margin: 10pt 0 5pt 0; }
 h3 { font-size: 10.5pt; page-break-after: avoid; margin: 8pt 0 3pt 0; }
 ul, ol { margin-top: 3pt; margin-bottom: 5pt; }
 li { margin: 1pt 0; }
-/* Keep checkboxes visible */
-input[type="checkbox"] { width: 14px; height: 14px; }
+/* Task lists (print-friendly checkboxes) */
+.task-list ul { list-style: none; padding-left: 0; margin: 0.25em 0; }
+.task-list li { margin: 0.12em 0; }
 /* Make xrefs print like a book reference (no URL), with automatic page number */
 a.xref { color: #000; text-decoration: none; }
 @media print {

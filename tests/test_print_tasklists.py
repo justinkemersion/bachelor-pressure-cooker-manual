@@ -35,6 +35,7 @@ class TestPrintTaskLists:
         html_path = BASE_DIR / "05_print" / "compiled_manual.html"
         html = html_path.read_text(encoding="utf-8")
 
-        assert 'input type="checkbox"' in html, "Expected checkbox inputs in compiled HTML"
         assert "<li>[ ]" not in html, "Checkboxes should not render as literal '[ ]' inside list items"
+        assert "<li>☐" in html or "<li>☑" in html, "Expected print-friendly checkbox glyphs (☐/☑) in compiled HTML"
+        assert 'input type="checkbox"' not in html, "We should not emit HTML form checkboxes (WeasyPrint renders them poorly)"
 
