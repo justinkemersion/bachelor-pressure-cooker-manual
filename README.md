@@ -91,6 +91,10 @@ Bachelor-Cookbook/
 │   │                                           # → Builds fond, creates drizzle, different flavor depth
 │   ├── balsamic_chicken_bowl.md        # Italian/Mediterranean flavor profile
 │   │                                   # → Introduces balsamic drizzle, fat balance, Cannellini beans
+│   ├── buffalo_chicken_wing_bowl.md    # American/Buffalo flavor profile
+│   │                                   # → Introduces "Butter Mount" technique, hot sauce balance
+│   ├── simple_rice_bowl.md            # Single-serving rice bowl (bowl-on-trivet method)
+│   │                                   # → Perfect 1:1 ratio, steam cooking, Everything Bagel seasoning
 │   └── [future recipes]                # All other recipes (concise, build on Initiation Recipe)
 │
 ├── 04_reference/                       # Quick lookup tables - keep these handy
