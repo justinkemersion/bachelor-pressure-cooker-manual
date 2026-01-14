@@ -97,6 +97,46 @@ def _inject_front_end_anchor(md: str, anchor_id: str) -> str:
     return md.replace(marker, f'<a id="{anchor_id}"></a>\n{marker}', 1)
 
 
+def _wrap_recipe_phases(md: str) -> str:
+    """
+    Wrap recipe phases in a non-breaking container so a phase won't split across pages.
+
+    We wrap sections that start with a line like:
+      ### Phase 1: ...
+    up to (but not including) the next '### Phase' or the first PAGE_BREAK marker.
+
+    This is deliberately conservative and only targets recipes (called only for 03_recipes/).
+    """
+    lines = md.splitlines(keepends=True)
+    out: list[str] = []
+
+    in_phase = False
+    for line in lines:
+        # Stop phase wrapping at the recipe's front/back boundary.
+        if "<!-- PAGE_BREAK -->" in line:
+            if in_phase:
+                out.append("</div>\n")
+                in_phase = False
+            out.append(line)
+            continue
+
+        # Start a new phase block.
+        if line.startswith("### Phase "):
+            if in_phase:
+                out.append("</div>\n")
+            out.append('<div class="phase">\n')
+            in_phase = True
+            out.append(line)
+            continue
+
+        out.append(line)
+
+    if in_phase:
+        out.append("</div>\n")
+
+    return "".join(out)
+
+
 def _bundle_order() -> list[str]:
     """
     Print-first ordering: quick start → recipes → techniques → fundamentals → references.
@@ -144,6 +184,7 @@ def _render_html(md_text: str) -> str | None:
   size: letter;
   margin: 0.75in;
   @bottom-right { content: "p. " counter(page); font-size: 10pt; }
+  @bottom-center { content: element(continue); font-size: 9pt; color: #333; }
 }
 @page:first {
   @bottom-right { content: ""; }
@@ -168,6 +209,13 @@ a.xref { color: #000; text-decoration: none; }
 .page-reset { counter-reset: page 0; }
 /* Ensure major docs start on a front/right (odd) page */
 .section-start { break-before: right; }
+/* Phase pagination: keep phases together when possible */
+.phase { break-inside: avoid; }
+.phase > h3 { break-after: avoid; }
+
+/* "Continues" footer control (WeasyPrint running elements) */
+.continue-note { position: running(continue); }
+.continue-note.end { position: running(continue); }
 """
 
     return f"""<!doctype html>
@@ -238,13 +286,24 @@ def main() -> int:
         # Ensure each major doc starts on a front/right page (odd page).
         parts.append("\n<div class=\"section-start\"></div>\n\n")
 
-        # For recipes, inject an anchor at the front/back boundary so we can analyze front-side overflow.
+        # Reset the running footer element at the start of each doc to avoid bleed between sections.
+        parts.append('<div class="continue-note end"></div>\n')
+
+        # For recipes, inject an anchor at the front/back boundary so we can analyze front-side overflow,
+        # and wrap phases to reduce mid-phase page breaks.
         if d.rel_path.startswith("03_recipes/"):
             rewritten = _inject_front_end_anchor(rewritten, f"front-end-{d.anchor}")
+            rewritten = _wrap_recipe_phases(rewritten)
+            # Enable the "continues" footer for recipe pages; we'll disable at the end of the recipe.
+            parts.append('<div class="continue-note">Recipe continues on next page</div>\n')
 
         # Add a stable anchor for cross-references.
         parts.append(f'<a id="{d.anchor}"></a>\n\n')
         parts.append(rewritten)
+
+        # Disable the "continues" footer at the end of each recipe so the last page doesn't show it.
+        if d.rel_path.startswith("03_recipes/"):
+            parts.append('\n<div class="continue-note end"></div>\n')
 
     # Convert PAGE_BREAK markers into HTML page breaks when rendering (kept for in-recipe front/back).
     compiled_md = "".join(parts)
