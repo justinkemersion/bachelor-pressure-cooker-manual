@@ -97,6 +97,8 @@ Bachelor-Cookbook/
 │   │                                   # → Perfect 1:1 ratio, steam cooking, Everything Bagel seasoning
 │   ├── honey_garlic_chicken_bowl.md   # Asian-American fusion (sweet/savory balance)
 │   │                                   # → Introduces glaze reduction technique, honey + soy sauce
+│   ├── teriyaki_chicken_bowl.md       # Japanese-American (teriyaki glaze)
+│   │                                   # → Introduces teriyaki glaze, rice wine/mirin applications
 │   └── [future recipes]                # All other recipes (concise, build on Initiation Recipe)
 │
 ├── 04_reference/                       # Quick lookup tables - keep these handy
