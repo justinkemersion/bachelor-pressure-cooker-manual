@@ -321,6 +321,9 @@ th { background: #f2f2f2; font-weight: 700; }
 tr { break-inside: avoid; }
 table { break-inside: avoid; }
 
+/* Horizontal rules: treat as spacing, not heavy lines (avoids accidental "double line" artifacts) */
+hr { border: none; height: 0; margin: 8pt 0; }
+
 /* "Continues" footer control (WeasyPrint running elements) */
 .continue-note { position: running(continue); }
 .continue-note.end { position: running(continue); }
@@ -389,6 +392,13 @@ def main() -> int:
     if cover_path.exists():
         cover_raw = _read_text(cover_path)
         parts.append(cover_raw if cover_raw.endswith("\n") else cover_raw + "\n")
+        # Inside cover (left page) becomes intentional "Field Notes" rather than a mysterious blank.
+        parts.append("\n<div class=\"page-break\"></div>\n\n")
+        inside_cover = BASE_DIR / "00_front_matter" / "inside_cover_field_notes.md"
+        if inside_cover.exists():
+            inside_raw = _read_text(inside_cover)
+            parts.append(inside_raw if inside_raw.endswith("\n") else inside_raw + "\n")
+        # Start TOC on a right page after inside cover.
         parts.append("\n<div class=\"section-start\"></div>\n\n")
 
     # TOC (nested by chapter)
