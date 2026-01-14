@@ -147,6 +147,50 @@ Add a fresh drizzle of soy sauce after reheating to brighten flavors.
 
 ---
 
+## 🎨 Flavor Profile Variations
+
+**Not in the mood for Asian flavors?** Swap out the Everything Bagel seasoning for different flavor profiles! The bowl-on-trivet method works with any seasoning - just change the spices and the finishing drizzle.
+
+### Mediterranean/Italian Profile
+**In the Bowl:**
+- Replace Everything Bagel seasoning with: **1/4 tsp oregano, 1/4 tsp thyme, 1/4 tsp garlic powder, 1/4 tsp onion powder, 1/4 tsp salt**
+- Skip the extra sesame seeds (or use 1/4 tsp for texture)
+
+**Finishing Drizzle:**
+- Replace soy sauce with: **1 tsp red wine vinegar** (OR 1 tsp balsamic vinegar + tiny pinch of sugar)
+- Optional: Sprinkle with **dried basil** or **parmesan cheese** after cooking
+
+**Why It Works:** Oregano + thyme = Mediterranean base. Red wine vinegar adds brightness. Garlic + onion = umami foundation.
+
+### Tex-Mex Profile
+**In the Bowl:**
+- Replace Everything Bagel seasoning with: **1/4 tsp cumin, 1/4 tsp chili powder, 1/4 tsp garlic powder, 1/4 tsp onion powder, 1/4 tsp salt**
+- Skip the extra sesame seeds
+
+**Finishing Drizzle:**
+- Replace soy sauce with: **1 tsp lime juice** (OR 1 tsp lemon juice)
+- Optional: Top with **fresh cilantro** after cooking
+
+**Why It Works:** Cumin + chili powder = Tex-Mex signature. Lime juice adds brightness and cuts through the earthy spices.
+
+### Simple Garlic & Herb Profile
+**In the Bowl:**
+- Replace Everything Bagel seasoning with: **1/2 tsp garlic powder, 1/4 tsp thyme, 1/4 tsp salt**
+- Skip the extra sesame seeds
+
+**Finishing Drizzle:**
+- Replace soy sauce with: **1 tsp lemon juice** (OR 1 tsp olive oil for richness)
+- Optional: Sprinkle with **black pepper** after cooking
+
+**Why It Works:** Garlic + thyme = classic combination. Lemon brightens, or olive oil adds richness. Simple but delicious.
+
+### The Golden Rule
+**Don't mix profiles** - If making Mediterranean, don't add cumin. If making Tex-Mex, don't add balsamic. Pick one profile and stick with it for best results.
+
+**Pro Tip:** Start with the Everything Bagel version (it's the most versatile), then experiment with other profiles once you're comfortable with the method!
+
+---
+
 ## ⚠️ Troubleshooting
 
 *   **Rice is crunchy?** Add 1 tbsp water to the bowl, 2 mins HP, Quick Release.
@@ -155,7 +199,8 @@ Add a fresh drizzle of soy sauce after reheating to brighten flavors.
 *   **No trivet?** See `01_fundamentals/bachelor_hacks.md` for foil trivet trick.
 *   **Rice stuck to bowl?** Let it cool slightly, then use a fork to gently scrape. Add a tiny bit of water if needed.
 *   **Too salty?** You added too much soy sauce. Start with 1 tsp next time, taste, then add more if needed.
-*   **Want more flavor?** Add 1/4 tsp ginger powder to the bowl, or drizzle with a tiny bit of sesame oil after cooking.
+*   **Want more flavor?** Add 1/4 tsp ginger powder to the bowl (Asian), or try a different flavor profile (see Flavor Profile Variations section above).
+*   **Not in the mood for Asian flavors?** Swap Everything Bagel seasoning for Mediterranean (oregano + thyme) or Tex-Mex (cumin + chili powder) - see Flavor Profile Variations section.
 
 ---
 
