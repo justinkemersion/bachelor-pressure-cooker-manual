@@ -27,6 +27,22 @@ def _side(page_num: int) -> str:
     return "RIGHT" if page_num % 2 == 1 else "LEFT"
 
 
+def _display_page_number(physical_page: int, cover_pages: int = 2) -> int | None:
+    """
+    In our print bundle:
+    - Physical p.1 = cover (no number)
+    - Physical p.2 = inside cover (no number)
+    - Physical p.3 = TOC and displayed as p.1 (main page sequence starts here)
+
+    Therefore displayed_page = physical_page - cover_pages for all main-content pages.
+
+    Returns None for cover pages.
+    """
+    if physical_page <= cover_pages:
+        return None
+    return physical_page - cover_pages
+
+
 def main() -> int:
     html_path = PRINT_DIR / "compiled_manual.html"
     if not html_path.exists():
@@ -37,6 +53,17 @@ def main() -> int:
     doc = HTML(filename=str(html_path)).render()
     total_pages = len(doc.pages)
     print(f"Total pages (physical): {total_pages}")
+
+    # Page-number sanity table (physical vs displayed numbering)
+    print("\nSanity check: physical page vs displayed page number")
+    print("(Assuming 2 unnumbered cover pages: cover + inside cover)")
+    print("| Physical | Side  | Displayed |")
+    print("|:--:|:--:|:--:|")
+    max_show = min(total_pages, 20)
+    for physical in range(1, max_show + 1):
+        disp = _display_page_number(physical)
+        disp_str = "—" if disp is None else f"p. {disp}"
+        print(f"| {physical} | {_side(physical)} | {disp_str} |")
 
     anchor_to_page: dict[str, int] = {}
     for i, page in enumerate(doc.pages):
@@ -51,7 +78,30 @@ def main() -> int:
 
     print("\nDoc starts (physical page / side):")
     for a, p in doc_anchors:
-        print(f"- {a}: p. {p} ({_side(p)})")
+        disp = _display_page_number(p)
+        disp_str = "—" if disp is None else f"p. {disp}"
+        print(f"- {a}: physical {p} ({_side(p)}), displayed {disp_str}")
+
+    # Parity check: in main content, displayed odd should be RIGHT and displayed even should be LEFT.
+    # (If this fails, spreads/recto logic gets inverted.)
+    parity_mismatches: list[str] = []
+    for physical in range(3, total_pages + 1):  # main content starts at physical 3
+        disp = _display_page_number(physical)
+        assert disp is not None
+        expected_side = "RIGHT" if disp % 2 == 1 else "LEFT"
+        actual_side = _side(physical)
+        if expected_side != actual_side:
+            parity_mismatches.append(f"physical {physical} is {actual_side} but displayed p.{disp} expects {expected_side}")
+
+    print("\nDisplayed parity check (main content):")
+    if not parity_mismatches:
+        print("- ✅ OK: displayed odd pages are RIGHT; displayed even pages are LEFT")
+    else:
+        print("- ❌ Parity mismatch detected (spread logic likely inverted):")
+        for line in parity_mismatches[:10]:
+            print(f"  - {line}")
+        if len(parity_mismatches) > 10:
+            print(f"  ... and {len(parity_mismatches) - 10} more")
 
     # Recipe front-side overflow check
     recipe_starts = [(a, p) for (a, p) in doc_anchors if a.startswith("doc-03-recipes-")]
