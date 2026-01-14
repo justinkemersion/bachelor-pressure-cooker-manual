@@ -62,7 +62,7 @@
 ### Substitution Guide
 - **1 bouillon cube** = **1 cup broth** (usually)
 - **Check package** - some brands vary (1 cube = 2 cups)
-- **For 1.75 cups liquid:** Use 2 cubes + 1.75 cups water (or 1 cube if it makes 2 cups)
+- **For 2 cups liquid:** Use 2 cubes + 2 cups water (or 1 cube if it makes 2 cups)
 - **Can use in any recipe** calling for broth
 
 ### Pro Tip

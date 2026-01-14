@@ -21,7 +21,7 @@
 ## 🛒 Hardware & Variables
 - [ ] **Protein:** 1.5 lbs Chicken Thighs (Thawed or Frozen)
 - [ ] **Base:** 1.5 cups Jasmine Rice (Rinsed until clear)
-- [ ] **Liquid:** 1.75 cups Chicken Broth (**The 1:1 + Splash Rule**)
+- [ ] **Liquid:** 2 cups Chicken Broth (**The "Burn-Proof" 1:1 + Buffer**)
 - [ ] **Bulk:** 1 can White Beans or Cannellini (Drained)
 - [ ] **Seasoning:** 1 tsp Thyme, 1 tsp Garlic Powder, 1 tsp Onion Powder, 1 tsp Salt, 1 tbsp Worcestershire Sauce
 - [ ] **The Drizzle:** 2-3 tbsp Balsamic Vinegar (OR red wine vinegar + pinch of sugar) + 1 tbsp Extra Virgin Olive Oil (Optional) + Fresh Cracked Pepper
@@ -37,7 +37,7 @@
 ## 🛠 Execution (The Script)
 
 ### Phase 1: The Bird (10m NR)
-1.  **Add Liquid & Seasonings:** Pour **1.75 cups broth** into the pot. Add **1 tbsp Worcestershire**, **1 tsp thyme**, **1 tsp garlic powder**, **1 tsp onion powder**, and **1 tsp salt**. *Optional upgrades: Add 1 tsp oregano, 1 tsp rosemary (crushed), 1/2 tsp fennel seeds (crushed), and/or 1-2 bay leaves for extra depth.* Stir once to mix.
+1.  **Add Liquid & Seasonings:** Pour **2 cups broth** into the pot. Add **1 tbsp Worcestershire**, **1 tsp thyme**, **1 tsp garlic powder**, **1 tsp onion powder**, and **1 tsp salt**. *Optional upgrades: Add 1 tsp oregano, 1 tsp rosemary (crushed), 1/2 tsp fennel seeds (crushed), and/or 1-2 bay leaves for extra depth.* Stir once to mix.
 2.  **Insert Trivet.** Place chicken on top (don't submerge).
 3.  **Pressure Cook:** **8 mins** (Thawed) OR **12-15 mins** (Frozen, **12m minimum**).
 4.  **Release:** Wait 10 mins (Natural Release), then vent.
@@ -71,7 +71,7 @@
 ---
 
 ## 🧪 Chemistry Notes (Bachelor Logic)
-*   **The 1:1 + Splash:** We start with 1.75 cups of liquid because the rice needs 1.5. The extra 0.25 accounts for the tiny bit of steam lost during the first release.
+*   **The "Burn-Proof" 1:1 + Buffer:** We start with 2 cups of liquid because the rice needs 1.5. The extra 0.5 cups provides a buffer to prevent burning and ensures the rice has enough liquid. This ratio is tested and proven in the initiation recipe.
 *   **The Resting Balsamic:** Drizzling balsamic on the chicken *while it rests* allows the acid to penetrate the meat fibers, cutting through the fat and adding depth.
 *   **The Fat Balance:** Balsamic is high-acid and can taste "sharp" alone. The **Extra Virgin Olive Oil** balances the acid, making the dish feel "expensive" and smoothing out the vinegar bite.
 *   **Worcestershire in Liquid:** Adds umami depth during cooking - the rice absorbs this savory flavor.

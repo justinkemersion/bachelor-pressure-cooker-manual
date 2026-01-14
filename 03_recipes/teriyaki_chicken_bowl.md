@@ -48,7 +48,7 @@
 - [ ] **1/2 tsp Sesame Seeds** — *Adds texture and nutty flavor. Optional but nice.*
 
 ### Liquids
-- [ ] **1.75 cups Chicken Broth** — *The "1:1 + Splash Rule" for sequential cooking. Can use water + bouillon cube if no broth.*
+- [ ] **2 cups Chicken Broth** — *The "Burn-Proof" 1:1 + Buffer for sequential cooking. Can use water + bouillon cube if no broth.*
 
 ### Bulk (Optional)
 - [ ] **1 can Black Beans** (drained and rinsed) — *Adds protein and fiber. Optional but recommended for meal prep volume.*
@@ -68,7 +68,7 @@
 
 **What You're Doing:** Cooking the chicken in teriyaki-style liquid (honey, soy sauce, rice vinegar, ginger). The chicken sits on a trivet so it steams, not boils. The cooking liquid becomes our teriyaki glaze base.
 
-1. **Add Liquid & Seasonings:** Pour **1.75 cups broth** into the pot. Add **2 tbsp honey** (OR 2 tbsp brown sugar), **2 tbsp soy sauce**, **1 tbsp rice vinegar**, **1 tsp ginger powder**, **1 tsp garlic powder**, and **1 tsp salt**. **Optional upgrades:** Add 1 tbsp mirin (OR 1 tbsp white wine + 1/2 tsp sugar) and/or 1/2 tsp sesame seeds. **Stir once** to mix - the honey will dissolve as it heats.
+1. **Add Liquid & Seasonings:** Pour **2 cups broth** into the pot. Add **2 tbsp honey** (OR 2 tbsp brown sugar), **2 tbsp soy sauce**, **1 tbsp rice vinegar**, **1 tsp ginger powder**, **1 tsp garlic powder**, and **1 tsp salt**. **Optional upgrades:** Add 1 tbsp mirin (OR 1 tbsp white wine + 1/2 tsp sugar) and/or 1/2 tsp sesame seeds. **Stir once** to mix - the honey will dissolve as it heats.
 
    *Why now?* The honey, soy sauce, and rice vinegar infuse the chicken as it cooks. The liquid becomes our teriyaki glaze base - it's already flavored!
 
@@ -94,7 +94,7 @@
 
 **What You're Doing:** Cooking rice in the same pot, using the same flavored liquid (plus a bit more if needed).
 
-1. **Check Liquid Level:** Look at the cooking liquid left in the pot. You need **1.5 cups total** for the rice (1:1 ratio). If you have less than 1.5 cups, add water or broth to reach 1.5 cups. If you have more, that's fine - the rice will absorb what it needs.
+1. **Check Liquid:** You should still have roughly **2 cups of flavored liquid** in the pot. If it looks low, add a splash more broth or water. The rice needs liquid to cook.
 
 2. **Add Rice:** Add **1.5 cups rinsed rice** to the pot. Stir once to mix rice with liquid.
 
@@ -114,21 +114,23 @@
 
 ### Phase 3: The Teriyaki Glaze (5 minutes)
 
-**What You're Doing:** Reducing the cooking liquid from Phase 1 to create a thick, sticky teriyaki glaze. This is the "restaurant-quality" finish.
+**What You're Doing:** Reducing the cooking liquid from Phase 1 to create a thick, sticky teriyaki glaze. This is the "restaurant-quality" finish. **We're using the pressure cooker's sauté function - no extra pans needed!**
 
-1. **Strain the Liquid:** Pour the cooking liquid from Phase 1 through a fine-mesh strainer into a small saucepan or bowl. This removes any chicken bits. You should have about **1/2-3/4 cup** of liquid.
+1. **Strain the Liquid:** After removing the rice (Phase 2), pour the remaining cooking liquid from the pot through a fine-mesh strainer into a bowl. This removes any chicken bits. You should have about **1/2-3/4 cup** of liquid.
 
-2. **Reduce the Liquid:** Pour the strained liquid into a small saucepan. Set heat to **medium-high**. Bring to a boil, then reduce heat to **medium**. Let it simmer, stirring occasionally.
+2. **Pour Back into Cooker:** Pour the strained liquid back into the pressure cooker pot.
 
-3. **Watch for Thickness:** The liquid will start to thicken as water evaporates. You'll see it:
+3. **Reduce the Liquid:** Press **Sauté** button (or **Sauté** → **Medium** if your cooker has heat settings). The liquid will start to bubble and reduce. Stir occasionally with a wooden spatula.
+
+4. **Watch for Thickness:** The liquid will start to thicken as water evaporates. You'll see it:
    - Start thin and watery
    - Get slightly thicker (like thin syrup)
    - Get noticeably thicker (like honey)
    - **Stop when it's thick enough to coat the back of a spoon** (about 3-5 minutes)
 
-4. **Test the Glaze:** Dip a spoon into the liquid. If it coats the spoon and doesn't run off immediately, it's ready. It should be **thick and sticky**, like honey or maple syrup - this is the classic teriyaki texture.
+5. **Test the Glaze:** Dip a spoon into the liquid. If it coats the spoon and doesn't run off immediately, it's ready. It should be **thick and sticky**, like honey or maple syrup - this is the classic teriyaki texture.
 
-5. **Remove from Heat:** Once thick, remove from heat immediately. The glaze will continue to thicken as it cools.
+6. **Cancel Sauté:** Press **Cancel** to turn off the sauté function. The glaze will continue to thicken as it cools.
 
 ### Phase 4: Finish & Serve (2 minutes)
 
@@ -190,10 +192,10 @@
 - **Cooking liquid becomes glaze base:** The liquid that the chicken cooked in is already flavored - perfect for reducing into a teriyaki glaze
 - **Sequential cooking:** Rice cooks in the same pot, picking up residual teriyaki flavors
 
-**Why 1.75 Cups Liquid:**
-- **The "1:1 + Splash Rule":** For sequential cooking (protein then rice), start with 1.75 cups
-- **Chicken adds liquid:** Chicken releases ~1/4 cup juice as it cooks
-- **End result:** You have ~1.5 cups for rice (perfect 1:1 ratio)
+**Why 2 Cups Liquid:**
+- **The "Burn-Proof" 1:1 + Buffer:** For sequential cooking (protein then rice), start with 2 cups
+- **Tested and proven:** The initiation recipe uses 2 cups liquid for 1.5 cups rice - this ratio works perfectly
+- **Rice needs 1.5 cups:** The rice will absorb what it needs (1:1 ratio), and you'll have extra liquid for the glaze
 - **Glaze base:** The remaining liquid (after rice absorbs what it needs) becomes your teriyaki glaze
 
 ### Substitutions

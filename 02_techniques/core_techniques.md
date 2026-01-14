@@ -184,8 +184,8 @@
 
 **Key Principles:**
 - **Minimal evaporation:** You lose maybe 2 tablespoons during release, not cups
-- **Proteins add liquid:** Chicken thighs release ~1/4 cup juice as they cook
-- **The "1:1 + Splash" Rule:** For sequential cooking (protein then rice), start with 1.75 cups liquid to end with 1.5 cups for rice (1:1 ratio)
+- **The "Burn-Proof" 1:1 + Buffer:** For sequential cooking (protein then rice), start with **2 cups liquid** for 1.5 cups rice. This ratio is tested and proven - the initiation recipe uses 2 cups and works perfectly.
+- **Rice needs 1.5 cups:** The rice will absorb what it needs (1:1 ratio), and you'll have extra liquid for glazes/sauces
 - **Too much liquid = mushy rice:** Stick to exact ratios, don't overcompensate for "evaporation"
 
 ### Preventing Mushy Rice
