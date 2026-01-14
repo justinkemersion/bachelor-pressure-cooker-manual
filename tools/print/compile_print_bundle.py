@@ -436,6 +436,9 @@ def main() -> int:
     for ch in chapters:
         # Chapter title page
         parts.append("\n<div class=\"section-start\"></div>\n\n")
+        # Reset running header/footer so chapter pages don't inherit the previous document title.
+        parts.append('<div class="continue-note end"></div>\n')
+        parts.append(f'<div class="doc-title">{ch.id} — {ch.title}</div>\n')
         parts.append(f'<a id="chapter-{ch.id}"></a>\n\n')
         parts.append(f"# {ch.id} — {ch.title}\n\n")
         parts.append(f"**{ch.subtitle}**\n\n")
