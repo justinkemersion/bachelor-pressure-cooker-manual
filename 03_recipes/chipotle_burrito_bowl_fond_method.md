@@ -20,7 +20,7 @@
 ## 🛒 Hardware & Variables
 - [ ] **Protein:** **4 Chicken Thighs** (approx 1.75 lbs) — *Crucial for meal prep volume.*
 - [ ] **Base:** 1.5 cups Basmati Rice (OR Long Grain White - see timing) (Rinsed until clear)
-- [ ] **Liquid:** Water only (no broth needed - we build flavor later)
+- [ ] **Liquid:** **2 cups Water** — *The "Burn-Proof" 1:1 + Buffer for sequential cooking (tested & proven). No broth needed - we build flavor later.*
 - [ ] **Bulk:** 1 can Black Beans (Drained)
 - [ ] **Heat Boost:** 1 can Drained Chilis (Jalapeños, Green Chilis, or similar) — *Adds heat and flavor. Drain well before adding.*
 - [ ] **Seasoning:** 1 Taco Packet (OR: 2tsp Cumin, 1tsp Chili, 1tsp Garlic, 1tsp Salt)

@@ -66,7 +66,7 @@ class TestRecipeConsistency:
         for recipe_file in (BASE_DIR / "03_recipes").glob("*.md"):
             content = recipe_file.read_text()
             # Should mention cups of liquid
-            assert "cup" in content.lower() or "1.75" in content or "2 cup" in content, \
+            assert "cup" in content.lower(), \
                 f"{recipe_file.name} should specify liquid amount"
 
 

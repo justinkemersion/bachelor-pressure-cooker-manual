@@ -170,5 +170,5 @@ class TestLiquidRatios:
         """Recipes should mention 1:1 ratio for rice"""
         for recipe_file in RECIPES_DIR.glob("*bowl*.md"):
             content = recipe_file.read_text()
-            assert "1:1" in content or "1.75" in content, \
+            assert "1:1" in content or "2 cups" in content or "2 cup" in content, \
                 f"{recipe_file.name} should mention rice ratio"

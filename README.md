@@ -52,7 +52,7 @@ Each recipe in this cookbook is designed as a **modular component** - like Lego 
 **Every recipe can be made independently** - you don't need to make recipes in order or have made previous recipes first.
 
 **How It Works:**
-- **Tier 1/2 Ingredients** (from `bachelors_essentials.md`) = Always available - these are your foundation
+- **Tier 1/2 Ingredients** (from `04_reference/bachelors_essentials.md`) = Always available - these are your foundation
 - **NEW Ingredients** = Clearly marked - you'll need to buy these for this recipe
 - **Ingredients from Other Recipes** = Always have substitution options - you can skip to any recipe without buying ingredients from previous ones
 
@@ -118,6 +118,8 @@ Bachelor-Cookbook/
 │   │                                   # → Introduces glaze reduction technique, honey + soy sauce
 │   ├── teriyaki_chicken_bowl.md       # Japanese-American (teriyaki glaze)
 │   │                                   # → Introduces teriyaki glaze, rice wine/mirin applications
+│   ├── sofritas_protocol.md           # Dump-and-go spicy tofu “sofritas” component
+│   │                                   # → Tofu crumble texture hack + chipotle-in-adobo sauce logic
 │   └── [future recipes]                # All other recipes (concise, build on Initiation Recipe)
 │
 ├── 04_reference/                       # Quick lookup tables - keep these handy
