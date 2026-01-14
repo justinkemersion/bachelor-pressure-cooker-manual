@@ -124,7 +124,9 @@ def _wrap_recipe_phases(md: str) -> str:
         if line.startswith("### Phase "):
             if in_phase:
                 out.append("</div>\n")
-            out.append('<div class="phase">\n')
+            # IMPORTANT: markdown="1" allows Python-Markdown to parse markdown inside this HTML block
+            # (paired with the 'md_in_html' extension in _render_html()).
+            out.append('<div class="phase" markdown="1">\n')
             in_phase = True
             out.append(line)
             continue
@@ -176,7 +178,9 @@ def _render_html(md_text: str) -> str | None:
     except Exception:
         return None
 
-    md = markdown.Markdown(extensions=["extra", "attr_list", "toc"])
+    # md_in_html is required because the compiler injects HTML wrappers (e.g., <div class="phase">)
+    # and we still want markdown headings/lists inside those wrappers to render correctly.
+    md = markdown.Markdown(extensions=["extra", "attr_list", "toc", "md_in_html"])
     body = md.convert(md_text)
 
     css = """
