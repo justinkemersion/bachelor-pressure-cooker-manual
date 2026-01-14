@@ -95,6 +95,8 @@ Bachelor-Cookbook/
 │   │                                   # → Introduces "Butter Mount" technique, hot sauce balance
 │   ├── simple_rice_bowl.md            # Single-serving rice bowl (bowl-on-trivet method)
 │   │                                   # → Perfect 1:1 ratio, steam cooking, Everything Bagel seasoning
+│   ├── honey_garlic_chicken_bowl.md   # Asian-American fusion (sweet/savory balance)
+│   │                                   # → Introduces glaze reduction technique, honey + soy sauce
 │   └── [future recipes]                # All other recipes (concise, build on Initiation Recipe)
 │
 ├── 04_reference/                       # Quick lookup tables - keep these handy
