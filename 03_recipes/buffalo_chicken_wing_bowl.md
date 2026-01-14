@@ -144,7 +144,7 @@
 
 *   **Acid vs. Starch:** Rice cooks by absorbing water. Acid (vinegar in hot sauce) strengthens the pectin in plant cells, making it harder for the rice to absorb water. If you cooked the rice *in* the hot sauce, you'd get crunchy, undercooked rice centers. Adding it at the end solves this.
 *   **The "Butter Mount" (Monter au Beurre):** Fat molecules in butter are suspended in milk solids. When you stir cold butter into a hot liquid, it thickens the liquid slightly and adds a glossy, velvet mouthfeel. **Country Crock Butter** (the spreadable butter substitute in a tub) works great too - it's designed to behave like butter and emulsifies well with hot sauce. Regular olive oil works but doesn't create the same creamy texture. Butter = best texture, Country Crock Butter = great texture + bachelor-friendly (no dairy, keeps in fridge), olive oil = works but less creamy.
-*   **The 2-Cup Liquid Buffer:** We use 2 cups of liquid (same as chipotle recipe) to prevent the "BURN" error caused by the starches in the rice and frozen veg. Rice still gets proper 1:1 ratio after chicken adds juice.
+*   **The 2-Cup Liquid Buffer:** We use 2 cups of liquid (same as chipotle recipe) to prevent the "BURN" error and keep the cook forgiving. **Rice still cooks correctly because it only needs ~1.5 cups (1:1), and the extra 0.5 cup is a safety buffer.**
 *   **Sequential Logic:** We cook chicken first so it has time to rest (making it juicier) while the rice cooks.
 
 ---

@@ -11,7 +11,7 @@ This document contains the complete safety checks and chemistry explanations tha
 
 ## 🧪 Chemistry Notes (Bachelor Logic)
 
-*   **The 2-Cup Liquid Buffer:** We increased the broth to 2 cups. This prevents the "BURN" error caused by the starches in the beans and frozen veg. Rice still gets proper 1:1 ratio after chicken adds juice.
+*   **The 2-Cup Liquid Buffer:** We increased the broth to 2 cups. This prevents the "BURN" error caused by the starches in the beans and frozen veg. **Rice still cooks correctly because it only needs ~1.5 cups (1:1), and the extra 0.5 cup is a safety buffer.**
 *   **The Habanero Infusion:** Removing the pepper before the rice phase gives you "Ambient Heat"—it's everywhere, but it's not a "landmine." Seeds removed = controlled heat.
 *   **The Resting Lime:** Squeezing lime on the chicken *while it rests* forces the acid into the meat fibers rather than just sitting on top.
 *   **Sequential Logic:** We cook chicken first so it has time to rest (making it juicier) while the rice cooks.

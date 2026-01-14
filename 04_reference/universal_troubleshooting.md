@@ -12,7 +12,7 @@
 **Symptom:** Rice grains are hard, not fully cooked
 **Fix:** Add **1/4 cup water**, **2 mins HP**, **Quick Release**
 **Why:** Rice needs more liquid and time to finish cooking
-**Prevention:** Check that you used the correct liquid amount (1:1 ratio for rice)
+**Prevention:** Check that you used the correct liquid amount. **Rice itself is 1:1**, but **most bowl recipes use the 2-cup “burn-proof buffer”** for sequential cooking—follow the recipe you’re using.
 
 ### Rice is Mushy (Overcooked)
 **Symptom:** Rice is soft, sticky, or blown out
