@@ -171,6 +171,52 @@ def _wrap_recipe_phases(md: str) -> str:
     return "".join(out)
 
 
+def _normalize_task_list_checkboxes(md: str) -> str:
+    """
+    Normalize task list lines so they render as real checkboxes and always break into list items.
+
+    Python-Markdown can be picky about lists immediately following paragraphs; this:
+    - Inserts a blank line before any '- [ ]' / '- [x]' block when needed
+    - Rewrites '- [ ] text' into '- <input type="checkbox" disabled> text'
+      (and checked for [x])
+    """
+    lines = md.splitlines(keepends=True)
+    out: list[str] = []
+    in_fence = False
+
+    task_re = re.compile(r"^(\s*)-\s*\[([ xX])\]\s+(.*)$")
+    listish_prev_re = re.compile(r"^\s*(?:-\s+|\d+\.\s+)")
+
+    for i, line in enumerate(lines):
+        if line.lstrip().startswith("```"):
+            in_fence = not in_fence
+            out.append(line)
+            continue
+
+        if in_fence:
+            out.append(line)
+            continue
+
+        m = task_re.match(line.rstrip("\n"))
+        if not m:
+            out.append(line)
+            continue
+
+        indent, mark, rest = m.group(1), m.group(2), m.group(3)
+
+        # Ensure a blank line before task list start when previous line isn't blank or listish.
+        if out:
+            prev = out[-1]
+            if prev.strip() != "" and not listish_prev_re.match(prev):
+                out.append("\n")
+
+        checked = (mark.lower() == "x")
+        checkbox = '<input type="checkbox" disabled{}>'.format(" checked" if checked else "")
+        out.append(f"{indent}- {checkbox} {rest}\n")
+
+    return "".join(out)
+
+
 def _bundle_order() -> list[str]:
     """
     Print-first ordering: quick start → recipes → techniques → fundamentals → references.
@@ -479,6 +525,7 @@ def main() -> int:
 
     # Convert PAGE_BREAK markers into HTML page breaks when rendering (kept for in-recipe front/back).
     compiled_md = "".join(parts)
+    compiled_md = _normalize_task_list_checkboxes(compiled_md)
     compiled_md = compiled_md.replace("<!-- PAGE_BREAK -->", '<div class="page-break"></div>')
 
     out_md = PRINT_DIR / "compiled_manual.md"
