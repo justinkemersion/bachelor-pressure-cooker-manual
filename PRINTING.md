@@ -56,6 +56,26 @@ python print_markdown.py 03_recipes/chipotle_burrito_bowl.md
 
 ---
 
+## Whole-Project Print Bundle (Recommended)
+
+If you want a **binder-ready compilation** (with cross-references that show **page numbers** like a real book), use:
+
+```bash
+python3 tools/print/compile_print_bundle.py
+```
+
+**What it does:**
+- Combines the cookbook into a single bundle in `05_print/`
+- Rewrites repo-style references like `04_reference/glossary.md` into internal links
+- When printed to PDF, links automatically display **(p. X)** using CSS `target-counter()`
+
+**Outputs:**
+- `05_print/compiled_manual.md`
+- `05_print/compiled_manual.html` (if `markdown` is installed)
+- `05_print/compiled_manual.pdf` (if `weasyprint` is installed)
+
+---
+
 ## Print Settings for Spiral Binding
 
 ### Recommended Settings:

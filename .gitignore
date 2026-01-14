@@ -13,6 +13,8 @@ Thumbs.db
 print/output/
 *.pdf
 *.html
+05_print/*
+!05_print/README.md
 
 # Temporary files
 *.tmp

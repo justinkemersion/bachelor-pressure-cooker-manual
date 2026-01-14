@@ -13,7 +13,13 @@ def find_markdown_files():
     """Find all markdown files in the project"""
     md_files = []
     for path in BASE_DIR.rglob("*.md"):
-        if "notes-for-cursor" not in str(path):  # Skip notes
+        # Skip dev-only / generated directories (not part of the printable cookbook content)
+        if "notes-for-cursor" in str(path):
+            continue
+        if "/05_print/" in str(path):
+            continue
+        if "/tools/" in str(path):
+            continue
             md_files.append(path)
     return md_files
 

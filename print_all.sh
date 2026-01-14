@@ -25,6 +25,13 @@ fi
 echo "Converting recipes to PDF..."
 echo ""
 
+# Also create the whole-project print bundle (optional, print-friendly compilation)
+if [ -f "$SCRIPT_DIR/tools/print/compile_print_bundle.py" ]; then
+    echo "Compiling full cookbook print bundle..."
+    python3 "$SCRIPT_DIR/tools/print/compile_print_bundle.py" || true
+    echo ""
+fi
+
 # Convert each recipe
 for recipe in "$RECIPES_DIR"/*.md; do
     if [ -f "$recipe" ]; then
