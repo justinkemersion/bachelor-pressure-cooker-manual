@@ -200,6 +200,8 @@ def _render_html(md_text: str) -> str | None:
   @bottom-center { content: element(continue); font-size: 9pt; color: #333; }
 }
 @page:first {
+  /* Start page numbering at 0 on the cover so the next page (TOC) becomes p. 1 */
+  counter-reset: page 0;
   @bottom-right { content: ""; }
   @top-left { content: ""; }
 }
@@ -219,13 +221,18 @@ a.xref { color: #000; text-decoration: none; }
 }
 /* Hard page break marker */
 .page-break { page-break-after: always; }
-/* Reset visible page numbering after cover so TOC starts at p. 1 */
-.page-reset { counter-reset: page 0; }
 /* Ensure major docs start on a front/right (odd) page */
 .section-start { break-before: right; }
 /* Phase pagination: keep phases together when possible */
 .phase { break-inside: avoid; }
 .phase > h3 { break-after: avoid; }
+
+/* Tables: make markdown tables readable in PDF */
+table { width: 100%; border-collapse: collapse; margin: 6pt 0; }
+th, td { border: 1px solid #000; padding: 4pt 6pt; vertical-align: top; }
+th { background: #f2f2f2; font-weight: 700; }
+tr { break-inside: avoid; }
+table { break-inside: avoid; }
 
 /* "Continues" footer control (WeasyPrint running elements) */
 .continue-note { position: running(continue); }
@@ -280,12 +287,12 @@ def main() -> int:
 
     parts: list[str] = []
 
-    # Cover page (no page number) — then start TOC on a right page and reset numbering so TOC shows p. 1.
+    # Cover page (no page number) — then start TOC on a right page.
     cover_path = BASE_DIR / "00_front_matter" / "cover.md"
     if cover_path.exists():
         cover_raw = _read_text(cover_path)
         parts.append(cover_raw if cover_raw.endswith("\n") else cover_raw + "\n")
-        parts.append("\n<div class=\"section-start page-reset\"></div>\n\n")
+        parts.append("\n<div class=\"section-start\"></div>\n\n")
 
     # TOC (starts at p. 1 after reset)
     toc_lines: list[str] = []
