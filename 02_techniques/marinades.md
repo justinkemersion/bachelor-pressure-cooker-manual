@@ -153,16 +153,22 @@ When pressure cooking chicken marinated with Pantry Hero (which contains balsami
 Every good marinade needs:
 
 1. **Fat (Oil):** Carries flavors, keeps protein moist
-   - Olive oil, avocado oil, canola oil
+    - Olive oil
+    - Avocado oil
+    - Canola oil
 
 2. **Acid:** Tenderizes, adds brightness
-   - Lemon/lime juice, vinegar (balsamic, red wine, rice wine, apple cider)
+    - Lemon juice / lime juice
+    - Vinegar (balsamic, red wine, rice wine, apple cider)
 
 3. **Umami:** Depth and savory complexity
-   - Worcestershire sauce, soy sauce, fish sauce
+    - Worcestershire sauce
+    - Soy sauce
+    - Fish sauce
 
 4. **Salt:** Brings out all other flavors (critical!)
-   - Kosher salt, table salt
+    - Kosher salt
+    - Table salt
 
 ### The Spice Layer
 
