@@ -41,6 +41,10 @@
 
 ## Oils for Sautéing: The Bachelor's Guide
 
+> **Start here:**  
+> If you buy one oil for this book, buy avocado oil.  
+> It works for everything and won’t burn.
+
 ### The Golden Rule: Heat First, Oil Second
 ⚠️ **CRITICAL:** Always wait for the pan to be HOT before adding oil. This prevents the oil from breaking down and creates better browning.
 
@@ -348,6 +352,9 @@
 
 ## Natural Release vs. Quick Release
 
+> **This matters more than timing.**  
+> If you use the wrong release, the food will be wrong — even if the cook time was perfect.
+
 ### Natural Release (NR)
 - **When:** Rice, beans, large cuts of meat
 - **Why:** Prevents food from becoming mushy/overcooked
@@ -366,9 +373,9 @@
 ### What Happens If You Get It Wrong?
 
 **Used QR when you should've used NR:**
-- **Rice** → Mushy, blown-out texture
-- **Beans** → Skin splits, mushy interior
-- **Chicken** → Rubbery texture, juices spray everywhere
+- **Rice** → **Mushy**, blown-out texture
+- **Beans** → **Split skins**, mushy interior
+- **Chicken** → **Rubbery** texture, juices spray everywhere
 - **Safety:** Hot liquid can spray from valve
 
 **Used NR when you should've used QR:**

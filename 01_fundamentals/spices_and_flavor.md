@@ -403,6 +403,10 @@ The "savory" taste that adds depth and richness. Think: meaty, brothy, satisfyin
 
 ## The Flavor Chemistry Rules
 
+> **If you remember nothing else from this section:**  
+> Flavor = Fat + Salt during cooking, then Acid + Freshness after cooking.  
+> Miss the acid, and everything tastes flat — no matter how much seasoning you used.
+
 ### Rule 1: Acid/Fat Balance
 - Heavy on fats/oils? → **Must add acid** (lemon, vinegar)
 - Rich, creamy dish? → **Brighten with acid** post-cook
@@ -410,6 +414,8 @@ The "savory" taste that adds depth and richness. Think: meaty, brothy, satisfyin
 ### Rule 2: Layer Your Seasonings
 1. **Before pressure:** Salt, garlic powder, onion powder, dried herbs, umami sources
 2. **After pressure:** Fresh herbs, black pepper, acids, finishing salt
+
+—————
 
 ### Rule 3: Flavor Profile Consistency
 - **Mediterranean:** Oregano, **thyme**, **rosemary**, garlic, lemon, red wine vinegar, **bay leaves**

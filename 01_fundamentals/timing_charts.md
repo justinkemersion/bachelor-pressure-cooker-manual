@@ -31,6 +31,9 @@
 - **QR (Quick Release):** Manually release pressure immediately. Use for vegetables, delicate proteins.
 - **10m NR:** Wait 10 minutes, then quick release remaining pressure.
 
+> **If you’re unsure:**  
+> Use Natural Release. It’s safer, more forgiving, and almost never ruins food.
+
 ## Critical Rules
 
 1. **Never quick release rice** - Always natural release for proper texture
