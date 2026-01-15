@@ -163,6 +163,10 @@
 
 ## Rice Preparation
 
+> **The Golden Rule (Sequential Rice):**  
+> Pressure cookers don’t evaporate much, so rice texture is about **ratio + release**, not “eyeballing.”  
+> Use the **tested baseline**: **2 cups liquid for 1.5 cups rice**, then **Natural Release**.
+
 ### The Rinse Rule
 **Always rinse rice** - Removes excess starch that causes mushiness
 
