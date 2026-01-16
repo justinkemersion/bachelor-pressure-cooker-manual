@@ -1,98 +1,110 @@
-# 03_Recipes: Beef Tenderloin Steak Dinner (v1.2)
-**Profile:** Steakhouse / American | **Method:** Skillet (or Instant Pot Sauté) + Bowl-on-Trivet Rice
+# 03_Recipes: Beef Tenderloin - The Spicy Red Wine Finish (v1.3)
+**Profile:** Steakhouse / Date Night | **Method:** Skillet (Sear & Steam) + Pressure Cooker (Sides)
 
-**Prep:** **10 minutes** + **30 minutes** (marinade)  
-**Cook:** Rice **6 minutes** (HP) + **10 minutes** (NR), steak+sauce **~12-18 minutes** (active)
+**Prep:** **15 minutes** + **30 minutes** (marinade)
+**Cook:** Rice **16 minutes** (Passive) + Steak/Sauce **20 minutes** (Active)
+
+---
+
+## 📋 QUICK REFERENCE
+
+- **Sear:** **2-3 mins/side** (Medium-High)
+- **Steam finish (well-done):** **3-4 mins** (Low, lid on)
+- **Sauce:** Bloom paste **45s** → wine reduce **2 mins** → broth reduce **2-3 mins** → butter-mount off heat
+- **Sides:** Use your standard rice/veg method (many of our rice sides are **6m HP + 10m NR**)
 
 ## Ingredients
 
-### Protein
-- [ ] **1 beef tenderloin filet** (6-8 oz / ~7 oz)
+### The Meat (7 oz)
+- [ ] **1 Beef Tenderloin Filet** (approx. 7 oz)
+- [ ] **1 tbsp Neutral Oil** (for the pan)
 
-### The “Restaurant” Marinade (30m)
-- [ ] **1 tbsp balsamic vinegar**
-- [ ] **1 tsp olive oil**
-- [ ] **1/2 tsp garlic powder**
-- [ ] **1/2 tsp onion powder**
-- [ ] **1/2 tsp dried thyme**
-- [ ] **1/4 tsp smoked paprika**
-- [ ] **Salt + black pepper** (generous)
+### The "Steakhouse" Marinade
+- [ ] **1 tbsp Balsamic Vinegar**
+- [ ] **1 tsp Olive Oil**
+- [ ] **1/2 tsp Garlic Powder**
+- [ ] **1/2 tsp Onion Powder**
+- [ ] **1/2 tsp Dried Thyme**
+- [ ] **1/4 tsp Smoked Paprika**
+- [ ] **Salt + Black Pepper** (Generous amount)
 
-### Sides (Pressure Cooker Standard)
-- [ ] **1/2 cup basmati rice**, rinsed
-- [ ] **1/2 cup water** (goes in the rice bowl)
-- [ ] **1 cup water** (goes in the cooker for steam)
-- [ ] **Frozen veggies** (your choice)
+### The Sides (Pressure Cooker Standard)
+- [ ] **1 serving Rice** (rinsed)
+- [ ] **Frozen Veggies** of choice
+- [ ] **Water** (for rice cooking)
 
-### The “Umami Bomb” Sauce
-- [ ] **1/4 cup red wine** (optional, for the sauce)
-- [ ] **1/4 cup broth** *(beef is best; chicken is totally fine)* (or water + bouillon) *(or use **1/2 cup** broth if skipping wine)*
-- [ ] **1 tsp tomato paste**
-- [ ] **Pinch chili flakes** (optional)
-- [ ] **1/2 tsp dried oregano**
-- [ ] **1/2 serrano pepper** (seeded + minced) *(optional, low-heat “date night” kick)*
-- [ ] **1 tbsp cold butter** *(OR Country Crock Plant Butter (Avocado Oil), “bachelor butter”)*
-- [ ] **1 lemon wedge** (for finishing)
-
-### Optional “Freezer Aromatics” (Highly Recommended)
-- [ ] **1-2 tbsp frozen diced onions** *(or frozen pepper/onion blend)*
-- [ ] **1 tsp frozen garlic** (the little frozen cubes)
-
-### For Searing
-- [ ] **1 tbsp neutral oil** (avocado/canola) demonstrated best for high heat
+### The Spicy Red Wine Pan Sauce
+- [ ] **1/2 cup Frozen Diced Onions** (The bachelor hack)
+- [ ] **1 tsp Frozen Garlic** (or 1 clove minced)
+- [ ] **1/2 Serrano Pepper** (Seeded & minced - *Wash hands after cutting!*)
+- [ ] **1/3 cup Red Wine** (Cabernet, Merlot, or Cooking Wine)
+- [ ] **1/4 cup Beef Broth**
+- [ ] **1 tsp Tomato Paste**
+- [ ] **1/2 tsp Dried Oregano**
+- [ ] **1 tbsp Cold Butter** (or Bachelor Tub Butter)
+- [ ] **1 Lemon Wedge**
 
 ---
 
 ## Instructions
 
-### Phase 1: Marinade + Start Rice (background task)
-1. **Marinade:** Mix balsamic, olive oil, garlic powder, onion powder, thyme, smoked paprika, salt, and pepper. Coat the steak.
-2. **Wait:** Let it sit **30 minutes** at room temp. (Cold steak = uneven cooking.)  
-3. **Start Rice (optional):** Bowl-on-trivet method: **1/2 cup rice + 1/2 cup water** in a bowl; **1 cup water** in cooker. Cook **6 minutes** HP + **10 minutes** NR. (You do the steak while it runs.)
+### Phase 1: Marinade & Prep
+1.  **Marinade:** Mix Balsamic, Olive Oil, Garlic/Onion powder, Thyme, Smoked Paprika, Salt, and Pepper. Coat the steak. Let sit **30 mins** at room temp.
+2.  **Serrano Prep:** Slice pepper open, scrape out white pith/seeds (this controls the heat), and mince the green flesh. **Wash hands immediately.**
+3.  **Sauce Mise-en-place:** Have your wine, broth, tomato paste, and frozen onions ready by the stove.
 
-### Phase 2: The Sear (the crust)
-1. **Heat + oil:** Skillet on **Medium-High** (best crust) *or* Instant Pot **Sauté (High)**. Add **1 tbsp neutral oil**.
-2. **Dry the steak:** Shake/wipe excess marinade off (wet steak = steam).
-3. **Sear:** **2-3 minutes per side** until deep brown.
-4. **Optional “Well-Done” steam trick:** Heat **Low**, add **1 tbsp water**, cover **3-4 minutes**.
-5. **Rest:** Move steak to a plate and rest **5 minutes**. **Do not wipe the pan/pot.**
+### Phase 2: Pressure Cooker (The Background Task)
+1.  Load Rice, Water, and Veggies (Standard method).
+2.  Start the cycle. *You are now on the clock to cook the steak.*
 
-### Phase 3: The Pan Sauce (tomato paste bloom)
-1. **Quick sauté aromatics (optional):** On **Medium**, add frozen onions/pepper-onion blend and stir **60-90 seconds**. Add frozen garlic for the last **15 seconds**.
-2. **Bloom:** Turn heat to **Medium-Low**. Add **tomato paste + oregano** and your heat choice:
-   - **Date night (low heat):** **1/2 serrano**, seeded + minced  
-   - **No pepper:** pinch **chili flakes** (or skip heat entirely)
-3. **Fry the paste:** Stir constantly for **30-45 seconds** until brick-red. (This removes the “tin can” taste.)
-4. **Deglaze (wine):** Pour in **1/4 cup red wine** and scrape the bottom hard to dissolve the fond. Simmer **30-60 seconds**.
-5. **Add broth:** Pour in **1/4 cup broth**. (If skipping wine: use **1/2 cup** broth here.)
-6. **Reduce:** Bubble **2-3 minutes** until it lightly coats a spoon.
-7. **Finish:** Turn off heat. Stir in **1 tbsp cold butter** *(or Plant Butter)*. Add a squeeze of **lemon wedge** (a few drops) to cut richness.
+### Phase 3: The Sear & Steam (The Meat)
+1.  Heat skillet on **Medium-High**. Add 1 tbsp oil.
+2.  **Dry & Sear:** Shake excess liquid off steak. Sear **2-3 mins** per side until dark brown crust forms.
+3.  **The "Well-Done" Steam:**
+    *   Turn heat to **Low**.
+    *   Add a tiny splash of water/broth (1 tbsp).
+    *   **Cover with lid immediately.** Steam for **3-4 minutes**.
+    *   Remove steak to a plate. **Do NOT wipe the pan.**
 
-### Phase 4: Plate
-1. **Rice + veggies:** Fluff rice. Serve with frozen veggies (microwave or quick sauté).
-2. **Steak:** Slice against the grain.
-3. **Sauce:** Pour aggressively over steak and let the rest hit the rice.
+### Phase 4: The Spicy Reduction (The Magic)
+1.  **Sauté Aromatics:** Turn heat to **Medium**. Add **Frozen Onions**, **Frozen Garlic**, and **Minced Serrano** to the beef fat.
+    *   *Note:* Cook for 2-3 minutes until the water from the frozen onions evaporates and they start to brown.
+2.  **Bloom the Paste:** Push onions to the side. Add **Tomato Paste** and **Oregano** to the hot spot. Fry paste for **45 seconds** (until dark red). Mix it all together.
+3.  **Deglaze:** Pour in **Red Wine**. Scrape the bottom of the pan vigorously to dissolve the fond (brown bits). Reduce for **2 minutes** (boil off the alcohol).
+4.  **Add Body:** Pour in **Beef Broth**. Boil for **2-3 minutes** until slightly syrupy.
+5.  **The Finish:** Turn off heat. Swirl in **Cold Butter**. Squeeze the **Lemon Wedge** (just a few drops).
+
+### Phase 5: Plating
+1.  Scoop Rice/Veggies.
+2.  Place steak adjacent.
+3.  Pour sauce over steak, ensuring the chunks of onion and pepper sit on top.
 
 <!-- PAGE_BREAK -->
-<!-- 
-  FRONT SIDE ENDS HERE - Everything above is what you need while cooking
-  BACK SIDE STARTS BELOW - Reference info for after cooking
--->
 
 ---
 
-## 🧱 Lego Block Notes (Optional Read)
+## 🧱 Lego Block Notes
 
-**New Lego Block: “Bloomed” Tomato Paste + Butter-Mount Pan Sauce**
+**New Lego Block: Red Wine Pan Sauce (Deglaze → Reduce → Butter-Mount)**
 
-**📚 Building on the Foundation** - Reference the **Initiation Recipe** (`chipotle_burrito_bowl.md`) for pressure cooker fundamentals (NR/QR, safety, timing philosophy). This recipe focuses on what's new: **steak searing**, **tomato paste bloom**, and an **umami pan sauce**.
+**📚 Building on the Foundation**
+This recipe introduces the concept of a **Reduction Sauce** with a "Mount" finish.
 
-**What You're Learning Here:**
-- Tomato paste “bloom” (removes tin taste, builds restaurant-level depth)
-- Fond → deglaze → reduce → butter-mount (classic pan sauce sequence)
-- Parallel cooking: rice runs in the background while you sear + sauce
+**Why Frozen Onions First?**
+Because you are using frozen onions, they release water when they hit the hot pan. If you add the tomato paste at the same time, the paste will boil in onion water instead of frying in fat. You must sauté the onions until dry *before* adding the paste.
 
-**Use This Technique In:** Chicken thighs, pork chops, mushrooms, “date night” proteins.
+**Why Lemon & Butter?**
+This is a technique called *Monter au Beurre*. The butter thickens the sauce and adds gloss. The lemon (acid) cuts through the heavy fat so the sauce doesn't taste like grease.
+
+---
+
+## 🧪 Chemistry Notes
+
+- **Frozen onions first:** They dump water. If you add tomato paste too soon, it boils instead of frying, and you lose depth.
+- **Tomato paste bloom:** 45 seconds changes it from “tin can” to “restaurant.”
+- **Wine reduction:** Boils off harshness and concentrates flavor. (It won’t taste like wine when done.)
+- **Butter-mount:** Adds gloss + rounds edges. Plant/tub butter works, but cold real butter is the gold standard.
+- **Serrano heat control:** Seeds/pith are the heat. Scrape them out for “date night” spice.
 
 ---
 
@@ -101,40 +113,17 @@
 **For universal storage and reheating guidelines:** See `02_techniques/meal_prep_storage.md`
 
 ### Recipe-Specific Notes
-- **Steak**: Best day-of. If reheating, do low power in short bursts (don’t nuke it to death).
+- **Steak**: Best day-of. If reheating, do low power in short bursts.
 - **Sauce**: Reheats great. If it breaks, add a tiny splash of water and stir.
-
----
-
-## Chemistry Notes
-
-### Why This Works
-- **Tomato paste bloom**: Activates flavor compounds + removes raw/tin taste.
-- **Fond**: The brown bits are pure flavor. Deglazing is “free sauce.”
-- **Wine deglaze**: Pulls fond fast and adds a “restaurant” depth once reduced.
-- **Butter-mount**: Fat emulsifies into the reduced broth, making it glossy and “steakhouse.”
-- **Lemon finish**: Tiny acid wakes everything up and prevents “flat” richness.
-
-### Substitutions
-- **Only have chicken broth?** → Use it. It’s still excellent (beef is slightly deeper).
-- **No broth at all?** → Water + bouillon (beef or chicken).
-- **No red wine?** → Use **1/2 cup broth** total. (Still great.)
-- **No thyme?** → Oregano or rosemary (tiny amount).
-- **No tomato paste?** → Skip the sauce and finish with butter + lemon + black pepper (still good, less depth).
-- **No serrano?** → Use chili flakes (or no heat).
-- **No real butter?** → Country Crock Plant Butter (Avocado Oil) works great for the finish.
 
 ---
 
 ## ⚠️ Troubleshooting
 
-**For universal troubleshooting:** See `04_reference/universal_troubleshooting.md`
-
 ### Recipe-Specific Issues
-- **Steak didn’t brown?** Pan wasn’t hot enough or steak was wet. Dry it and preheat longer.
-- **Sauce tastes metallic?** You didn’t bloom the paste long enough (do the full **30-45s**).
-- **Sauce too thin?** Reduce longer.
-- **Sauce too salty?** Add a splash of water and re-reduce.
+- **Sauce is too spicy:** You likely left the seeds in the Serrano. Next time, scrape them all out. To fix *now*, add a splash of heavy cream or more butter to mute the heat.
+- **Sauce is too thin/watery:** You didn't boil it long enough. Turn the heat back on and let it bubble until it coats the back of a spoon.
+- **Steak is tough:** Tenderloin is lean. If you steam it too long, it tightens up. Adhere strictly to the 3-4 minute steam time.
 
 ---
 
@@ -143,14 +132,12 @@
 **For universal troubleshooting:** See `04_reference/universal_troubleshooting.md`  
 **For meal prep & storage:** See `02_techniques/meal_prep_storage.md`  
 **For safety checks:** See `04_reference/safety_check.md`  
-**For reheating method:** See `02_techniques/core_techniques.md` (Universal Microwave Reheating Method)
+**For timing logic:** See `01_fundamentals/timing_charts.md`  
 
 ---
 
 ## Version History
-- **v1.0:** Initial recipe - steak sear + tomato paste bloom pan sauce + pressure cooker rice background task
-- **v1.1:** Add optional red wine deglaze + serrano in bloom step (low-heat date night option)
-- **v1.2:** Add “bachelor butter” option + chicken broth OK + frozen aromatics (onion/pepper/onion + frozen garlic) into sauce build
+- **v1.3:** Optimized for Bachelor Workflow: Incorporated frozen onion/garlic handling instructions (water evaporation step), added Serrano pepper for heat, and refined the "Steam" finish for well-done preference.
 
 ---
 
@@ -158,4 +145,4 @@
 
 ---
 
-**Version:** 1.0 | **Compiled for:** Spiral Binder | **Print Scale:** 100%
+**Version:** 1.3 | **Compiled for:** Spiral Binder | **Print Scale:** 100%
