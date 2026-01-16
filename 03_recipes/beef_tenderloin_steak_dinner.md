@@ -1,4 +1,4 @@
-# 03_Recipes: Beef Tenderloin Steak Dinner (v1.1)
+# 03_Recipes: Beef Tenderloin Steak Dinner (v1.2)
 **Profile:** Steakhouse / American | **Method:** Skillet (or Instant Pot Sauté) + Bowl-on-Trivet Rice
 
 **Prep:** **10 minutes** + **30 minutes** (marinade)  
@@ -26,13 +26,17 @@
 
 ### The “Umami Bomb” Sauce
 - [ ] **1/4 cup red wine** (optional, for the sauce)
-- [ ] **1/4 cup beef broth** (or water + beef bouillon) *(or use **1/2 cup** broth if skipping wine)*
+- [ ] **1/4 cup broth** *(beef is best; chicken is totally fine)* (or water + bouillon) *(or use **1/2 cup** broth if skipping wine)*
 - [ ] **1 tsp tomato paste**
 - [ ] **Pinch chili flakes** (optional)
 - [ ] **1/2 tsp dried oregano**
 - [ ] **1/2 serrano pepper** (seeded + minced) *(optional, low-heat “date night” kick)*
-- [ ] **1 tbsp butter** (cold is best)
+- [ ] **1 tbsp cold butter** *(OR Country Crock Plant Butter (Avocado Oil), “bachelor butter”)*
 - [ ] **1 lemon wedge** (for finishing)
+
+### Optional “Freezer Aromatics” (Highly Recommended)
+- [ ] **1-2 tbsp frozen diced onions** *(or frozen pepper/onion blend)*
+- [ ] **1 tsp frozen garlic** (the little frozen cubes)
 
 ### For Searing
 - [ ] **1 tbsp neutral oil** (avocado/canola) demonstrated best for high heat
@@ -54,14 +58,15 @@
 5. **Rest:** Move steak to a plate and rest **5 minutes**. **Do not wipe the pan/pot.**
 
 ### Phase 3: The Pan Sauce (tomato paste bloom)
-1. **Bloom:** On **Medium-Low** heat, add **tomato paste + oregano** and your heat choice:
+1. **Quick sauté aromatics (optional):** On **Medium**, add frozen onions/pepper-onion blend and stir **60-90 seconds**. Add frozen garlic for the last **15 seconds**.
+2. **Bloom:** Turn heat to **Medium-Low**. Add **tomato paste + oregano** and your heat choice:
    - **Date night (low heat):** **1/2 serrano**, seeded + minced  
    - **No pepper:** pinch **chili flakes** (or skip heat entirely)
-2. **Fry the paste:** Stir constantly for **30-45 seconds** until brick-red. (This removes the “tin can” taste.)
-3. **Deglaze (wine):** Pour in **1/4 cup red wine** and scrape the bottom hard to dissolve the fond. Simmer **30-60 seconds**.
-4. **Add broth:** Pour in **1/4 cup broth**. (If skipping wine: use **1/2 cup** broth here.)
-5. **Reduce:** Bubble **2-3 minutes** until it lightly coats a spoon.
-6. **Finish:** Turn off heat. Stir in **1 tbsp cold butter**. Add a squeeze of **lemon wedge** (a few drops) to cut richness.
+3. **Fry the paste:** Stir constantly for **30-45 seconds** until brick-red. (This removes the “tin can” taste.)
+4. **Deglaze (wine):** Pour in **1/4 cup red wine** and scrape the bottom hard to dissolve the fond. Simmer **30-60 seconds**.
+5. **Add broth:** Pour in **1/4 cup broth**. (If skipping wine: use **1/2 cup** broth here.)
+6. **Reduce:** Bubble **2-3 minutes** until it lightly coats a spoon.
+7. **Finish:** Turn off heat. Stir in **1 tbsp cold butter** *(or Plant Butter)*. Add a squeeze of **lemon wedge** (a few drops) to cut richness.
 
 ### Phase 4: Plate
 1. **Rice + veggies:** Fluff rice. Serve with frozen veggies (microwave or quick sauté).
@@ -111,11 +116,13 @@
 - **Lemon finish**: Tiny acid wakes everything up and prevents “flat” richness.
 
 ### Substitutions
-- **No beef broth?** → Water + beef bouillon.
+- **Only have chicken broth?** → Use it. It’s still excellent (beef is slightly deeper).
+- **No broth at all?** → Water + bouillon (beef or chicken).
 - **No red wine?** → Use **1/2 cup broth** total. (Still great.)
 - **No thyme?** → Oregano or rosemary (tiny amount).
 - **No tomato paste?** → Skip the sauce and finish with butter + lemon + black pepper (still good, less depth).
 - **No serrano?** → Use chili flakes (or no heat).
+- **No real butter?** → Country Crock Plant Butter (Avocado Oil) works great for the finish.
 
 ---
 
@@ -143,6 +150,7 @@
 ## Version History
 - **v1.0:** Initial recipe - steak sear + tomato paste bloom pan sauce + pressure cooker rice background task
 - **v1.1:** Add optional red wine deglaze + serrano in bloom step (low-heat date night option)
+- **v1.2:** Add “bachelor butter” option + chicken broth OK + frozen aromatics (onion/pepper/onion + frozen garlic) into sauce build
 
 ---
 
