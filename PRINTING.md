@@ -88,6 +88,24 @@ python3 tools/print/analyze_print_bundle.py
 
 ---
 
+## Ebook / Kindle Output (EPUB)
+
+If you want the cookbook on a Kindle/phone/tablet with a **clickable Table of Contents** and **clickable internal links** (no page numbers), generate an EPUB:
+
+```bash
+python3 tools/print/compile_epub_bundle.py
+```
+
+**Output:**
+- `05_print/compiled_manual.epub`
+
+### Getting it onto Kindle
+
+- **Send to Kindle**: Upload `compiled_manual.epub` using Amazon’s “Send to Kindle” (web/app/email).  
+- **USB**: Copy the `.epub` to your device (Kindle supports EPUB via Send-to-Kindle best; some models don’t browse EPUB over USB cleanly).
+
+---
+
 ## Print Settings for Spiral Binding
 
 ### Recommended Settings:

@@ -13,6 +13,17 @@ Generate a **single print-friendly bundle** (plus optional HTML/PDF) into `05_pr
 python3 tools/print/compile_print_bundle.py
 ```
 
+## EPUB (Kindle / phone-friendly)
+
+If you want a clickable ebook (TOC + internal links, no page numbers), run:
+
+```bash
+python3 tools/print/compile_epub_bundle.py
+```
+
+### Output
+Creates `05_print/compiled_manual.epub`
+
 ## Analyze layout (no printer needed)
 
 ```bash
