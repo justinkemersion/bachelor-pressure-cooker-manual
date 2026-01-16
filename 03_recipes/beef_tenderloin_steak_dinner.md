@@ -1,8 +1,10 @@
-# 03_Recipes: Beef Tenderloin - "High Stakes" Dinner (v2.0)
+# 03_Recipes: Beef Tenderloin - "High Stakes" Dinner (v2.1)
 **Profile:** Steakhouse / Date Night | **Method:** Skillet (Sear & Steam) + Pressure Cooker (Sides)
 
 **Prep:** **15 minutes** + **30 minutes** (marinade)  
 **Cook:** Rice **6 minutes** (HP) + **10 minutes** (NR), steak+sauce **~20 minutes** (active)
+
+**This version is written for 2.** If you want the original **1-serving “practice” scale**, see **Practice Version (1 Serving)** near the bottom.
 
 ---
 
@@ -14,41 +16,41 @@
 ## Ingredients
 
 ### The Protein (The Investment)
-- [ ] **1 Beef Tenderloin Filet** (approx. 7 oz)
-- [ ] **1 tbsp Neutral Oil** (Avocado/Canola) for the pan
+- [ ] **2 Beef Tenderloin Filets** (6-8 oz each)
+- [ ] **1-2 tbsp Neutral Oil** (Avocado/Canola) for the pan
 
 ### The “Restaurant” Marinade
-- [ ] **1 tbsp Balsamic Vinegar**
-- [ ] **1 tsp Olive Oil**
-- [ ] **1/2 tsp Garlic Powder**
-- [ ] **1/2 tsp Onion Powder**
-- [ ] **1/2 tsp Dried Thyme**
-- [ ] **1/4 tsp Smoked Paprika**
+- [ ] **2 tbsp Balsamic Vinegar**
+- [ ] **2 tsp Olive Oil**
+- [ ] **1 tsp Garlic Powder**
+- [ ] **1 tsp Onion Powder**
+- [ ] **1 tsp Dried Thyme**
+- [ ] **1/2 tsp Smoked Paprika**
 - [ ] **Salt + Black Pepper** (Generous amount)
 
 ### Sides (Pressure Cooker Standard)
-- [ ] **1 serving Rice** (rinsed)
+- [ ] **2 servings Rice** (rinsed)
 - [ ] **Frozen Veggies** of choice
 - [ ] **Water** (for rice cooking)
 
 ### The Spicy Red Wine Reduction
-- [ ] **1 Shallot** *(The Upgrade: Peeled & minced finely)*
+- [ ] **2 Shallots** *(The Upgrade: Peeled & minced finely)* *(or 1 large shallot)*
     - *Bachelor Backup:* 2 tbsp Frozen Diced Onions (Thaw and squeeze dry with paper towel first)
-- [ ] **1/2 Serrano Pepper** (Seeded & minced - *Wash hands after!*)
-- [ ] **1 clove Fresh Garlic** (Minced) *or* 1 tsp Frozen Garlic
-- [ ] **1/3 cup Red Wine** (Cabernet, Merlot, or Cooking Wine)
-- [ ] **1/4 cup Beef Broth**
-- [ ] **1 tsp Tomato Paste**
-- [ ] **1/2 tsp Dried Oregano**
-- [ ] **1 tbsp Cold REAL Butter** (Salted or Unsalted)
-- [ ] **1 Lemon Wedge**
+- [ ] **1 Serrano Pepper** (Seeded & minced - *Wash hands after!*)
+- [ ] **2 cloves Fresh Garlic** (Minced) *or* 2 tsp Frozen Garlic
+- [ ] **2/3 cup Red Wine** (Cabernet, Merlot, or Cooking Wine)
+- [ ] **1/2 cup Beef Broth**
+- [ ] **2 tsp Tomato Paste**
+- [ ] **1 tsp Dried Oregano**
+- [ ] **2 tbsp Cold REAL Butter** (Salted or Unsalted)
+- [ ] **1 Lemon** (Wedge)
 
 ---
 
 ## Instructions
 
 ### Phase 1: Marinade & Prep (Crucial)
-1. **Marinade:** Mix Balsamic, Olive Oil, Garlic/Onion powder, Thyme, Smoked Paprika, Salt, and Pepper. Coat the steak. **Let sit 30 mins at room temp.** (Cold steak cooks unevenly).
+1. **Marinade:** Mix Balsamic, Olive Oil, Garlic/Onion powder, Thyme, Smoked Paprika, Salt, and Pepper. Coat both steaks. **Let sit 30 mins at room temp.** (Cold steak cooks unevenly).
 2. **The Cut (Mise en place):**
    - **Shallot:** Peel and mince finely.
    - **Serrano:** Slice open, scrape out **ALL** seeds/white ribs (heat control), and mince the green flesh. **Wash hands immediately.**
@@ -60,12 +62,13 @@
 
 ### Phase 3: The Sear & Steam (Well Done Control)
 1. **Heat:** Skillet on **Medium-High**. Add **1 tbsp oil**. Wait for shimmer.
-2. **Dry & Sear:** Shake excess marinade off steak. Sear **2-3 minutes per side** (Deep brown crust).
+2. **Dry & Sear:** Shake excess marinade off steaks. Sear **2-3 minutes per side** (Deep brown crust).
+   - **Rule:** Don’t crowd the pan. If your skillet is small, sear 1 steak at a time.
 3. **Steam Finish:**
    - Turn heat to **Low**.
-   - Add **1 tbsp water/broth**.
+   - Add **2 tbsp water/broth**.
    - **Cover immediately.** Steam for **3-4 minutes**.
-   - **Rest:** Remove steak to a plate. **DO NOT CUT IT.** Leave pan dirty.
+   - **Rest:** Remove steaks to a plate. **DO NOT CUT THEM.** Leave pan dirty.
 
 ### Phase 4: The Spicy Reduction
 1. **Sauté:** Turn heat to **Medium**. Add **Shallot** and **Serrano** to the beef fat. Sauté **1-2 minutes**. Add **Garlic** for last 30 seconds.
@@ -148,7 +151,37 @@ This recipe bridges the gap between "Bachelor Chow" and "Date Night." We upgrade
 - **v1.0:** Initial draft (Pan sear + PC sides).
 - **v1.3:** Added frozen aromatics handling.
 - **v2.0:** "High Stakes" Edition. Swapped frozen onions for Shallots (texture). Added Serrano (heat) and Red Wine (depth). Enforced "Resting" and "Real Butter" rules.
+- **v2.1:** Scaled main recipe to **2 servings**. Added **1-serving practice version** at bottom.
 
 ---
 
-**Version:** 2.0 | **Compiled for:** Spiral Binder | **Print Scale:** 100%
+## Practice Version (1 Serving)
+
+Use the exact same instructions above. Only the quantities change.
+
+### Ingredients (1 Serving)
+- [ ] **1 Beef Tenderloin Filet** (approx. 7 oz)
+- [ ] **1 tbsp Neutral Oil** (Avocado/Canola) for the pan
+- [ ] **1 tbsp Balsamic Vinegar**
+- [ ] **1 tsp Olive Oil**
+- [ ] **1/2 tsp Garlic Powder**
+- [ ] **1/2 tsp Onion Powder**
+- [ ] **1/2 tsp Dried Thyme**
+- [ ] **1/4 tsp Smoked Paprika**
+- [ ] **Salt + Black Pepper** (Generous amount)
+- [ ] **1 serving Rice** (rinsed)
+- [ ] **Frozen Veggies** of choice
+- [ ] **Water** (for rice cooking)
+- [ ] **1 Shallot**
+- [ ] **1/2 Serrano Pepper** (seeded & minced)
+- [ ] **1 clove Fresh Garlic** (minced) *or* 1 tsp Frozen Garlic
+- [ ] **1/3 cup Red Wine**
+- [ ] **1/4 cup Beef Broth**
+- [ ] **1 tsp Tomato Paste**
+- [ ] **1/2 tsp Dried Oregano**
+- [ ] **1 tbsp Cold REAL Butter**
+- [ ] **1 Lemon Wedge**
+
+---
+
+**Version:** 2.1 | **Compiled for:** Spiral Binder | **Print Scale:** 100%
