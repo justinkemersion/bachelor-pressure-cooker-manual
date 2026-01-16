@@ -1,4 +1,4 @@
-# 03_Recipes: Beef Tenderloin Steak Dinner (v1.0)
+# 03_Recipes: Beef Tenderloin Steak Dinner (v1.1)
 **Profile:** Steakhouse / American | **Method:** Skillet (or Instant Pot Sauté) + Bowl-on-Trivet Rice
 
 **Prep:** **10 minutes** + **30 minutes** (marinade)  
@@ -25,10 +25,12 @@
 - [ ] **Frozen veggies** (your choice)
 
 ### The “Umami Bomb” Sauce
-- [ ] **1/2 cup beef broth** (or water + beef bouillon)
+- [ ] **1/4 cup red wine** (optional, for the sauce)
+- [ ] **1/4 cup beef broth** (or water + beef bouillon) *(or use **1/2 cup** broth if skipping wine)*
 - [ ] **1 tsp tomato paste**
 - [ ] **Pinch chili flakes** (optional)
 - [ ] **1/2 tsp dried oregano**
+- [ ] **1/2 serrano pepper** (seeded + minced) *(optional, low-heat “date night” kick)*
 - [ ] **1 tbsp butter** (cold is best)
 - [ ] **1 lemon wedge** (for finishing)
 
@@ -52,11 +54,14 @@
 5. **Rest:** Move steak to a plate and rest **5 minutes**. **Do not wipe the pan/pot.**
 
 ### Phase 3: The Pan Sauce (tomato paste bloom)
-1. **Bloom:** On **Medium** heat, add **tomato paste + chili flakes + oregano** directly into the hot fat/fond.
+1. **Bloom:** On **Medium-Low** heat, add **tomato paste + oregano** and your heat choice:
+   - **Date night (low heat):** **1/2 serrano**, seeded + minced  
+   - **No pepper:** pinch **chili flakes** (or skip heat entirely)
 2. **Fry the paste:** Stir constantly for **30-45 seconds** until brick-red. (This removes the “tin can” taste.)
-3. **Deglaze:** Pour in **1/2 cup broth** and scrape the bottom hard to dissolve the fond.
-4. **Reduce:** Bubble **2-3 minutes** until it lightly coats a spoon.
-5. **Finish:** Turn off heat. Stir in **1 tbsp cold butter**. Add a squeeze of **lemon wedge** (a few drops) to cut richness.
+3. **Deglaze (wine):** Pour in **1/4 cup red wine** and scrape the bottom hard to dissolve the fond. Simmer **30-60 seconds**.
+4. **Add broth:** Pour in **1/4 cup broth**. (If skipping wine: use **1/2 cup** broth here.)
+5. **Reduce:** Bubble **2-3 minutes** until it lightly coats a spoon.
+6. **Finish:** Turn off heat. Stir in **1 tbsp cold butter**. Add a squeeze of **lemon wedge** (a few drops) to cut richness.
 
 ### Phase 4: Plate
 1. **Rice + veggies:** Fluff rice. Serve with frozen veggies (microwave or quick sauté).
@@ -101,13 +106,16 @@
 ### Why This Works
 - **Tomato paste bloom**: Activates flavor compounds + removes raw/tin taste.
 - **Fond**: The brown bits are pure flavor. Deglazing is “free sauce.”
+- **Wine deglaze**: Pulls fond fast and adds a “restaurant” depth once reduced.
 - **Butter-mount**: Fat emulsifies into the reduced broth, making it glossy and “steakhouse.”
 - **Lemon finish**: Tiny acid wakes everything up and prevents “flat” richness.
 
 ### Substitutions
 - **No beef broth?** → Water + beef bouillon.
+- **No red wine?** → Use **1/2 cup broth** total. (Still great.)
 - **No thyme?** → Oregano or rosemary (tiny amount).
 - **No tomato paste?** → Skip the sauce and finish with butter + lemon + black pepper (still good, less depth).
+- **No serrano?** → Use chili flakes (or no heat).
 
 ---
 
@@ -134,6 +142,7 @@
 
 ## Version History
 - **v1.0:** Initial recipe - steak sear + tomato paste bloom pan sauce + pressure cooker rice background task
+- **v1.1:** Add optional red wine deglaze + serrano in bloom step (low-heat date night option)
 
 ---
 
