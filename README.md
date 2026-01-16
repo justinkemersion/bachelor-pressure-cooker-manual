@@ -122,6 +122,8 @@ Bachelor-Cookbook/
 │   │                                   # → Tofu crumble texture hack + chipotle-in-adobo sauce logic
 │   ├── pulled_chicken_taco_bowl.md    # Tex-Mex pulled chicken + salsa verde finish
 │   │                                   # → Shredding technique + jarred salsa verde integration
+│   ├── beef_tenderloin_steak_dinner.md # Steakhouse-style steak dinner + tomato paste “bloom” pan sauce
+│   │                                   # → Skillet OR Instant Pot Sauté method + rice as background task
 │   └── [future recipes]                # All other recipes (concise, build on Initiation Recipe)
 │
 ├── 04_reference/                       # Quick lookup tables - keep these handy

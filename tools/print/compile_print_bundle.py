@@ -357,6 +357,7 @@ def _bundle_order() -> list[str]:
         "03_recipes/pulled_chicken_taco_bowl.md",
         "03_recipes/sofritas_protocol.md",
         "03_recipes/simple_rice_bowl.md",
+        "03_recipes/beef_tenderloin_steak_dinner.md",
         # Techniques / Systems
         "02_techniques/core_techniques.md",
         "02_techniques/meal_prep_storage.md",
@@ -412,6 +413,7 @@ def _chapters() -> list[Chapter]:
                 "03_recipes/pulled_chicken_taco_bowl.md",
                 "03_recipes/sofritas_protocol.md",
                 "03_recipes/simple_rice_bowl.md",
+                "03_recipes/beef_tenderloin_steak_dinner.md",
             ],
         ),
         Chapter(
