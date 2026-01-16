@@ -331,6 +331,7 @@ def main() -> int:
             src = BASE_DIR / d.rel_path
             raw = cpb._read_text(src)  # type: ignore[attr-defined]
             rewritten = cpb._rewrite_backtick_md_refs(raw, docs_by_rel, docs_by_name)  # type: ignore[attr-defined]
+            rewritten = cpb._rewrite_first_h1(rewritten, d.title)  # type: ignore[attr-defined]
 
             # Ensure doc anchor exists.
             parts.append(f'<a id="{d.anchor}"></a>\n\n')

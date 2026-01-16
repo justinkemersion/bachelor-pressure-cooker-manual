@@ -77,6 +77,30 @@ def _normalize_title_for_print(title: str) -> str:
     return t.strip()
 
 
+def _rewrite_first_h1(md: str, new_title: str) -> str:
+    """
+    Ensure the rendered document heading matches the normalized title.
+
+    Many source files keep repo-ish prefixes in their H1 (e.g. "03_Recipes: ..."),
+    but for the *book* we want the clean title consistently in the body, TOC, and xrefs.
+    """
+    out_lines: list[str] = []
+    in_fence = False
+    replaced = False
+
+    for line in md.splitlines(keepends=False):
+        if line.lstrip().startswith("```"):
+            in_fence = not in_fence
+            out_lines.append(line)
+            continue
+        if (not in_fence) and (not replaced) and line.startswith("# "):
+            out_lines.append(f"# {new_title}".rstrip())
+            replaced = True
+            continue
+        out_lines.append(line)
+
+    return "\n".join(out_lines) + ("\n" if md.endswith("\n") else "")
+
 def _rewrite_backtick_md_refs(md: str, docs_by_rel: dict[str, Doc], docs_by_name: dict[str, Doc]) -> str:
     """
     Replace `path/to/file.md` references with `[Title](#anchor){.xref}`.
@@ -642,6 +666,7 @@ def main() -> int:
             src = BASE_DIR / d.rel_path
             raw = _read_text(src)
             rewritten = _rewrite_backtick_md_refs(raw, docs_by_rel, docs_by_name)
+            rewritten = _rewrite_first_h1(rewritten, d.title)
 
             # Start alignment:
             # - Chapters always start on RIGHT (handled above).
