@@ -274,11 +274,16 @@ def main() -> int:
 
     # In-book TOC (for any reader that doesn't use EPUB nav)
     parts.append("# Table of Contents\n\n")
+    # Use raw HTML to guarantee nesting (some markdown normalizers flatten nested lists).
+    parts.append("<ul>\n")
     for ch in nav_chapters:
-        parts.append(f"- [{ch['id']} — {ch['title']}](#chapter-{ch['id']})\n")
+        parts.append(f'  <li><a href="#chapter-{_escape_xml(ch["id"])}">{_escape_xml(ch["id"])} — {_escape_xml(ch["title"])}</a>\n')
+        parts.append("    <ul>\n")
         for d in ch["docs"]:
-            parts.append(f"  - [{d['title']}](#{d['anchor']})\n")
-    parts.append("\n---\n\n")
+            parts.append(f'      <li><a href="#{_escape_xml(d["anchor"])}">{_escape_xml(d["title"])}</a></li>\n')
+        parts.append("    </ul>\n")
+        parts.append("  </li>\n")
+    parts.append("</ul>\n\n---\n\n")
 
     # Chapters + docs
     for ch in chapters_obj:
