@@ -1,4 +1,4 @@
-# 03_Recipes: Beef Tenderloin - "High Stakes" Dinner (v2.1)
+# 03_Recipes: Beef Tenderloin - "High Stakes" Dinner (v2.2)
 **Profile:** Steakhouse / Date Night | **Method:** Skillet (Sear & Steam) + Pressure Cooker (Sides)
 
 **Prep:** **15 minutes** + **30 minutes** (marinade)  
@@ -81,6 +81,7 @@
 ### Phase 5: Plating
 1.  **Serve:** Plate rice/veggies. Place steak.
 2.  **Sauce:** Pour reduction over steak, ensuring shallot/pepper bits are visible on top.
+3.  **Finish:** Garnish with a pinch of oregano (see **Finishing Garnish: Oregano** on the back side).
 
 <!-- PAGE_BREAK -->
 <!-- 
@@ -128,6 +129,38 @@ This recipe bridges the gap between "Bachelor Chow" and "Date Night." We upgrade
 
 ---
 
+## Finishing Garnish: Oregano (3 Ways, Ranked by Bachelor Effort)
+
+**My suggestion:** Use **Palm Friction** on your rice + veggies to tie the whole plate together.
+
+### 1) The “Palm Friction” Technique (Best for Dried)
+If you’re using the standard jar of dried oregano:
+
+1. Pour a generous pinch into the palm of your left hand.
+2. Rub hard with your right thumb/palm in circles for **5–10 seconds**.
+
+**Why:** friction warms + pulverizes the leaves, releasing aroma oils.
+
+**Where:** dust the oregano “powder” over **white rice** and **veggies**.  
+**Pro tip:** squeeze a little extra lemon on the veggies first (lemon + oregano = classic Greek profile).
+
+### 2) The “Fry” (Since You Have the Pan Out)
+If you want a tiny texture contrast:
+
+1. After you pour out the sauce, toss a pinch of oregano into the residual hot fat.
+2. Let it sizzle **10 seconds**, then scrape it onto the steak.
+
+### 3) Fresh Oregano (The “Grocery Store Upgrade”)
+If you see fresh oregano next to the shallots:
+
+1. Buy it.
+2. Pick the small leaves off the woody stem.
+3. Scatter whole leaves over the steak + sauce.
+
+Fresh oregano is stronger and peppery—great against rich butter sauce.
+
+---
+
 ## ⚠️ Troubleshooting
 
 **For universal troubleshooting:** See `04_reference/universal_troubleshooting.md`
@@ -152,6 +185,7 @@ This recipe bridges the gap between "Bachelor Chow" and "Date Night." We upgrade
 - **v1.3:** Added frozen aromatics handling.
 - **v2.0:** "High Stakes" Edition. Swapped frozen onions for Shallots (texture). Added Serrano (heat) and Red Wine (depth). Enforced "Resting" and "Real Butter" rules.
 - **v2.1:** Scaled main recipe to **2 servings**. Added **1-serving practice version** at bottom.
+- **v2.2:** Added oregano finishing garnish options (Palm Friction / Fry / Fresh).
 
 ---
 
@@ -184,4 +218,4 @@ Use the exact same instructions above. Only the quantities change.
 
 ---
 
-**Version:** 2.1 | **Compiled for:** Spiral Binder | **Print Scale:** 100%
+**Version:** 2.2 | **Compiled for:** Spiral Binder | **Print Scale:** 100%
