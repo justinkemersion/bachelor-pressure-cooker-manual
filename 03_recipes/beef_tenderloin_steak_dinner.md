@@ -1,25 +1,23 @@
-# 03_Recipes: Beef Tenderloin - The Spicy Red Wine Finish (v1.3)
+# 03_Recipes: Beef Tenderloin - "High Stakes" Dinner (v2.0)
 **Profile:** Steakhouse / Date Night | **Method:** Skillet (Sear & Steam) + Pressure Cooker (Sides)
 
-**Prep:** **15 minutes** + **30 minutes** (marinade)
-**Cook:** Rice **16 minutes** (Passive) + Steak/Sauce **20 minutes** (Active)
+**Prep:** **15 minutes** + **30 minutes** (marinade)  
+**Cook:** Rice **6 minutes** (HP) + **10 minutes** (NR), steak+sauce **~20 minutes** (active)
 
 ---
 
-## 📋 QUICK REFERENCE
-
+## 📋 Quick Reference
 - **Sear:** **2-3 mins/side** (Medium-High)
-- **Steam finish (well-done):** **3-4 mins** (Low, lid on)
-- **Sauce:** Bloom paste **45s** → wine reduce **2 mins** → broth reduce **2-3 mins** → butter-mount off heat
-- **Sides:** Use your standard rice/veg method (many of our rice sides are **6m HP + 10m NR**)
+- **Steam finish:** **3-4 mins** (Low, lid on)
+- **Sauce:** shallot/serrano **1-2m** → bloom paste **45s** → wine **2m** → broth **2-3m** → butter-mount off heat
 
 ## Ingredients
 
-### The Meat (7 oz)
+### The Protein (The Investment)
 - [ ] **1 Beef Tenderloin Filet** (approx. 7 oz)
-- [ ] **1 tbsp Neutral Oil** (for the pan)
+- [ ] **1 tbsp Neutral Oil** (Avocado/Canola) for the pan
 
-### The "Steakhouse" Marinade
+### The “Restaurant” Marinade
 - [ ] **1 tbsp Balsamic Vinegar**
 - [ ] **1 tsp Olive Oil**
 - [ ] **1/2 tsp Garlic Powder**
@@ -28,83 +26,76 @@
 - [ ] **1/4 tsp Smoked Paprika**
 - [ ] **Salt + Black Pepper** (Generous amount)
 
-### The Sides (Pressure Cooker Standard)
+### Sides (Pressure Cooker Standard)
 - [ ] **1 serving Rice** (rinsed)
 - [ ] **Frozen Veggies** of choice
 - [ ] **Water** (for rice cooking)
 
-### The Spicy Red Wine Pan Sauce
-- [ ] **1/2 cup Frozen Diced Onions** (The bachelor hack)
-- [ ] **1 tsp Frozen Garlic** (or 1 clove minced)
-- [ ] **1/2 Serrano Pepper** (Seeded & minced - *Wash hands after cutting!*)
+### The Spicy Red Wine Reduction
+- [ ] **1 Shallot** *(The Upgrade: Peeled & minced finely)*
+    - *Bachelor Backup:* 2 tbsp Frozen Diced Onions (Thaw and squeeze dry with paper towel first)
+- [ ] **1/2 Serrano Pepper** (Seeded & minced - *Wash hands after!*)
+- [ ] **1 clove Fresh Garlic** (Minced) *or* 1 tsp Frozen Garlic
 - [ ] **1/3 cup Red Wine** (Cabernet, Merlot, or Cooking Wine)
 - [ ] **1/4 cup Beef Broth**
 - [ ] **1 tsp Tomato Paste**
 - [ ] **1/2 tsp Dried Oregano**
-- [ ] **1 tbsp Cold Butter** (or Bachelor Tub Butter)
+- [ ] **1 tbsp Cold REAL Butter** (Salted or Unsalted)
 - [ ] **1 Lemon Wedge**
 
 ---
 
 ## Instructions
 
-### Phase 1: Marinade & Prep
-1.  **Marinade:** Mix Balsamic, Olive Oil, Garlic/Onion powder, Thyme, Smoked Paprika, Salt, and Pepper. Coat the steak. Let sit **30 mins** at room temp.
-2.  **Serrano Prep:** Slice pepper open, scrape out white pith/seeds (this controls the heat), and mince the green flesh. **Wash hands immediately.**
-3.  **Sauce Mise-en-place:** Have your wine, broth, tomato paste, and frozen onions ready by the stove.
+### Phase 1: Marinade & Prep (Crucial)
+1. **Marinade:** Mix Balsamic, Olive Oil, Garlic/Onion powder, Thyme, Smoked Paprika, Salt, and Pepper. Coat the steak. **Let sit 30 mins at room temp.** (Cold steak cooks unevenly).
+2. **The Cut (Mise en place):**
+   - **Shallot:** Peel and mince finely.
+   - **Serrano:** Slice open, scrape out **ALL** seeds/white ribs (heat control), and mince the green flesh. **Wash hands immediately.**
+   - **Set Up:** Place wine, broth, paste, and aromatics next to the stove.
 
-### Phase 2: Pressure Cooker (The Background Task)
-1.  Load Rice, Water, and Veggies (Standard method).
-2.  Start the cycle. *You are now on the clock to cook the steak.*
+### Phase 2: Pressure Cooker (Background Task)
+1. **Load:** Standard Rice + Veggie setup.
+2. **Start:** Run the cycle. *Focus entirely on the steak now.*
 
-### Phase 3: The Sear & Steam (The Meat)
-1.  Heat skillet on **Medium-High**. Add 1 tbsp oil.
-2.  **Dry & Sear:** Shake excess liquid off steak. Sear **2-3 mins** per side until dark brown crust forms.
-3.  **The "Well-Done" Steam:**
-    *   Turn heat to **Low**.
-    *   Add a tiny splash of water/broth (1 tbsp).
-    *   **Cover with lid immediately.** Steam for **3-4 minutes**.
-    *   Remove steak to a plate. **Do NOT wipe the pan.**
+### Phase 3: The Sear & Steam (Well Done Control)
+1. **Heat:** Skillet on **Medium-High**. Add **1 tbsp oil**. Wait for shimmer.
+2. **Dry & Sear:** Shake excess marinade off steak. Sear **2-3 minutes per side** (Deep brown crust).
+3. **Steam Finish:**
+   - Turn heat to **Low**.
+   - Add **1 tbsp water/broth**.
+   - **Cover immediately.** Steam for **3-4 minutes**.
+   - **Rest:** Remove steak to a plate. **DO NOT CUT IT.** Leave pan dirty.
 
-### Phase 4: The Spicy Reduction (The Magic)
-1.  **Sauté Aromatics:** Turn heat to **Medium**. Add **Frozen Onions**, **Frozen Garlic**, and **Minced Serrano** to the beef fat.
-    *   *Note:* Cook for 2-3 minutes until the water from the frozen onions evaporates and they start to brown.
-2.  **Bloom the Paste:** Push onions to the side. Add **Tomato Paste** and **Oregano** to the hot spot. Fry paste for **45 seconds** (until dark red). Mix it all together.
-3.  **Deglaze:** Pour in **Red Wine**. Scrape the bottom of the pan vigorously to dissolve the fond (brown bits). Reduce for **2 minutes** (boil off the alcohol).
-4.  **Add Body:** Pour in **Beef Broth**. Boil for **2-3 minutes** until slightly syrupy.
-5.  **The Finish:** Turn off heat. Swirl in **Cold Butter**. Squeeze the **Lemon Wedge** (just a few drops).
+### Phase 4: The Spicy Reduction
+1. **Sauté:** Turn heat to **Medium**. Add **Shallot** and **Serrano** to the beef fat. Sauté **1-2 minutes**. Add **Garlic** for last 30 seconds.
+2.  **Bloom:** Add **Tomato Paste** and **Oregano**. Fry paste for **45 seconds** (until dark red).
+3.  **Deglaze:** Pour in **Red Wine**. Scrape bottom of pan vigorously to dissolve fond. Boil **2 minutes** (remove alcohol smell).
+4.  **Reduce:** Add **Beef Broth**. Boil **2-3 minutes** until syrupy.
+5.  **The "Monte":** Turn off heat completely. Swirl in **Cold Butter** until glossy.
+6.  **Brighten:** Squeeze **Lemon Wedge** (3-4 drops) into sauce.
 
 ### Phase 5: Plating
-1.  Scoop Rice/Veggies.
-2.  Place steak adjacent.
-3.  Pour sauce over steak, ensuring the chunks of onion and pepper sit on top.
+1.  **Serve:** Plate rice/veggies. Place steak.
+2.  **Sauce:** Pour reduction over steak, ensuring shallot/pepper bits are visible on top.
 
 <!-- PAGE_BREAK -->
+<!-- 
+  FRONT SIDE ENDS HERE - Everything above is what you need while cooking
+  BACK SIDE STARTS BELOW - Reference info for after cooking
+-->
 
 ---
 
 ## 🧱 Lego Block Notes
 
-**New Lego Block: Red Wine Pan Sauce (Deglaze → Reduce → Butter-Mount)**
+**New Lego Block: The "Monte" (Monter au Beurre)**
 
 **📚 Building on the Foundation**
-This recipe introduces the concept of a **Reduction Sauce** with a "Mount" finish.
+This recipe bridges the gap between "Bachelor Chow" and "Date Night." We upgrade from frozen onions to **Shallots** because frozen onions release too much water, preventing the sauce from thickening properly.
 
-**Why Frozen Onions First?**
-Because you are using frozen onions, they release water when they hit the hot pan. If you add the tomato paste at the same time, the paste will boil in onion water instead of frying in fat. You must sauté the onions until dry *before* adding the paste.
-
-**Why Lemon & Butter?**
-This is a technique called *Monter au Beurre*. The butter thickens the sauce and adds gloss. The lemon (acid) cuts through the heavy fat so the sauce doesn't taste like grease.
-
----
-
-## 🧪 Chemistry Notes
-
-- **Frozen onions first:** They dump water. If you add tomato paste too soon, it boils instead of frying, and you lose depth.
-- **Tomato paste bloom:** 45 seconds changes it from “tin can” to “restaurant.”
-- **Wine reduction:** Boils off harshness and concentrates flavor. (It won’t taste like wine when done.)
-- **Butter-mount:** Adds gloss + rounds edges. Plant/tub butter works, but cold real butter is the gold standard.
-- **Serrano heat control:** Seeds/pith are the heat. Scrape them out for “date night” spice.
+**The Technique:**
+"Mounting with Butter" means adding cold butter to a sauce *off the heat*. The butter emulsifies (mixes creamy) rather than melting into oil. This gives the sauce a glossy sheen and velvety mouthfeel that restaurant steaks are famous for.
 
 ---
 
@@ -113,17 +104,35 @@ This is a technique called *Monter au Beurre*. The butter thickens the sauce and
 **For universal storage and reheating guidelines:** See `02_techniques/meal_prep_storage.md`
 
 ### Recipe-Specific Notes
-- **Steak**: Best day-of. If reheating, do low power in short bursts.
-- **Sauce**: Reheats great. If it breaks, add a tiny splash of water and stir.
+- **Steak:** This is a "Day Of" meal. Reheating tenderloin usually results in gray, tough meat.
+- **Leftovers:** If you must reheat, slice the meat cold and eat it on a salad, or flash-heat it in a pan for 30 seconds. Do not microwave the steak if possible.
+
+---
+
+## Chemistry Notes
+
+### Why This Works
+- **Maillard Reaction:** The high-heat sear creates complex flavor compounds on the surface.
+- **Deglazing:** The wine dissolves the "fond" (brown bits), reclaiming the flavor stuck to the pan.
+- **The "Gastrique" Effect:** We are balancing **Fat** (Butter), **Salt** (Broth), **Acid** (Wine/Lemon), and **Heat** (Serrano). This triggers all parts of the palate.
+- **Emulsification:** Cold butter contains milk solids and water suspended in fat. Whisking it slowly into the sauce creates a stable emulsion (creamy) rather than a broken sauce (oily).
+
+### Substitutions
+- **No Shallot?** → Use the white part of a green onion, or 2 tbsp frozen onions (thawed and squeezed bone-dry).
+- **No Red Wine?** → Use 1/2 cup total Beef Broth + 1 tsp Balsamic Vinegar in the sauce.
+- **No Serrano?** → Pinch of red chili flakes (add during the "Bloom" step).
+- **No Real Butter?** → You can use Plant Butter (Avocado oil base), but the sauce will be less glossy.
 
 ---
 
 ## ⚠️ Troubleshooting
 
+**For universal troubleshooting:** See `04_reference/universal_troubleshooting.md`
+
 ### Recipe-Specific Issues
-- **Sauce is too spicy:** You likely left the seeds in the Serrano. Next time, scrape them all out. To fix *now*, add a splash of heavy cream or more butter to mute the heat.
-- **Sauce is too thin/watery:** You didn't boil it long enough. Turn the heat back on and let it bubble until it coats the back of a spoon.
-- **Steak is tough:** Tenderloin is lean. If you steam it too long, it tightens up. Adhere strictly to the 3-4 minute steam time.
+- **Steak is tough:** Tenderloin has zero fat to hide cooking errors. If it's tough, you likely steamed it too long or didn't let it rest.
+- **Sauce is bitter:** The garlic or tomato paste burned. Next time, add garlic later and keep the paste moving constantly.
+- **Sauce is too spicy:** The Serrano seeds were left in. To fix: Stir in a splash of heavy cream or a pinch of sugar.
 
 ---
 
@@ -132,17 +141,14 @@ This is a technique called *Monter au Beurre*. The butter thickens the sauce and
 **For universal troubleshooting:** See `04_reference/universal_troubleshooting.md`  
 **For meal prep & storage:** See `02_techniques/meal_prep_storage.md`  
 **For safety checks:** See `04_reference/safety_check.md`  
-**For timing logic:** See `01_fundamentals/timing_charts.md`  
 
 ---
 
 ## Version History
-- **v1.3:** Optimized for Bachelor Workflow: Incorporated frozen onion/garlic handling instructions (water evaporation step), added Serrano pepper for heat, and refined the "Steam" finish for well-done preference.
+- **v1.0:** Initial draft (Pan sear + PC sides).
+- **v1.3:** Added frozen aromatics handling.
+- **v2.0:** "High Stakes" Edition. Swapped frozen onions for Shallots (texture). Added Serrano (heat) and Red Wine (depth). Enforced "Resting" and "Real Butter" rules.
 
 ---
 
-**Note:** For abbreviations (HP, NR, QR, etc.), see the **Initiation Recipe** (`chipotle_burrito_bowl.md`) Quick Reference section.
-
----
-
-**Version:** 1.3 | **Compiled for:** Spiral Binder | **Print Scale:** 100%
+**Version:** 2.0 | **Compiled for:** Spiral Binder | **Print Scale:** 100%
