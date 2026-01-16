@@ -95,6 +95,40 @@ th { background: #f3f3f3; }
 """
 
 
+_EPUB_EMOJI_RE = re.compile(
+    "["  # keep as a plain character class
+    "\U0001F000-\U0001FAFF"  # most emoji blocks
+    "\U0001F1E6-\U0001F1FF"  # flags
+    "\u2600-\u26FF"          # misc symbols (includes ⚠)
+    "\u2700-\u27BF"          # dingbats (includes ✅)
+    "\u2B00-\u2BFF"          # misc symbols/arrows (includes ⭐)
+    "]"
+)
+
+
+def _sanitize_for_epub(md: str) -> str:
+    """
+    Kindle often renders emoji as empty rectangles (tofu).
+    Strip emoji-ish glyphs for EPUB output only, keeping the print sources unchanged.
+    """
+    # Remove emoji presentation selectors / joiners.
+    md = md.replace("\uFE0F", "").replace("\uFE0E", "").replace("\u200D", "")
+
+    # Target the known offenders we actually use as section markers.
+    md = md.replace("📋", "")
+    md = md.replace("⚠", "")
+    md = md.replace("✅", "")
+    md = md.replace("⭐", "")
+
+    # Remove any remaining emoji-ish symbols.
+    md = _EPUB_EMOJI_RE.sub("", md)
+
+    # Clean up spacing caused by removing leading icons in headings/lists.
+    md = re.sub(r"(?m)^(#+)\s{2,}", r"\1 ", md)
+    md = re.sub(r"(?m)^(\s*[-*+]\s)\s+", r"\1", md)
+    return md
+
+
 def _build_nav_xhtml(chapters: list[dict]) -> str:
     # chapters: [{id, title, docs:[{title, anchor}]}]
     items: list[str] = []
@@ -309,6 +343,7 @@ def main() -> int:
 
     # PAGE_BREAK is a print concept; render as a simple divider in ebooks.
     compiled_md = compiled_md.replace("<!-- PAGE_BREAK -->", "\n---\n")
+    compiled_md = _sanitize_for_epub(compiled_md)
 
     # Convert to XHTML
     content_xhtml = _render_xhtml(compiled_md)
