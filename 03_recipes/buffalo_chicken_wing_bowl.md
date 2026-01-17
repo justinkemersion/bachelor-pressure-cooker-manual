@@ -53,7 +53,7 @@
    
    *Why now?* Spices go in the liquid so they infuse the chicken as it cooks. The liquid becomes flavored broth for the rice later.
 
-2.  **Insert Trivet:** Place the metal trivet (rack) in the pot. The chicken sits on top, not submerged. *No trivet?* See `01_fundamentals/bachelor_hacks.md` for foil trivet trick.
+2.  **Insert Trivet:** Place the metal trivet (rack) in the pot. The chicken sits on top, not submerged. *No trivet?* See `01_fundamentals/bachelor_hacks.md#trivet-alternatives-the-foil-trick` for foil trivet trick.
 
 3.  **Add Chicken:** Place **chicken thighs** on the trivet, **don't submerge them** - they should sit above the liquid.
 
@@ -136,7 +136,7 @@
 **For universal troubleshooting:** See `04_reference/universal_troubleshooting.md`  
 **For meal prep & storage:** See `02_techniques/meal_prep_storage.md`  
 **For safety checks:** See `04_reference/safety_check.md`  
-**For reheating method:** See `02_techniques/core_techniques.md` (Universal Microwave Reheating Method)
+**For reheating method:** See `02_techniques/core_techniques.md#universal-microwave-reheating-method` (Universal Microwave Reheating Method)
 
 ---
 

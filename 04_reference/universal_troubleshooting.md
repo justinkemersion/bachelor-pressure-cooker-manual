@@ -66,7 +66,7 @@
 
 ### No Trivet
 **Symptom:** You don't have a trivet (rack) for the chicken
-**Fix:** See `01_fundamentals/bachelor_hacks.md` for foil trivet trick
+**Fix:** See `01_fundamentals/bachelor_hacks.md#trivet-alternatives-the-foil-trick` for foil trivet trick
 **Why:** Chicken needs to sit above liquid, not submerged
 **Prevention:** Always have a trivet (or know the foil trick)
 

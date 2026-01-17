@@ -93,7 +93,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
    
    *Why now?* Spices go in the liquid so they infuse the chicken as it cooks. The liquid becomes flavored broth for the rice later.
 
-2.  **Insert Trivet:** Place the metal trivet (rack) in the pot. The chicken sits on top, not submerged. *No trivet?* See `01_fundamentals/bachelor_hacks.md` for foil trivet trick.
+2.  **Insert Trivet:** Place the metal trivet (rack) in the pot. The chicken sits on top, not submerged. *No trivet?* See `01_fundamentals/bachelor_hacks.md#trivet-alternatives-the-foil-trick` for foil trivet trick.
 
 3.  **Add Chicken:** Place **4 chicken thighs** on the trivet, skin-side up if they have skin. **Don't submerge them** - they should sit above the liquid.
 
@@ -170,7 +170,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 3.  **Power:** **3:30 mins** at **Power Level 7** (prevents rubbery chicken).
 4.  **Finish:** Stir in a pinch of **dried oregano** OR **dried thyme** and fresh **cracked black pepper**. *Why:* Restores high notes lost during reheating. Water prevents drying. **Oregano** gives a punchy Tex-Mex scent; **Thyme** gives a savory, roasted scent.
 
-**See `02_techniques/core_techniques.md` for universal reheating method.**
+**See `02_techniques/core_techniques.md#universal-microwave-reheating-method` for universal reheating method.**
 
 ### The Burrito Wrap Option
 1.  **Warm:** Microwave tortilla for **20s** to make it pliable.
@@ -232,7 +232,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 *   **Frozen chicken not done?** 14m is recommended, but 12m is minimum - larger pieces may need 15m. The 10m NR continues cooking.
 *   **Burn Error?** Don't panic! This can create **Socarrat** (toasted rice bottom) - scrape the bottom and mix it in. Soak the pot in hot soapy water for 20m post-meal.
 *   **Chicken Shrinkage:** 4 thighs may look like a lot, but after the render, they perfectly balance 1.5 cups of rice.
-*   **No trivet?** See `01_fundamentals/bachelor_hacks.md` for foil trivet trick.
+*   **No trivet?** See `01_fundamentals/bachelor_hacks.md#trivet-alternatives-the-foil-trick` for foil trivet trick.
 *   **No individual spices?** Use 1 Taco/Fajita spice packet - works great!
 *   **No lime?** Use lemon juice or apple cider vinegar (different but works).
 *   **No cilantro?** Skip it - the recipe works fine without it. Or use parsley for a different herbal note.

@@ -137,7 +137,7 @@
 **For universal troubleshooting:** See `04_reference/universal_troubleshooting.md`  
 **For meal prep & storage:** See `02_techniques/meal_prep_storage.md`  
 **For safety checks:** See `04_reference/safety_check.md`  
-**For reheating method:** See `02_techniques/core_techniques.md` (Universal Microwave Reheating Method)
+**For reheating method:** See `02_techniques/core_techniques.md#universal-microwave-reheating-method` (Universal Microwave Reheating Method)
 
 ---
 

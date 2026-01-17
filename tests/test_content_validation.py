@@ -2,6 +2,7 @@
 Test content validation - check for common errors, missing information, etc.
 """
 import re
+import os
 import pytest
 from pathlib import Path
 
@@ -83,6 +84,48 @@ class TestRecipeConsistency:
                     or "Pressure cook" in content
                     or "Quick Release" in content
                 ), f"{recipe_file.name} mentions frozen veg but doesn't explain how to cook them in the pressure cooker or link to core techniques."
+
+    def test_obvious_section_refs_should_be_deep_links_when_strict(self):
+        """
+        Optional strict mode: fail if we have an "obvious" section reference that should be a deep link.
+
+        Rationale:
+        - In the EPUB, a plain `file.md` ref jumps to the top of that doc, which is often not what the reader wants.
+        - When the source text already includes a clear section name in parentheses, we should encode it as `file.md#fragment`.
+
+        Enable with:
+          STRICT_DEEP_LINKS=1 pytest -q
+        """
+        if os.environ.get("STRICT_DEEP_LINKS") != "1":
+            pytest.skip("STRICT_DEEP_LINKS not enabled")
+
+        # Flag patterns like:
+        #   See `02_techniques/core_techniques.md` (Universal Microwave Reheating Method)
+        # but ignore ones that are already deep links.
+        pat = re.compile(r"`([^`]+\.md)`\s*\(([^)]+)\)")
+
+        roots = [
+            BASE_DIR / "00_front_matter",
+            BASE_DIR / "01_fundamentals",
+            BASE_DIR / "02_techniques",
+            BASE_DIR / "03_recipes",
+            BASE_DIR / "04_reference",
+        ]
+
+        offenders: list[str] = []
+        for root in roots:
+            if not root.exists():
+                continue
+            for p in root.rglob("*.md"):
+                content = p.read_text()
+                for m in pat.finditer(content):
+                    ref = m.group(1)
+                    if "#" in ref:
+                        continue
+                    # This is an "obvious" section reference; in strict mode we require a fragment.
+                    offenders.append(f"{p.relative_to(BASE_DIR)}: `{ref}` ({m.group(2).strip()})")
+
+        assert not offenders, "Found obvious section refs that should be deep links:\n" + "\n".join(offenders)
 
 
 class TestFormatting:

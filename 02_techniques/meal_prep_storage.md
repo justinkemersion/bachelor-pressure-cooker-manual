@@ -8,7 +8,7 @@
 
 **Recommendation:** **Rubbermaid Brilliance (Glass) - 3.2 Cup Medium**
 
-Since you are eating these at home and using the **microwave reheating method** (see `02_techniques/core_techniques.md` for universal reheating method), this is the superior choice.
+Since you are eating these at home and using the **microwave reheating method** (see `02_techniques/core_techniques.md#universal-microwave-reheating-method` for universal reheating method), this is the superior choice.
 
 ### Why Glass?
 
@@ -119,7 +119,7 @@ If you are taking this to the office, gym, or traveling, glass is too heavy and 
 
 **The Bachelor's Go-To:** Works for all pressure cooker meal prep.
 
-**This method is detailed in** `02_techniques/core_techniques.md` (Universal Microwave Reheating Method).
+**This method is detailed in** `02_techniques/core_techniques.md#universal-microwave-reheating-method` (Universal Microwave Reheating Method).
 
 ### Steps
 1. **Add moisture:** Splash of **water** (prevents drying)
@@ -201,7 +201,7 @@ If you are taking this to the office, gym, or traveling, glass is too heavy and 
 
 ## 🔗 Related Techniques
 
-*   **Universal Reheating Method:** See `02_techniques/core_techniques.md` for the complete microwave reheating guide.
+*   **Universal Reheating Method:** See `02_techniques/core_techniques.md#universal-microwave-reheating-method` for the complete microwave reheating guide.
 *   **Bulk Prep & Freezing:** See `02_techniques/bulk_prep_and_freezing.md` for the complete meal prep system.
 *   **Bachelor's Essentials:** See `04_reference/bachelors_essentials.md` for the complete shopping list.
 *   **Universal Troubleshooting:** See `04_reference/universal_troubleshooting.md` for common issues and fixes.

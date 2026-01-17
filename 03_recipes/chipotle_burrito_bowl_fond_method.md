@@ -139,7 +139,7 @@
 3.  **Power:** **3:30 mins** at **Power Level 7** (prevents rubbery chicken).
 4.  **Finish:** Stir in a pinch of **dried oregano** OR **dried thyme** and fresh **cracked black pepper**. *Why:* Restores high notes lost during reheating. Water prevents drying. **Oregano** gives a punchy Tex-Mex scent; **Thyme** gives a savory, roasted scent.
 
-**See `02_techniques/core_techniques.md` for universal reheating method.**
+**See `02_techniques/core_techniques.md#universal-microwave-reheating-method` for universal reheating method.**
 
 ### The Burrito Wrap Option
 1.  **Warm:** Microwave tortilla for **20s** to make it pliable.
@@ -186,7 +186,7 @@
 **For universal troubleshooting:** See `04_reference/universal_troubleshooting.md`  
 **For meal prep & storage:** See `02_techniques/meal_prep_storage.md`  
 **For safety checks:** See `04_reference/safety_check.md`  
-**For reheating method:** See `02_techniques/core_techniques.md` (Universal Microwave Reheating Method)
+**For reheating method:** See `02_techniques/core_techniques.md#universal-microwave-reheating-method` (Universal Microwave Reheating Method)
 
 ---
 
