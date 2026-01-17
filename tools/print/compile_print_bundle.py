@@ -52,6 +52,81 @@ def _slugify(s: str) -> str:
     return s or "doc"
 
 
+def _doc_scoped_id(doc_anchor: str, raw_id: str) -> str:
+    """
+    In the compiled *single-document* output, ids must be unique across the whole book.
+    Scope any per-file anchor ids under the doc's anchor to avoid collisions.
+    """
+    rid = raw_id.strip()
+    if not rid:
+        return f"{doc_anchor}--anchor"
+    if rid == doc_anchor or rid.startswith(f"{doc_anchor}--"):
+        return rid
+    return f"{doc_anchor}--{rid}"
+
+
+def _inject_doc_scoped_anchors(md: str, doc_anchor: str) -> str:
+    """
+    Inject stable, doc-scoped anchors for headings (##..######) and scope any explicit <a id="..."></a>.
+
+    This lets source refs like:
+      `02_techniques/core_techniques.md#veg-pressure-cooker`
+    resolve to a unique compiled id:
+      #core-pressure-cooker-techniques--veg-pressure-cooker
+    """
+    out_lines: list[str] = []
+    in_fence = False
+
+    # Matches <a id="foo"></a> (allowing whitespace + optional self-closing).
+    a_id_re = re.compile(r'(<a\s+id=")([^"]+)("\s*/?>\s*</a>|"\s*/?>)')
+    # Matches attr_list ids in headings: "## Title {#my-id}"
+    heading_id_re = re.compile(r"\s*\{#([A-Za-z0-9_\-:.]+)\}\s*$")
+
+    def _scope_a_ids(line: str) -> str:
+        def _repl(m: re.Match[str]) -> str:
+            return f'{m.group(1)}{_doc_scoped_id(doc_anchor, m.group(2))}{m.group(3)}'
+
+        return a_id_re.sub(_repl, line)
+
+    for line in md.splitlines(keepends=False):
+        if line.lstrip().startswith("```"):
+            in_fence = not in_fence
+            out_lines.append(line)
+            continue
+
+        if in_fence:
+            out_lines.append(line)
+            continue
+
+        line = _scope_a_ids(line)
+
+        m = re.match(r"^(#{2,6})\s+(.+?)\s*$", line)
+        if not m:
+            out_lines.append(line)
+            continue
+
+        # If the heading already has an explicit {#id}, scope it and keep it inline.
+        hm = heading_id_re.search(line)
+        if hm:
+            raw_id = hm.group(1)
+            scoped = _doc_scoped_id(doc_anchor, raw_id)
+            out_lines.append(heading_id_re.sub(f" {{#{scoped}}}", line))
+            continue
+
+        # Otherwise inject a stable anchor line right above the heading.
+        heading_text = m.group(2)
+        heading_slug = _slugify(heading_text)
+        scoped_id = _doc_scoped_id(doc_anchor, heading_slug)
+
+        # Avoid double-injecting if the previous line already placed an anchor.
+        prev = out_lines[-1].strip() if out_lines else ""
+        if not prev.startswith('<a id="'):
+            out_lines.append(f'<a id="{scoped_id}"></a>')
+        out_lines.append(line)
+
+    return "\n".join(out_lines) + ("\n" if md.endswith("\n") else "")
+
+
 def _read_text(path: Path) -> str:
     return path.read_text(encoding="utf-8")
 
@@ -104,7 +179,7 @@ def _rewrite_first_h1(md: str, new_title: str) -> str:
 def _rewrite_backtick_md_refs(md: str, docs_by_rel: dict[str, Doc], docs_by_name: dict[str, Doc]) -> str:
     """
     Replace `path/to/file.md` references with `[Title](#anchor){.xref}`.
-    Also supports fragments like `path/to/file.md#some-anchor` which will become `[#some-anchor]`
+    Also supports fragments like `path/to/file.md#some-anchor` which will become a doc-scoped target
     within the compiled single-document output (useful for jumping to a specific section).
     Avoid touching fenced code blocks.
     """
@@ -129,7 +204,7 @@ def _rewrite_backtick_md_refs(md: str, docs_by_rel: dict[str, Doc], docs_by_name
             if not target:
                 # Make it human-friendly without breaking tests (avoid `*.md` backticks).
                 return f"**{Path(path_ref).stem.replace('_', ' ').title()}**"
-            href = f"#{frag}" if frag else f"#{target.anchor}"
+            href = f"#{_doc_scoped_id(target.anchor, frag)}" if frag else f"#{target.anchor}"
             return f"[{target.title}]({href}){{.xref}}"
 
         out_lines.append(pattern.sub(_repl, line))
@@ -671,6 +746,7 @@ def main() -> int:
             raw = _read_text(src)
             rewritten = _rewrite_backtick_md_refs(raw, docs_by_rel, docs_by_name)
             rewritten = _rewrite_first_h1(rewritten, d.title)
+            rewritten = _inject_doc_scoped_anchors(rewritten, d.anchor)
 
             # Start alignment:
             # - Chapters always start on RIGHT (handled above).
