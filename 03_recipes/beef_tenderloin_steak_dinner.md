@@ -1,4 +1,4 @@
-# 03_Recipes: Beef Tenderloin - "High Stakes" Dinner (v2.2)
+# 03_Recipes: Beef Tenderloin - "High Stakes" Dinner (v2.3)
 **Profile:** Steakhouse / Date Night | **Method:** Skillet (Sear & Steam) + Pressure Cooker (Sides)
 
 **Prep:** **15 minutes** + **30 minutes** (marinade)  
@@ -20,7 +20,8 @@
 - [ ] **1-2 tbsp Neutral Oil** (Avocado/Canola) for the pan
 
 ### The “Restaurant” Marinade
-- [ ] **2 tbsp Balsamic Vinegar**
+- [ ] **1 tbsp Balsamic Vinegar**
+- [ ] **1 tbsp Worcestershire Sauce**
 - [ ] **2 tsp Olive Oil**
 - [ ] **1 tsp Garlic Powder**
 - [ ] **1 tsp Onion Powder**
@@ -50,7 +51,7 @@
 ## Instructions
 
 ### Phase 1: Marinade & Prep (Crucial)
-1. **Marinade:** Mix Balsamic, Olive Oil, Garlic/Onion powder, Thyme, Smoked Paprika, Salt, and Pepper. Coat both steaks. **Let sit 30 mins at room temp.** (Cold steak cooks unevenly).
+1. **Marinade:** Mix **Balsamic + Worcestershire**, Olive Oil, Garlic/Onion powder, Thyme, Smoked Paprika, Salt, and Pepper. Coat both steaks. **Let sit 30 mins at room temp.** (Cold steak cooks unevenly).
 2. **The Cut (Mise en place):**
    - **Shallot:** Peel and mince finely.
    - **Serrano:** Slice open, scrape out **ALL** seeds/white ribs (heat control), and mince the green flesh. **Wash hands immediately.**
@@ -123,7 +124,7 @@ This recipe bridges the gap between "Bachelor Chow" and "Date Night." We upgrade
 
 ### Substitutions
 - **No Shallot?** → Use the white part of a green onion, or 2 tbsp frozen onions (thawed and squeezed bone-dry).
-- **No Red Wine?** → Use 1/2 cup total Beef Broth + 1 tsp Balsamic Vinegar in the sauce.
+- **No Red Wine?** → Use 1/2 cup total Beef Broth + **1/2 tsp Balsamic + 1/2 tsp Worcestershire** in the sauce.
 - **No Serrano?** → Pinch of red chili flakes (add during the "Bloom" step).
 - **No Real Butter?** → You can use Plant Butter (Avocado oil base), but the sauce will be less glossy.
 
@@ -186,6 +187,7 @@ Fresh oregano is stronger and peppery—great against rich butter sauce.
 - **v2.0:** "High Stakes" Edition. Swapped frozen onions for Shallots (texture). Added Serrano (heat) and Red Wine (depth). Enforced "Resting" and "Real Butter" rules.
 - **v2.1:** Scaled main recipe to **2 servings**. Added **1-serving practice version** at bottom.
 - **v2.2:** Added oregano finishing garnish options (Palm Friction / Fry / Fresh).
+- **v2.3:** Swapped half the balsamic in the marinade for Worcestershire (more beefy/umami, less sharp sweetness).
 
 ---
 
@@ -196,7 +198,8 @@ Use the exact same instructions above. Only the quantities change.
 ### Ingredients (1 Serving)
 - [ ] **1 Beef Tenderloin Filet** (approx. 7 oz)
 - [ ] **1 tbsp Neutral Oil** (Avocado/Canola) for the pan
-- [ ] **1 tbsp Balsamic Vinegar**
+- [ ] **1 1/2 tsp Balsamic Vinegar**
+- [ ] **1 1/2 tsp Worcestershire Sauce**
 - [ ] **1 tsp Olive Oil**
 - [ ] **1/2 tsp Garlic Powder**
 - [ ] **1/2 tsp Onion Powder**
@@ -218,4 +221,4 @@ Use the exact same instructions above. Only the quantities change.
 
 ---
 
-**Version:** 2.2 | **Compiled for:** Spiral Binder | **Print Scale:** 100%
+**Version:** 2.3 | **Compiled for:** Spiral Binder | **Print Scale:** 100%
