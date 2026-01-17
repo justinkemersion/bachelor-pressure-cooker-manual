@@ -69,6 +69,21 @@ class TestRecipeConsistency:
             assert "cup" in content.lower(), \
                 f"{recipe_file.name} should specify liquid amount"
 
+    def test_frozen_veg_mentions_include_pressure_cooker_guidance(self):
+        """
+        If a recipe mentions frozen veg, it must either:
+        - link to the universal pressure-cooker veg method, OR
+        - provide explicit pressure-cooker instructions.
+        """
+        for recipe_file in (BASE_DIR / "03_recipes").glob("*.md"):
+            content = recipe_file.read_text()
+            if re.search(r"\bfrozen veg|\bfrozen veggie|\bfrozen veggies", content, flags=re.IGNORECASE):
+                assert (
+                    "See `02_techniques/core_techniques.md`" in content
+                    or "Pressure cook" in content
+                    or "Quick Release" in content
+                ), f"{recipe_file.name} mentions frozen veg but doesn't explain how to cook them in the pressure cooker or link to core techniques."
+
 
 class TestFormatting:
     """Test markdown formatting consistency"""

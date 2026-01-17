@@ -204,6 +204,58 @@
 
 ---
 
+## Vegetables in the Pressure Cooker (Frozen + Fresh)
+
+**Goal:** You should be able to grab a handful of veggies and get them on the plate **without learning a new skill every time**.
+
+### The 2 Rules
+1. **“Frozen aromatics” can cook with rice.** Think: **pepper/onion mix**, fajita mix, corn, peas.
+2. **“Frozen mixed veg” usually should NOT cook with rice.** Think: **broccoli/carrots/cauliflower** blends. They can turn the rice **mushy** and can make the pot smell **sulfur-y/stinky**.
+
+### Quick Pick (If You’re Standing at the Freezer Aisle)
+- **Safe to cook WITH rice (layer on top):** pepper/onion mix, fajita mix, corn, peas, carrots *only* (small amount).
+- **Cook by STEAMING alone (don’t mix into rice cook):** broccoli, cauliflower, Brussels sprouts, “Normandy blend”, mixed veg bags.
+
+---
+
+### Method A (Default): Cook Frozen Veg *With Rice* (Layer on Top)
+**Best for:** frozen pepper/onion mix, frozen fajita mix, frozen corn, frozen peas.
+
+1. Add rice + liquid as normal.
+2. **Layer frozen veg on top. Don’t stir.**
+3. Pressure cook for the rice time.
+4. **Natural Release for the rice** (usually 10m NR), then fluff and mix veg in.
+
+**Why layer, not stir?** Stirring pushes starch to the bottom and increases burn risk.
+
+---
+
+### Method B (Most Reliable): Steam Veg *Alone* (Quick Steam Cycle)
+**Best for:** broccoli/carrots/cauliflower mixes and anything you don’t want “rice-flavored” (or stink/mush risk).
+
+1. Add **1 cup water** to the pot.
+2. Add a **trivet/steamer basket**, then add veggies.
+3. Pressure cook:
+   - **Frozen veg:** **0–1 minute HP**
+   - **Fresh veg:** **0 minutes HP**
+4. **Quick Release immediately.**
+5. Season fast: **salt + pepper + lemon** (or a little butter/oil).
+
+**Notes:**
+- “**0 minutes**” means the Instant Pot comes to pressure, then ends—this is enough to steam veggies.
+- If the veg are still cold/crunchy, run **another 0 minutes** (faster than guessing longer the first time).
+
+---
+
+### Method C: Fresh Veg After Rice (No Second Pressure Cycle)
+**Best for:** Fresh broccoli, carrots, celery, etc. when you don’t want a second pressure cycle.
+
+1. Finish rice and remove it from the pot.
+2. Add fresh veg to the hot pot with **2–3 tbsp water**, lid on, **Sauté OFF**.
+3. Let steam **2–5 minutes** from residual heat, then season.
+
+---
+
 ## Bean Preparation
 
 ### Canned Beans (Easiest - Use These!)

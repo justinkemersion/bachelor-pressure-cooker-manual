@@ -78,7 +78,7 @@
 2.  **Add Rice:** Pour **1.5 cups rinsed white rice** directly into the liquid. **Don't stir yet.**
 
 3.  **Layer on Top (Don't Stir!):** 
-   - Add **1 cup frozen veggie mix** (onion/celery/pepper) on top of the rice
+   - Add **1 cup frozen pepper/onion/celery mix** on top of the rice *(avoid broccoli mixes here—steam those separately; see `02_techniques/core_techniques.md`)*
    
    *Why layer, not stir?* Stirring can cause the rice to stick to the bottom and burn. Layering lets everything cook together without burning.
 
