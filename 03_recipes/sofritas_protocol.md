@@ -1,4 +1,10 @@
 # The Sofritas Protocol: Dump-and-Go Spicy Braised Tofu (v1.0)
+**Mission:** Weeknight, Meal Prep  
+**Protein:** Vegetarian  
+**Time Bucket:** Fast  
+**Effort:** Medium  
+**Heat:** Hot
+
 **Profile:** Tex-Mex / Chipotle-Style | **Method:** Sauté-Dry → Deglaze → Pressure Braise | **Total Time:** 25m
 
 **🧱 New Lego Block: Bachelor-Proof “Sofritas” Logic (Texture + Canned Sauce)**

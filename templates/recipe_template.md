@@ -1,5 +1,11 @@
 # [Recipe Name]
 
+**Mission:** Weeknight, Meal Prep, Date Night  
+**Protein:** Chicken / Beef / Vegetarian  
+**Time Bucket:** Fast / Standard / Project  
+**Effort:** Low / Medium / High  
+**Heat:** Mild / Medium / Hot
+
 ## Flavor Profile
 [Mediterranean / Tex-Mex / Italian / Asian / etc.]
 

@@ -1,4 +1,10 @@
 # 03_Recipes: Chipotle Burrito Bowl - Fond Method (v1.1)
+**Mission:** Weeknight, Meal Prep  
+**Protein:** Chicken  
+**Time Bucket:** Project  
+**Effort:** High  
+**Heat:** Medium
+
 **Profile:** Tex-Mex | **Method:** Fond-Building Reduction | **Total Time:** 45m
 
 **🧱 New Lego Block: Fond-Building & Reduction Glaze Technique**

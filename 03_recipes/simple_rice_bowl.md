@@ -1,4 +1,10 @@
 # Simple Single-Serving Rice Bowl (v1.0)
+**Mission:** Weeknight  
+**Protein:** Vegetarian  
+**Time Bucket:** Fast  
+**Effort:** Low  
+**Heat:** Mild
+
 **Profile:** Asian-Inspired | **Method:** Bowl-on-Trivet | **Total Time:** 20m
 
 **🧱 New Lego Block: Bowl-on-Trivet Cooking**

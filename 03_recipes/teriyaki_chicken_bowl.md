@@ -1,4 +1,10 @@
 # Teriyaki Chicken Bowl (v1.0)
+**Mission:** Weeknight, Meal Prep  
+**Protein:** Chicken  
+**Time Bucket:** Standard  
+**Effort:** Medium  
+**Heat:** Mild
+
 **Profile:** Japanese-American | **Method:** Sequential One-Pot + Teriyaki Glaze Reduction | **Total Time:** 40m
 
 **🧱 New Lego Block: Teriyaki Glaze + Rice Wine Applications**

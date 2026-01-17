@@ -1,4 +1,10 @@
 # 03_Recipes: Beef Tenderloin - "High Stakes" Dinner (v2.3)
+**Mission:** Date Night  
+**Protein:** Beef  
+**Time Bucket:** Project  
+**Effort:** High  
+**Heat:** Medium
+
 **Profile:** Steakhouse / Date Night | **Method:** Skillet (Sear & Steam) + Pressure Cooker (Sides)
 
 **Prep:** **15 minutes** + **30 minutes** (marinade)  

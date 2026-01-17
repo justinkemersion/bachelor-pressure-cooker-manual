@@ -1,4 +1,10 @@
 # 03_Recipes: Chipotle Burrito Bowl (v3.2)
+**Mission:** Weeknight, Meal Prep, Core/Initiation  
+**Protein:** Chicken  
+**Time Bucket:** Standard  
+**Effort:** Medium  
+**Heat:** Medium
+
 **Profile:** Tex-Mex | **Method:** Sequential One-Pot | **Total Time:** 35m
 
 **🎓 INITIATION RECIPE - YOUR MASTER REFERENCE** 

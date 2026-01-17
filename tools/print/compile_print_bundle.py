@@ -127,6 +127,94 @@ def _inject_doc_scoped_anchors(md: str, doc_anchor: str) -> str:
     return "\n".join(out_lines) + ("\n" if md.endswith("\n") else "")
 
 
+def _parse_recipe_tags(md: str) -> dict[str, object]:
+    """
+    Parse the lightweight recipe tag block (near the top of a recipe file).
+
+    Expected format (order flexible):
+      **Mission:** Weeknight, Meal Prep
+      **Protein:** Chicken
+      **Time Bucket:** Fast / Standard / Project
+      **Effort:** Low / Medium / High
+      **Heat:** Mild / Medium / Hot
+    """
+    tags: dict[str, object] = {"mission": [], "protein": None, "time": None, "effort": None, "heat": None}
+    lines = md.splitlines()
+    for line in lines[:60]:
+        line = line.strip()
+        if line.startswith("---"):
+            break
+        m = re.match(r"^\*\*(Mission|Protein|Time Bucket|Effort|Heat):\*\*\s*(.+?)\s*$", line, flags=re.IGNORECASE)
+        if not m:
+            continue
+        key = m.group(1).strip().lower()
+        val = m.group(2).strip()
+        if key == "mission":
+            tags["mission"] = [p.strip() for p in val.split(",") if p.strip()]
+        elif key == "protein":
+            tags["protein"] = val
+        elif key == "time bucket":
+            tags["time"] = val
+        elif key == "effort":
+            tags["effort"] = val
+        elif key == "heat":
+            tags["heat"] = val
+    return tags
+
+
+def _build_recipe_index_md(recipes: list[Doc], raw_by_rel: dict[str, str], tags_by_rel: dict[str, dict[str, object]]) -> str:
+    """
+    Build a browse index for recipes, primarily by Mission (use-case), with a mini protein index.
+    """
+    # Mission categories (in order). We only display ones that have matches.
+    mission_order = ["Weeknight", "Meal Prep", "Date Night", "Core/Initiation"]
+
+    def _has_mission(rel: str, mission: str) -> bool:
+        ms = tags_by_rel.get(rel, {}).get("mission") or []
+        return any(str(m).strip().lower() == mission.lower() for m in ms)  # type: ignore[arg-type]
+
+    def _protein(rel: str) -> str:
+        p = tags_by_rel.get(rel, {}).get("protein")
+        return str(p) if p else "Other"
+
+    lines: list[str] = []
+    lines.append("# Recipe Index\n\n")
+    lines.append("**Browse by mission first** (how you’re cooking today). Protein mini-index is at the bottom.\n\n")
+
+    for mission in mission_order:
+        group = [d for d in recipes if _has_mission(d.rel_path, mission)]
+        if not group:
+            continue
+        lines.append(f"## {mission}\n\n")
+        for d in group:
+            t = tags_by_rel.get(d.rel_path, {})
+            meta_bits: list[str] = []
+            if t.get("time"):
+                meta_bits.append(str(t["time"]))
+            if t.get("effort"):
+                meta_bits.append(str(t["effort"]))
+            if t.get("heat"):
+                meta_bits.append(str(t["heat"]))
+            meta = f" — *{' | '.join(meta_bits)}*" if meta_bits else ""
+            lines.append(f"- [{d.title}](#{d.anchor}){meta}\n")
+        lines.append("\n")
+
+    # Mini index by protein
+    lines.append("## Protein\n\n")
+    proteins = {}
+    for d in recipes:
+        proteins.setdefault(_protein(d.rel_path), []).append(d)
+    for p in ["Chicken", "Beef", "Vegetarian", "Other"]:
+        if p not in proteins:
+            continue
+        lines.append(f"### {p}\n\n")
+        for d in proteins[p]:
+            lines.append(f"- [{d.title}](#{d.anchor})\n")
+        lines.append("\n")
+
+    return "".join(lines)
+
+
 def _read_text(path: Path) -> str:
     return path.read_text(encoding="utf-8")
 
@@ -662,6 +750,8 @@ def main() -> int:
 
     chapters = _chapters()
     docs: list[Doc] = []
+    raw_by_rel: dict[str, str] = {}
+    tags_by_rel: dict[str, dict[str, object]] = {}
 
     for ch in chapters:
         for rel in ch.rel_paths:
@@ -670,6 +760,9 @@ def main() -> int:
                 print(f"ERROR: Missing file in bundle order: {rel}", file=sys.stderr)
                 return 2
             raw = _read_text(path)
+            raw_by_rel[rel] = raw
+            if rel.startswith("03_recipes/"):
+                tags_by_rel[rel] = _parse_recipe_tags(raw)
             title_raw = _extract_title(raw, fallback=Path(rel).stem)
             title = _normalize_title_for_print(title_raw)
             anchor = f"doc-{_slugify(rel.replace('.md', ''))}"
@@ -719,6 +812,8 @@ def main() -> int:
     for ch in chapters:
         toc_lines.append(f"## {ch.id} — {ch.title}\n")
         toc_lines.append(f"*{ch.subtitle}*\n\n")
+        if ch.id == "03":
+            toc_lines.append(f"- [Recipe Index](#recipe-index){{.xref}}\n")
         for rel in ch.rel_paths:
             d = docs_by_rel[rel]
             toc_lines.append(f"- [{d.title}](#{d.anchor}){{.xref}}\n")
@@ -740,10 +835,20 @@ def main() -> int:
         parts.append(f"**{ch.subtitle}**\n\n")
         parts.append("\n<div class=\"page-break\"></div>\n\n")
 
+        if ch.id == "03":
+            # Insert a browsable index page for recipes (Kindle-friendly).
+            recipe_docs = [d for d in docs if d.rel_path.startswith("03_recipes/")]
+            parts.append("\n<div class=\"section-start\"></div>\n\n")
+            parts.append('<div class="continue-note end"></div>\n')
+            parts.append(f'<div class="doc-title">{ch.id} — {ch.title}: Recipe Index</div>\n')
+            parts.append('<a id="recipe-index"></a>\n\n')
+            parts.append(_build_recipe_index_md(recipe_docs, raw_by_rel, tags_by_rel))
+            parts.append("\n<div class=\"page-break\"></div>\n\n")
+
         for rel in ch.rel_paths:
             d = docs_by_rel[rel]
             src = BASE_DIR / d.rel_path
-            raw = _read_text(src)
+            raw = raw_by_rel.get(d.rel_path) or _read_text(src)
             rewritten = _rewrite_backtick_md_refs(raw, docs_by_rel, docs_by_name)
             rewritten = _rewrite_first_h1(rewritten, d.title)
             rewritten = _inject_doc_scoped_anchors(rewritten, d.anchor)

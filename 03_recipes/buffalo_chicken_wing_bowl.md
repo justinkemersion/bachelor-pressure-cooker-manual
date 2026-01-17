@@ -1,4 +1,10 @@
 # 03_Recipes: Buffalo Chicken "Wing" Bowl (v1.0)
+**Mission:** Weeknight, Meal Prep  
+**Protein:** Chicken  
+**Time Bucket:** Standard  
+**Effort:** Medium  
+**Heat:** Hot
+
 **Profile:** American Pub Food | **Method:** Sequential One-Pot | **Total Time:** 35m
 
 **🧱 New Lego Block: The "Butter Mount" (Creamy Sauce without Cream)**

@@ -1,4 +1,10 @@
 # Pulled Chicken Taco Bowl (v1.0)
+**Mission:** Weeknight, Meal Prep  
+**Protein:** Chicken  
+**Time Bucket:** Standard  
+**Effort:** Medium  
+**Heat:** Medium
+
 **Profile:** Tex-Mex | **Method:** Sequential One-Pot + Shredding + Salsa Verde Finish | **Total Time:** 40m
 
 **🧱 New Lego Block: Shredding Technique + Salsa Verde Integration**

@@ -1,4 +1,10 @@
 # Honey Garlic Chicken Bowl (v1.0)
+**Mission:** Weeknight, Meal Prep  
+**Protein:** Chicken  
+**Time Bucket:** Standard  
+**Effort:** Medium  
+**Heat:** Mild
+
 **Profile:** Asian-American Fusion | **Method:** Sequential One-Pot + Glaze Reduction | **Total Time:** 40m
 
 **🧱 New Lego Block: Sweet/Savory Balance + Glaze Reduction Technique**

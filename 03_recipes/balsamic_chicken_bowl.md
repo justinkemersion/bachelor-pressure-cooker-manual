@@ -1,4 +1,10 @@
 # 03_Recipes: Balsamic Chicken Bowl (v1.0)
+**Mission:** Weeknight, Meal Prep  
+**Protein:** Chicken  
+**Time Bucket:** Standard  
+**Effort:** Low  
+**Heat:** Mild
+
 **Profile:** Italian/Mediterranean | **Method:** Sequential One-Pot | **Total Time:** 30m
 
 **🧱 New Lego Block: Italian/Mediterranean Flavor Profile**

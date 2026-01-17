@@ -256,6 +256,8 @@ def main() -> int:
 
     chapters_obj = cpb._chapters()  # type: ignore[attr-defined]
     docs: list[cpb.Doc] = []  # type: ignore[attr-defined]
+    raw_by_rel: dict[str, str] = {}
+    tags_by_rel: dict[str, dict[str, object]] = {}
 
     for ch in chapters_obj:
         for rel in ch.rel_paths:
@@ -264,6 +266,9 @@ def main() -> int:
                 print(f"ERROR: Missing file in EPUB order: {rel}", file=sys.stderr)
                 return 2
             raw = cpb._read_text(path)  # type: ignore[attr-defined]
+            raw_by_rel[rel] = raw
+            if rel.startswith("03_recipes/"):
+                tags_by_rel[rel] = cpb._parse_recipe_tags(raw)  # type: ignore[attr-defined]
             title_raw = cpb._extract_title(raw, fallback=Path(rel).stem)  # type: ignore[attr-defined]
             title = cpb._normalize_title_for_print(title_raw)  # type: ignore[attr-defined]
             anchor = f"doc-{_slugify(rel.replace('.md', ''))}"
@@ -284,6 +289,17 @@ def main() -> int:
     nav_chapters: list[dict] = []
     for ch in chapters_obj:
         ch_docs = [docs_by_rel[rel] for rel in ch.rel_paths]
+        if ch.id == "03":
+            # Insert a browsable index entry at the top of the Recipes chapter nav.
+            ch_docs = [
+                cpb.Doc(  # type: ignore[attr-defined]
+                    rel_path="__recipe_index__",
+                    title="Recipe Index",
+                    anchor="recipe-index",
+                    chapter_id=ch.id,
+                    chapter_title=ch.title,
+                )
+            ] + ch_docs
         nav_chapters.append(
             {
                 "id": ch.id,
@@ -326,10 +342,16 @@ def main() -> int:
         parts.append(f"**{ch.subtitle}**\n\n")
         parts.append("\n---\n\n")
 
+        if ch.id == "03":
+            recipe_docs = [docs_by_rel[rel] for rel in ch.rel_paths if rel.startswith("03_recipes/")]
+            parts.append('<a id="recipe-index"></a>\n\n')
+            parts.append(cpb._build_recipe_index_md(recipe_docs, raw_by_rel, tags_by_rel))  # type: ignore[attr-defined]
+            parts.append("\n---\n\n")
+
         for rel in ch.rel_paths:
             d = docs_by_rel[rel]
             src = BASE_DIR / d.rel_path
-            raw = cpb._read_text(src)  # type: ignore[attr-defined]
+            raw = raw_by_rel.get(d.rel_path) or cpb._read_text(src)  # type: ignore[attr-defined]
             rewritten = cpb._rewrite_backtick_md_refs(raw, docs_by_rel, docs_by_name)  # type: ignore[attr-defined]
             rewritten = cpb._rewrite_first_h1(rewritten, d.title)  # type: ignore[attr-defined]
             rewritten = cpb._inject_doc_scoped_anchors(rewritten, d.anchor)  # type: ignore[attr-defined]
