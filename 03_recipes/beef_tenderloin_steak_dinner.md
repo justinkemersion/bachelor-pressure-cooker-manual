@@ -33,8 +33,8 @@
 ### Sides (Pressure Cooker Standard)
 - [ ] **2 servings Rice** (rinsed)
 - [ ] **Veggies (Pick One):**
-    - [ ] **Frozen pepper/onion mix, corn, or peas** *(can cook with rice; see `02_techniques/core_techniques.md`)*
-    - [ ] **Frozen broccoli/carrots/cauliflower mix** *(steam alone; see `02_techniques/core_techniques.md`)*
+    - [ ] **Frozen pepper/onion mix, corn, or peas** *(can cook with rice; see `02_techniques/core_techniques.md#veg-pressure-cooker`)*
+    - [ ] **Frozen broccoli/carrots/cauliflower mix** *(steam alone; see `02_techniques/core_techniques.md#veg-pressure-cooker`)*
 - [ ] **Water** (for rice cooking)
 
 ### The Spicy Red Wine Reduction
@@ -212,8 +212,8 @@ Use the exact same instructions above. Only the quantities change.
 - [ ] **Salt + Black Pepper** (Generous amount)
 - [ ] **1 serving Rice** (rinsed)
 - [ ] **Veggies (Pick One):**
-    - [ ] **Frozen pepper/onion mix, corn, or peas** *(can cook with rice; see `02_techniques/core_techniques.md`)*
-    - [ ] **Frozen broccoli/carrots/cauliflower mix** *(steam alone; see `02_techniques/core_techniques.md`)*
+    - [ ] **Frozen pepper/onion mix, corn, or peas** *(can cook with rice; see `02_techniques/core_techniques.md#veg-pressure-cooker`)*
+    - [ ] **Frozen broccoli/carrots/cauliflower mix** *(steam alone; see `02_techniques/core_techniques.md#veg-pressure-cooker`)*
 - [ ] **Water** (for rice cooking)
 - [ ] **1 Shallot**
 - [ ] **1/2 Serrano Pepper** (seeded & minced - *use 1/4 for low heat*)

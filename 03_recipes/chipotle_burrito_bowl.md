@@ -276,7 +276,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 
 **Phase 1:** Add broth, seasoning, optional spices (thyme, coriander, smoked paprika, bay leaves), and habanero to pot. Place trivet, add chicken on top. Pressure cook 8 mins (thawed) or 14 mins (frozen). 10m NR. Remove habanero and bay leaves. Squeeze 1 lime (OR drizzle 1.5-2 tbsp concentrate) over chicken, rest 5 mins.
 
-**Phase 2:** Add rice to liquid. Layer beans, chilis, and **frozen pepper/onion mix OR corn OR peas** on top (don't stir). Pressure cook 6 mins (Basmati) or 5 mins (Long Grain White). 10m NR. *(Avoid broccoli mixes here—steam those separately; see `02_techniques/core_techniques.md`)*
+**Phase 2:** Add rice to liquid. Layer beans, chilis, and **frozen pepper/onion mix OR corn OR peas** on top (don't stir). Pressure cook 6 mins (Basmati) or 5 mins (Long Grain White). 10m NR. *(Avoid broccoli mixes here—steam those separately; see `02_techniques/core_techniques.md#veg-pressure-cooker`)*
 
 **Phase 3:** Fluff rice, mix in chicken. Squeeze 2nd lime (OR drizzle 1.5-2 tbsp concentrate) over everything. Add cracked pepper and cilantro.
 

@@ -104,9 +104,11 @@ def _rewrite_first_h1(md: str, new_title: str) -> str:
 def _rewrite_backtick_md_refs(md: str, docs_by_rel: dict[str, Doc], docs_by_name: dict[str, Doc]) -> str:
     """
     Replace `path/to/file.md` references with `[Title](#anchor){.xref}`.
+    Also supports fragments like `path/to/file.md#some-anchor` which will become `[#some-anchor]`
+    within the compiled single-document output (useful for jumping to a specific section).
     Avoid touching fenced code blocks.
     """
-    pattern = re.compile(r"`([^`]+\.md)`")
+    pattern = re.compile(r"`([^`]+\.md(?:#[^`]+)?)`")
     out_lines: list[str] = []
     in_fence = False
 
@@ -122,11 +124,13 @@ def _rewrite_backtick_md_refs(md: str, docs_by_rel: dict[str, Doc], docs_by_name
 
         def _repl(m: re.Match[str]) -> str:
             ref = m.group(1)
-            target = docs_by_rel.get(ref) or docs_by_name.get(Path(ref).name)
+            path_ref, frag = (ref.split("#", 1) + [""])[:2]
+            target = docs_by_rel.get(path_ref) or docs_by_name.get(Path(path_ref).name)
             if not target:
                 # Make it human-friendly without breaking tests (avoid `*.md` backticks).
-                return f"**{Path(ref).stem.replace('_', ' ').title()}**"
-            return f"[{target.title}](#{target.anchor}){{.xref}}"
+                return f"**{Path(path_ref).stem.replace('_', ' ').title()}**"
+            href = f"#{frag}" if frag else f"#{target.anchor}"
+            return f"[{target.title}]({href}){{.xref}}"
 
         out_lines.append(pattern.sub(_repl, line))
 
