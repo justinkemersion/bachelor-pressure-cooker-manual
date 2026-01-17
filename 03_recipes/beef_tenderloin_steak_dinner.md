@@ -11,6 +11,7 @@
 ## 📋 Quick Reference
 - **Sear:** **2-3 mins/side** (Medium-High)
 - **Steam finish:** **3-4 mins** (Low, lid on)
+- **Doneness target:** **125°F** (med-rare) / **130°F** (medium) then rest **5 mins**
 - **Sauce:** shallot/serrano **1-2m** → bloom paste **45s** → wine **2m** → broth **2-3m** → butter-mount off heat
 
 ## Ingredients
@@ -37,7 +38,7 @@
 ### The Spicy Red Wine Reduction
 - [ ] **2 Shallots** *(The Upgrade: Peeled & minced finely)* *(or 1 large shallot)*
     - *Bachelor Backup:* 2 tbsp Frozen Diced Onions (Thaw and squeeze dry with paper towel first)
-- [ ] **1 Serrano Pepper** (Seeded & minced - *Wash hands after!*)
+- [ ] **1 Serrano Pepper** (Seeded & minced - *Use 1/2 for low heat; wash hands after!*)
 - [ ] **2 cloves Fresh Garlic** (Minced) *or* 2 tsp Frozen Garlic
 - [ ] **2/3 cup Red Wine** (Cabernet, Merlot, or Cooking Wine)
 - [ ] **1/2 cup Beef Broth**
@@ -54,11 +55,11 @@
 1. **Marinade:** Mix **Balsamic + Worcestershire**, Olive Oil, Garlic/Onion powder, Thyme, Smoked Paprika, Salt, and Pepper. Coat both steaks. **Let sit 30 mins at room temp.** (Cold steak cooks unevenly).
 2. **The Cut (Mise en place):**
    - **Shallot:** Peel and mince finely.
-   - **Serrano:** Slice open, scrape out **ALL** seeds/white ribs (heat control), and mince the green flesh. **Wash hands immediately.**
+   - **Serrano:** For low heat, use **1/2 pepper** or skip. If using it: slice open, scrape out **ALL** seeds/white ribs, mince the green flesh. **Wash hands immediately.**
    - **Set Up:** Place wine, broth, paste, and aromatics next to the stove.
 
 ### Phase 2: Pressure Cooker (Background Task)
-1. **Load:** Standard Rice + Veggie setup.
+1. **Load:** Standard Rice + Veggie setup (see `02_techniques/core_techniques.md`).
 2. **Start:** Run the cycle. *Focus entirely on the steak now.*
 
 ### Phase 3: The Sear & Steam (Well Done Control)
@@ -69,6 +70,7 @@
    - Turn heat to **Low**.
    - Add **2 tbsp water/broth**.
    - **Cover immediately.** Steam for **3-4 minutes**.
+   - **If you have a thermometer:** stop steaming at **125°F** (med-rare) or **130°F** (medium).
    - **Rest:** Remove steaks to a plate. **DO NOT CUT THEM.** Leave pan dirty.
 
 ### Phase 4: The Spicy Reduction
@@ -210,7 +212,7 @@ Use the exact same instructions above. Only the quantities change.
 - [ ] **Frozen Veggies** of choice
 - [ ] **Water** (for rice cooking)
 - [ ] **1 Shallot**
-- [ ] **1/2 Serrano Pepper** (seeded & minced)
+- [ ] **1/2 Serrano Pepper** (seeded & minced - *use 1/4 for low heat*)
 - [ ] **1 clove Fresh Garlic** (minced) *or* 1 tsp Frozen Garlic
 - [ ] **1/3 cup Red Wine**
 - [ ] **1/4 cup Beef Broth**
