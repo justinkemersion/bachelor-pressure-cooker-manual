@@ -39,6 +39,31 @@
 
 ---
 
+## Reverse Sauté (After Pressure Cooking): Fix Wet/Gray Chicken
+
+**Problem:** Pressure-cooked chicken (especially from frozen) can come out **tender but pale/wet**.
+
+**Solution:** Use the rice cook window to do a fast **post-cook sear** in a skillet.
+
+**The trade-off:** You dirty one extra pan.  
+**The reward:** Restaurant-style texture (**crispy edges + juicy inside**) and “not mushy bowl” contrast.
+
+### The Protocol (Fits During Rice Phase)
+1. **Phase 1 ends:** Remove chicken from the pot to a board.
+2. **Don’t shred yet:** Sear **whole thighs first** (shredding first creates “chicken confetti” that burns).
+3. Heat a skillet **medium-high** until hot. Add a **tiny swirl of oil**.
+4. **Sear:** Add chicken (smooth side down if boneless; skin side down if skin-on).  
+   - Don’t touch it for **2–3 minutes** until deep golden/browned.
+5. **Flip + smash:** Flip and press lightly with a spatula for **1–2 minutes**.
+6. **The soy-sauce pan glaze (optional but elite):** Right before turning off heat, splash **~1 tbsp soy sauce** (and optionally a squeeze of lime) into the hot pan. Toss chicken to coat. It will hiss, reduce fast, and leave a savory glaze on the edges.
+7. Now shred/slice and add back to your bowl.
+
+### Notes
+- Works especially well for **frozen chicken** batches.
+- If you’re already adding soy sauce elsewhere, keep this splash small—this is a finishing glaze.
+
+---
+
 ## Oils for Sautéing: The Bachelor's Guide
 
 > **Start here:**  

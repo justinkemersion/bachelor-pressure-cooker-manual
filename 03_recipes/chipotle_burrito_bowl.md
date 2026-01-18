@@ -88,6 +88,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 - [ ] **Heat:** 1 Habanero (Halved, seeds removed) — *Adds ambient heat throughout. Remove before Phase 2. Use gloves when handling!*
 - [ ] **Bulk Fill:** Frozen pepper/onion mix (handful) — *Adds volume and texture. No chopping needed!*
   - *If these are in your marinade/liquid: strain before rice, then add the solids back on top (or after cooking).*
+- [ ] **Optional texture upgrade (Reverse Sauté):** **1 tbsp soy sauce** + tiny swirl of oil — *Used in a hot skillet to glaze/char the cooked chicken while rice cooks. See Phase 2.*
 
 ---
 
@@ -143,6 +144,13 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 5.  **Release:** After cooking, **wait 10 minutes** (Natural Release). **This is mandatory** - it's the "Starch Set Phase" that prevents mushy rice. Then manually vent remaining pressure.
 
 6.  **Prep While Waiting:** While the rice finishes (during the 10m NR), **shred or slice your rested chicken**. Use two forks or just pull it apart with your hands.
+    
+    **Optional: Reverse Sauté (Chipotle-Style Texture):** If your chicken is pale/wet (common from frozen), use this window to char it:
+    1. Don’t shred yet—sear **whole thighs** first.
+    2. Heat a skillet **medium-high**. Add a tiny swirl of oil.
+    3. Sear chicken **2–3 mins** (don’t move) → flip + press **1–2 mins**.
+    4. Right before heat off, splash **~1 tbsp soy sauce** (optional squeeze of lime). Toss— it reduces fast into a salty glaze on the edges.
+    5. Then shred/slice and add back in Phase 3.
 
 ### Phase 3: The Finish
 
