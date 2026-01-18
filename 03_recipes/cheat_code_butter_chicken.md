@@ -24,6 +24,7 @@ This recipe is the **weeknight version**:
 - **Rice (PIP):** 1 cup rinsed rice → **1 cup water** (strict 1:1 for PIP bowl)
 - **Cook:** **6 mins HP** + **10m NR**
 - **Yogurt:** cool sauce **2–3 mins** before stirring in (prevents curdling)
+- **Spice lock-in (recommended):** serrano + flakes for baseline heat, then adjust at the end
 
 ## Ingredients
 
@@ -41,6 +42,12 @@ This recipe is the **weeknight version**:
 - [ ] **1 tsp cumin**
 - [ ] **1 tsp chili powder** (or cayenne for more heat)
 
+### Heat Options (Pick Your Level)
+- [ ] **1 serrano pepper**, minced (keep seeds for hotter; remove for medium)
+- [ ] **1/2–1 habanero**, whole/halved — *infuses heat while cooking; remove before yogurt step*
+- [ ] **1/2 tsp red pepper flakes** (bloom with spices for reliable heat)
+- [ ] **Cayenne** (finisher): start with **1/8 tsp**, taste, repeat
+
 ### The Finish (Healthy “Butter Chicken” Feel)
 - [ ] **1/2 cup plain Greek yogurt** (2% or full-fat)
 - [ ] **1 tbsp butter**
@@ -57,13 +64,15 @@ This recipe is the **weeknight version**:
 ### Phase 1: Bloom + Deglaze (Burn-Proof Setup)
 1. Set Instant Pot to **Sauté (High)**. Add a little oil (or use part of the butter).
 2. Add **onion**. Sauté **~3 mins** until soft.
-3. Add **ginger/garlic** + **garam masala, turmeric, cumin, chili powder**. Stir **30 seconds** (don’t burn).
-4. **Deglaze:** splash in water/broth and **scrape the bottom** until clean.
+3. **Optional heat (recommended):** Add minced **serrano** and cook **30–60 seconds**.
+4. Add **ginger/garlic** + **garam masala, turmeric, cumin, chili powder** (and **red pepper flakes** if using). Stir **30 seconds** (don’t burn).
+5. **Deglaze:** splash in water/broth and **scrape the bottom** until clean.
 
 ### Phase 2: Build the Sauce (Don’t Smear the Bottom)
 1. Turn off Sauté.
 2. Add chicken + tomato sauce + **1/2 cup water/broth**. Stir just enough to coat.
 3. **Tip:** Thick tomato sauce can burn if it gets mashed into the bottom. Avoid aggressive stirring here.
+4. **Optional serious heat:** Add **1/2–1 habanero** (whole or halved). You’ll remove it before the yogurt step.
 
 ### Phase 3: Pot-in-Pot (Rice Above, Sauce Below)
 1. Place the **tall trivet** in the pot.
@@ -74,9 +83,11 @@ This recipe is the **weeknight version**:
 
 ### Phase 4: Make it “Butter Chicken”
 1. If sauce is thin, use **Sauté** for **2–4 mins** to reduce.
-2. Turn heat **OFF**. Let sauce cool **2–3 mins**.
-3. Stir in **Greek yogurt** + **1 tbsp butter** (whisk hard to emulsify).
-4. Taste and adjust **salt**. If too sharp, add a **pinch of sugar/honey**.
+2. If you used habanero, **remove it now**.
+3. Turn heat **OFF**. Let sauce cool **2–3 mins**.
+4. Stir in **Greek yogurt** + **1 tbsp butter** (whisk hard to emulsify).
+5. Taste and adjust **salt**. If too sharp, add a **pinch of sugar/honey**.
+6. **Finisher heat:** Add a pinch of **red pepper flakes** and/or **1/8 tsp cayenne**, taste, repeat.
 
 <!-- PAGE_BREAK -->
 <!-- 
