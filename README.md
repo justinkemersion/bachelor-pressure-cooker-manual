@@ -118,8 +118,8 @@ Bachelor-Cookbook/
 │   │                                   # → Introduces glaze reduction technique, honey + soy sauce
 │   ├── teriyaki_chicken_bowl.md       # Japanese-American (teriyaki glaze)
 │   │                                   # → Introduces teriyaki glaze, rice wine/mirin applications
-│   ├── healthy_butter_chicken.md      # Indian curry-style (healthy butter chicken, PIP method)
-│   │                                   # → Pot-in-Pot (thick sauce / zero burn), yogurt finish
+│   ├── cheat_code_butter_chicken.md   # Indian curry-style “butter chicken” (PIP + yogurt hack)
+│   │                                   # → Pot-in-Pot (thick sauce / zero burn), Greek yogurt finish
 │   ├── sofritas_protocol.md           # Dump-and-go spicy tofu “sofritas” component
 │   │                                   # → Tofu crumble texture hack + chipotle-in-adobo sauce logic
 │   ├── pulled_chicken_taco_bowl.md    # Tex-Mex pulled chicken + salsa verde finish

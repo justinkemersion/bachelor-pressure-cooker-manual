@@ -1,4 +1,4 @@
-# Healthy Butter Chicken (The "Cheat Code" Curry) (v1.0)
+# Cheat Code Butter Chicken (v1.0)
 **Mission:** Weeknight, Health Upgrade  
 **Protein:** Chicken  
 **Time Bucket:** Standard  
@@ -9,7 +9,14 @@
 
 **🧱 New Lego Block: Pot-in-Pot (PIP) = Thick Sauce + Perfect Rice (Zero Burn)**
 
-**📚 Building on the Foundation**: Reference the **Initiation Recipe** (`chipotle_burrito_bowl.md`) for safety checks + release basics. This recipe adds the “**thick sauce**” solution: **Pot-in-Pot (PIP)**. For the universal PIP setup, see `02_techniques/core_techniques.md#pot-in-pot`.
+## 🎓 THE "CHEAT CODE" CONCEPT
+Traditional Butter Chicken (*Murgh Makhani*) often means **overnight marinade**, **tandoor/roast**, and a finish with **heavy whipping cream**. It’s amazing—but it’s a project, and it’s calorie-dense.
+
+This recipe is the **weeknight version**:
+- **The Yogurt Hack:** Greek yogurt + a small **butter mount** at the end = “creaminess” with **way more protein** and **less fat**.
+- **The PIP Hack:** Pot-in-Pot lets you cook **rice + curry** in one pressure cycle without burn drama from thick tomato sauce.
+
+**📚 Building on the Foundation**: Reference the **Initiation Recipe** (`chipotle_burrito_bowl.md`) for safety checks + release basics. For the universal PIP setup, see `02_techniques/core_techniques.md#pot-in-pot`.
 
 ---
 
