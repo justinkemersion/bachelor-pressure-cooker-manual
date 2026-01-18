@@ -51,6 +51,8 @@ Thyme is one of those spices that seems "optional" until you try it. Then you re
 ### Fresh Peppers: The Heat Element
 Fresh peppers add **identifiable heat** and **flavor complexity** that dried spices can't match. They're the difference between "spicy" and "that habanero heat I recognize."
 
+**Want “spicy” to taste better (depth + brightness), not just hurt?** See `01_fundamentals/heat_spectrum_theory.md` (Full Spectrum Heat).
+
 #### Heat Levels (Practical Guide)
 
 | Pepper | Heat Level | Flavor Profile | Best For | Bachelor Note |

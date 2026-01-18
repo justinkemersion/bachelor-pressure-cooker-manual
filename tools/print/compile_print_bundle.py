@@ -556,6 +556,7 @@ def _bundle_order() -> list[str]:
         "02_techniques/marinades.md",
         # Fundamentals
         "01_fundamentals/spices_and_flavor.md",
+        "01_fundamentals/heat_spectrum_theory.md",
         "01_fundamentals/bachelor_hacks.md",
         "01_fundamentals/timing_charts.md",
         # Quick-reference appendix
@@ -577,6 +578,7 @@ def _chapters() -> list[Chapter]:
             subtitle="Core knowledge: timing, flavor chemistry, and bachelor shortcuts.",
             rel_paths=[
                 "01_fundamentals/spices_and_flavor.md",
+                "01_fundamentals/heat_spectrum_theory.md",
                 "01_fundamentals/bachelor_hacks.md",
                 "01_fundamentals/timing_charts.md",
             ],
