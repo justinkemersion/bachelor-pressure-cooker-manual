@@ -76,6 +76,7 @@ def _inject_doc_scoped_anchors(md: str, doc_anchor: str) -> str:
     """
     out_lines: list[str] = []
     in_fence = False
+    used_ids: dict[str, int] = {}
 
     # Matches <a id="foo"></a> (allowing whitespace + optional self-closing).
     a_id_re = re.compile(r'(<a\s+id=")([^"]+)("\s*/?>\s*</a>|"\s*/?>)')
@@ -87,6 +88,15 @@ def _inject_doc_scoped_anchors(md: str, doc_anchor: str) -> str:
             return f'{m.group(1)}{_doc_scoped_id(doc_anchor, m.group(2))}{m.group(3)}'
 
         return a_id_re.sub(_repl, line)
+
+    def _dedupe(scoped_id: str) -> str:
+        """
+        Ensure ids are unique within a single document. This matters in EPUB readers:
+        repeated headings like "How to Use" inside one file would otherwise collide.
+        """
+        n = used_ids.get(scoped_id, 0) + 1
+        used_ids[scoped_id] = n
+        return scoped_id if n == 1 else f"{scoped_id}-{n}"
 
     for line in md.splitlines(keepends=False):
         if line.lstrip().startswith("```"):
@@ -109,20 +119,19 @@ def _inject_doc_scoped_anchors(md: str, doc_anchor: str) -> str:
         hm = heading_id_re.search(line)
         if hm:
             raw_id = hm.group(1)
-            scoped = _doc_scoped_id(doc_anchor, raw_id)
+            scoped = _dedupe(_doc_scoped_id(doc_anchor, raw_id))
             out_lines.append(heading_id_re.sub(f" {{#{scoped}}}", line))
             continue
 
-        # Otherwise inject a stable anchor line right above the heading.
+        # Otherwise, make the heading itself carry a stable doc-scoped id.
+        # NOTE: This is critical for EPUB readers: if headings don't get unique ids,
+        # repeated headings like "Ingredients" can cause internal navigation to jump
+        # to the wrong place.
         heading_text = m.group(2)
         heading_slug = _slugify(heading_text)
-        scoped_id = _doc_scoped_id(doc_anchor, heading_slug)
+        scoped_id = _dedupe(_doc_scoped_id(doc_anchor, heading_slug))
 
-        # Avoid double-injecting if the previous line already placed an anchor.
-        prev = out_lines[-1].strip() if out_lines else ""
-        if not prev.startswith('<a id="'):
-            out_lines.append(f'<a id="{scoped_id}"></a>')
-        out_lines.append(line)
+        out_lines.append(f"{line} {{#{scoped_id}}}")
 
     return "\n".join(out_lines) + ("\n" if md.endswith("\n") else "")
 
@@ -178,7 +187,7 @@ def _build_recipe_index_md(recipes: list[Doc], raw_by_rel: dict[str, str], tags_
         return str(p) if p else "Other"
 
     lines: list[str] = []
-    lines.append("# Recipe Index\n\n")
+    lines.append("# Recipe Index {#recipe-index}\n\n")
     lines.append("**Browse by mission first** (how you’re cooking today). Protein mini-index is at the bottom.\n\n")
 
     for mission in mission_order:
@@ -845,7 +854,6 @@ def main() -> int:
             parts.append("\n<div class=\"section-start\"></div>\n\n")
             parts.append('<div class="continue-note end"></div>\n')
             parts.append(f'<div class="doc-title">{ch.id} — {ch.title}: Recipe Index</div>\n')
-            parts.append('<a id="recipe-index"></a>\n\n')
             parts.append(_build_recipe_index_md(recipe_docs, raw_by_rel, tags_by_rel))
             parts.append("\n<div class=\"page-break\"></div>\n\n")
 

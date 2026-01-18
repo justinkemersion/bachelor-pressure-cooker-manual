@@ -344,7 +344,6 @@ def main() -> int:
 
         if ch.id == "03":
             recipe_docs = [docs_by_rel[rel] for rel in ch.rel_paths if rel.startswith("03_recipes/")]
-            parts.append('<a id="recipe-index"></a>\n\n')
             parts.append(cpb._build_recipe_index_md(recipe_docs, raw_by_rel, tags_by_rel))  # type: ignore[attr-defined]
             parts.append("\n---\n\n")
 
