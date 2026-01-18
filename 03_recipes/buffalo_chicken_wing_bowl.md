@@ -28,7 +28,7 @@
 ### The Essentials
 - [ ] **Protein:** **1.5 lbs Chicken Thighs** (Boneless/Skinless, Thawed or Frozen) — *Can be thawed or frozen - see timing below.*
 - [ ] **Base:** 1.5 cups White Rice (Basmati, Jasmine, or Long Grain White - see timing) — *Rinse until water runs clear (3-4 rinses).*
-- [ ] **Liquid:** **2 cups** Chicken Broth — *The "Burn-Proof" 1:1 + Buffer. Can use water + bouillon cube if no broth.*
+- [ ] **Liquid:** **1.75 cups** Chicken Broth — *Sequential baseline (1:1.25). If your liquid has “bits,” strain before the rice phase. Can use water + bouillon cube if no broth.*
 - [ ] **The Veg:** 1 cup **Frozen Pepper/Onion/Celery Mix** — *Authenticity Check: Wings are always served with celery. This mix is perfect.*
 
 ### The Seasonings (When & How to Use)
@@ -55,7 +55,7 @@
 
 **What You're Doing:** Cooking the chicken in a savory garlic broth. **Note: We do NOT add the hot sauce yet.** The vinegar in hot sauce would toughen the rice grains in Phase 2.
 
-1.  **Add Liquid & Seasonings:** Pour **2 cups broth** into the pot. Add **1 tsp garlic powder**, **1 tsp onion powder**, **1 tsp smoked paprika**, and **1 tsp salt**. *Optional upgrades: Add 1 tsp thyme and/or 1-2 bay leaves for extra depth.* **Stir once** to mix.
+1.  **Add Liquid & Seasonings:** Pour **1.75 cups broth** into the pot. Add **1 tsp garlic powder**, **1 tsp onion powder**, **1 tsp smoked paprika**, and **1 tsp salt**. *Optional upgrades: Add 1 tsp thyme and/or 1-2 bay leaves for extra depth.* **Stir once** to mix.
    
    *Why now?* Spices go in the liquid so they infuse the chicken as it cooks. The liquid becomes flavored broth for the rice later.
 
@@ -79,7 +79,7 @@
 
 **What You're Doing:** Cooking the rice with the veggies. We keep the broth neutral (no hot sauce) so the rice cooks properly.
 
-1.  **Check Liquid:** You should still have roughly **2 cups of flavored broth** in the pot. If it looks low, add a splash more broth or water. The rice needs liquid to cook.
+1.  **Check Liquid + Strain if Needed:** You want about **1.75 cups of clean liquid** for the rice phase. If your liquid has “bits” (frozen peppers/onions, minced peppers, spice sludge), **strain it** into a bowl, then pour it back in. If you’re short, add a splash of broth/water to reach **1.75 cups**.
 
 2.  **Add Rice:** Pour **1.5 cups rinsed white rice** directly into the liquid. **Don't stir yet.**
 

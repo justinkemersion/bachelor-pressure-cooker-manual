@@ -169,7 +169,7 @@
 
 > **The Golden Rule (Sequential Rice):**  
 > Pressure cookers don’t evaporate much, so rice texture is about **ratio + release**, not “eyeballing.”  
-> Use the **tested baseline**: **2 cups liquid for 1.5 cups rice**, then **Natural Release**.
+> Use the **tested baseline**: **1.75 cups liquid for 1.5 cups rice** (1:1.25), then **Natural Release**.
 
 ### The Rinse Rule
 **Always rinse rice** - Removes excess starch that causes mushiness
@@ -192,9 +192,18 @@
 
 **Key Principles:**
 - **Minimal evaporation:** You lose maybe 2 tablespoons during release, not cups
-- **The "Burn-Proof" 1:1 + Buffer:** For sequential cooking (protein then rice), start with **2 cups liquid** for 1.5 cups rice. This ratio is tested and proven - the initiation recipe uses 2 cups and works perfectly.
-- **Rice needs 1.5 cups:** The rice will absorb what it needs (1:1 ratio), and you'll have extra liquid for glazes/sauces
+- **Sequential baseline (most recipes):** **1.75 cups liquid** for **1.5 cups rice** (1:1.25). This gives you clean rice texture without relying on “evaporation.”
+- **Optional buffer:** If you want **extra sauce** or you’re cooking with lots of beans/veg, you can bump total liquid closer to **2 cups** — but only if your liquid is **clean/strained** (see below).
 - **Too much liquid = mushy rice:** Stick to exact ratios, don't overcompensate for "evaporation"
+
+### Burn Prevention: Strain the Liquid Before Rice (When Needed)
+If you marinate chicken with **frozen chopped peppers/onions** (or add minced peppers like serrano/habanero), those solids can **sink into the bottom liquid** during the rice phase and trigger a **BURN** notice — even if your liquid ratio is fine.
+
+**Do this any time your liquid has “bits” in it:**
+1. **After cooking the protein phase**, remove the chicken (and any large solids) to a plate.
+2. **Strain the cooking liquid** through a fine mesh strainer into a bowl.
+3. **Pour the strained liquid back in** (this is the liquid you measure for the rice ratio).
+4. **Add the strained solids back on TOP** of the rest of the solids (or add them after cooking) — do **not** leave them suspended in the bottom liquid.
 
 ### Preventing Mushy Rice
 - Use exact ratios

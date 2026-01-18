@@ -40,7 +40,7 @@
 - [ ] **1.5 cups Basmati Rice** (OR Long Grain White) — *rinsed until water runs clear (3-4 rinses)*
 
 ### Liquids
-- [ ] **2 cups Chicken Broth** — *The “Burn-Proof” 1:1 + Buffer for sequential cooking. Can use water + bouillon cubes if no broth.*
+- [ ] **1.75 cups Chicken Broth** — *Sequential baseline (1:1.25) for sequential cooking. If your liquid has “bits,” strain before the rice phase. Can use water + bouillon cubes if no broth.*
 
 ### Seasonings (Before Pressure)
 - [ ] **2 tsp Cumin**
@@ -68,7 +68,7 @@
 ### Phase 1: The Bird (8m HP + 10m NR)
 **What You’re Doing:** Cooking chicken in Tex-Mex spices. We keep the liquid clean so rice cooks perfectly in Phase 2.
 
-1. **Add Liquid & Seasonings:** Pour **2 cups broth** into the pot. Add **cumin, chili powder, garlic powder, onion powder, and salt**. Stir once.
+1. **Add Liquid & Seasonings:** Pour **1.75 cups broth** into the pot. Add **cumin, chili powder, garlic powder, onion powder, and salt**. Stir once.
 2. **Insert Trivet (Optional):** If you have a trivet, use it. If not, put chicken directly into the liquid (thighs are forgiving).
 3. **Add Chicken:** Add thighs.
 4. **Pressure Cook:** High Pressure:
@@ -78,7 +78,7 @@
 
 ### Phase 2: The Base (Rice) (5-6m HP + 10m NR)
 1. **Move Chicken Out:** Put chicken on a plate (cover loosely).
-2. **Check Liquid:** You should still have roughly **2 cups of flavored liquid** in the pot. If it looks low, add a splash of water/broth.
+2. **Check Liquid + Strain if Needed:** You want about **1.75 cups of clean liquid** for the rice phase. If your liquid has “bits” (frozen peppers/onions, minced peppers, spice sludge), **strain it** into a bowl, then pour it back in. If you’re short, add a splash of broth/water to reach **1.75 cups**.
 3. **Add Rice:** Add **1.5 cups rinsed rice** to the pot.
 4. **Optional Bulk:** Add beans/corn/veg on top (don’t worry about perfection).
 5. **Pressure Cook Rice:**

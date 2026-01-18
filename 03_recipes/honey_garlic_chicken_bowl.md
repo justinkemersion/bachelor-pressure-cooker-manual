@@ -52,7 +52,7 @@
 - [ ] **1/2 tsp Sesame Seeds** — *Adds texture and nutty flavor. Optional but nice.*
 
 ### Liquids
-- [ ] **2 cups Chicken Broth** — *The "Burn-Proof" 1:1 + Buffer for sequential cooking. Can use water + bouillon cube if no broth.*
+- [ ] **1.75 cups Chicken Broth** — *Sequential baseline (1:1.25) for sequential cooking. If your liquid has “bits,” strain before the rice phase. Can use water + bouillon cube if no broth.*
 
 ### Bulk (Optional)
 - [ ] **1 can Black Beans** (drained and rinsed) — *Adds protein and fiber. Optional but recommended for meal prep volume.*
@@ -71,7 +71,7 @@
 
 **What You're Doing:** Cooking the chicken in honey + soy sauce liquid. The chicken sits on a trivet so it steams, not boils. The cooking liquid becomes our glaze base.
 
-1. **Add Liquid & Seasonings:** Pour **2 cups broth** into the pot. Add **2 tbsp honey**, **2 tbsp soy sauce**, **1 tsp garlic powder**, and **1 tsp salt**. **Optional upgrades:** Add 1 tsp ginger powder and/or 1/2 tsp sesame seeds. **Stir once** to mix - the honey will dissolve as it heats.
+1. **Add Liquid & Seasonings:** Pour **1.75 cups broth** into the pot. Add **2 tbsp honey**, **2 tbsp soy sauce**, **1 tsp garlic powder**, and **1 tsp salt**. **Optional upgrades:** Add 1 tsp ginger powder and/or 1/2 tsp sesame seeds. **Stir once** to mix - the honey will dissolve as it heats.
 
    *Why now?* The honey and soy sauce infuse the chicken as it cooks. The liquid becomes our glaze base - it's already flavored!
 
@@ -97,7 +97,7 @@
 
 **What You're Doing:** Cooking rice in the same pot, using the same flavored liquid (plus a bit more if needed).
 
-1. **Check Liquid:** You should still have roughly **2 cups of flavored liquid** in the pot. If it looks low, add a splash more broth or water. The rice needs liquid to cook.
+1. **Check Liquid + Strain if Needed:** You want about **1.75 cups of clean liquid** for the rice phase. If your liquid has “bits” (frozen peppers/onions, minced peppers, spice sludge), **strain it** into a bowl, then pour it back in. If you’re short, add a splash of broth/water to reach **1.75 cups**.
 
 2. **Add Rice:** Add **1.5 cups rinsed rice** to the pot. Stir once to mix rice with liquid.
 
@@ -191,8 +191,8 @@
 - **Sequential cooking:** Rice cooks in the same pot, picking up residual flavors
 
 **Why 2 Cups Liquid:**
-- **The "Burn-Proof" 1:1 + Buffer:** For sequential cooking (protein then rice), start with 2 cups
-- **Tested and proven:** The initiation recipe uses 2 cups liquid for 1.5 cups rice - this ratio works perfectly
+- **Sequential baseline (1:1.25):** For sequential cooking (protein then rice), use **1.75 cups liquid** for 1.5 cups rice
+- **Burn notice fix:** If your liquid has **sediment/veg bits** (frozen peppers/onions, minced peppers), **strain before the rice phase**
 - **Rice needs 1.5 cups:** The rice will absorb what it needs (1:1 ratio), and you'll have extra liquid for the glaze
 - **Glaze base:** The remaining liquid (after rice absorbs what it needs) becomes your glaze
 

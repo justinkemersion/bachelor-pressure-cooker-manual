@@ -26,7 +26,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 **Need to remember something fast? Scan this section first.**
 
 ### Key Ratios & Numbers
-- **Liquid to Rice:** 2 cups liquid for 1.5 cups rice (1:1 + buffer for beans/veg)
+- **Liquid to Rice (sequential):** 1.5 cups rice → **1.75 cups liquid** (1:1.25)
 - **Chicken Timing:** 8 mins (thawed) / 14 mins (frozen, 12m minimum)
 - **Rice Timing:** 6 mins Basmati / 5 mins Long Grain White
 - **Release Time:** Always 10 mins Natural Release (NR) - mandatory for starch set
@@ -40,7 +40,8 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 
 ### Common Fixes
 - **Crunchy rice?** → Add 1/4 cup water, 2 mins HP, QR
-- **Mushy rice?** → Too much liquid. Use exact 2 cups next time
+- **Mushy rice?** → Too much liquid. Use **1.75 cups** next time (for 1.5 cups rice)
+- **Burn notice?** → Strain the cooking liquid before the rice phase (bits/sediment can sink & scorch)
 - **Dry chicken?** → Skipped the rest. Always rest 5 mins
 - **Undercooked?** → Add 2-4 mins HP, 10m NR, check again
 
@@ -57,7 +58,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 ### The Essentials
 - [ ] **Protein:** **4 Chicken Thighs** (approx 1.75 lbs) — *Crucial for meal prep volume. Can be thawed or frozen - see timing below.*
 - [ ] **Base:** 1.5 cups Basmati Rice (OR Long Grain White - see timing) — *Rinse until water runs clear (3-4 rinses). This removes starch so rice doesn't get gummy.*
-- [ ] **Liquid:** **2 cups** Chicken Broth — *The "Burn-Proof" 1:1 + Buffer. Can use water + bouillon cube if no broth.*
+- [ ] **Liquid:** **1.75 cups** Chicken Broth — *Sequential baseline (1:1.25). If your liquid has “bits” (frozen peppers/onions, minced peppers), strain before the rice phase.*
 - [ ] **Optional Beer Upgrade:** **1/2-1 cup Beer** (replace equal amount of broth) — *Adds malty, hoppy depth. Works great with Tex-Mex flavors. See Chemistry Notes below for how to use in future recipes.*
 - [ ] **Bulk:** 1 can Black Beans — *Drain and rinse. Canned beans are already cooked, so they just need to heat through.*
 - [ ] **Heat Boost:** 1 can Drained Chilis (Jalapeños, Green Chilis, or similar) — *Adds heat and flavor. Drain well before adding.*
@@ -86,6 +87,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 ### Optional Additions
 - [ ] **Heat:** 1 Habanero (Halved, seeds removed) — *Adds ambient heat throughout. Remove before Phase 2. Use gloves when handling!*
 - [ ] **Bulk Fill:** Frozen pepper/onion mix (handful) — *Adds volume and texture. No chopping needed!*
+  - *If these are in your marinade/liquid: strain before rice, then add the solids back on top (or after cooking).*
 
 ---
 
@@ -95,7 +97,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 
 **What You're Doing:** Cooking the chicken in seasoned liquid. The chicken sits on a trivet (rack) so it steams, not boils. This keeps it tender.
 
-1.  **Add Liquid & Seasonings:** Pour **2 cups broth** (OR **1-1.5 cups broth + 1/2-1 cup beer** - replace equal amount of broth) into the pot. Add your **seasoning packet** (or individual spices: 2tsp cumin, 1tsp chili powder, 1tsp garlic powder, 1tsp salt). **Optional upgrades:** Add 1 tsp thyme (the "Secret Weapon"), 1 tsp coriander, 1/2 tsp smoked paprika, and/or 1-2 bay leaves for extra depth. **Stir once** to mix. If using habanero, add **halved, seeds removed** now (use gloves!).
+1.  **Add Liquid & Seasonings:** Pour **1.75 cups total liquid** into the pot. (You can do all broth, or replace **up to 1 cup** of the broth with beer — just keep the total at **1.75 cups**.) Add your **seasoning packet** (or individual spices: 2tsp cumin, 1tsp chili powder, 1tsp garlic powder, 1tsp salt). **Optional upgrades:** Add 1 tsp thyme (the "Secret Weapon"), 1 tsp coriander, 1/2 tsp smoked paprika, and/or 1-2 bay leaves for extra depth. **Stir once** to mix. If using habanero, add **halved, seeds removed** now (use gloves!).
    
    *Why now?* Spices go in the liquid so they infuse the chicken as it cooks. The liquid becomes flavored broth for the rice later.
 
@@ -121,7 +123,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 
 **What You're Doing:** Cooking rice in the flavored broth left from Phase 1. The beans and veg heat through while the rice cooks. Don't stir - layering prevents burning.
 
-1.  **Check Liquid:** You should still have roughly **2 cups of flavored broth** in the pot. If it looks low, add a splash more broth or water. The rice needs liquid to cook.
+1.  **Check Liquid + Strain if Needed:** You want about **1.75 cups of clean liquid** for the rice phase. If your liquid has “bits” (frozen pepper/onion pieces, minced peppers, spice sludge), **strain it** into a bowl, then pour it back in. If you’re short, add a splash of broth/water to reach **1.75 cups**.
 
 2.  **Add Rice:** Pour **1.5 cups rinsed Basmati rice** (or Long Grain White) directly into the liquid. **Don't stir yet.**
 
@@ -267,7 +269,7 @@ This is your **foundational recipe** - the one you'll come back to again and aga
 ### Ingredients
 - 4 chicken thighs (1.75 lbs)
 - 1.5 cups Basmati rice, rinsed
-- 2 cups chicken broth
+- 1.75 cups chicken broth
 - 1 can black beans, drained
 - 1 can chilis, drained (jalapeños, green chilis, or similar)
 - 1 taco seasoning packet (or: 2tsp cumin, 1tsp chili powder, 1tsp garlic powder, 1tsp salt)
