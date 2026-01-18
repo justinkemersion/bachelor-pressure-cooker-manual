@@ -21,10 +21,12 @@ This recipe is the **weeknight version**:
 ---
 
 ## 📋 Quick Reference
+- **End State:** Thick, glossy orange sauce that coats chicken; rice fully tender and separate.
 - **Rice (PIP):** 1 cup rinsed rice → **1 cup water** (strict 1:1 for PIP bowl)
 - **Cook:** **6 mins HP** + **10m NR**
 - **Yogurt:** cool sauce **2–3 mins** before stirring in (prevents curdling)
 - **Spice lock-in (recommended):** serrano + flakes for baseline heat, then adjust at the end
+- **Scaling:** Double chicken → keep liquid the same; increase spices by ~**1.5×**, not 2×
 
 ## Ingredients
 
@@ -34,7 +36,7 @@ This recipe is the **weeknight version**:
 - [ ] **1 tbsp ginger/garlic paste** (or fresh minced)
 - [ ] **1 can (14 oz) tomato sauce** (or crushed tomatoes)
 - [ ] **1/2 cup water or chicken broth** (helps pressure + reduces burn risk; reduce later if needed)
-- [ ] **Salt** (start with 1–1.5 tsp; adjust at the end)
+- [ ] **Salt** (start with **1 tsp** — tomato brands vary; finish to taste after yogurt)
 
 ### The “Cheat Code” Spices
 - [ ] **1 tbsp garam masala** (**NEW**)
@@ -85,9 +87,10 @@ This recipe is the **weeknight version**:
 1. If sauce is thin, use **Sauté** for **2–4 mins** to reduce.
 2. If you used habanero, **remove it now**.
 3. Turn heat **OFF**. Let sauce cool **2–3 mins**.
-4. Stir in **Greek yogurt** + **1 tbsp butter** (whisk hard to emulsify).
-5. Taste and adjust **salt**. If too sharp, add a **pinch of sugar/honey**.
-6. **Finisher heat:** Add a pinch of **red pepper flakes** and/or **1/8 tsp cayenne**, taste, repeat.
+4. **Yogurt rule:** Sauce should stop bubbling entirely before yogurt goes in.
+5. Stir in **Greek yogurt** + **1 tbsp butter** (whisk hard to emulsify).
+6. Taste and adjust **salt**. If too sharp, add a **pinch of sugar/honey**.
+7. **Finisher heat:** Add a pinch of **red pepper flakes** and/or **1/8 tsp cayenne**, taste, repeat.
 
 <!-- PAGE_BREAK -->
 <!-- 
