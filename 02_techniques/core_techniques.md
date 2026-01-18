@@ -213,6 +213,29 @@ If you marinate chicken with **frozen chopped peppers/onions** (or add minced pe
 
 ---
 
+<a id="pot-in-pot"></a>
+## Pot-in-Pot (PIP) Cooking (Thick Sauce / Zero-Burn Mode)
+
+**Use this when:** your main dish is **thick** (tomato sauce, curry, “stew-y” sauces) and you want **guaranteed no burn notice** + **perfect rice**.
+
+**The idea:** Main food goes in the bottom. Rice goes in a separate bowl on a trivet and cooks by **steam**.
+
+### Setup (Quick)
+1. Build your sauce/protein in the main pot (bottom).
+2. Place the **tall trivet** in the pot.
+3. In an oven-safe bowl (stainless steel or Pyrex), add:
+   - **1 cup rinsed rice**
+   - **1 cup water** (PIP rice is typically **1:1**)
+   - pinch of salt
+4. Place the bowl on the trivet. Lock lid. Cook as directed.
+
+### Burn-Prevention Rules (Critical)
+- **Scrape the bottom after sauté** (deglaze well).
+- **After adding tomato sauce:** avoid aggressive stirring that smears thick sauce onto the bottom.
+- **If the sauce is extremely thick:** add a small splash of water/broth and reduce later (thick + dry = burn risk).
+
+---
+
 <a id="veg-pressure-cooker"></a>
 ## Vegetables in the Pressure Cooker (Frozen + Fresh)
 
