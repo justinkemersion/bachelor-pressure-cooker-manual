@@ -47,3 +47,8 @@ class TestEpubBuild:
             assert "doc-03-recipes-beef-tenderloin-steak-dinner" in nav
             assert "content.xhtml#doc-03-recipes-beef-tenderloin-steak-dinner" in nav
 
+            # Ensure the in-book TOC is nested (chapter -> docs)
+            content = zf.read("OEBPS/content.xhtml").decode("utf-8")
+            assert 'href="#chapter-01"' in content
+            assert "<ul>" in content
+            assert 'href="#doc-01-fundamentals-spices-and-flavor"' in content

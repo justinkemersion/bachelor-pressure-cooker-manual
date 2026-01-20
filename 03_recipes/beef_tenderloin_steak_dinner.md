@@ -1,4 +1,4 @@
-# 03_Recipes: Beef Tenderloin - "High Stakes" Dinner (v2.3)
+# 03_Recipes: Beef Tenderloin - "High Stakes" Dinner (v2.4)
 **Mission:** Date Night  
 **Protein:** Beef  
 **Time Bucket:** Project  
@@ -15,8 +15,10 @@
 ---
 
 ## 📋 Quick Reference
-- **Sear:** **2-3 mins/side** (Medium-High)
-- **Steam finish:** **3-4 mins** (Low, lid on)
+- **Skillet sear:** **2-3 mins/side** (Medium-High)
+- **Instant Pot “Rio” sear:** **~8 mins/side** (Sauté High — behaves like stovetop Med/Low)
+- **Steam finish (Skillet):** **3-4 mins** (Low, lid on)
+- **Quasi-steam finish (Instant Pot):** splash **2-3 tbsp water**, lid on **venting**, **60–90 seconds**
 - **Doneness target:** **125°F** (med-rare) / **130°F** (medium) then rest **5 mins**
 - **Sauce:** shallot/serrano **1-2m** → bloom paste **45s** → wine **2m** → broth **2-3m** → butter-mount off heat
 
@@ -80,6 +82,15 @@
    - **Cover immediately.** Steam for **3-4 minutes**.
    - **If you have a thermometer:** stop steaming at **125°F** (med-rare) or **130°F** (medium).
    - **Rest:** Remove steaks to a plate. **DO NOT CUT THEM.** Leave pan dirty.
+
+#### Instant Pot-Only Option: The “Rio” Method (Sauté + Quasi-Steam Finish)
+If you’re using the Instant Pot stainless insert instead of a skillet:
+
+- **Reality check:** Instant Pot **Sauté (High)** often cooks more like a normal stove at **Medium/Low**, not “screaming hot.”
+- **Sear:** Preheat on **Sauté High**, add oil, then sear **~8 minutes per side** (adjust for thickness).
+- **Quasi-steam finish (no pressure):** Splash **2–3 tbsp water**, put the lid on with the valve set to **Venting**, and let it “quasi-steam” for **~90 seconds**.
+  - **Safety note:** Keep it on **Venting** (you are not pressure cooking here).
+- **Rest covered:** Remove steak, cover loosely, rest **5 minutes** before slicing.
 
 ### Phase 4: The Spicy Reduction
 1. **Sauté:** Turn heat to **Medium**. Add **Shallot** and **Serrano** to the beef fat. Sauté **1-2 minutes**. Add **Garlic** for last 30 seconds.
@@ -198,6 +209,7 @@ Fresh oregano is stronger and peppery—great against rich butter sauce.
 - **v2.1:** Scaled main recipe to **2 servings**. Added **1-serving practice version** at bottom.
 - **v2.2:** Added oregano finishing garnish options (Palm Friction / Fry / Fresh).
 - **v2.3:** Swapped half the balsamic in the marinade for Worcestershire (more beefy/umami, less sharp sweetness).
+- **v2.4:** Added Instant Pot-only “Rio” method notes (longer sear on Sauté + short vented quasi-steam finish).
 
 ---
 
@@ -233,4 +245,4 @@ Use the exact same instructions above. Only the quantities change.
 
 ---
 
-**Version:** 2.3 | **Compiled for:** Spiral Binder | **Print Scale:** 100%
+**Version:** 2.4 | **Compiled for:** Spiral Binder | **Print Scale:** 100%
