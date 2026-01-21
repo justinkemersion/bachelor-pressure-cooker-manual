@@ -74,7 +74,9 @@
 
 ### Phase 3: The Sear & Steam (Well Done Control)
 1. **Heat:** Skillet on **Medium-High**. Add **1 tbsp oil**. Wait for shimmer.
-2. **Dry & Sear:** Shake excess marinade off steaks. Sear **2-3 minutes per side** (Deep brown crust).
+2. **Dry & Sear (Pick Your Tool):** Shake excess marinade off steaks.
+   - **Skillet:** Sear **2-3 minutes per side** (Deep brown crust).
+   - **Instant Pot (Sauté High):** Sear **~8 minutes per side** *(Sauté High often behaves like stovetop Med/Low)*.
    - **Rule:** Don’t crowd the pan. If your skillet is small, sear 1 steak at a time.
 3. **Steam Finish:**
    - Turn heat to **Low**.
