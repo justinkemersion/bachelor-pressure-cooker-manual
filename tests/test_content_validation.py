@@ -57,14 +57,16 @@ class TestRecipeConsistency:
     
     def test_all_bowl_recipes_have_meal_prep(self):
         """All bowl recipes should have meal prep section"""
-        for recipe_file in (BASE_DIR / "03_recipes").glob("*bowl*.md"):
+        for recipe_file in (BASE_DIR / "03_recipes").rglob("*bowl*.md"):
             content = recipe_file.read_text()
             assert "Meal Prep" in content or "Reheating" in content, \
                 f"{recipe_file.name} should have meal prep/reheating section"
     
     def test_recipes_mention_liquid_amount(self):
         """Recipes should specify liquid amounts"""
-        for recipe_file in (BASE_DIR / "03_recipes").glob("*.md"):
+        for recipe_file in (BASE_DIR / "03_recipes").rglob("*.md"):
+            if recipe_file.name == "README.md":
+                continue
             content = recipe_file.read_text()
             # Should mention cups of liquid
             assert "cup" in content.lower(), \
@@ -76,7 +78,9 @@ class TestRecipeConsistency:
         - link to the universal pressure-cooker veg method, OR
         - provide explicit pressure-cooker instructions.
         """
-        for recipe_file in (BASE_DIR / "03_recipes").glob("*.md"):
+        for recipe_file in (BASE_DIR / "03_recipes").rglob("*.md"):
+            if recipe_file.name == "README.md":
+                continue
             content = recipe_file.read_text()
             if re.search(r"\bfrozen veg|\bfrozen veggie|\bfrozen veggies", content, flags=re.IGNORECASE):
                 assert (
@@ -133,7 +137,9 @@ class TestFormatting:
     
     def test_checkboxes_used_for_ingredients(self):
         """Ingredients should use checkboxes format"""
-        for recipe_file in (BASE_DIR / "03_recipes").glob("*.md"):
+        for recipe_file in (BASE_DIR / "03_recipes").rglob("*.md"):
+            if recipe_file.name == "README.md":
+                continue
             content = recipe_file.read_text()
             # Should have checkbox format in ingredients section
             if "Hardware & Variables" in content or "Ingredients" in content:
@@ -142,7 +148,9 @@ class TestFormatting:
     
     def test_bold_used_for_timings(self):
         """Timings should be bolded"""
-        for recipe_file in (BASE_DIR / "03_recipes").glob("*.md"):
+        for recipe_file in (BASE_DIR / "03_recipes").rglob("*.md"):
+            if recipe_file.name == "README.md":
+                continue
             content = recipe_file.read_text()
             # Look for timing patterns
             timing_pattern = r'\d+\s*(?:mins?|minutes?|m)'

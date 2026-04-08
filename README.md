@@ -104,6 +104,9 @@ Bachelor-Cookbook/
 │                                       # → Rubbermaid Brilliance recommendations, microwave reheating compatibility
 │
 ├── 03_recipes/                         # Actual recipes - your cookbook
+│   ├── condiments/                     # Sauces & jar fusion (not full meals); see condiments/README.md
+│   │   ├── README.md                   # Index + how to link to condiment docs from elsewhere
+│   │   └── maverick_red_v2.md          # Rao’s + salsa + Frank’s stovetop reduction
 │   ├── chipotle_burrito_bowl.md        # 🎓 INITIATION RECIPE - Master reference & cheat sheet
 │   │                                   # → Most thorough, teaches all fundamentals, visit again & again
 │   ├── chipotle_burrito_bowl_fond_method.md  # Alternative: searing + reduction glaze technique
@@ -276,7 +279,7 @@ When creating recipes, follow these markdown standards for print-readiness:
 
 ### Creating a New Recipe
 
-1. Copy `templates/recipe_template.md` to `03_recipes/[recipe_name].md`
+1. Copy `templates/recipe_template.md` to `03_recipes/[recipe_name].md` (or `03_recipes/condiments/[name].md` for sauces/finishing builds—see `03_recipes/condiments/README.md`)
 2. Fill in the template following the flavor chemistry rules
 3. Reference `01_fundamentals/` for timing and flavor guidance
 4. Test and iterate (document changes in Version History)

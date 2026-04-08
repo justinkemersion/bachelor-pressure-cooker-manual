@@ -54,7 +54,9 @@ def extract_timing_from_recipes():
     if not RECIPES_DIR.exists():
         return timings
     
-    for recipe_file in RECIPES_DIR.glob("*.md"):
+    for recipe_file in RECIPES_DIR.rglob("*.md"):
+        if recipe_file.name == "README.md":
+            continue
         content = recipe_file.read_text()
         # Look for pressure cook timing patterns
         pattern = r'\*\*(\d+)\s*(?:mins?|minutes?|m)\s*(?:HP|High Pressure)?\*\*'
@@ -127,14 +129,18 @@ class TestRecipeFormat:
     
     def test_all_recipes_have_version(self):
         """All recipes should have a version number"""
-        for recipe_file in RECIPES_DIR.glob("*.md"):
+        for recipe_file in RECIPES_DIR.rglob("*.md"):
+            if recipe_file.name == "README.md":
+                continue
             content = recipe_file.read_text()
             assert "Version:" in content or "**Version:**" in content, \
                 f"{recipe_file.name} should have a version number"
     
     def test_all_recipes_have_quick_reference(self):
         """All recipes should have Quick Reference section"""
-        for recipe_file in RECIPES_DIR.glob("*.md"):
+        for recipe_file in RECIPES_DIR.rglob("*.md"):
+            if recipe_file.name == "README.md":
+                continue
             content = recipe_file.read_text()
             # Check for various Quick Reference formats (case-insensitive)
             has_quick_ref = (
@@ -148,7 +154,9 @@ class TestRecipeFormat:
     
     def test_all_recipes_have_chemistry_notes(self):
         """All recipes should have chemistry notes"""
-        for recipe_file in RECIPES_DIR.glob("*.md"):
+        for recipe_file in RECIPES_DIR.rglob("*.md"):
+            if recipe_file.name == "README.md":
+                continue
             content = recipe_file.read_text()
             assert "Chemistry" in content or "🧪" in content, \
                 f"{recipe_file.name} should have Chemistry Notes section"

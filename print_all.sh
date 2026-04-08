@@ -32,15 +32,19 @@ if [ -f "$SCRIPT_DIR/tools/print/compile_print_bundle.py" ]; then
     echo ""
 fi
 
-# Convert each recipe
-for recipe in "$RECIPES_DIR"/*.md; do
-    if [ -f "$recipe" ]; then
-        filename=$(basename "$recipe" .md)
-        output="$PRINT_DIR/${filename}.pdf"
-        echo "Processing: $filename"
-        python3 "$SCRIPT_DIR/tools/print/print_markdown.py" "$recipe" "$output"
+# Convert each recipe (top-level + subfolders like condiments/); skip index READMEs
+while IFS= read -r -d '' recipe; do
+    relp="${recipe#$RECIPES_DIR/}"
+    if [[ "$relp" == */* ]]; then
+        out_base="${relp//\//__}"
+        out_base="${out_base%.md}"
+    else
+        out_base=$(basename "$recipe" .md)
     fi
-done
+    output="$PRINT_DIR/${out_base}.pdf"
+    echo "Processing: $relp -> ${out_base}.pdf"
+    python3 "$SCRIPT_DIR/tools/print/print_markdown.py" "$recipe" "$output"
+done < <(find "$RECIPES_DIR" -type f -name '*.md' ! -name 'README.md' -print0)
 
 echo ""
 echo "✓ All recipes converted to PDF in $PRINT_DIR"

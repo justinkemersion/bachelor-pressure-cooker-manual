@@ -559,6 +559,7 @@ def _bundle_order() -> list[str]:
         "03_recipes/sofritas_protocol.md",
         "03_recipes/simple_rice_bowl.md",
         "03_recipes/beef_tenderloin_steak_dinner.md",
+        "03_recipes/condiments/maverick_red_v2.md",
         # Techniques / Systems
         "02_techniques/core_techniques.md",
         "02_techniques/meal_prep_storage.md",
@@ -605,7 +606,7 @@ def _chapters() -> list[Chapter]:
         Chapter(
             id="03",
             title="Recipes",
-            subtitle="The bowl system. Each recipe teaches one new Lego block.",
+            subtitle="Bowls, mains, and finishing sauces (condiments: 03_recipes/condiments/). Each recipe teaches one new Lego block.",
             rel_paths=[
                 "03_recipes/chipotle_burrito_bowl.md",
                 "03_recipes/chipotle_burrito_bowl_fond_method.md",
@@ -618,6 +619,7 @@ def _chapters() -> list[Chapter]:
                 "03_recipes/sofritas_protocol.md",
                 "03_recipes/simple_rice_bowl.md",
                 "03_recipes/beef_tenderloin_steak_dinner.md",
+                "03_recipes/condiments/maverick_red_v2.md",
             ],
         ),
         Chapter(

@@ -88,7 +88,9 @@ class TestAbbreviations:
     
     def test_recipes_reference_quick_reference(self):
         """Recipes should have Quick Reference section with abbreviations"""
-        for recipe_file in (BASE_DIR / "03_recipes").glob("*.md"):
+        for recipe_file in (BASE_DIR / "03_recipes").rglob("*.md"):
+            if recipe_file.name == "README.md":
+                continue
             content = recipe_file.read_text()
             if "Quick Reference" in content:
                 # Should have at least HP and NR defined
@@ -108,7 +110,9 @@ class TestRecipeStructure:
             "Troubleshooting"
         ]
         
-        for recipe_file in (BASE_DIR / "03_recipes").glob("*.md"):
+        for recipe_file in (BASE_DIR / "03_recipes").rglob("*.md"):
+            if recipe_file.name == "README.md":
+                continue
             content = recipe_file.read_text()
             for section in required_sections:
                 # Allow variations in section names
