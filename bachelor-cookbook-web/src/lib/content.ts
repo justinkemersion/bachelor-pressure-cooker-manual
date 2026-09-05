@@ -2,14 +2,23 @@ import { readdir, readFile, stat } from "fs/promises";
 import path from "path";
 
 /**
- * Loads markdown from ../bachelor-cookbook-book/{01_fundamentals,...} (relative to this package).
- * Local MVP only: that path is outside the deploy bundle on typical hosts.
+ * Markdown book root.
+ *
+ * Resolution order:
+ * 1. `BOOK_ROOT` env (production image sets `/app/bachelor-cookbook-book`)
+ * 2. Sibling checkout `../bachelor-cookbook-book` when cwd is `bachelor-cookbook-web`
+ *
+ * The book is outside this Next package. Local `next dev` uses the monorepo
+ * sibling. The production image COPYs the book to `/app/bachelor-cookbook-book`
+ * so runtime `fs` reads still work after `next build` / standalone output.
  */
-const BOOK_ROOT = path.join(
-  process.cwd(),
-  "..",
-  "bachelor-cookbook-book",
-);
+export function resolveBookRoot(): string {
+  const fromEnv = process.env.BOOK_ROOT?.trim();
+  if (fromEnv) return path.resolve(fromEnv);
+  return path.join(process.cwd(), "..", "bachelor-cookbook-book");
+}
+
+const BOOK_ROOT = resolveBookRoot();
 
 const SECTION_DIRS = [
   { folder: "01_fundamentals", category: "fundamentals" },

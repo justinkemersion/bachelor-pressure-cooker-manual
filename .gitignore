@@ -37,3 +37,10 @@ build/
 venv/
 env/
 ENV/
+
+# Deploy / local secrets (never commit)
+.env
+.env.local
+.env.docker
+deploy/.env.docker
+
