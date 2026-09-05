@@ -14,8 +14,16 @@ import path from "path";
  */
 export function resolveBookRoot(): string {
   const fromEnv = process.env.BOOK_ROOT?.trim();
-  if (fromEnv) return path.resolve(fromEnv);
-  return path.join(process.cwd(), "..", "bachelor-cookbook-book");
+  if (fromEnv) {
+    return path.resolve(/*turbopackIgnore: true*/ fromEnv);
+  }
+  // Sibling monorepo path. Ignore-comment keeps Next's file tracer from
+  // treating the whole repo as a runtime dependency.
+  return path.join(
+    /*turbopackIgnore: true*/ process.cwd(),
+    "..",
+    "bachelor-cookbook-book",
+  );
 }
 
 const BOOK_ROOT = resolveBookRoot();
