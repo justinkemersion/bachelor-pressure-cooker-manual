@@ -1,0 +1,55 @@
+# Bachelor Cookbook at https://bachelor-cookbook.vsl-base.com
+# On the server from /srv/apps/bachelor-cookbook after git pull:
+#   docker compose --env-file .env.docker up --build -d
+#
+# Requires Traefik on external network flux-network (Vessel host).
+# Read-only content image — no Flux env, no Auth.js. Never use .env.local.
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: runner
+      args:
+        NEXT_PUBLIC_APP_NAME: ${NEXT_PUBLIC_APP_NAME:-Bachelor Cookbook}
+        NEXT_PUBLIC_APP_URL: ${NEXT_PUBLIC_APP_URL:-https://bachelor-cookbook.vsl-base.com}
+    image: bachelor-cookbook:latest
+    container_name: bachelor-cookbook-web
+    restart: unless-stopped
+    env_file:
+      - .env.docker
+    environment:
+      NODE_ENV: production
+      BOOK_ROOT: /app/bachelor-cookbook-book
+    networks:
+      - flux-network
+    labels:
+      traefik.enable: "true"
+      traefik.docker.network: flux-network
+      traefik.http.routers.bachelor-cookbook-web.rule: Host(`bachelor-cookbook.vsl-base.com`)
+      traefik.http.routers.bachelor-cookbook-web.entrypoints: websecure
+      traefik.http.routers.bachelor-cookbook-web.tls: "true"
+      traefik.http.routers.bachelor-cookbook-web.tls.certresolver: myresolver
+      traefik.http.routers.bachelor-cookbook-web.service: bachelor-cookbook-web
+
+      traefik.http.routers.bachelor-cookbook-http.rule: Host(`bachelor-cookbook.vsl-base.com`)
+      traefik.http.routers.bachelor-cookbook-http.entrypoints: web
+      traefik.http.routers.bachelor-cookbook-http.service: bachelor-cookbook-web
+
+      traefik.http.services.bachelor-cookbook-web.loadbalancer.server.port: "3000"
+
+    healthcheck:
+      test:
+        - CMD
+        - node
+        - -e
+        - "fetch('http://127.0.0.1:3000/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 25s
+
+networks:
+  flux-network:
+    external: true

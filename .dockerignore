@@ -1,0 +1,24 @@
+# Dependency + build output
+**/node_modules
+**/.next
+**/out
+**/build
+**/coverage
+
+# Git / local artifacts
+.git
+.snapshots
+*.log
+
+# Env files (except examples)
+.env
+.env.*
+!.env.example
+!deploy/env.docker.example
+deploy/.env.docker
+
+# Book print / generated artifacts (markdown source stays)
+bachelor-cookbook-book/print/output
+bachelor-cookbook-book/**/*.pdf
+bachelor-cookbook-book/05_print/*
+!bachelor-cookbook-book/05_print/README.md
